@@ -1,59 +1,61 @@
 {
-    "id": "muamalat-dropshipping",
-    "slug": "dropshipping-e-commerce-halal-haram-urteil",
-    "category": "muamalat",
-    "subcategory": "",
-    "question_de": "Ist Dropshipping (Streckengeschäft) im Islam erlaubt?",
-    "question_ar": "حكم الدروبشيبينغ في الإسلام",
-    "search_aliases": [
-        "Dropshipping Halal",
-        "E-Commerce Islam",
-        "Verkauf was man nicht besitzt",
-        "Dropshipping Haram",
-        "Handel ohne Lager"
-    ],
-    "context_de": "Beim Dropshipping verkauft ein Händler Ware, die er nicht physisch auf Lager hat. Nach einer Bestellung wird die Ware direkt vom Hersteller an den Kunden gesendet.",
-    "positions": [
+  "id": "muamalat-dropshipping",
+  "slug": "dropshipping-e-commerce-halal-haram-urteil",
+  "category": "muamalat",
+  "subcategory": "",
+  "question_de": "Ist Dropshipping (Streckengeschäft) im Islam erlaubt?",
+  "question_ar": "حكم الدروبشيبينغ في الإسلام",
+  "search_aliases": [
+    "Dropshipping Halal",
+    "E-Commerce Islam",
+    "Verkauf was man nicht besitzt",
+    "Dropshipping Haram",
+    "Handel ohne Lager"
+  ],
+  "context_de": "Beim Dropshipping verkauft ein Händler Ware, die er nicht physisch auf Lager hat. Nach einer Bestellung wird die Ware direkt vom Hersteller an den Kunden gesendet.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Verboten – Verkauf von etwas, das man nicht besitzt",
+      "label_ar": "لا يجوز بيع ما لا يملك",
+      "description_de": "Es ist grundsätzlich verboten, Dinge zu verkaufen, die man zum Zeitpunkt des Vertragsabschlusses weder besitzt noch unter Kontrolle hat.",
+      "scholars": [
+        "Mehrheitsmeinung (klassisches Fiqh)"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Verboten – Verkauf von etwas, das man nicht besitzt",
-            "label_ar": "لا يجوز بيع ما لا يملك",
-            "description_de": "Es ist grundsätzlich verboten, Dinge zu verkaufen, die man zum Zeitpunkt des Vertragsabschlusses weder besitzt noch unter Kontrolle hat.",
-            "scholars": [
-                "Mehrheitsmeinung (klassisches Fiqh)"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sunan at-Tirmidhi, Nr. 1232",
-                    "text_ar": "لا تبع ما ليس عندك",
-                    "text_de": "Verkaufe nicht, was du nicht bei dir hast.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "At-Tirmidhi"
-                }
-            ],
-            "historical_context_de": "Dieses Verbot dient dazu, Betrug und Streitigkeiten zu vermeiden, falls die Ware nicht geliefert werden kann."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Erlaubt – Über das Modell 'Salam' oder 'Wakala'",
-            "label_ar": "جائز عبر عقد السلم أو الوكالة",
-            "description_de": "Dropshipping ist erlaubt, wenn es als Vermittlungsgeschäft (Wakala) oder als Salam-Vertrag (Vorausbezahlung für definierte Ware) gestaltet wird.",
-            "scholars": [
-                "Zeitgenössische Gelehrte"
-            ],
-            "explanation_de": "Wenn der Händler klar kommuniziert, dass er als Agent des Herstellers agiert (Wala), oder wenn die Ware so genau spezifiziert ist, dass kein Risiko besteht, sehen moderne Gelehrte darin eine gültige Handelsform, die dem Geist des Salam-Vertrags entspricht."
+          "type": "hadith",
+          "reference": "Sunan at-Tirmidhi, Nr. 1232",
+          "text_ar": "لا تبع ما ليس عندك",
+          "text_de": "Verkaufe nicht, was du nicht bei dir hast.",
+          "hadith_grade": "sahih",
+          "graded_by": "At-Tirmidhi"
         }
-    ],
-    "related_questions": [
-        "muamalat-riba-bankzins",
-        "muamalat-versicherung-islam"
-    ],
-    "sources": [
-        {
-            "title": "Fatawa Zeitgenössischer Gelehrter",
-            "author": "Diverse",
-            "url": "https://islamqa.com"
-        }
-    ]
+      ],
+      "historical_context_de": "Dieses Verbot dient dazu, Betrug und Streitigkeiten zu vermeiden, falls die Ware nicht geliefert werden kann."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Erlaubt – Über das Modell 'Salam' oder 'Wakala'",
+      "label_ar": "جائز عبر عقد السلم أو الوكالة",
+      "description_de": "Dropshipping ist erlaubt, wenn es als Vermittlungsgeschäft (Wakala) oder als Salam-Vertrag (Vorausbezahlung für definierte Ware) gestaltet wird.",
+      "scholars": [
+        "Zeitgenössische Gelehrte"
+      ],
+      "explanation_de": "Wenn der Händler klar kommuniziert, dass er als Agent des Herstellers agiert (Wala), oder wenn die Ware so genau spezifiziert ist, dass kein Risiko besteht, sehen moderne Gelehrte darin eine gültige Handelsform, die dem Geist des Salam-Vertrags entspricht.",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    }
+  ],
+  "related_questions": [
+    "muamalat-riba-bankzins",
+    "muamalat-versicherung-islam"
+  ],
+  "sources": [
+    {
+      "title": "Fatawa Zeitgenössischer Gelehrter",
+      "author": "Diverse",
+      "url": "https://islamqa.com"
+    }
+  ]
 }

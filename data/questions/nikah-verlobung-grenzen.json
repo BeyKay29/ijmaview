@@ -1,82 +1,83 @@
 {
-    "id": "nikah-verlobung-grenzen",
-    "slug": "grenzen-der-verlobung-khitba-islam-urteil",
-    "category": "nikah",
-    "subcategory": "",
-    "question_de": "Was ist während der Verlobungszeit (Khitba) zwischen Mann und Frau erlaubt?",
-    "question_ar": "ضوابط الخطبة وما يباح للخاطب",
-    "search_aliases": [
-        "Verlobung Islam",
-        "Khitba Grenzen",
-        "Händchenhalten Verlobung",
-        "Alleinsein Verlobung",
-        "Treffen Verlobte"
-    ],
-    "context_de": "Die Verlobung (Khitba) ist lediglich ein Heiratsversprechen und noch keine Ehe. Dennoch wird sie oft missverstanden als eine Zeit, in der bereits Freiheiten bestehen.",
-    "positions": [
+  "id": "nikah-verlobung-grenzen",
+  "slug": "grenzen-der-verlobung-khitba-islam-urteil",
+  "category": "nikah",
+  "subcategory": "",
+  "question_de": "Was ist während der Verlobungszeit (Khitba) zwischen Mann und Frau erlaubt?",
+  "question_ar": "ضوابط الخطبة وما يباح للخاطب",
+  "search_aliases": [
+    "Verlobung Islam",
+    "Khitba Grenzen",
+    "Händchenhalten Verlobung",
+    "Alleinsein Verlobung",
+    "Treffen Verlobte"
+  ],
+  "context_de": "Die Verlobung (Khitba) ist lediglich ein Heiratsversprechen und noch keine Ehe. Dennoch wird sie oft missverstanden als eine Zeit, in der bereits Freiheiten bestehen.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Verlobte sind Fremde (Non-Mahram)",
+      "label_ar": "الخاطب أجنبي عن مخطوبته",
+      "description_de": "Bis zum Vollzug des Ehevertrags (Nikah) gelten Verlobte als Fremde. Körperkontakt, Händchenhalten und das Alleinsein in einem Raum (Khalwa) sind verboten.",
+      "scholars": [
+        "abu-hanifa",
+        "malik-ibn-anas",
+        "al-shafii",
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki",
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Verlobte sind Fremde (Non-Mahram)",
-            "label_ar": "الخاطب أجنبي عن مخطوبته",
-            "description_de": "Bis zum Vollzug des Ehevertrags (Nikah) gelten Verlobte als Fremde. Körperkontakt, Händchenhalten und das Alleinsein in einem Raum (Khalwa) sind verboten.",
-            "scholars": [
-                "abu-hanifa",
-                "malik-ibn-anas",
-                "al-shafii",
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "hanafi",
-                "maliki",
-                "shafii",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih al-Bukhari; Sahih Muslim",
-                    "text_ar": "لا يخلون رجل بامرأة إلا مع ذي محرم",
-                    "text_de": "Kein Mann darf mit einer Frau allein sein, außer in Gegenwart eines Mahrams (naher Verwandter).",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Al-Bukhari / Muslim"
-                }
-            ],
-            "historical_context_de": "Die Verlobung dient dem Kennenlernen unter Aufsicht, um die Eignung festzustellen."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Anschauen ist erlaubt und erwünscht",
-            "label_ar": "إباحة النظر للمخطوبة",
-            "description_de": "Es ist dem Verlobten erlaubt, das Gesicht und die Hände der Frau anzuschauen, um eine Zuneigung aufzubauen.",
-            "scholars": [
-                "Mehrheitsmeinung"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sunan at-Tirmidhi, Nr. 1087",
-                    "text_ar": "انظر إليها، فإنه أحرى أن يؤدم بينكما",
-                    "text_de": "Schau sie an, denn das ist eher dazu geeignet, Harmonie zwischen euch zu stiften.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "At-Tirmidhi"
-                }
-            ]
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari; Sahih Muslim",
+          "text_ar": "لا يخلون رجل بامرأة إلا مع ذي محرم",
+          "text_de": "Kein Mann darf mit einer Frau allein sein, außer in Gegenwart eines Mahrams (naher Verwandter).",
+          "hadith_grade": "sahih",
+          "graded_by": "Al-Bukhari / Muslim"
         }
-    ],
-    "related_questions": [
-        "nikah-wali-pflicht",
-        "nikah-mahr-hoehe"
-    ],
-    "sources": [
+      ],
+      "historical_context_de": "Die Verlobung dient dem Kennenlernen unter Aufsicht, um die Eignung festzustellen."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Anschauen ist erlaubt und erwünscht",
+      "label_ar": "إباحة النظر للمخطوبة",
+      "description_de": "Es ist dem Verlobten erlaubt, das Gesicht und die Hände der Frau anzuschauen, um eine Zuneigung aufzubauen.",
+      "scholars": [
+        "Mehrheitsmeinung"
+      ],
+      "evidence_chain": [
         {
-            "title": "Bidayat al-Mujtahid",
-            "author": "Ibn Rushd",
-            "url": "https://shamela.ws/book/22375"
-        },
-        {
-            "title": "Al-Majmu'",
-            "author": "Imam an-Nawawi",
-            "url": "https://shamela.ws/book/384"
+          "type": "hadith",
+          "reference": "Sunan at-Tirmidhi, Nr. 1087",
+          "text_ar": "انظر إليها، فإنه أحرى أن يؤدم بينكما",
+          "text_de": "Schau sie an, denn das ist eher dazu geeignet, Harmonie zwischen euch zu stiften.",
+          "hadith_grade": "sahih",
+          "graded_by": "At-Tirmidhi"
         }
-    ]
+      ],
+      "historical_context_de": ""
+    }
+  ],
+  "related_questions": [
+    "nikah-wali-pflicht",
+    "nikah-mahr-hoehe"
+  ],
+  "sources": [
+    {
+      "title": "Bidayat al-Mujtahid",
+      "author": "Ibn Rushd",
+      "url": "https://shamela.ws/book/22375"
+    },
+    {
+      "title": "Al-Majmu'",
+      "author": "Imam an-Nawawi",
+      "url": "https://shamela.ws/book/384"
+    }
+  ]
 }

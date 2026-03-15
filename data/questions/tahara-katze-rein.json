@@ -1,79 +1,79 @@
 {
-    "id": "tahara-katze-rein",
-    "slug": "katze-rein-unrein-islam",
-    "category": "tahara",
-    "subcategory": "wudu",
-    "question_de": "Ist die Katze im Islam rein? Kann man nach Kontakt mit ihr beten?",
-    "question_ar": "هل القطة طاهرة في الإسلام؟",
-    "search_aliases": [
-        "Katze rein Islam",
-        "Katze unrein",
-        "Katze Wudu",
-        "Katze Gebet",
-        "Katze Islam Haustier",
-        "Katze anfassen beten"
-    ],
-    "context_de": "Viele muslimische Familien halten Katzen als Haustiere. Die Frage nach der Reinheit der Katze betrifft den Alltag direkt – besonders bei der Gebetswaschung und dem Trinken aus dem gleichen Gefäß.",
-    "positions": [
+  "id": "tahara-katze-rein",
+  "slug": "katze-rein-unrein-islam",
+  "category": "tahara",
+  "subcategory": "wudu",
+  "question_de": "Ist die Katze im Islam rein? Kann man nach Kontakt mit ihr beten?",
+  "question_ar": "هل القطة طاهرة في الإسلام؟",
+  "search_aliases": [
+    "Katze rein Islam",
+    "Katze unrein",
+    "Katze Wudu",
+    "Katze Gebet",
+    "Katze Islam Haustier",
+    "Katze anfassen beten"
+  ],
+  "context_de": "Viele muslimische Familien halten Katzen als Haustiere. Die Frage nach der Reinheit der Katze betrifft den Alltag direkt – besonders bei der Gebetswaschung und dem Trinken aus dem gleichen Gefäß.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Die Katze ist rein – Kontakt bricht den Wudu nicht",
+      "label_ar": "القطة طاهرة – لا تنقض الوضوء",
+      "description_de": "Die Katze ist ein reines Tier. Ihr Speichel, ihr Fell und ihr Wasser sind rein. Der Kontakt mit einer Katze hat keine Auswirkung auf den Wudu.",
+      "scholars": [
+        "abu-hanifa",
+        "malik-ibn-anas",
+        "al-shafii",
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki",
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Die Katze ist rein – Kontakt bricht den Wudu nicht",
-            "label_ar": "القطة طاهرة – لا تنقض الوضوء",
-            "description_de": "Die Katze ist ein reines Tier. Ihr Speichel, ihr Fell und ihr Wasser sind rein. Der Kontakt mit einer Katze hat keine Auswirkung auf den Wudu.",
-            "scholars": [
-                "abu-hanifa",
-                "malik-ibn-anas",
-                "al-shafii",
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "hanafi",
-                "maliki",
-                "shafii",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sunan Abu Dawud, Nr. 75; Sunan at-Tirmidhi, Nr. 92",
-                    "text_ar": "إنها ليست بنجس إنها من الطوافين عليكم والطوافات",
-                    "text_de": "Sie (die Katze) ist nicht unrein. Sie gehört zu denen (den Tieren), die bei euch ein- und ausgehen.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "At-Tirmidhi / Al-Albani",
-                    "explanation_de": "Dieser Hadith ist der zentrale Beweis. Der Prophet ﷺ erklärte die Katze ausdrücklich für rein und machte den Grund dafür deutlich: Sie ist ein Tier, das mit den Menschen zusammenlebt und ständig im Haus ein- und ausgeht."
-                },
-                {
-                    "type": "hadith",
-                    "reference": "Al-Muwatta, Kitab at-Tahara",
-                    "text_ar": "أن رسول الله ﷺ أصغى لها الإناء فشربت ثم توضأ بفضلها",
-                    "text_de": "Der Prophet ﷺ neigte ein Gefäß für eine Katze, damit sie daraus trinken konnte, und machte dann mit dem restlichen Wasser Wudu.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Malik ibn Anas",
-                    "explanation_de": "Diese Praxis des Propheten ﷺ zeigt, dass er das Wasser, aus dem eine Katze getrunken hatte, sogar für den Wudu verwendete – ein klarer Beweis für die Reinheit der Katze."
-                }
-            ],
-            "historical_context_de": "Die Reinheit der Katze ist ein Beispiel für einen vollständigen Ijma (Konsens) aller vier Rechtsschulen. Die Katze hat in der islamischen Kultur einen besonderen Stellenwert. Der Gefährte Abu Huraira (r.a.) verdankt seinen Beinamen ('Vater des Kätzchens') seiner Liebe zu Katzen."
-        }
-    ],
-    "related_questions": [
-        "tahara-beruehrung-wudu",
-        "tahara-socken-ueberstreichen"
-    ],
-    "sources": [
-        {
-            "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
-            "author": "Kuwaiti Ministry of Awqaf",
-            "url": "https://islamweb.net"
+          "type": "hadith",
+          "reference": "Sunan Abu Dawud, Nr. 75; Sunan at-Tirmidhi, Nr. 92",
+          "text_ar": "إنها ليست بنجس إنها من الطوافين عليكم والطوافات",
+          "text_de": "Sie (die Katze) ist nicht unrein. Sie gehört zu denen (den Tieren), die bei euch ein- und ausgehen.",
+          "hadith_grade": "sahih",
+          "graded_by": "At-Tirmidhi / Al-Albani",
+          "explanation_de": "Dieser Hadith ist der zentrale Beweis. Der Prophet ﷺ erklärte die Katze ausdrücklich für rein und machte den Grund dafür deutlich: Sie ist ein Tier, das mit den Menschen zusammenlebt und ständig im Haus ein- und ausgeht."
         },
         {
-            "title": "Sunan at-Tirmidhi",
-            "author": "Imam at-Tirmidhi",
-            "url": "https://sunnah.com/tirmidhi"
-        },
-        {
-            "title": "Al-Muwatta",
-            "author": "Imam Malik ibn Anas",
-            "url": "https://sunnah.com/malik"
+          "type": "hadith",
+          "reference": "Al-Muwatta, Kitab at-Tahara",
+          "text_ar": "أن رسول الله ﷺ أصغى لها الإناء فشربت ثم توضأ بفضلها",
+          "text_de": "Der Prophet ﷺ neigte ein Gefäß für eine Katze, damit sie daraus trinken konnte, und machte dann mit dem restlichen Wasser Wudu.",
+          "hadith_grade": "sahih",
+          "graded_by": "Malik ibn Anas",
+          "explanation_de": "Diese Praxis des Propheten ﷺ zeigt, dass er das Wasser, aus dem eine Katze getrunken hatte, sogar für den Wudu verwendete – ein klarer Beweis für die Reinheit der Katze."
         }
-    ]
+      ],
+      "historical_context_de": "Die Reinheit der Katze ist ein Beispiel für einen vollständigen Ijma (Konsens) aller vier Rechtsschulen. Die Katze hat in der islamischen Kultur einen besonderen Stellenwert. Der Gefährte Abu Huraira (r.a.) verdankt seinen Beinamen ('Vater des Kätzchens') seiner Liebe zu Katzen."
+    }
+  ],
+  "related_questions": [
+    "tahara-beruehrung-wudu",
+    "tahara-socken-ueberstreichen"
+  ],
+  "sources": [
+    {
+      "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
+      "author": "Kuwaiti Ministry of Awqaf",
+      "url": "https://islamweb.net"
+    },
+    {
+      "title": "Sunan at-Tirmidhi",
+      "author": "Imam at-Tirmidhi",
+      "url": "https://sunnah.com/tirmidhi"
+    },
+    {
+      "title": "Al-Muwatta",
+      "author": "Imam Malik ibn Anas",
+      "url": "https://sunnah.com/malik"
+    }
+  ]
 }

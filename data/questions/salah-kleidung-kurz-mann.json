@@ -1,75 +1,77 @@
 {
-    "id": "salah-kleidung-mann-knie",
-    "slug": "gebet-kurze-hosen-mann-knie",
-    "category": "salah",
-    "subcategory": "voraussetzungen",
-    "question_de": "Darf ein Mann in kurzen Hosen beten, die die Knie nicht bedecken?",
-    "question_ar": "هل تجوز صلاة الرجل ببنطال قصير فوق الركبة؟",
-    "search_aliases": [
-        "Kurze Hose Gebet",
-        "Mann Knie Gebet",
-        "Aura Mann Gebet",
-        "Beten in Shorts",
-        "Knie bedecken Gebet"
-    ],
-    "context_de": "Die Aura (zu bedeckender Bereich) des Mannes ist beim Gebet und in der Öffentlichkeit ein wichtiges Thema. Gehören die Knie dazu?",
-    "positions": [
+  "id": "salah-kleidung-mann-knie",
+  "slug": "gebet-kurze-hosen-mann-knie",
+  "category": "salah",
+  "subcategory": "voraussetzungen",
+  "question_de": "Darf ein Mann in kurzen Hosen beten, die die Knie nicht bedecken?",
+  "question_ar": "هل تجوز صلاة الرجل ببنطال قصير فوق الركبة؟",
+  "search_aliases": [
+    "Kurze Hose Gebet",
+    "Mann Knie Gebet",
+    "Aura Mann Gebet",
+    "Beten in Shorts",
+    "Knie bedecken Gebet"
+  ],
+  "context_de": "Die Aura (zu bedeckender Bereich) des Mannes ist beim Gebet und in der Öffentlichkeit ein wichtiges Thema. Gehören die Knie dazu?",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Die Knie gehören zur Aura und müssen bedeckt sein",
+      "label_ar": "الركبة من العورة ويجب سترها",
+      "description_de": "Die Aura des Mannes reicht vom Bauchnabel bis einschließlich der Knie. Das Gebet in Hosen, die die Knie freilassen, ist ungültig oder verpönt.",
+      "scholars": [
+        "abu-hanifa",
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "hanafi",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Die Knie gehören zur Aura und müssen bedeckt sein",
-            "label_ar": "الركبة من العورة ويجب سترها",
-            "description_de": "Die Aura des Mannes reicht vom Bauchnabel bis einschließlich der Knie. Das Gebet in Hosen, die die Knie freilassen, ist ungültig oder verpönt.",
-            "scholars": [
-                "abu-hanifa",
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "hanafi",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sunan ad-Daraqutni; Al-Baihaqi",
-                    "text_ar": "الركبة من العورة",
-                    "text_de": "Das Knie gehört zur Aura.",
-                    "hadith_grade": "daif (schwach)",
-                    "graded_by": "Ad-Daraqutni",
-                    "explanation_de": "Hanafiten und Hanbaliten agieren hier vorsichtig (Ihtiyat). Auch wenn die Hadithe einzeln schwach sind, stützen sie sich gegenseitig zu einer Regel."
-                }
-            ],
-            "historical_context_de": "In der hanafitischen Schule ist die Bedeckung des Knies eine Bedingung für die Gültigkeit des Gebets."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Nur Schambereich und Oberschenkel sind Aura (Knie nicht)",
-            "label_ar": "الركبة ليست من العورة",
-            "description_de": "Die Aura ist das, was zwischen Bauchnabel und Knie liegt. Das Knie selbst gehört nicht mehr zur Aura.",
-            "scholars": [
-                "malik-ibn-anas",
-                "al-shafii"
-            ],
-            "madhabs": [
-                "maliki",
-                "shafii"
-            ],
-            "explanation_de": "Malikiten und Schafiiten sehen das Knie als Grenze an. Dennoch ist es aus Respekt vor dem Gebet und um die vollständige Bedeckung des Oberschenkels (der sicher Aura ist) zu gewährleisten, empfohlen, die Knie zu bedecken."
+          "type": "hadith",
+          "reference": "Sunan ad-Daraqutni; Al-Baihaqi",
+          "text_ar": "الركبة من العورة",
+          "text_de": "Das Knie gehört zur Aura.",
+          "hadith_grade": "daif (schwach)",
+          "graded_by": "Ad-Daraqutni",
+          "explanation_de": "Hanafiten und Hanbaliten agieren hier vorsichtig (Ihtiyat). Auch wenn die Hadithe einzeln schwach sind, stützen sie sich gegenseitig zu einer Regel."
         }
-    ],
-    "related_questions": [
-        "nikah-kopftuch-pflicht",
-        "salah-haende-binden"
-    ],
-    "sources": [
-        {
-            "title": "Al-Majmu'",
-            "author": "Imam an-Nawawi",
-            "url": "https://shamela.ws/book/384"
-        },
-        {
-            "title": "Al-Hidaya",
-            "author": "Al-Marghinani",
-            "url": "https://shamela.ws/book/913"
-        }
-    ]
+      ],
+      "historical_context_de": "In der hanafitischen Schule ist die Bedeckung des Knies eine Bedingung für die Gültigkeit des Gebets."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Nur Schambereich und Oberschenkel sind Aura (Knie nicht)",
+      "label_ar": "الركبة ليست من العورة",
+      "description_de": "Die Aura ist das, was zwischen Bauchnabel und Knie liegt. Das Knie selbst gehört nicht mehr zur Aura.",
+      "scholars": [
+        "malik-ibn-anas",
+        "al-shafii"
+      ],
+      "madhabs": [
+        "maliki",
+        "shafii"
+      ],
+      "explanation_de": "Malikiten und Schafiiten sehen das Knie als Grenze an. Dennoch ist es aus Respekt vor dem Gebet und um die vollständige Bedeckung des Oberschenkels (der sicher Aura ist) zu gewährleisten, empfohlen, die Knie zu bedecken.",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    }
+  ],
+  "related_questions": [
+    "nikah-kopftuch-pflicht",
+    "salah-haende-binden"
+  ],
+  "sources": [
+    {
+      "title": "Al-Majmu'",
+      "author": "Imam an-Nawawi",
+      "url": "https://shamela.ws/book/384"
+    },
+    {
+      "title": "Al-Hidaya",
+      "author": "Al-Marghinani",
+      "url": "https://shamela.ws/book/913"
+    }
+  ]
 }

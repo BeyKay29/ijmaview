@@ -1,65 +1,67 @@
 {
-    "id": "muamalat-plastische-chirurgie",
-    "slug": "schoenheits-op-nase-brust-botox-islam-urteil",
-    "category": "muamalat",
-    "subcategory": "",
-    "question_de": "Sind Schönheitsoperationen (Nasenkorrektur, Botox, etc.) im Islam erlaubt?",
-    "question_ar": "حكم عمليات التجميل في الإسلام",
-    "search_aliases": [
-        "Schönheits OP Islam",
-        "Nase korrigieren Halal",
-        "Botox Haram",
-        "Plastische Chirurgie Islam",
-        "Verschönerung Islam"
-    ],
-    "context_de": "Moderne Chirurgie ermöglicht es, das Aussehen fast beliebig zu verändern. Der Islam unterscheidet hier strikt zwischen Korrektur von Mängeln und reiner Eitelkeit.",
-    "positions": [
+  "id": "muamalat-plastische-chirurgie",
+  "slug": "schoenheits-op-nase-brust-botox-islam-urteil",
+  "category": "muamalat",
+  "subcategory": "",
+  "question_de": "Sind Schönheitsoperationen (Nasenkorrektur, Botox, etc.) im Islam erlaubt?",
+  "question_ar": "حكم عمليات التجميل في الإسلام",
+  "search_aliases": [
+    "Schönheits OP Islam",
+    "Nase korrigieren Halal",
+    "Botox Haram",
+    "Plastische Chirurgie Islam",
+    "Verschönerung Islam"
+  ],
+  "context_de": "Moderne Chirurgie ermöglicht es, das Aussehen fast beliebig zu verändern. Der Islam unterscheidet hier strikt zwischen Korrektur von Mängeln und reiner Eitelkeit.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Rekonstruktive Chirurgie ist erlaubt (Halal)",
+      "label_ar": "التجميل الحاجي أو العلاجي",
+      "description_de": "Eingriffe zur Korrektur von Geburtsfehlern (Lippenspalte), Unfallfolgen (Verbrennungen) oder massiven psychischen Belastungen durch Deformitäten sind erlaubt.",
+      "scholars": [
+        "Mehrheitsmeinung"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Rekonstruktive Chirurgie ist erlaubt (Halal)",
-            "label_ar": "التجميل الحاجي أو العلاجي",
-            "description_de": "Eingriffe zur Korrektur von Geburtsfehlern (Lippenspalte), Unfallfolgen (Verbrennungen) oder massiven psychischen Belastungen durch Deformitäten sind erlaubt.",
-            "scholars": [
-                "Mehrheitsmeinung"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sunan Abu Dawud, Nr. 4232",
-                    "text_de": "Ein Gefährte (Arfajah) verlor seine Nase im Krieg. Der Prophet ﷺ erlaubte ihm, sich eine Nase aus Gold anfertigen zu lassen.",
-                    "explanation_de": "Dies dient als Basis für die Erlaubtheit der Wiederherstellung der ursprünglichen Form."
-                }
-            ]
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Reine Verschönerung ohne Mangel ist verboten (Haram)",
-            "label_ar": "التجميل التحسيني وتغيير خلق الله",
-            "description_de": "Eingriffe, die nur dazu dienen, ‚schöner' auszusehen (z.B. Lippen aufspritzen, Botox bei kleinen Falten, Fettabsaugung ohne medizinischen Grund), gelten als Verändern der Schöpfung Allahs.",
-            "scholars": [
-                "al-shafii",
-                "an-nawawi",
-                "Fatawa-Gremien"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "quran",
-                    "reference": "Sure 4:119 (An-Nisa)",
-                    "text_de": "Satan sagte: ‚... und ich werde ihnen befehlen, und sie werden die Schöpfung Allahs verändern.'",
-                    "explanation_de": "Das unnötige Verändern der natürlichen Form wird als Satanswerk betrachtet."
-                }
-            ]
+          "type": "hadith",
+          "reference": "Sunan Abu Dawud, Nr. 4232",
+          "text_de": "Ein Gefährte (Arfajah) verlor seine Nase im Krieg. Der Prophet ﷺ erlaubte ihm, sich eine Nase aus Gold anfertigen zu lassen.",
+          "explanation_de": "Dies dient als Basis für die Erlaubtheit der Wiederherstellung der ursprünglichen Form."
         }
-    ],
-    "related_questions": [
-        "muamalat-tattoos",
-        "muamalat-schminke-oeffentlichkeit"
-    ],
-    "sources": [
+      ],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Reine Verschönerung ohne Mangel ist verboten (Haram)",
+      "label_ar": "التجميل التحسيني وتغيير خلق الله",
+      "description_de": "Eingriffe, die nur dazu dienen, ‚schöner' auszusehen (z.B. Lippen aufspritzen, Botox bei kleinen Falten, Fettabsaugung ohne medizinischen Grund), gelten als Verändern der Schöpfung Allahs.",
+      "scholars": [
+        "al-shafii",
+        "an-nawawi",
+        "Fatawa-Gremien"
+      ],
+      "evidence_chain": [
         {
-            "title": "International Fiqh Academy Journal",
-            "author": "IFA",
-            "url": "https://iifa-aifi.org"
+          "type": "quran",
+          "reference": "Sure 4:119 (An-Nisa)",
+          "text_de": "Satan sagte: ‚... und ich werde ihnen befehlen, und sie werden die Schöpfung Allahs verändern.'",
+          "explanation_de": "Das unnötige Verändern der natürlichen Form wird als Satanswerk betrachtet."
         }
-    ]
+      ],
+      "historical_context_de": ""
+    }
+  ],
+  "related_questions": [
+    "muamalat-tattoos",
+    "muamalat-schminke-oeffentlichkeit"
+  ],
+  "sources": [
+    {
+      "title": "International Fiqh Academy Journal",
+      "author": "IFA",
+      "url": "https://iifa-aifi.org"
+    }
+  ]
 }

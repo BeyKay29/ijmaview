@@ -1,81 +1,83 @@
 {
-    "id": "muamalat-meeresfruechte-hanafi",
-    "slug": "meeresfruechte-garnelen-tintenfisch-halal-haram",
-    "category": "muamalat",
-    "subcategory": "",
-    "question_de": "Sind Meeresfrüchte wie Garnelen, Tintenfisch oder Muscheln Halal?",
-    "question_ar": "حكم أكل الروبيان والمأكولات البحرية غير السمك",
-    "search_aliases": [
-        "Garnelen Halal",
-        "Tintenfisch Haram",
-        "Meeresfrüchte Islam",
-        "Hanafi Garnelen",
-        "Muscheln Halal"
-    ],
-    "context_de": "In der Frage der Meeresfrüchte gibt es eine markante Meinungsverschiedenheit zwischen der hanafitischen Schule und den anderen drei Rechtsschulen.",
-    "positions": [
+  "id": "muamalat-meeresfruechte-hanafi",
+  "slug": "meeresfruechte-garnelen-tintenfisch-halal-haram",
+  "category": "muamalat",
+  "subcategory": "",
+  "question_de": "Sind Meeresfrüchte wie Garnelen, Tintenfisch oder Muscheln Halal?",
+  "question_ar": "حكم أكل الروبيان والمأكولات البحرية غير السمك",
+  "search_aliases": [
+    "Garnelen Halal",
+    "Tintenfisch Haram",
+    "Meeresfrüchte Islam",
+    "Hanafi Garnelen",
+    "Muscheln Halal"
+  ],
+  "context_de": "In der Frage der Meeresfrüchte gibt es eine markante Meinungsverschiedenheit zwischen der hanafitischen Schule und den anderen drei Rechtsschulen.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Nur Fische sind erlaubt",
+      "label_ar": "لا يحل من حيوان البحر إلا السمك",
+      "description_de": "Aus dem Meer darf nur das gegessen werden, was als 'Samak' (Fisch) definiert ist. Meeresfrüchte (Garnelen, Krebse, Muscheln, Tintenfische) sind verboten oder verpönt.",
+      "scholars": [
+        "abu-hanifa"
+      ],
+      "madhabs": [
+        "hanafi"
+      ],
+      "explanation_de": "Die Hanafiten interpretieren das Wort 'Fisch' streng. Alles, was keine Schuppen/Flossen hat oder nicht eindeutig als Fisch erkennbar ist (wie Krebstiere), gilt als 'unrein' (Khaba'ith).",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Alles aus dem Meer ist erlaubt (Mehrheit)",
+      "label_ar": "كل ما في البحر حلال",
+      "description_de": "Alles, was im Meer lebt, ist grundsätzlich Halal, egal ob Fisch, Krustentier oder Weichtier.",
+      "scholars": [
+        "malik-ibn-anas",
+        "al-shafii",
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "maliki",
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Nur Fische sind erlaubt",
-            "label_ar": "لا يحل من حيوان البحر إلا السمك",
-            "description_de": "Aus dem Meer darf nur das gegessen werden, was als 'Samak' (Fisch) definiert ist. Meeresfrüchte (Garnelen, Krebse, Muscheln, Tintenfische) sind verboten oder verpönt.",
-            "scholars": [
-                "abu-hanifa"
-            ],
-            "madhabs": [
-                "hanafi"
-            ],
-            "explanation_de": "Die Hanafiten interpretieren das Wort 'Fisch' streng. Alles, was keine Schuppen/Flossen hat oder nicht eindeutig als Fisch erkennbar ist (wie Krebstiere), gilt als 'unrein' (Khaba'ith)."
+          "type": "quran",
+          "reference": "Sure 5:96 (Al-Ma'ida)",
+          "text_ar": "أُحِلَّ لَكُمْ صَيْدُ الْبَحْرِ وَطَعَامُهُ مَتَاعًا لَّكُمْ",
+          "text_de": "Erlaubt ist euch der Fang des Meeres und seine Speise als Genuss für euch.",
+          "explanation_de": "Die Mehrheit nutzt diesen allgemeinen Vers als Beweis für die pauschale Erlaubnis aller Meerestiere."
         },
         {
-            "id": "pos-2",
-            "label_de": "Alles aus dem Meer ist erlaubt (Mehrheit)",
-            "label_ar": "كل ما في البحر حلال",
-            "description_de": "Alles, was im Meer lebt, ist grundsätzlich Halal, egal ob Fisch, Krustentier oder Weichtier.",
-            "scholars": [
-                "malik-ibn-anas",
-                "al-shafii",
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "maliki",
-                "shafii",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "quran",
-                    "reference": "Sure 5:96 (Al-Ma'ida)",
-                    "text_ar": "أُحِلَّ لَكُمْ صَيْدُ الْبَحْرِ وَطَعَامُهُ مَتَاعًا لَّكُمْ",
-                    "text_de": "Erlaubt ist euch der Fang des Meeres und seine Speise als Genuss für euch.",
-                    "explanation_de": "Die Mehrheit nutzt diesen allgemeinen Vers als Beweis für die pauschale Erlaubnis aller Meerestiere."
-                },
-                {
-                    "type": "hadith",
-                    "reference": "Sunan at-Tirmidhi; Abu Dawud",
-                    "text_ar": "هو الطهور ماؤه، الحل ميتته",
-                    "text_de": "Sein (des Meeres) Wasser ist reinigend und seine verendeten Tiere sind Halal.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "At-Tirmidhi"
-                }
-            ],
-            "historical_context_de": "Diese Meinungsverschiedenheit führt dazu, dass in hanafitisch geprägten Regionen (wie der Türkei oder Pakistan) Garnelen oft vermieden werden, während sie in arabischen Ländern (oft malikitisch/schafiitisch) Grundnahrungsmittel sind."
+          "type": "hadith",
+          "reference": "Sunan at-Tirmidhi; Abu Dawud",
+          "text_ar": "هو الطهور ماؤه، الحل ميتته",
+          "text_de": "Sein (des Meeres) Wasser ist reinigend und seine verendeten Tiere sind Halal.",
+          "hadith_grade": "sahih",
+          "graded_by": "At-Tirmidhi"
         }
-    ],
-    "related_questions": [
-        "muamalat-alkohol-kochen",
-        "muamalat-gelatine-schwein"
-    ],
-    "sources": [
-        {
-            "title": "Bidayat al-Mujtahid",
-            "author": "Ibn Rushd",
-            "url": "https://shamela.ws/book/22375"
-        },
-        {
-            "title": "Al-Hidaya",
-            "author": "Al-Marghinani",
-            "url": "https://shamela.ws/book/913"
-        }
-    ]
+      ],
+      "historical_context_de": "Diese Meinungsverschiedenheit führt dazu, dass in hanafitisch geprägten Regionen (wie der Türkei oder Pakistan) Garnelen oft vermieden werden, während sie in arabischen Ländern (oft malikitisch/schafiitisch) Grundnahrungsmittel sind."
+    }
+  ],
+  "related_questions": [
+    "muamalat-alkohol-kochen",
+    "muamalat-gelatine-schwein"
+  ],
+  "sources": [
+    {
+      "title": "Bidayat al-Mujtahid",
+      "author": "Ibn Rushd",
+      "url": "https://shamela.ws/book/22375"
+    },
+    {
+      "title": "Al-Hidaya",
+      "author": "Al-Marghinani",
+      "url": "https://shamela.ws/book/913"
+    }
+  ]
 }

@@ -1,80 +1,84 @@
 {
-    "id": "hajj-frauen-mahram",
-    "slug": "hajj-umra-frauen-ohne-mahram-pflicht-urteil",
-    "category": "hajj",
-    "subcategory": "",
-    "question_de": "Darf eine Frau die Hajj oder Umra ohne einen Mahram (männlichen Begleiter) verrichten?",
-    "question_ar": "حكم سفر المرأة للحج بدون محرم",
-    "search_aliases": [
-        "Hajj ohne Mahram",
-        "Frau Hajj allein",
-        "Umra ohne Mann",
-        "Mahram Pflicht Hajj",
-        "Frauengruppe Hajj"
-    ],
-    "context_de": "Die Reise zur Hajj ist für viele Frauen ein Herzenswunsch. Traditionell galt die Begleitung durch einen Mahram als Bedingung. Moderne Reisemöglichkeiten haben diese Debatte neu entfacht.",
-    "positions": [
+  "id": "hajj-frauen-mahram",
+  "slug": "hajj-umra-frauen-ohne-mahram-pflicht-urteil",
+  "category": "hajj",
+  "subcategory": "",
+  "question_de": "Darf eine Frau die Hajj oder Umra ohne einen Mahram (männlichen Begleiter) verrichten?",
+  "question_ar": "حكم سفر المرأة للحج بدون محرم",
+  "search_aliases": [
+    "Hajj ohne Mahram",
+    "Frau Hajj allein",
+    "Umra ohne Mann",
+    "Mahram Pflicht Hajj",
+    "Frauengruppe Hajj"
+  ],
+  "context_de": "Die Reise zur Hajj ist für viele Frauen ein Herzenswunsch. Traditionell galt die Begleitung durch einen Mahram als Bedingung. Moderne Reisemöglichkeiten haben diese Debatte neu entfacht.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Mahram ist zwingende Bedingung",
+      "label_ar": "المحرم شرط لوجوب الحج",
+      "description_de": "Eine Frau darf nicht ohne Mahram reisen, auch nicht zur Hajj. Wenn sie keinen Mahram hat, ist die Hajj für sie (noch) keine Pflicht.",
+      "scholars": [
+        "abu-hanifa",
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "hanafi",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Mahram ist zwingende Bedingung",
-            "label_ar": "المحرم شرط لوجوب الحج",
-            "description_de": "Eine Frau darf nicht ohne Mahram reisen, auch nicht zur Hajj. Wenn sie keinen Mahram hat, ist die Hajj für sie (noch) keine Pflicht.",
-            "scholars": [
-                "abu-hanifa",
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "hanafi",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih al-Bukhari; Sahih Muslim",
-                    "text_ar": "لا تسافر المرأة إلا مع ذي محرم",
-                    "text_de": "Eine Frau soll nicht reisen, außer mit einem Mahram.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Al-Bukhari / Muslim"
-                }
-            ]
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Reise in einer vertrauenswürdigen Gruppe erlaubt",
-            "label_ar": "جواز السفر مع الرفقة الآمنة",
-            "description_de": "Wenn die Reise sicher ist und in einer Gruppe von vertrauenswürdigen Frauen oder Paaren erfolgt, darf die Frau auch ohne Mahram zur Pflicht-Hajj reisen.",
-            "scholars": [
-                "malik-ibn-anas",
-                "al-shafii"
-            ],
-            "madhabs": [
-                "maliki",
-                "shafii"
-            ],
-            "explanation_de": "Diese Schulen argumentieren, dass der Zweck des Mahram der Schutz der Frau ist. Ist dieser Schutz durch eine sichere Gruppe gewährleistet, entfällt die strikte Bedingung des einzelnen Mahrams für die Pflicht-Hajj."
-        },
-        {
-            "id": "pos-3",
-            "label_de": "Moderne Regelung (Saudi-Arabien)",
-            "label_ar": "التنظيم المعاصر",
-            "description_de": "Seit kurzem erlaubt Saudi-Arabien Frauen ab einem bestimmten Alter die Einreise zur Umra und Hajj ohne Mahram, basierend auf modernen Sicherheitsstandards.",
-            "historical_context_de": "Dies folgt der malikitischen/schafiitischen Ansicht der ‚sicheren Begleitung' (Rafqa Amina)."
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari; Sahih Muslim",
+          "text_ar": "لا تسافر المرأة إلا مع ذي محرم",
+          "text_de": "Eine Frau soll nicht reisen, außer mit einem Mahram.",
+          "hadith_grade": "sahih",
+          "graded_by": "Al-Bukhari / Muslim"
         }
-    ],
-    "related_questions": [
-        "hajj-umra-pflicht",
-        "nikah-wali-pflicht"
-    ],
-    "sources": [
-        {
-            "title": "Al-Majmu'",
-            "author": "Imam an-Nawawi",
-            "url": "https://shamela.ws/book/384"
-        },
-        {
-            "title": "Bidayat al-Mujtahid",
-            "author": "Ibn Rushd",
-            "url": "https://shamela.ws/book/22375"
-        }
-    ]
+      ],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Reise in einer vertrauenswürdigen Gruppe erlaubt",
+      "label_ar": "جواز السفر مع الرفقة الآمنة",
+      "description_de": "Wenn die Reise sicher ist und in einer Gruppe von vertrauenswürdigen Frauen oder Paaren erfolgt, darf die Frau auch ohne Mahram zur Pflicht-Hajj reisen.",
+      "scholars": [
+        "malik-ibn-anas",
+        "al-shafii"
+      ],
+      "madhabs": [
+        "maliki",
+        "shafii"
+      ],
+      "explanation_de": "Diese Schulen argumentieren, dass der Zweck des Mahram der Schutz der Frau ist. Ist dieser Schutz durch eine sichere Gruppe gewährleistet, entfällt die strikte Bedingung des einzelnen Mahrams für die Pflicht-Hajj.",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-3",
+      "label_de": "Moderne Regelung (Saudi-Arabien)",
+      "label_ar": "التنظيم المعاصر",
+      "description_de": "Seit kurzem erlaubt Saudi-Arabien Frauen ab einem bestimmten Alter die Einreise zur Umra und Hajj ohne Mahram, basierend auf modernen Sicherheitsstandards.",
+      "historical_context_de": "Dies folgt der malikitischen/schafiitischen Ansicht der ‚sicheren Begleitung' (Rafqa Amina).",
+      "evidence_chain": []
+    }
+  ],
+  "related_questions": [
+    "hajj-umra-pflicht",
+    "nikah-wali-pflicht"
+  ],
+  "sources": [
+    {
+      "title": "Al-Majmu'",
+      "author": "Imam an-Nawawi",
+      "url": "https://shamela.ws/book/384"
+    },
+    {
+      "title": "Bidayat al-Mujtahid",
+      "author": "Ibn Rushd",
+      "url": "https://shamela.ws/book/22375"
+    }
+  ]
 }

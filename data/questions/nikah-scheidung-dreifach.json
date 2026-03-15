@@ -1,94 +1,94 @@
 {
-    "id": "nikah-scheidung-dreifach",
-    "slug": "dreifach-scheidung-ein-sitzung",
-    "category": "nikah",
-    "subcategory": "",
-    "question_de": "Zählen drei Scheidungsaussprüche in einer Sitzung als eine oder drei Scheidungen?",
-    "question_ar": "حكم الطلاق الثلاث بكلمة واحدة",
-    "search_aliases": [
-        "Dreifach Scheidung",
-        "Talaq talaq talaq",
-        "Scheidung ein Sitzung",
-        "Talaq Dreifach",
-        "Endgültige Scheidung"
-    ],
-    "context_de": "Wenn ein Ehemann 'Ich scheide mich dreimal von dir' oder 'Talaq' dreimal hintereinander sagt, hat dies weitreichende Folgen: Bei drei Scheidungen ist eine Rückkehr ohne Zwischenehe nicht mehr möglich.",
-    "positions": [
+  "id": "nikah-scheidung-dreifach",
+  "slug": "dreifach-scheidung-ein-sitzung",
+  "category": "nikah",
+  "subcategory": "",
+  "question_de": "Zählen drei Scheidungsaussprüche in einer Sitzung als eine oder drei Scheidungen?",
+  "question_ar": "حكم الطلاق الثلاث بكلمة واحدة",
+  "search_aliases": [
+    "Dreifach Scheidung",
+    "Talaq talaq talaq",
+    "Scheidung ein Sitzung",
+    "Talaq Dreifach",
+    "Endgültige Scheidung"
+  ],
+  "context_de": "Wenn ein Ehemann 'Ich scheide mich dreimal von dir' oder 'Talaq' dreimal hintereinander sagt, hat dies weitreichende Folgen: Bei drei Scheidungen ist eine Rückkehr ohne Zwischenehe nicht mehr möglich.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Es zählt als DREI Scheidungen (Endgültig)",
+      "label_ar": "يقع ثلاثاً",
+      "description_de": "Wer drei Scheidungen in einer Sitzung ausspricht, hat die Ehe damit endgültig beendet. Eine Versöhnung während der Wartezeit ist nicht mehr möglich.",
+      "scholars": [
+        "abu-hanifa",
+        "malik-ibn-anas",
+        "al-shafii",
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki",
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Es zählt als DREI Scheidungen (Endgültig)",
-            "label_ar": "يقع ثلاثاً",
-            "description_de": "Wer drei Scheidungen in einer Sitzung ausspricht, hat die Ehe damit endgültig beendet. Eine Versöhnung während der Wartezeit ist nicht mehr möglich.",
-            "scholars": [
-                "abu-hanifa",
-                "malik-ibn-anas",
-                "al-shafii",
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "hanafi",
-                "maliki",
-                "shafii",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih Muslim, Nr. 1472 (Praxis unter Umar)",
-                    "text_ar": "كان الطلاق الثلاث... فلما كان زمان عمر قال: إن الناس قد استعجلوا في أمر كانت لهم فيه أناة، فلو أمضيناه عليهم. فأمضاه عليهم",
-                    "text_de": "Die dreifache Scheidung galt (als eins)... Aber zur Zeit von Umar sagte er: ‚Die Menschen eilen in einer Sache, in der sie Geduld haben sollten. Lasst es uns gegen sie vollstrecken.' Und er vollstreckte es gegen sie.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Muslim ibn al-Hajjaj",
-                    "explanation_de": "Die vier Rechtsschulen folgen der Anordnung von Umar ibn al-Khattab (r.a.) und dem Konsens der Gefährten seiner Zeit. Dies sollte als Abschreckung dienen, damit Männer das Recht der Scheidung nicht missbrauchen."
-                }
-            ],
-            "historical_context_de": "Dies ist die offizielle Position der vier Rechtsschulen seit über tausend Jahren, obwohl sie als ‚bid'i' (uerungemäß) gilt, da der richtige Weg die Scheidung über drei Monate verteilt wäre."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Es zählt als EINE Scheidung",
-            "label_ar": "يقع واحدة",
-            "description_de": "Egal wie oft das Wort in einer Sitzung wiederholt wird, es zählt nur als eine einzige Scheidung.",
-            "scholars": [
-                "ibn-taymiyya",
-                "ibn-qayyim"
-            ],
-            "madhabs": [
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih Muslim, Nr. 1472 (Anfang des Hadith)",
-                    "text_ar": "كان الطلاق الثلاث على عهد رسول الله ﷺ وأبي بكر وسنتين من خلافة عمر طلاق واحدة",
-                    "text_de": "Zur Zeit des Propheten ﷺ, Abu Bakrs und der ersten zwei Jahre Umars galt die dreifache Scheidung als eine (einzige) Scheidung.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Muslim ibn al-Hajjaj",
-                    "explanation_de": "Ibn Taymiyya argumentiert, dass die ursprüngliche Sunna weitreichender ist als die administrative Maßnahme Umars. Ein Vertrag kann nicht dreimal gleichzeitig gebrochen werden, wenn er nur einmal existiert."
-                }
-            ],
-            "historical_context_de": "Ibn Taymiyya wurde für diese Rechtsmeinung, die dem etablierten Konsens seiner Zeit widersprach, inhaftiert. Heute folgen jedoch viele moderne Gesetzgebungen in muslimischen Ländern (wie Ägypten) seiner Ansicht, um Familien vor überstürzten Trennungen zu schützen."
+          "type": "hadith",
+          "reference": "Sahih Muslim, Nr. 1472 (Praxis unter Umar)",
+          "text_ar": "كان الطلاق الثلاث... فلما كان زمان عمر قال: إن الناس قد استعجلوا في أمر كانت لهم فيه أناة، فلو أمضيناه عليهم. فأمضاه عليهم",
+          "text_de": "Die dreifache Scheidung galt (als eins)... Aber zur Zeit von Umar sagte er: ‚Die Menschen eilen in einer Sache, in der sie Geduld haben sollten. Lasst es uns gegen sie vollstrecken.' Und er vollstreckte es gegen sie.",
+          "hadith_grade": "sahih",
+          "graded_by": "Muslim ibn al-Hajjaj",
+          "explanation_de": "Die vier Rechtsschulen folgen der Anordnung von Umar ibn al-Khattab (r.a.) und dem Konsens der Gefährten seiner Zeit. Dies sollte als Abschreckung dienen, damit Männer das Recht der Scheidung nicht missbrauchen."
         }
-    ],
-    "related_questions": [
-        "nikah-wali-pflicht",
-        "nikah-mahr-hoehe"
-    ],
-    "sources": [
+      ],
+      "historical_context_de": "Dies ist die offizielle Position der vier Rechtsschulen seit über tausend Jahren, obwohl sie als ‚bid'i' (uerungemäß) gilt, da der richtige Weg die Scheidung über drei Monate verteilt wäre."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Es zählt als EINE Scheidung",
+      "label_ar": "يقع واحدة",
+      "description_de": "Egal wie oft das Wort in einer Sitzung wiederholt wird, es zählt nur als eine einzige Scheidung.",
+      "scholars": [
+        "ibn-taymiyya",
+        "ibn-qayyim"
+      ],
+      "madhabs": [
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "title": "Sahih Muslim",
-            "author": "Muslim ibn al-Hajjaj",
-            "url": "https://sunnah.com/muslim"
-        },
-        {
-            "title": "Majmu' al-Fatawa",
-            "author": "Ibn Taymiyya",
-            "url": "https://shamela.ws/book/505"
-        },
-        {
-            "title": "Zad al-Ma'ad",
-            "author": "Ibn Qayyim al-Jauziyya",
-            "url": "https://shamela.ws/book/12836"
+          "type": "hadith",
+          "reference": "Sahih Muslim, Nr. 1472 (Anfang des Hadith)",
+          "text_ar": "كان الطلاق الثلاث على عهد رسول الله ﷺ وأبي بكر وسنتين من خلافة عمر طلاق واحدة",
+          "text_de": "Zur Zeit des Propheten ﷺ, Abu Bakrs und der ersten zwei Jahre Umars galt die dreifache Scheidung als eine (einzige) Scheidung.",
+          "hadith_grade": "sahih",
+          "graded_by": "Muslim ibn al-Hajjaj",
+          "explanation_de": "Ibn Taymiyya argumentiert, dass die ursprüngliche Sunna weitreichender ist als die administrative Maßnahme Umars. Ein Vertrag kann nicht dreimal gleichzeitig gebrochen werden, wenn er nur einmal existiert."
         }
-    ]
+      ],
+      "historical_context_de": "Ibn Taymiyya wurde für diese Rechtsmeinung, die dem etablierten Konsens seiner Zeit widersprach, inhaftiert. Heute folgen jedoch viele moderne Gesetzgebungen in muslimischen Ländern (wie Ägypten) seiner Ansicht, um Familien vor überstürzten Trennungen zu schützen."
+    }
+  ],
+  "related_questions": [
+    "nikah-wali-pflicht",
+    "nikah-mahr-hoehe"
+  ],
+  "sources": [
+    {
+      "title": "Sahih Muslim",
+      "author": "Muslim ibn al-Hajjaj",
+      "url": "https://sunnah.com/muslim"
+    },
+    {
+      "title": "Majmu' al-Fatawa",
+      "author": "Ibn Taymiyya",
+      "url": "https://shamela.ws/book/505"
+    },
+    {
+      "title": "Zad al-Ma'ad",
+      "author": "Ibn Qayyim al-Jauziyya",
+      "url": "https://shamela.ws/book/12836"
+    }
+  ]
 }

@@ -1,91 +1,91 @@
 {
-    "id": "tahara-alkohol-parfuem",
-    "slug": "alkohol-parfuem-reinheit-islam",
-    "category": "tahara",
-    "subcategory": "voraussetzungen",
-    "question_de": "Darf man Parfüm mit Alkohol verwenden? Ist dieser Alkohol unrein (najis)?",
-    "question_ar": "هل الكحول في العطور نجس؟ وهل يجوز استخدامه؟",
-    "search_aliases": [
-        "Alkohol Parfüm",
-        "Parfüm mit Alkohol",
-        "Najis Alkohol",
-        "Duftwasser Alkohol",
-        "Alkohol Kleidung Gebet"
-    ],
-    "context_de": "Die Verwendung von Parfüm, das denaturierten Alkohol enthält, ist eine alltägliche Frage für Muslime. Dabei geht es um die Unterscheidung zwischen berauschendem Alkohol zum Trinken und chemischem Alkohol in Kosmetika.",
-    "positions": [
+  "id": "tahara-alkohol-parfuem",
+  "slug": "alkohol-parfuem-reinheit-islam",
+  "category": "tahara",
+  "subcategory": "voraussetzungen",
+  "question_de": "Darf man Parfüm mit Alkohol verwenden? Ist dieser Alkohol unrein (najis)?",
+  "question_ar": "هل الكحول في العطور نجس؟ وهل يجوز استخدامه؟",
+  "search_aliases": [
+    "Alkohol Parfüm",
+    "Parfüm mit Alkohol",
+    "Najis Alkohol",
+    "Duftwasser Alkohol",
+    "Alkohol Kleidung Gebet"
+  ],
+  "context_de": "Die Verwendung von Parfüm, das denaturierten Alkohol enthält, ist eine alltägliche Frage für Muslime. Dabei geht es um die Unterscheidung zwischen berauschendem Alkohol zum Trinken und chemischem Alkohol in Kosmetika.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Alkohol ist substanziell unrein (Najis) – Parfüm ist unrein",
+      "label_ar": "الخمر نجاسة حسية – العطور المحتوية عليه نجسة",
+      "description_de": "Da Alkohol (Khamr) im Quran als 'Rijs' (Unreinheit) bezeichnet wird, wird er als substanziell unrein angesehen. Parfüm mit Alkohol darf daher nicht auf die Haut oder Kleidung gelangen, mit der man betet.",
+      "scholars": [
+        "abu-hanifa",
+        "malik-ibn-anas",
+        "al-shafii",
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki",
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Alkohol ist substanziell unrein (Najis) – Parfüm ist unrein",
-            "label_ar": "الخمر نجاسة حسية – العطور المحتوية عليه نجسة",
-            "description_de": "Da Alkohol (Khamr) im Quran als 'Rijs' (Unreinheit) bezeichnet wird, wird er als substanziell unrein angesehen. Parfüm mit Alkohol darf daher nicht auf die Haut oder Kleidung gelangen, mit der man betet.",
-            "scholars": [
-                "abu-hanifa",
-                "malik-ibn-anas",
-                "al-shafii",
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "hanafi",
-                "maliki",
-                "shafii",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "quran",
-                    "reference": "Sure 5:90 (Al-Ma'ida)",
-                    "text_ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْأَنصَابُ وَالْأَزْلَامُ رِجْسٌ مِّنْ عَمَلِ الشَّيْطَانِ فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ",
-                    "text_de": "O ihr, die ihr glaubt, berauschender Trunk (Khamr), Glücksspiel, Opfersteine und Lospfeile sind nur ein Gräuel (Rijs) aus dem Werk des Satans. So meidet ihn (den Khamr), auf dass es euch wohl ergehen möge.",
-                    "explanation_de": "Die klassische Mehrheitsposition versteht 'Rijs' (Gräuel/Unreinheit) hier sowohl spirituell als auch materiell. Daher wird flüssiger Alkohol wie Urin oder Blut als materielle Unreinheit behandelt."
-                }
-            ],
-            "historical_context_de": "Dies war die vorherrschende Meinung der klassischen Rechtsschulen über Jahrhunderte. Man bezog sich dabei auf berauschende Getränke. Die Übertragung auf modernen, industriell hergestellten Äthanol in Parfüms wird heute differenzierter betrachtet."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Alkohol ist nur spirituell unrein – Parfüm ist rein",
-            "label_ar": "الخمر نجاسة معنوية لا حسية – العطور طاهرة",
-            "description_de": "Die Unreinheit von Alkohol ist spiritueller Natur, nicht materiell. Industrieller Alkohol in Parfüms ist zudem kein 'Khamr' im klassischen Sinne. Die Verwendung ist daher erlaubt.",
-            "scholars": [
-                "an-nawawi",
-                "ibn-taymiyya"
-            ],
-            "madhabs": [
-                "shafii",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih al-Bukhari, Nr. 2464; Sahih Muslim",
-                    "text_ar": "لم يكد يفرغ النبي ﷺ من تحريم الخمر حتى أريقت في سكك المدينة",
-                    "text_de": "Kaum hatte der Prophet ﷺ den Wein verboten, wurde er in den Gassen von Medina ausgeschüttet.",
-                    "explanation_de": "Gelehrte wie Ibn Taymiyya argumentieren: Wäre Wein materiell unrein wie Urin, hätten die Gefährten ihn nicht einfach in die Gassen geschüttet, wo Menschen laufen und ihre Kleidung damit in Berührung kommen könnte. Auch der Vergleich mit Glücksspiel im Vers (das ebenfalls als 'Rijs' bezeichnet wird, aber nicht materiell unrein ist) stützt diese Sichtweise."
-                }
-            ],
-            "historical_context_de": "Diese Position wird heute von vielen zeitgenössischen Gelehrten und Fatwa-Gremien (wie der Al-Azhar oder dem Europäischen Rat für Fatwa) vertreten, um den Gläubigen Erleichterung im modernen Alltag zu gewähren, da industrieller Alkohol fast überall in der Reinigung und Hygiene vorkommt."
+          "type": "quran",
+          "reference": "Sure 5:90 (Al-Ma'ida)",
+          "text_ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْأَنصَابُ وَالْأَزْلَامُ رِجْسٌ مِّنْ عَمَلِ الشَّيْطَانِ فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ",
+          "text_de": "O ihr, die ihr glaubt, berauschender Trunk (Khamr), Glücksspiel, Opfersteine und Lospfeile sind nur ein Gräuel (Rijs) aus dem Werk des Satans. So meidet ihn (den Khamr), auf dass es euch wohl ergehen möge.",
+          "explanation_de": "Die klassische Mehrheitsposition versteht 'Rijs' (Gräuel/Unreinheit) hier sowohl spirituell als auch materiell. Daher wird flüssiger Alkohol wie Urin oder Blut als materielle Unreinheit behandelt."
         }
-    ],
-    "related_questions": [
-        "tahara-katze-rein",
-        "tahara-blut-wudu"
-    ],
-    "sources": [
+      ],
+      "historical_context_de": "Dies war die vorherrschende Meinung der klassischen Rechtsschulen über Jahrhunderte. Man bezog sich dabei auf berauschende Getränke. Die Übertragung auf modernen, industriell hergestellten Äthanol in Parfüms wird heute differenzierter betrachtet."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Alkohol ist nur spirituell unrein – Parfüm ist rein",
+      "label_ar": "الخمر نجاسة معنوية لا حسية – العطور طاهرة",
+      "description_de": "Die Unreinheit von Alkohol ist spiritueller Natur, nicht materiell. Industrieller Alkohol in Parfüms ist zudem kein 'Khamr' im klassischen Sinne. Die Verwendung ist daher erlaubt.",
+      "scholars": [
+        "an-nawawi",
+        "ibn-taymiyya"
+      ],
+      "madhabs": [
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "title": "Al-Mughni",
-            "author": "Ibn Qudama",
-            "url": "https://shamela.ws/book/6946"
-        },
-        {
-            "title": "Al-Majmu'",
-            "author": "Imam an-Nawawi",
-            "url": "https://shamela.ws/book/384"
-        },
-        {
-            "title": "Majmu' al-Fatawa",
-            "author": "Ibn Taymiyya",
-            "url": "https://shamela.ws/book/505"
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari, Nr. 2464; Sahih Muslim",
+          "text_ar": "لم يكد يفرغ النبي ﷺ من تحريم الخمر حتى أريقت في سكك المدينة",
+          "text_de": "Kaum hatte der Prophet ﷺ den Wein verboten, wurde er in den Gassen von Medina ausgeschüttet.",
+          "explanation_de": "Gelehrte wie Ibn Taymiyya argumentieren: Wäre Wein materiell unrein wie Urin, hätten die Gefährten ihn nicht einfach in die Gassen geschüttet, wo Menschen laufen und ihre Kleidung damit in Berührung kommen könnte. Auch der Vergleich mit Glücksspiel im Vers (das ebenfalls als 'Rijs' bezeichnet wird, aber nicht materiell unrein ist) stützt diese Sichtweise."
         }
-    ]
+      ],
+      "historical_context_de": "Diese Position wird heute von vielen zeitgenössischen Gelehrten und Fatwa-Gremien (wie der Al-Azhar oder dem Europäischen Rat für Fatwa) vertreten, um den Gläubigen Erleichterung im modernen Alltag zu gewähren, da industrieller Alkohol fast überall in der Reinigung und Hygiene vorkommt."
+    }
+  ],
+  "related_questions": [
+    "tahara-katze-rein",
+    "tahara-blut-wudu"
+  ],
+  "sources": [
+    {
+      "title": "Al-Mughni",
+      "author": "Ibn Qudama",
+      "url": "https://shamela.ws/book/6946"
+    },
+    {
+      "title": "Al-Majmu'",
+      "author": "Imam an-Nawawi",
+      "url": "https://shamela.ws/book/384"
+    },
+    {
+      "title": "Majmu' al-Fatawa",
+      "author": "Ibn Taymiyya",
+      "url": "https://shamela.ws/book/505"
+    }
+  ]
 }

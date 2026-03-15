@@ -1,94 +1,94 @@
 {
-    "id": "salah-witr-pflicht",
-    "slug": "witr-gebet-pflicht-sunna",
-    "category": "salah",
-    "subcategory": "arten",
-    "question_de": "Ist das Witr-Gebet eine Pflicht (Wajib/Fard) oder eine Sunna?",
-    "question_ar": "هل صلاة الوتر واجبة أم سنة؟",
-    "search_aliases": [
-        "Witr Pflicht",
-        "Witr Gebet",
-        "Witr Sunna",
-        "Witr wajib",
-        "Witr fard",
-        "Witr Nachtgebet"
-    ],
-    "context_de": "Das Witr-Gebet wird nach dem Ischa-Gebet verrichtet. Unter den Rechtsschulen gibt es eine berühmte Meinungsverschiedenheit über dessen Verpflichtungsgrad.",
-    "positions": [
+  "id": "salah-witr-pflicht",
+  "slug": "witr-gebet-pflicht-sunna",
+  "category": "salah",
+  "subcategory": "arten",
+  "question_de": "Ist das Witr-Gebet eine Pflicht (Wajib/Fard) oder eine Sunna?",
+  "question_ar": "هل صلاة الوتر واجبة أم سنة؟",
+  "search_aliases": [
+    "Witr Pflicht",
+    "Witr Gebet",
+    "Witr Sunna",
+    "Witr wajib",
+    "Witr fard",
+    "Witr Nachtgebet"
+  ],
+  "context_de": "Das Witr-Gebet wird nach dem Ischa-Gebet verrichtet. Unter den Rechtsschulen gibt es eine berühmte Meinungsverschiedenheit über dessen Verpflichtungsgrad.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Witr ist eine Pflicht (Wajib)",
+      "label_ar": "الوتر واجب",
+      "description_de": "Das Witr-Gebet ist eine Pflicht (Wajib), die nicht ohne triftigen Grund ausgelassen werden darf. Es steht in der Verpflichtung knapp unter den fünf Pflichtgebeten.",
+      "scholars": [
+        "abu-hanifa"
+      ],
+      "madhabs": [
+        "hanafi"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Witr ist eine Pflicht (Wajib)",
-            "label_ar": "الوتر واجب",
-            "description_de": "Das Witr-Gebet ist eine Pflicht (Wajib), die nicht ohne triftigen Grund ausgelassen werden darf. Es steht in der Verpflichtung knapp unter den fünf Pflichtgebeten.",
-            "scholars": [
-                "abu-hanifa"
-            ],
-            "madhabs": [
-                "hanafi"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sunan Abu Dawud, Nr. 1419",
-                    "text_ar": "الوتر حق، فمن لم يوتر فليس منا",
-                    "text_de": "Das Witr ist eine Rechtspflicht (Haqq). Wer kein Witr betet, gehört nicht zu uns.",
-                    "hadith_grade": "daif",
-                    "graded_by": "Abu Dawud (einige sehen ihn als hasan)",
-                    "explanation_de": "Abu Hanifa stützt sich auf diesen und ähnliche Hadithe, die einen Befehlscharakter ausdrücken. In der hanafitischen Schule wird zwischen Fard (unmittelbar durch den Koran belegt) und Wajib (durch Hadithe belegt) unterschieden."
-                }
-            ],
-            "historical_context_de": "Die hanafitische Schule ist die einzige, die das Witr als Wajib einstuft. Dies führt dazu, dass Hanafiten das Witr-Gebet auch dann nachholen (Qada), wenn sie es verschlafen oder vergessen haben."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Witr ist eine stark empfohlene Sunna",
-            "label_ar": "الوتر سنة مؤكدة",
-            "description_de": "Das Witr ist keine Pflicht, sondern eine Sunna mu'akkada. Der Prophet ﷺ hat es nie unterlassen, aber es gehört nicht zu den fünf Pflichtgebeten.",
-            "scholars": [
-                "malik-ibn-anas",
-                "al-shafii",
-                "ahmad-ibn-hanbal",
-                "muhammad-shaybani",
-                "abu-yusuf"
-            ],
-            "madhabs": [
-                "maliki",
-                "shafii",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih al-Bukhari, Nr. 46; Sahih Muslim",
-                    "text_ar": "خمس صلوات في اليوم والليلة. فقال: هل علي غيرها؟ قال: لا، إلا أن تطوع",
-                    "text_de": "Fünf Gebete am Tag und in der Nacht. Der Mann fragte: ‚Habe ich noch andere Pflichten?' Der Prophet ﷺ antwortete: ‚Nein, es sei denn, du tust es freiwillig.'",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Al-Bukhari / Muslim",
-                    "explanation_de": "Die Mehrheit der Gelehrten argumentiert mit diesem zentralen Hadith, dass es nur genau fünf Pflichtgebet gibt. Alles darüber hinaus, einschließlich Witr, wird als Sunna oder freiwillig (Tatattu') eingestuft."
-                }
-            ],
-            "historical_context_de": "Auch die beiden Hauptschüler Abu Hanifas (Abu Yusuf und Muhammad asch-Schaybani) wichen in dieser Frage von ihrem Lehrer ab und schlossen sich der Mehrheit an, die das Witr als Sunna betrachtet."
+          "type": "hadith",
+          "reference": "Sunan Abu Dawud, Nr. 1419",
+          "text_ar": "الوتر حق، فمن لم يوتر فليس منا",
+          "text_de": "Das Witr ist eine Rechtspflicht (Haqq). Wer kein Witr betet, gehört nicht zu uns.",
+          "hadith_grade": "daif",
+          "graded_by": "Abu Dawud (einige sehen ihn als hasan)",
+          "explanation_de": "Abu Hanifa stützt sich auf diesen und ähnliche Hadithe, die einen Befehlscharakter ausdrücken. In der hanafitischen Schule wird zwischen Fard (unmittelbar durch den Koran belegt) und Wajib (durch Hadithe belegt) unterschieden."
         }
-    ],
-    "related_questions": [
-        "salah-haende-binden",
-        "salah-qunut-fajr"
-    ],
-    "sources": [
+      ],
+      "historical_context_de": "Die hanafitische Schule ist die einzige, die das Witr als Wajib einstuft. Dies führt dazu, dass Hanafiten das Witr-Gebet auch dann nachholen (Qada), wenn sie es verschlafen oder vergessen haben."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Witr ist eine stark empfohlene Sunna",
+      "label_ar": "الوتر سنة مؤكدة",
+      "description_de": "Das Witr ist keine Pflicht, sondern eine Sunna mu'akkada. Der Prophet ﷺ hat es nie unterlassen, aber es gehört nicht zu den fünf Pflichtgebeten.",
+      "scholars": [
+        "malik-ibn-anas",
+        "al-shafii",
+        "ahmad-ibn-hanbal",
+        "muhammad-shaybani",
+        "abu-yusuf"
+      ],
+      "madhabs": [
+        "maliki",
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "title": "Bidayat al-Mujtahid",
-            "author": "Ibn Rushd",
-            "url": "https://shamela.ws/book/22375"
-        },
-        {
-            "title": "Al-Mughni",
-            "author": "Ibn Qudama",
-            "url": "https://shamela.ws/book/6946"
-        },
-        {
-            "title": "Al-Hidaya",
-            "author": "Al-Marghinani",
-            "url": "https://shamela.ws/book/913"
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari, Nr. 46; Sahih Muslim",
+          "text_ar": "خمس صلوات في اليوم والليلة. فقال: هل علي غيرها؟ قال: لا، إلا أن تطوع",
+          "text_de": "Fünf Gebete am Tag und in der Nacht. Der Mann fragte: ‚Habe ich noch andere Pflichten?' Der Prophet ﷺ antwortete: ‚Nein, es sei denn, du tust es freiwillig.'",
+          "hadith_grade": "sahih",
+          "graded_by": "Al-Bukhari / Muslim",
+          "explanation_de": "Die Mehrheit der Gelehrten argumentiert mit diesem zentralen Hadith, dass es nur genau fünf Pflichtgebet gibt. Alles darüber hinaus, einschließlich Witr, wird als Sunna oder freiwillig (Tatattu') eingestuft."
         }
-    ]
+      ],
+      "historical_context_de": "Auch die beiden Hauptschüler Abu Hanifas (Abu Yusuf und Muhammad asch-Schaybani) wichen in dieser Frage von ihrem Lehrer ab und schlossen sich der Mehrheit an, die das Witr als Sunna betrachtet."
+    }
+  ],
+  "related_questions": [
+    "salah-haende-binden",
+    "salah-qunut-fajr"
+  ],
+  "sources": [
+    {
+      "title": "Bidayat al-Mujtahid",
+      "author": "Ibn Rushd",
+      "url": "https://shamela.ws/book/22375"
+    },
+    {
+      "title": "Al-Mughni",
+      "author": "Ibn Qudama",
+      "url": "https://shamela.ws/book/6946"
+    },
+    {
+      "title": "Al-Hidaya",
+      "author": "Al-Marghinani",
+      "url": "https://shamela.ws/book/913"
+    }
+  ]
 }

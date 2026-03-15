@@ -1,78 +1,80 @@
 {
-    "id": "nikah-khul-scheidung",
-    "slug": "khul-scheidung-durch-die-frau-islam-urteil",
-    "category": "nikah",
-    "subcategory": "",
-    "question_de": "Was ist Khul' und wie läuft diese Form der Scheidung durch die Frau ab?",
-    "question_ar": "حكم الخلع وكيفيته في الإسلام",
-    "search_aliases": [
-        "Khul Scheidung",
-        "Frau will Scheidung",
-        "Ehe lösen Frau",
-        "Mahr zurückgeben Khul",
-        "Khula Islam"
-    ],
-    "context_de": "Während der Mann das Recht auf Talaq (Aussprechen der Scheidung) hat, kann die Frau die Ehe durch Khul' lösen, meist gegen Rückgabe der Brautgabe (Mahr).",
-    "positions": [
+  "id": "nikah-khul-scheidung",
+  "slug": "khul-scheidung-durch-die-frau-islam-urteil",
+  "category": "nikah",
+  "subcategory": "",
+  "question_de": "Was ist Khul' und wie läuft diese Form der Scheidung durch die Frau ab?",
+  "question_ar": "حكم الخلع وكيفيته في الإسلام",
+  "search_aliases": [
+    "Khul Scheidung",
+    "Frau will Scheidung",
+    "Ehe lösen Frau",
+    "Mahr zurückgeben Khul",
+    "Khula Islam"
+  ],
+  "context_de": "Während der Mann das Recht auf Talaq (Aussprechen der Scheidung) hat, kann die Frau die Ehe durch Khul' lösen, meist gegen Rückgabe der Brautgabe (Mahr).",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Erlaubt bei Abneigung oder Unrecht (Koranischer Beleg)",
+      "label_ar": "جائز عند عدم القدرة على العشرة",
+      "description_de": "Wenn die Frau den Ehemann nicht mehr erträgt oder befürchtet, ihre religiösen Pflichten ihm gegenüber nicht mehr erfüllen zu können, darf sie Khul' verlangen.",
+      "scholars": [
+        "abu-hanifa",
+        "malik-ibn-anas",
+        "al-shafii",
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki",
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Erlaubt bei Abneigung oder Unrecht (Koranischer Beleg)",
-            "label_ar": "جائز عند عدم القدرة على العشرة",
-            "description_de": "Wenn die Frau den Ehemann nicht mehr erträgt oder befürchtet, ihre religiösen Pflichten ihm gegenüber nicht mehr erfüllen zu können, darf sie Khul' verlangen.",
-            "scholars": [
-                "abu-hanifa",
-                "malik-ibn-anas",
-                "al-shafii",
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "hanafi",
-                "maliki",
-                "shafii",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "quran",
-                    "reference": "Sure 2:229 (Al-Baqara)",
-                    "text_ar": "فَلَا جُنَاحَ عَلَيْهِمَا فِيمَا افْتَدَتْ بِهِ",
-                    "text_de": "dann ist es für beide keine Sünde, wenn sie sich damit (durch Rückgabe der Brautgabe) loskauft.",
-                    "explanation_de": "Dies ist die Grundlage für die Scheidungsform 'Khul' (Loskauf)."
-                },
-                {
-                    "type": "hadith",
-                    "reference": "Sahih al-Bukhari, Nr. 5273",
-                    "text_de": "Die Frau von Thabit ibn Qais kam zum Propheten ﷺ und sagte, sie habe keinen religiösen oder moralischen Tadel an ihm, könne ihn aber nicht mehr lieben. Der Prophet ﷺ fragte: ‚Gibst du ihm seinen Garten (den Mahr) zurück?' Sie sagte: ‚Ja.' Der Prophet ﷺ befahl ihm, sie zu entlassen.",
-                    "hadith_grade": "sahih"
-                }
-            ]
+          "type": "quran",
+          "reference": "Sure 2:229 (Al-Baqara)",
+          "text_ar": "فَلَا جُنَاحَ عَلَيْهِمَا فِيمَا افْتَدَتْ بِهِ",
+          "text_de": "dann ist es für beide keine Sünde, wenn sie sich damit (durch Rückgabe der Brautgabe) loskauft.",
+          "explanation_de": "Dies ist die Grundlage für die Scheidungsform 'Khul' (Loskauf)."
         },
         {
-            "id": "pos-2",
-            "label_de": "Zustimmung des Mannes erforderlich?",
-            "label_ar": "هل يشترط رضا الزوج في الخلع؟",
-            "description_de": "Die Gelehrten streiten darüber, ob der Mann dem Khul' zustimmen muss oder ob ein Richter ihn dazu zwingen kann, wenn die Frau triftige Gründe hat.",
-            "scholars": [
-                "Mehrheitsmeinung: Zustimmung nötig",
-                "Einige: Richterspruch reicht"
-            ],
-            "historical_context_de": "In modernen muslimischen Ländern (wie Ägypten) gibt es Gesetze, die den Khul' auch ohne Zustimmung des Mannes ermöglichen, basierend auf dem Hadith von Thabit ibn Qais."
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari, Nr. 5273",
+          "text_de": "Die Frau von Thabit ibn Qais kam zum Propheten ﷺ und sagte, sie habe keinen religiösen oder moralischen Tadel an ihm, könne ihn aber nicht mehr lieben. Der Prophet ﷺ fragte: ‚Gibst du ihm seinen Garten (den Mahr) zurück?' Sie sagte: ‚Ja.' Der Prophet ﷺ befahl ihm, sie zu entlassen.",
+          "hadith_grade": "sahih"
         }
-    ],
-    "related_questions": [
-        "nikah-mahr-hoehe",
-        "nikah-scheidung-dreifach"
-    ],
-    "sources": [
-        {
-            "title": "Bidayat al-Mujtahid",
-            "author": "Ibn Rushd",
-            "url": "https://shamela.ws/book/22375"
-        },
-        {
-            "title": "Al-Mughni",
-            "author": "Ibn Qudama",
-            "url": "https://shamela.ws/book/6946"
-        }
-    ]
+      ],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Zustimmung des Mannes erforderlich?",
+      "label_ar": "هل يشترط رضا الزوج في الخلع؟",
+      "description_de": "Die Gelehrten streiten darüber, ob der Mann dem Khul' zustimmen muss oder ob ein Richter ihn dazu zwingen kann, wenn die Frau triftige Gründe hat.",
+      "scholars": [
+        "Mehrheitsmeinung: Zustimmung nötig",
+        "Einige: Richterspruch reicht"
+      ],
+      "historical_context_de": "In modernen muslimischen Ländern (wie Ägypten) gibt es Gesetze, die den Khul' auch ohne Zustimmung des Mannes ermöglichen, basierend auf dem Hadith von Thabit ibn Qais.",
+      "evidence_chain": []
+    }
+  ],
+  "related_questions": [
+    "nikah-mahr-hoehe",
+    "nikah-scheidung-dreifach"
+  ],
+  "sources": [
+    {
+      "title": "Bidayat al-Mujtahid",
+      "author": "Ibn Rushd",
+      "url": "https://shamela.ws/book/22375"
+    },
+    {
+      "title": "Al-Mughni",
+      "author": "Ibn Qudama",
+      "url": "https://shamela.ws/book/6946"
+    }
+  ]
 }

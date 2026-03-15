@@ -1,93 +1,93 @@
 {
-    "id": "muamalat-bilder-fotos",
-    "slug": "bilder-fotos-islam-urteil",
-    "category": "muamalat",
-    "subcategory": "",
-    "question_de": "Sind Fotos und Bilder von Lebewesen im Islam erlaubt?",
-    "question_ar": "ما حكم التصوير الفوتوغرافي في الإسلام؟",
-    "search_aliases": [
-        "Bilder Islam",
-        "Fotos erlaubt Islam",
-        "Fotografieren Islam",
-        "Bilder aufhängen Islam",
-        "Taswir Urteil",
-        "Portrait Islam"
-    ],
-    "context_de": "Die Frage nach der Erlaubtheit von Bildern und Fotos berührt den Alltag fast aller Muslime in der modernen Zeit – von Passfotos über soziale Medien bis hin zur Inneneinrichtung.",
-    "positions": [
+  "id": "muamalat-bilder-fotos",
+  "slug": "bilder-fotos-islam-urteil",
+  "category": "muamalat",
+  "subcategory": "",
+  "question_de": "Sind Fotos und Bilder von Lebewesen im Islam erlaubt?",
+  "question_ar": "ما حكم التصوير الفوتوغرافي في الإسلام؟",
+  "search_aliases": [
+    "Bilder Islam",
+    "Fotos erlaubt Islam",
+    "Fotografieren Islam",
+    "Bilder aufhängen Islam",
+    "Taswir Urteil",
+    "Portrait Islam"
+  ],
+  "context_de": "Die Frage nach der Erlaubtheit von Bildern und Fotos berührt den Alltag fast aller Muslime in der modernen Zeit – von Passfotos über soziale Medien bis hin zur Inneneinrichtung.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Alles Abbilden von Lebewesen ist verboten",
+      "label_ar": "التصوير محرم مطلقاً",
+      "description_de": "Jede Abbildung von Lebewesen – ob gemalt, gezeichnet oder fotografiert – ist verboten.",
+      "scholars": [
+        "ahmad-ibn-hanbal",
+        "ibn-taymiyya",
+        "ibn-qayyim"
+      ],
+      "madhabs": [
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Alles Abbilden von Lebewesen ist verboten",
-            "label_ar": "التصوير محرم مطلقاً",
-            "description_de": "Jede Abbildung von Lebewesen – ob gemalt, gezeichnet oder fotografiert – ist verboten.",
-            "scholars": [
-                "ahmad-ibn-hanbal",
-                "ibn-taymiyya",
-                "ibn-qayyim"
-            ],
-            "madhabs": [
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih al-Bukhari, Nr. 5950; Sahih Muslim, Nr. 2109",
-                    "text_ar": "إن أشد الناس عذاباً يوم القيامة المصورون",
-                    "text_de": "Die am schwersten bestraften Menschen am Tag der Auferstehung sind die Bildermacher (Musawwirun).",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Al-Bukhari / Muslim",
-                    "explanation_de": "Die strenge Position versteht diesen Hadith umfassend: Jede Abbildung von Lebewesen, ob von Hand oder durch moderne Technik, fällt unter das Verbot."
-                }
-            ],
-            "historical_context_de": "Ibn Taymiyya und sein Schüler Ibn al-Qayyim vertraten eine strenge Position, die auf dem Wortlaut der Hadithe basiert. Diese Position wurde in der Neuzeit von einigen Gelehrten wie den Lehrern der Muftis Saudi-Arabiens vertreten."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Fotografie erlaubt – nur handgemalte Bilder verboten",
-            "label_ar": "التصوير الفوتوغرافي جائز – التصوير باليد محرم",
-            "description_de": "Die Fotografie ist erlaubt, da sie kein 'Erschaffen' im Sinne der Hadithe darstellt, sondern ein Einfangen der bestehenden Schöpfung. Handgemalte lebensechte Bilder bleiben verboten.",
-            "scholars": [
-                "al-ghazali",
-                "an-nawawi"
-            ],
-            "madhabs": [
-                "shafii",
-                "hanafi",
-                "maliki"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Prinzip aus den Usul al-Fiqh",
-                    "text_ar": "الأصل في الأشياء الإباحة",
-                    "text_de": "Die Grundregel bei den Dingen ist die Erlaubtheit.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Grundprinzip",
-                    "explanation_de": "Viele zeitgenössische Gelehrte der schafiitischen, hanafitischen und malikitischen Schule unterscheiden zwischen dem handgemachten Bild (das die Hadithe meinen) und der modernen Fotografie (die lediglich Licht einfängt und nicht unter die klassische Definition von Taswir fällt)."
-                }
-            ],
-            "historical_context_de": "Die permissivere Position wurde von zahlreichen zeitgenössischen Fatwa-Gremien übernommen, darunter die Dar al-Ifta in Ägypten und viele andere. Sie argumentieren, dass die Fotografie eine technologische Entwicklung ist, die nicht mit dem klassischen Begriff des 'Bildermalens' gleichzusetzen ist."
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari, Nr. 5950; Sahih Muslim, Nr. 2109",
+          "text_ar": "إن أشد الناس عذاباً يوم القيامة المصورون",
+          "text_de": "Die am schwersten bestraften Menschen am Tag der Auferstehung sind die Bildermacher (Musawwirun).",
+          "hadith_grade": "sahih",
+          "graded_by": "Al-Bukhari / Muslim",
+          "explanation_de": "Die strenge Position versteht diesen Hadith umfassend: Jede Abbildung von Lebewesen, ob von Hand oder durch moderne Technik, fällt unter das Verbot."
         }
-    ],
-    "related_questions": [
-        "muamalat-musik-islam",
-        "muamalat-versicherung-islam"
-    ],
-    "sources": [
+      ],
+      "historical_context_de": "Ibn Taymiyya und sein Schüler Ibn al-Qayyim vertraten eine strenge Position, die auf dem Wortlaut der Hadithe basiert. Diese Position wurde in der Neuzeit von einigen Gelehrten wie den Lehrern der Muftis Saudi-Arabiens vertreten."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Fotografie erlaubt – nur handgemalte Bilder verboten",
+      "label_ar": "التصوير الفوتوغرافي جائز – التصوير باليد محرم",
+      "description_de": "Die Fotografie ist erlaubt, da sie kein 'Erschaffen' im Sinne der Hadithe darstellt, sondern ein Einfangen der bestehenden Schöpfung. Handgemalte lebensechte Bilder bleiben verboten.",
+      "scholars": [
+        "al-ghazali",
+        "an-nawawi"
+      ],
+      "madhabs": [
+        "shafii",
+        "hanafi",
+        "maliki"
+      ],
+      "evidence_chain": [
         {
-            "title": "Majmu' al-Fatawa",
-            "author": "Ibn Taymiyya",
-            "url": "https://shamela.ws/book/505"
-        },
-        {
-            "title": "Ihya Ulum ad-Din",
-            "author": "Abu Hamid al-Ghazali",
-            "url": "https://shamela.ws/book/1500"
-        },
-        {
-            "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
-            "author": "Kuwaiti Ministry of Awqaf",
-            "url": "https://islamweb.net"
+          "type": "hadith",
+          "reference": "Prinzip aus den Usul al-Fiqh",
+          "text_ar": "الأصل في الأشياء الإباحة",
+          "text_de": "Die Grundregel bei den Dingen ist die Erlaubtheit.",
+          "hadith_grade": "sahih",
+          "graded_by": "Grundprinzip",
+          "explanation_de": "Viele zeitgenössische Gelehrte der schafiitischen, hanafitischen und malikitischen Schule unterscheiden zwischen dem handgemachten Bild (das die Hadithe meinen) und der modernen Fotografie (die lediglich Licht einfängt und nicht unter die klassische Definition von Taswir fällt)."
         }
-    ]
+      ],
+      "historical_context_de": "Die permissivere Position wurde von zahlreichen zeitgenössischen Fatwa-Gremien übernommen, darunter die Dar al-Ifta in Ägypten und viele andere. Sie argumentieren, dass die Fotografie eine technologische Entwicklung ist, die nicht mit dem klassischen Begriff des 'Bildermalens' gleichzusetzen ist."
+    }
+  ],
+  "related_questions": [
+    "muamalat-musik-islam",
+    "muamalat-versicherung-islam"
+  ],
+  "sources": [
+    {
+      "title": "Majmu' al-Fatawa",
+      "author": "Ibn Taymiyya",
+      "url": "https://shamela.ws/book/505"
+    },
+    {
+      "title": "Ihya Ulum ad-Din",
+      "author": "Abu Hamid al-Ghazali",
+      "url": "https://shamela.ws/book/1500"
+    },
+    {
+      "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
+      "author": "Kuwaiti Ministry of Awqaf",
+      "url": "https://islamweb.net"
+    }
+  ]
 }

@@ -1,115 +1,115 @@
 {
-    "id": "tahara-hund-unrein",
-    "slug": "hund-rein-unrein-islam",
-    "category": "tahara",
-    "subcategory": "wudu",
-    "question_de": "Ist der Hund im Islam unrein? Wie oft muss man nach Kontakt waschen?",
-    "question_ar": "هل الكلب نجس في الإسلام؟ وكم مرة يُغسل الإناء إذا ولغ فيه؟",
-    "search_aliases": [
-        "Hund Islam",
-        "Hund unrein",
-        "Hund Speichel waschen",
-        "Hund Haustier Islam",
-        "Hund im Haus Islam",
-        "Hund Najasa"
-    ],
-    "context_de": "Die Frage nach der Reinheit des Hundes und dem Umgang mit seinem Speichel ist eine der bekanntesten Streitfragen im Fiqh und betrifft die Haltung von Hunden als Haustiere.",
-    "positions": [
+  "id": "tahara-hund-unrein",
+  "slug": "hund-rein-unrein-islam",
+  "category": "tahara",
+  "subcategory": "wudu",
+  "question_de": "Ist der Hund im Islam unrein? Wie oft muss man nach Kontakt waschen?",
+  "question_ar": "هل الكلب نجس في الإسلام؟ وكم مرة يُغسل الإناء إذا ولغ فيه؟",
+  "search_aliases": [
+    "Hund Islam",
+    "Hund unrein",
+    "Hund Speichel waschen",
+    "Hund Haustier Islam",
+    "Hund im Haus Islam",
+    "Hund Najasa"
+  ],
+  "context_de": "Die Frage nach der Reinheit des Hundes und dem Umgang mit seinem Speichel ist eine der bekanntesten Streitfragen im Fiqh und betrifft die Haltung von Hunden als Haustiere.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Hundespeichel ist unrein – 7-maliges Waschen, davon einmal mit Erde",
+      "label_ar": "لعاب الكلب نجس – يُغسل سبعاً إحداهن بالتراب",
+      "description_de": "Der Speichel des Hundes ist unrein (Najis). Ein Gefäß, aus dem ein Hund getrunken hat, muss sieben Mal gewaschen werden, davon einmal mit Erde.",
+      "scholars": [
+        "al-shafii",
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Hundespeichel ist unrein – 7-maliges Waschen, davon einmal mit Erde",
-            "label_ar": "لعاب الكلب نجس – يُغسل سبعاً إحداهن بالتراب",
-            "description_de": "Der Speichel des Hundes ist unrein (Najis). Ein Gefäß, aus dem ein Hund getrunken hat, muss sieben Mal gewaschen werden, davon einmal mit Erde.",
-            "scholars": [
-                "al-shafii",
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "shafii",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih Muslim, Nr. 279; Sahih al-Bukhari, Nr. 172",
-                    "text_ar": "إذا ولغ الكلب في إناء أحدكم فليغسله سبع مرات أولاهن بالتراب",
-                    "text_de": "Wenn ein Hund aus dem Gefäß eines von euch trinkt, soll er es sieben Mal waschen, das erste Mal mit Erde.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Muslim ibn al-Hajjaj",
-                    "explanation_de": "Die Schafiiten und Hanbaliten nehmen diesen Hadith wörtlich: siebenmaliges Waschen, davon einmal mit Erde. Sie sehen die Verunreinigung durch Hundespeichel als besonders schwer an."
-                }
-            ],
-            "historical_context_de": "Imam asch-Schafi'i und Ahmad ibn Hanbal folgen dem Hadith-Wortlaut strikt. An-Nawawi bestätigt in seinem Majmu', dass die schafiitische Position das siebenmalige Waschen erfordert."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Hundespeichel ist unrein – dreimaliges Waschen reicht",
-            "label_ar": "لعاب الكلب نجس – يُغسل ثلاثاً",
-            "description_de": "Der Speichel des Hundes ist unrein, aber dreimaliges Waschen reicht aus. Die Zahl ‚sieben' im Hadith wird als Betonung der Gründlichkeit verstanden.",
-            "scholars": [
-                "abu-hanifa"
-            ],
-            "madhabs": [
-                "hanafi"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih Muslim, Nr. 279",
-                    "text_ar": "إذا ولغ الكلب في إناء أحدكم فليغسله سبعاً",
-                    "text_de": "Wenn ein Hund aus dem Gefäß eines von euch trinkt, soll er es sieben Mal waschen.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Muslim ibn al-Hajjaj",
-                    "explanation_de": "Abu Hanifa akzeptiert die Unreinheit des Hundespeichels, hält aber dreimaliges Waschen für ausreichend. Er argumentiert, dass die Grundregel für die Reinigung von Verunreinigungen dreimaliges Waschen ist. Die Verwendung von Erde ist nicht erforderlich."
-                }
-            ],
-            "historical_context_de": "Abu Hanifa wendet hier sein generelles Prinzip an, dass dreimaliges Waschen für die Reinigung von Najasa ausreicht. Die Zahl ‚sieben' wird als Empfehlung zur Gründlichkeit interpretiert."
-        },
-        {
-            "id": "pos-3",
-            "label_de": "Der Hund ist grundsätzlich rein – nur Nutztier-Verbot im Haus",
-            "label_ar": "الكلب طاهر – والنهي عن اقتنائه فقط",
-            "description_de": "Imam Malik betrachtet den Hund als grundsätzlich reines Tier. Das Waschen des Gefäßes im Hadith ist eine gottesdienstliche Anweisung (ta'abbudi), nicht wegen Unreinheit.",
-            "scholars": [
-                "malik-ibn-anas"
-            ],
-            "madhabs": [
-                "maliki"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Al-Muwatta, Kitab at-Tahara",
-                    "text_ar": "أن مالكاً سُئل عن ولوغ الكلب فقال هو طاهر",
-                    "text_de": "Malik wurde über das Trinken des Hundes gefragt und sagte: Er ist rein.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Malik ibn Anas",
-                    "explanation_de": "Malik betrachtet den Körper und Speichel des Hundes als rein. Das siebenmalige Waschen im Hadith versteht er als gottesdienstliche Handlung (ta'abbudi), deren Weisheit uns verborgen ist – nicht als Beweis für Unreinheit."
-                }
-            ],
-            "historical_context_de": "Maliks Position ist die permissivste unter den vier Rechtsschulen. Er stützt sich auf das Fehlen eines eindeutigen koranischen Beweises für die Unreinheit des Hundes und argumentiert, dass der Quran die Verwendung von Jagdhunden erlaubt (Sure 5:4)."
+          "type": "hadith",
+          "reference": "Sahih Muslim, Nr. 279; Sahih al-Bukhari, Nr. 172",
+          "text_ar": "إذا ولغ الكلب في إناء أحدكم فليغسله سبع مرات أولاهن بالتراب",
+          "text_de": "Wenn ein Hund aus dem Gefäß eines von euch trinkt, soll er es sieben Mal waschen, das erste Mal mit Erde.",
+          "hadith_grade": "sahih",
+          "graded_by": "Muslim ibn al-Hajjaj",
+          "explanation_de": "Die Schafiiten und Hanbaliten nehmen diesen Hadith wörtlich: siebenmaliges Waschen, davon einmal mit Erde. Sie sehen die Verunreinigung durch Hundespeichel als besonders schwer an."
         }
-    ],
-    "related_questions": [
-        "tahara-katze-rein",
-        "tahara-beruehrung-wudu",
-        "tahara-blut-wudu"
-    ],
-    "sources": [
+      ],
+      "historical_context_de": "Imam asch-Schafi'i und Ahmad ibn Hanbal folgen dem Hadith-Wortlaut strikt. An-Nawawi bestätigt in seinem Majmu', dass die schafiitische Position das siebenmalige Waschen erfordert."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Hundespeichel ist unrein – dreimaliges Waschen reicht",
+      "label_ar": "لعاب الكلب نجس – يُغسل ثلاثاً",
+      "description_de": "Der Speichel des Hundes ist unrein, aber dreimaliges Waschen reicht aus. Die Zahl ‚sieben' im Hadith wird als Betonung der Gründlichkeit verstanden.",
+      "scholars": [
+        "abu-hanifa"
+      ],
+      "madhabs": [
+        "hanafi"
+      ],
+      "evidence_chain": [
         {
-            "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
-            "author": "Kuwaiti Ministry of Awqaf",
-            "url": "https://islamweb.net"
-        },
-        {
-            "title": "Al-Mudawwana",
-            "author": "Imam Sahnun",
-            "url": "https://shamela.ws/book/2325"
-        },
-        {
-            "title": "Al-Majmu'",
-            "author": "Imam an-Nawawi",
-            "url": "https://shamela.ws/book/384"
+          "type": "hadith",
+          "reference": "Sahih Muslim, Nr. 279",
+          "text_ar": "إذا ولغ الكلب في إناء أحدكم فليغسله سبعاً",
+          "text_de": "Wenn ein Hund aus dem Gefäß eines von euch trinkt, soll er es sieben Mal waschen.",
+          "hadith_grade": "sahih",
+          "graded_by": "Muslim ibn al-Hajjaj",
+          "explanation_de": "Abu Hanifa akzeptiert die Unreinheit des Hundespeichels, hält aber dreimaliges Waschen für ausreichend. Er argumentiert, dass die Grundregel für die Reinigung von Verunreinigungen dreimaliges Waschen ist. Die Verwendung von Erde ist nicht erforderlich."
         }
-    ]
+      ],
+      "historical_context_de": "Abu Hanifa wendet hier sein generelles Prinzip an, dass dreimaliges Waschen für die Reinigung von Najasa ausreicht. Die Zahl ‚sieben' wird als Empfehlung zur Gründlichkeit interpretiert."
+    },
+    {
+      "id": "pos-3",
+      "label_de": "Der Hund ist grundsätzlich rein – nur Nutztier-Verbot im Haus",
+      "label_ar": "الكلب طاهر – والنهي عن اقتنائه فقط",
+      "description_de": "Imam Malik betrachtet den Hund als grundsätzlich reines Tier. Das Waschen des Gefäßes im Hadith ist eine gottesdienstliche Anweisung (ta'abbudi), nicht wegen Unreinheit.",
+      "scholars": [
+        "malik-ibn-anas"
+      ],
+      "madhabs": [
+        "maliki"
+      ],
+      "evidence_chain": [
+        {
+          "type": "hadith",
+          "reference": "Al-Muwatta, Kitab at-Tahara",
+          "text_ar": "أن مالكاً سُئل عن ولوغ الكلب فقال هو طاهر",
+          "text_de": "Malik wurde über das Trinken des Hundes gefragt und sagte: Er ist rein.",
+          "hadith_grade": "sahih",
+          "graded_by": "Malik ibn Anas",
+          "explanation_de": "Malik betrachtet den Körper und Speichel des Hundes als rein. Das siebenmalige Waschen im Hadith versteht er als gottesdienstliche Handlung (ta'abbudi), deren Weisheit uns verborgen ist – nicht als Beweis für Unreinheit."
+        }
+      ],
+      "historical_context_de": "Maliks Position ist die permissivste unter den vier Rechtsschulen. Er stützt sich auf das Fehlen eines eindeutigen koranischen Beweises für die Unreinheit des Hundes und argumentiert, dass der Quran die Verwendung von Jagdhunden erlaubt (Sure 5:4)."
+    }
+  ],
+  "related_questions": [
+    "tahara-katze-rein",
+    "tahara-beruehrung-wudu",
+    "tahara-blut-wudu"
+  ],
+  "sources": [
+    {
+      "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
+      "author": "Kuwaiti Ministry of Awqaf",
+      "url": "https://islamweb.net"
+    },
+    {
+      "title": "Al-Mudawwana",
+      "author": "Imam Sahnun",
+      "url": "https://shamela.ws/book/2325"
+    },
+    {
+      "title": "Al-Majmu'",
+      "author": "Imam an-Nawawi",
+      "url": "https://shamela.ws/book/384"
+    }
+  ]
 }

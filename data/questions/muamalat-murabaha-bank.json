@@ -1,52 +1,55 @@
 {
-    "id": "muamalat-murabaha-bank",
-    "slug": "murabaha-islamisches-banking-hauskauf-halal-urteil",
-    "category": "muamalat",
-    "subcategory": "",
-    "question_de": "Sind Immobilienfinanzierungen über 'Islamische Banken' (Murabaha) wirklich Halal?",
-    "question_ar": "حكم بيع المرابحة للآمر بالشراء",
-    "search_aliases": [
-        "Islamisches Banking",
-        "Murabaha Halal",
-        "Hauskauf ohne Zinsen",
-        "Kredit Islam Bank",
-        "Ist Murabaha Riba"
-    ],
-    "context_de": "Da Zinsen (Riba) verboten sind, nutzen islamische Banken oft das Murabaha-Modell (Kauf mit Aufschlag). Kritiker werfen vor, dies sei nur eine Namensänderung für Zinsen.",
-    "positions": [
-        {
-            "id": "pos-1",
-            "label_de": "Erlaubt bei Einhaltung der Bedingungen",
-            "label_ar": "جائز بشروطه الشرعية",
-            "description_de": "Murabaha ist erlaubt, wenn die Bank das Objekt tatsächlich kauft, in ihren Besitz nimmt und dann mit einem vereinbarten Gewinnaufschlag an den Kunden weiterverkauft.",
-            "scholars": [
-                "Internationale Fiqh-Akademie",
-                "Ta'qi Usmani",
-                "Yusuf al-Qaradawi"
-            ],
-            "explanation_de": "Der entscheidende Unterschied zum Zinskredit ist das Risiko: Die Bank muss zwischenzeitlich Eigentümerin sein und trägt das Risiko für das Gut (Zerstörung etc.), bevor sie es weiterverkauft. Handel mit Waren (mit Gewinn) ist erlaubt, Handel mit Geld (mit Zins) nicht."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Verboten bei reinem Dokumentenhandel",
-            "label_ar": "محرم إذا كان حيلة على الربا",
-            "description_de": "Wenn die Bank die Ware nie physisch oder rechtlich besitzt und nur Geld gegen mehr Geld tauscht, ist es eine verbotene List (Hila), um das Riba-Verbot zu umgehen.",
-            "scholars": [
-                "Moderne Kritiker",
-                "Einige Salafi-Gelehrte"
-            ],
-            "historical_context_de": "Gelehrte betonen, dass viele 'islamische' Finanzprodukte in der Praxis oft nicht die strengen kaufmännischen Bedingungen der Scharia erfüllen."
-        }
-    ],
-    "related_questions": [
-        "muamalat-riba-bankzins",
-        "muamalat-versicherung-islam"
-    ],
-    "sources": [
-        {
-            "title": "An Introduction to Islamic Finance",
-            "author": "Mufti Taqi Usmani",
-            "url": "https://muftitaqiusmani.com"
-        }
-    ]
+  "id": "muamalat-murabaha-bank",
+  "slug": "murabaha-islamisches-banking-hauskauf-halal-urteil",
+  "category": "muamalat",
+  "subcategory": "",
+  "question_de": "Sind Immobilienfinanzierungen über 'Islamische Banken' (Murabaha) wirklich Halal?",
+  "question_ar": "حكم بيع المرابحة للآمر بالشراء",
+  "search_aliases": [
+    "Islamisches Banking",
+    "Murabaha Halal",
+    "Hauskauf ohne Zinsen",
+    "Kredit Islam Bank",
+    "Ist Murabaha Riba"
+  ],
+  "context_de": "Da Zinsen (Riba) verboten sind, nutzen islamische Banken oft das Murabaha-Modell (Kauf mit Aufschlag). Kritiker werfen vor, dies sei nur eine Namensänderung für Zinsen.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Erlaubt bei Einhaltung der Bedingungen",
+      "label_ar": "جائز بشروطه الشرعية",
+      "description_de": "Murabaha ist erlaubt, wenn die Bank das Objekt tatsächlich kauft, in ihren Besitz nimmt und dann mit einem vereinbarten Gewinnaufschlag an den Kunden weiterverkauft.",
+      "scholars": [
+        "Internationale Fiqh-Akademie",
+        "Ta'qi Usmani",
+        "Yusuf al-Qaradawi"
+      ],
+      "explanation_de": "Der entscheidende Unterschied zum Zinskredit ist das Risiko: Die Bank muss zwischenzeitlich Eigentümerin sein und trägt das Risiko für das Gut (Zerstörung etc.), bevor sie es weiterverkauft. Handel mit Waren (mit Gewinn) ist erlaubt, Handel mit Geld (mit Zins) nicht.",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Verboten bei reinem Dokumentenhandel",
+      "label_ar": "محرم إذا كان حيلة على الربا",
+      "description_de": "Wenn die Bank die Ware nie physisch oder rechtlich besitzt und nur Geld gegen mehr Geld tauscht, ist es eine verbotene List (Hila), um das Riba-Verbot zu umgehen.",
+      "scholars": [
+        "Moderne Kritiker",
+        "Einige Salafi-Gelehrte"
+      ],
+      "historical_context_de": "Gelehrte betonen, dass viele 'islamische' Finanzprodukte in der Praxis oft nicht die strengen kaufmännischen Bedingungen der Scharia erfüllen.",
+      "evidence_chain": []
+    }
+  ],
+  "related_questions": [
+    "muamalat-riba-bankzins",
+    "muamalat-versicherung-islam"
+  ],
+  "sources": [
+    {
+      "title": "An Introduction to Islamic Finance",
+      "author": "Mufti Taqi Usmani",
+      "url": "https://muftitaqiusmani.com"
+    }
+  ]
 }

@@ -1,133 +1,133 @@
 {
-    "id": "tahara-beruehrung-wudu",
-    "slug": "beruehrung-frau-wudu",
-    "category": "tahara",
-    "subcategory": "wudu",
-    "question_de": "Bricht die Berührung einer Frau die Gebetswaschung (Wudu)?",
-    "question_ar": "هل لمس المرأة ينقض الوضوء؟",
-    "search_aliases": [
-        "Frau berühren Wudu",
-        "Frau anfassen Gebet",
-        "Körperkontakt Wudu brechen",
-        "Händeschütteln Frau Wudu",
-        "Berührung Ehefrau Gebetswaschung"
-    ],
-    "context_de": "Diese Frage gehört zu den klassischen Streitfragen im Fiqh und betrifft den Alltag vieler Muslime – etwa beim Händeschütteln, bei der Berührung des Ehepartners oder in beengten öffentlichen Räumen.",
-    "positions": [
+  "id": "tahara-beruehrung-wudu",
+  "slug": "beruehrung-frau-wudu",
+  "category": "tahara",
+  "subcategory": "wudu",
+  "question_de": "Bricht die Berührung einer Frau die Gebetswaschung (Wudu)?",
+  "question_ar": "هل لمس المرأة ينقض الوضوء؟",
+  "search_aliases": [
+    "Frau berühren Wudu",
+    "Frau anfassen Gebet",
+    "Körperkontakt Wudu brechen",
+    "Händeschütteln Frau Wudu",
+    "Berührung Ehefrau Gebetswaschung"
+  ],
+  "context_de": "Diese Frage gehört zu den klassischen Streitfragen im Fiqh und betrifft den Alltag vieler Muslime – etwa beim Händeschütteln, bei der Berührung des Ehepartners oder in beengten öffentlichen Räumen.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Wudu ist gebrochen",
+      "label_ar": "ينتقض الوضوء",
+      "description_de": "Jede Berührung zwischen Mann und Frau (die keine Mahram-Beziehung haben) bricht den Wudu, unabhängig von der Absicht.",
+      "scholars": [
+        "al-shafii"
+      ],
+      "madhabs": [
+        "shafii"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Wudu ist gebrochen",
-            "label_ar": "ينتقض الوضوء",
-            "description_de": "Jede Berührung zwischen Mann und Frau (die keine Mahram-Beziehung haben) bricht den Wudu, unabhängig von der Absicht.",
-            "scholars": [
-                "al-shafii"
-            ],
-            "madhabs": [
-                "shafii"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "quran",
-                    "reference": "Sure 5:6 (Al-Ma'ida)",
-                    "text_ar": "أَوْ لَامَسْتُمُ النِّسَاءَ",
-                    "text_de": "…oder wenn ihr Frauen berührt habt…",
-                    "explanation_de": "Imam asch-Schafi'i versteht ‚lamastum' (لامستم) wörtlich als jede körperliche Berührung. Er argumentiert, dass der Koranvers allgemein formuliert ist und daher jede Art von Hautkontakt einschließt."
-                },
-                {
-                    "type": "hadith",
-                    "reference": "Überliefert bei al-Baihaqi, Sunan al-Kubra",
-                    "text_ar": "أن النبي ﷺ قبّل بعض نسائه ثم خرج إلى الصلاة ولم يتوضأ",
-                    "text_de": "Es wird berichtet, dass der Prophet ﷺ eine seiner Frauen küsste und dann zum Gebet ging.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Al-Baihaqi",
-                    "explanation_de": "Die Schafi'iten nutzen weitere Überlieferungen zur Stützung, wobei sie den Koranvers als primären Beweis ansehen."
-                }
-            ],
-            "historical_context_de": "Imam asch-Schafi'i lebte im 2./3. Jahrhundert n.H. in einer Zeit, in der die systematische Unterscheidung zwischen wörtlicher und metaphorischer Koranauslegung ein zentrales Thema der Rechtsmethodik war. Seine wörtliche Lesart von ‚lamastum' steht im Kontext seines Gesamtansatzes, dem Text des Quran und der Sunna Vorrang vor Analogieschlüssen zu geben."
+          "type": "quran",
+          "reference": "Sure 5:6 (Al-Ma'ida)",
+          "text_ar": "أَوْ لَامَسْتُمُ النِّسَاءَ",
+          "text_de": "…oder wenn ihr Frauen berührt habt…",
+          "explanation_de": "Imam asch-Schafi'i versteht ‚lamastum' (لامستم) wörtlich als jede körperliche Berührung. Er argumentiert, dass der Koranvers allgemein formuliert ist und daher jede Art von Hautkontakt einschließt."
         },
         {
-            "id": "pos-2",
-            "label_de": "Wudu ist NICHT gebrochen",
-            "label_ar": "لا ينتقض الوضوء",
-            "description_de": "Bloße Berührung ohne sexuelle Absicht oder Erregung bricht den Wudu nicht.",
-            "scholars": [
-                "abu-hanifa"
-            ],
-            "madhabs": [
-                "hanafi"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "quran",
-                    "reference": "Sure 5:6 (Al-Ma'ida)",
-                    "text_ar": "أَوْ لَامَسْتُمُ النِّسَاءَ",
-                    "text_de": "…oder wenn ihr Frauen berührt habt…",
-                    "explanation_de": "Abu Hanifa versteht ‚lamastum' (لامستم) metaphorisch als Geschlechtsverkehr, nicht als bloße Berührung. Er stützt sich dabei auf Ibn Abbas (r.a.), der den Vers ebenfalls so interpretierte."
-                },
-                {
-                    "type": "hadith",
-                    "reference": "Sahih Muslim, Nr. 843",
-                    "text_ar": "أن النبي ﷺ قبّل بعض نسائه ثم خرج إلى الصلاة ولم يتوضأ",
-                    "text_de": "Aischa (r.a.) berichtet: Der Prophet ﷺ küsste eine seiner Frauen und ging dann zum Gebet, ohne den Wudu zu erneuern.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Muslim ibn al-Hajjaj",
-                    "explanation_de": "Dieser Hadith wird als direkter Beweis angeführt, dass Hautkontakt mit einer Frau den Wudu nicht bricht. Die Hanafiten argumentieren, dass die Praxis des Propheten ﷺ die metaphorische Auslegung des Koranverses bestätigt."
-                }
-            ],
-            "historical_context_de": "Abu Hanifa war bekannt für seinen Einsatz von Ra'y (eigenständiger Urteilsfindung). Im Irak des 8. Jahrhunderts war die Interaktion zwischen den Geschlechtern im Alltagsleben allgegenwärtig. Seine pragmatische Auslegung spiegelt seine Methodik wider, bei der er Koranverse im Licht der prophetischen Praxis interpretierte."
-        },
-        {
-            "id": "pos-3",
-            "label_de": "Nur bei Absicht/Erregung gebrochen",
-            "label_ar": "ينتقض بالشهوة فقط",
-            "description_de": "Der Wudu wird nur dann gebrochen, wenn die Berührung mit sexueller Absicht oder Erregung erfolgt.",
-            "scholars": [
-                "malik-ibn-anas"
-            ],
-            "madhabs": [
-                "maliki"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "quran",
-                    "reference": "Sure 5:6 (Al-Ma'ida)",
-                    "text_ar": "أَوْ لَامَسْتُمُ النِّسَاءَ",
-                    "text_de": "…oder wenn ihr Frauen berührt habt…",
-                    "explanation_de": "Malik ibn Anas nimmt eine Mittelposition ein: ‚Lamastum' kann sowohl wörtlich als auch metaphorisch verstanden werden. Entscheidend ist der Kontext – eine lustvolle Berührung fällt unter den Vers, eine zufällige nicht."
-                },
-                {
-                    "type": "hadith",
-                    "reference": "Al-Muwatta, Kitab at-Tahara",
-                    "text_ar": "عن عائشة أن رسول الله ﷺ كان يقبل وهو صائم",
-                    "text_de": "Verschiedene Überlieferungen der Praxis der Bewohner Medinas.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Malik ibn Anas",
-                    "explanation_de": "Malik stützt sich zusätzlich auf die Praxis der Bewohner Medinas (Amal Ahl al-Madina) als eigenständige Rechtsquelle. Die lebende Tradition Medinas zeigt, dass eine Unterscheidung nach Absicht vorgenommen wurde."
-                }
-            ],
-            "historical_context_de": "Malik ibn Anas lebte sein gesamtes Leben in Medina und betrachtete die dortige gelebte Praxis als eine Form der Überlieferung. Sein vermittelnder Ansatz zwischen wörtlicher und metaphorischer Auslegung ist typisch für seine Methodik."
+          "type": "hadith",
+          "reference": "Überliefert bei al-Baihaqi, Sunan al-Kubra",
+          "text_ar": "أن النبي ﷺ قبّل بعض نسائه ثم خرج إلى الصلاة ولم يتوضأ",
+          "text_de": "Es wird berichtet, dass der Prophet ﷺ eine seiner Frauen küsste und dann zum Gebet ging.",
+          "hadith_grade": "sahih",
+          "graded_by": "Al-Baihaqi",
+          "explanation_de": "Die Schafi'iten nutzen weitere Überlieferungen zur Stützung, wobei sie den Koranvers als primären Beweis ansehen."
         }
-    ],
-    "related_questions": [
-        "salah-haende-binden",
-        "tahara-nagellack-gebet",
-        "siyam-zahnpasta-fasten"
-    ],
-    "sources": [
+      ],
+      "historical_context_de": "Imam asch-Schafi'i lebte im 2./3. Jahrhundert n.H. in einer Zeit, in der die systematische Unterscheidung zwischen wörtlicher und metaphorischer Koranauslegung ein zentrales Thema der Rechtsmethodik war. Seine wörtliche Lesart von ‚lamastum' steht im Kontext seines Gesamtansatzes, dem Text des Quran und der Sunna Vorrang vor Analogieschlüssen zu geben."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Wudu ist NICHT gebrochen",
+      "label_ar": "لا ينتقض الوضوء",
+      "description_de": "Bloße Berührung ohne sexuelle Absicht oder Erregung bricht den Wudu nicht.",
+      "scholars": [
+        "abu-hanifa"
+      ],
+      "madhabs": [
+        "hanafi"
+      ],
+      "evidence_chain": [
         {
-            "title": "Kitab al-Umm",
-            "author": "Imam asch-Schafi'i",
-            "url": "https://shamela.ws/book/1655"
+          "type": "quran",
+          "reference": "Sure 5:6 (Al-Ma'ida)",
+          "text_ar": "أَوْ لَامَسْتُمُ النِّسَاءَ",
+          "text_de": "…oder wenn ihr Frauen berührt habt…",
+          "explanation_de": "Abu Hanifa versteht ‚lamastum' (لامستم) metaphorisch als Geschlechtsverkehr, nicht als bloße Berührung. Er stützt sich dabei auf Ibn Abbas (r.a.), der den Vers ebenfalls so interpretierte."
         },
         {
-            "title": "Al-Muwatta",
-            "author": "Imam Malik ibn Anas",
-            "url": "https://sunnah.com/malik"
-        },
-        {
-            "title": "Al-Mabsut",
-            "author": "As-Sarakhsi (Hanafi)",
-            "url": "https://shamela.ws/book/2189"
+          "type": "hadith",
+          "reference": "Sahih Muslim, Nr. 843",
+          "text_ar": "أن النبي ﷺ قبّل بعض نسائه ثم خرج إلى الصلاة ولم يتوضأ",
+          "text_de": "Aischa (r.a.) berichtet: Der Prophet ﷺ küsste eine seiner Frauen und ging dann zum Gebet, ohne den Wudu zu erneuern.",
+          "hadith_grade": "sahih",
+          "graded_by": "Muslim ibn al-Hajjaj",
+          "explanation_de": "Dieser Hadith wird als direkter Beweis angeführt, dass Hautkontakt mit einer Frau den Wudu nicht bricht. Die Hanafiten argumentieren, dass die Praxis des Propheten ﷺ die metaphorische Auslegung des Koranverses bestätigt."
         }
-    ]
+      ],
+      "historical_context_de": "Abu Hanifa war bekannt für seinen Einsatz von Ra'y (eigenständiger Urteilsfindung). Im Irak des 8. Jahrhunderts war die Interaktion zwischen den Geschlechtern im Alltagsleben allgegenwärtig. Seine pragmatische Auslegung spiegelt seine Methodik wider, bei der er Koranverse im Licht der prophetischen Praxis interpretierte."
+    },
+    {
+      "id": "pos-3",
+      "label_de": "Nur bei Absicht/Erregung gebrochen",
+      "label_ar": "ينتقض بالشهوة فقط",
+      "description_de": "Der Wudu wird nur dann gebrochen, wenn die Berührung mit sexueller Absicht oder Erregung erfolgt.",
+      "scholars": [
+        "malik-ibn-anas"
+      ],
+      "madhabs": [
+        "maliki"
+      ],
+      "evidence_chain": [
+        {
+          "type": "quran",
+          "reference": "Sure 5:6 (Al-Ma'ida)",
+          "text_ar": "أَوْ لَامَسْتُمُ النِّسَاءَ",
+          "text_de": "…oder wenn ihr Frauen berührt habt…",
+          "explanation_de": "Malik ibn Anas nimmt eine Mittelposition ein: ‚Lamastum' kann sowohl wörtlich als auch metaphorisch verstanden werden. Entscheidend ist der Kontext – eine lustvolle Berührung fällt unter den Vers, eine zufällige nicht."
+        },
+        {
+          "type": "hadith",
+          "reference": "Al-Muwatta, Kitab at-Tahara",
+          "text_ar": "عن عائشة أن رسول الله ﷺ كان يقبل وهو صائم",
+          "text_de": "Verschiedene Überlieferungen der Praxis der Bewohner Medinas.",
+          "hadith_grade": "sahih",
+          "graded_by": "Malik ibn Anas",
+          "explanation_de": "Malik stützt sich zusätzlich auf die Praxis der Bewohner Medinas (Amal Ahl al-Madina) als eigenständige Rechtsquelle. Die lebende Tradition Medinas zeigt, dass eine Unterscheidung nach Absicht vorgenommen wurde."
+        }
+      ],
+      "historical_context_de": "Malik ibn Anas lebte sein gesamtes Leben in Medina und betrachtete die dortige gelebte Praxis als eine Form der Überlieferung. Sein vermittelnder Ansatz zwischen wörtlicher und metaphorischer Auslegung ist typisch für seine Methodik."
+    }
+  ],
+  "related_questions": [
+    "salah-haende-binden",
+    "tahara-nagellack-gebet",
+    "siyam-zahnpasta-fasten"
+  ],
+  "sources": [
+    {
+      "title": "Kitab al-Umm",
+      "author": "Imam asch-Schafi'i",
+      "url": "https://shamela.ws/book/1655"
+    },
+    {
+      "title": "Al-Muwatta",
+      "author": "Imam Malik ibn Anas",
+      "url": "https://sunnah.com/malik"
+    },
+    {
+      "title": "Al-Mabsut",
+      "author": "As-Sarakhsi (Hanafi)",
+      "url": "https://shamela.ws/book/2189"
+    }
+  ]
 }

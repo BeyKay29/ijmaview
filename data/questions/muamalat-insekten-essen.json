@@ -1,78 +1,83 @@
 {
-    "id": "muamalat-insekten-essen",
-    "slug": "insekten-essen-heuschrecken-islam-urteil",
-    "category": "muamalat",
-    "subcategory": "",
-    "question_de": "Darf man Insekten (Heuschrecken, Grillen, Käfer) essen?",
-    "question_ar": "حكم أكل الحشرات والجراد",
-    "search_aliases": [
-        "Insekten essen Islam",
-        "Heuschrecken Halal",
-        "Grillen essen",
-        "Käfer Haram",
-        "Insektenmehl Islam"
-    ],
-    "context_de": "Mit dem Aufkommen von Insekten als alternative Proteinquelle stellt sich die Frage nach ihrer Erlaubtheit im Islam.",
-    "positions": [
+  "id": "muamalat-insekten-essen",
+  "slug": "insekten-essen-heuschrecken-islam-urteil",
+  "category": "muamalat",
+  "subcategory": "",
+  "question_de": "Darf man Insekten (Heuschrecken, Grillen, Käfer) essen?",
+  "question_ar": "حكم أكل الحشرات والجراد",
+  "search_aliases": [
+    "Insekten essen Islam",
+    "Heuschrecken Halal",
+    "Grillen essen",
+    "Käfer Haram",
+    "Insektenmehl Islam"
+  ],
+  "context_de": "Mit dem Aufkommen von Insekten als alternative Proteinquelle stellt sich die Frage nach ihrer Erlaubtheit im Islam.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Heuschrecken sind Halal (Ausnahme)",
+      "label_ar": "الجراد حلال بالإجماع",
+      "description_de": "Heuschrecken dürfen gegessen werden, auch wenn sie nicht rituell geschlachtet wurden.",
+      "scholars": [
+        "Alle Rechtsschulen (Ijma)"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Heuschrecken sind Halal (Ausnahme)",
-            "label_ar": "الجراد حلال بالإجماع",
-            "description_de": "Heuschrecken dürfen gegessen werden, auch wenn sie nicht rituell geschlachtet wurden.",
-            "scholars": [
-                "Alle Rechtsschulen (Ijma)"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sunan Ibn Majah, Nr. 3218",
-                    "text_ar": "أحلت لنا ميتتان ودمان: الحوت والجراد...",
-                    "text_de": "Zwei Arten von verendeten Tieren und zwei Arten von Blut wurden uns erlaubt: Der Fisch und die Heuschrecke...",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Al-Albani"
-                }
-            ]
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Andere Insekten sind verboten (Khaba'ith)",
-            "label_ar": "الحشرات الأخرى محرمة",
-            "description_de": "Andere Insekten (Käfer, Fliegen, Spinnen) gelten als widerwärtig (Khaba'ith) und sind daher verboten.",
-            "scholars": [
-                "abu-hanifa",
-                "al-shafii",
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "hanafi",
-                "shafii",
-                "hanbali"
-            ],
-            "explanation_de": "Sie fallen unter das allgemeine koranische Verbot von Dingen, die der Mensch als ekelerregend empfindet."
-        },
-        {
-            "id": "pos-3",
-            "label_de": "Andere Insekten sind erlaubt (Minderheit)",
-            "label_ar": "جواز أكل الحشرات عند المالكية",
-            "description_de": "Einige malikitische Gelehrte erlauben den Verzehr von Insekten, sofern sie ‚geschlachtet' werden (z.B. durch Rösten oder Kochen mit Absicht).",
-            "scholars": [
-                "malik-ibn-anas"
-            ],
-            "madhabs": [
-                "maliki"
-            ],
-            "explanation_de": "Solange kein ausdrückliches Verbot vorliegt, gilt die ursprüngliche Erlaubnis (Abaha)."
+          "type": "hadith",
+          "reference": "Sunan Ibn Majah, Nr. 3218",
+          "text_ar": "أحلت لنا ميتتان ودمان: الحوت والجراد...",
+          "text_de": "Zwei Arten von verendeten Tieren und zwei Arten von Blut wurden uns erlaubt: Der Fisch und die Heuschrecke...",
+          "hadith_grade": "sahih",
+          "graded_by": "Al-Albani"
         }
-    ],
-    "related_questions": [
-        "muamalat-meeresfruechte-hanafi",
-        "muamalat-gelatine-schwein"
-    ],
-    "sources": [
-        {
-            "title": "Bidayat al-Mujtahid",
-            "author": "Ibn Rushd",
-            "url": "https://shamela.ws/book/22375"
-        }
-    ]
+      ],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Andere Insekten sind verboten (Khaba'ith)",
+      "label_ar": "الحشرات الأخرى محرمة",
+      "description_de": "Andere Insekten (Käfer, Fliegen, Spinnen) gelten als widerwärtig (Khaba'ith) und sind daher verboten.",
+      "scholars": [
+        "abu-hanifa",
+        "al-shafii",
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "hanafi",
+        "shafii",
+        "hanbali"
+      ],
+      "explanation_de": "Sie fallen unter das allgemeine koranische Verbot von Dingen, die der Mensch als ekelerregend empfindet.",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-3",
+      "label_de": "Andere Insekten sind erlaubt (Minderheit)",
+      "label_ar": "جواز أكل الحشرات عند المالكية",
+      "description_de": "Einige malikitische Gelehrte erlauben den Verzehr von Insekten, sofern sie ‚geschlachtet' werden (z.B. durch Rösten oder Kochen mit Absicht).",
+      "scholars": [
+        "malik-ibn-anas"
+      ],
+      "madhabs": [
+        "maliki"
+      ],
+      "explanation_de": "Solange kein ausdrückliches Verbot vorliegt, gilt die ursprüngliche Erlaubnis (Abaha).",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    }
+  ],
+  "related_questions": [
+    "muamalat-meeresfruechte-hanafi",
+    "muamalat-gelatine-schwein"
+  ],
+  "sources": [
+    {
+      "title": "Bidayat al-Mujtahid",
+      "author": "Ibn Rushd",
+      "url": "https://shamela.ws/book/22375"
+    }
+  ]
 }

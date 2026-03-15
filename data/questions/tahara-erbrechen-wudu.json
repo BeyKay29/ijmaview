@@ -1,87 +1,87 @@
 {
-    "id": "tahara-erbrechen-wudu",
-    "slug": "erbrechen-wudu-brechen-urteil",
-    "category": "tahara",
-    "subcategory": "wudu",
-    "question_de": "Bricht Erbrechen den Wudu?",
-    "question_ar": "هل القيء ينقض الوضوء؟",
-    "search_aliases": [
-        "Erbrechen Wudu",
-        "Wudu brechen Erbrechen",
-        "Mageninhalt Wudu",
-        "Gebetswaschung Erbrechen",
-        "Speien Wudu"
-    ],
-    "context_de": "Die Frage nach dem Erbrechen ist eine klassische Kontroverse zwischen der hanafitischen Schule und der Mehrheit (Schafiiten/Malikiten).",
-    "positions": [
+  "id": "tahara-erbrechen-wudu",
+  "slug": "erbrechen-wudu-brechen-urteil",
+  "category": "tahara",
+  "subcategory": "wudu",
+  "question_de": "Bricht Erbrechen den Wudu?",
+  "question_ar": "هل القيء ينقض الوضوء؟",
+  "search_aliases": [
+    "Erbrechen Wudu",
+    "Wudu brechen Erbrechen",
+    "Mageninhalt Wudu",
+    "Gebetswaschung Erbrechen",
+    "Speien Wudu"
+  ],
+  "context_de": "Die Frage nach dem Erbrechen ist eine klassische Kontroverse zwischen der hanafitischen Schule und der Mehrheit (Schafiiten/Malikiten).",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Erbrechen bricht den Wudu (wenn mundfüllend)",
+      "label_ar": "القيء ينقض الوضوء إذا كان ملء الفم",
+      "description_de": "Erbrechen bricht den Wudu, wenn es in einer Menge geschieht, die den Mund füllt.",
+      "scholars": [
+        "abu-hanifa",
+        "ahmad-ibn-hanbal",
+        "muhammad-shaybani",
+        "abu-yusuf"
+      ],
+      "madhabs": [
+        "hanafi",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Erbrechen bricht den Wudu (wenn mundfüllend)",
-            "label_ar": "القيء ينقض الوضوء إذا كان ملء الفم",
-            "description_de": "Erbrechen bricht den Wudu, wenn es in einer Menge geschieht, die den Mund füllt.",
-            "scholars": [
-                "abu-hanifa",
-                "ahmad-ibn-hanbal",
-                "muhammad-shaybani",
-                "abu-yusuf"
-            ],
-            "madhabs": [
-                "hanafi",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sunan at-Tirmidhi, Nr. 87; Sunan Abu Dawud",
-                    "text_ar": "أن النبي ﷺ قاء فتوضأ",
-                    "text_de": "Der Prophet ﷺ erbrach und machte danach Wudu.",
-                    "hadith_grade": "hasan",
-                    "graded_by": "At-Tirmidhi",
-                    "explanation_de": "Hanafiten und Hanbaliten interpretieren die Handlung des Propheten ﷺ als Beleg für die Notwendigkeit des Wudu nach dem Erbrechen. Abu Hanifa definierte 'mundfüllend' als das Maß, bei dem man den Mund nicht ohne Mühe geschlossen halten kann."
-                }
-            ],
-            "historical_context_de": "Dies ist die Standardmeinung in der hanafitischen Schule. Sie betrachten den Austritt von Unreinheiten (Najas) aus dem Körperinneren grundsätzlich als Wudu-brechend."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Erbrechen bricht den Wudu NICHT",
-            "label_ar": "القيء لا ينقض الوضوء",
-            "description_de": "Erbrechen bricht den Wudu nicht, da es keinen zwingenden Beweis für den Bruch gibt. Die Tat des Propheten ﷺ wird als Empfehlung (Mustahabb) verstanden.",
-            "scholars": [
-                "malik-ibn-anas",
-                "al-shafii",
-                "an-nawawi"
-            ],
-            "madhabs": [
-                "maliki",
-                "shafii"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih Muslim (Prinzip)",
-                    "text_ar": "الأصل بقاء الطهارة",
-                    "text_de": "Die Grundregel ist das Verbleiben im Zustand der Reinheit.",
-                    "explanation_de": "Die Schafiiten argumentieren, dass Wudu nur durch das bricht, was aus den beiden unteren Körperöffnungen austritt. Das Erbrechen des Propheten ﷺ zeigt, dass es erlaubt/gut ist, Wudu zu machen, aber es beweist keine Pflicht (Wujub)."
-                }
-            ],
-            "historical_context_de": "Imam asch-Schafi'i betonte, dass nur das, was als 'Najasa' aus dem Darm oder der Blase austritt, rituell den Wudu bricht."
+          "type": "hadith",
+          "reference": "Sunan at-Tirmidhi, Nr. 87; Sunan Abu Dawud",
+          "text_ar": "أن النبي ﷺ قاء فتوضأ",
+          "text_de": "Der Prophet ﷺ erbrach und machte danach Wudu.",
+          "hadith_grade": "hasan",
+          "graded_by": "At-Tirmidhi",
+          "explanation_de": "Hanafiten und Hanbaliten interpretieren die Handlung des Propheten ﷺ als Beleg für die Notwendigkeit des Wudu nach dem Erbrechen. Abu Hanifa definierte 'mundfüllend' als das Maß, bei dem man den Mund nicht ohne Mühe geschlossen halten kann."
         }
-    ],
-    "related_questions": [
-        "tahara-blut-wudu",
-        "tahara-beruehrung-wudu"
-    ],
-    "sources": [
+      ],
+      "historical_context_de": "Dies ist die Standardmeinung in der hanafitischen Schule. Sie betrachten den Austritt von Unreinheiten (Najas) aus dem Körperinneren grundsätzlich als Wudu-brechend."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Erbrechen bricht den Wudu NICHT",
+      "label_ar": "القيء لا ينقض الوضوء",
+      "description_de": "Erbrechen bricht den Wudu nicht, da es keinen zwingenden Beweis für den Bruch gibt. Die Tat des Propheten ﷺ wird als Empfehlung (Mustahabb) verstanden.",
+      "scholars": [
+        "malik-ibn-anas",
+        "al-shafii",
+        "an-nawawi"
+      ],
+      "madhabs": [
+        "maliki",
+        "shafii"
+      ],
+      "evidence_chain": [
         {
-            "title": "Al-Majmu'",
-            "author": "Imam an-Nawawi",
-            "url": "https://shamela.ws/book/384"
-        },
-        {
-            "title": "Al-Hidaya",
-            "author": "Al-Marghinani",
-            "url": "https://shamela.ws/book/913"
+          "type": "hadith",
+          "reference": "Sahih Muslim (Prinzip)",
+          "text_ar": "الأصل بقاء الطهارة",
+          "text_de": "Die Grundregel ist das Verbleiben im Zustand der Reinheit.",
+          "explanation_de": "Die Schafiiten argumentieren, dass Wudu nur durch das bricht, was aus den beiden unteren Körperöffnungen austritt. Das Erbrechen des Propheten ﷺ zeigt, dass es erlaubt/gut ist, Wudu zu machen, aber es beweist keine Pflicht (Wujub)."
         }
-    ]
+      ],
+      "historical_context_de": "Imam asch-Schafi'i betonte, dass nur das, was als 'Najasa' aus dem Darm oder der Blase austritt, rituell den Wudu bricht."
+    }
+  ],
+  "related_questions": [
+    "tahara-blut-wudu",
+    "tahara-beruehrung-wudu"
+  ],
+  "sources": [
+    {
+      "title": "Al-Majmu'",
+      "author": "Imam an-Nawawi",
+      "url": "https://shamela.ws/book/384"
+    },
+    {
+      "title": "Al-Hidaya",
+      "author": "Al-Marghinani",
+      "url": "https://shamela.ws/book/913"
+    }
+  ]
 }

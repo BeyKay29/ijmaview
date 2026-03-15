@@ -1,133 +1,133 @@
 {
-    "id": "salah-basmala-fatiha",
-    "slug": "basmala-fatiha-laut-leise",
-    "category": "salah",
-    "subcategory": "ablauf",
-    "question_de": "Soll die Basmala vor der Fatiha im Gebet laut oder leise gesprochen werden?",
-    "question_ar": "هل تُقرأ البسملة قبل الفاتحة جهراً أم سراً في الصلاة؟",
-    "search_aliases": [
-        "Basmala Fatiha laut",
-        "Bismillah Gebet laut leise",
-        "Basmala rezitieren Gebet",
-        "Bismillahirrahmanirrahim Fatiha",
-        "Basmala Teil Fatiha",
-        "Basmala Pflichtgebet"
-    ],
-    "context_de": "Die Frage, ob die Basmala (Bismillahir-Rahmanir-Rahim) vor der Fatiha im Gebet laut rezitiert werden soll, ist eine der ältesten Streitfragen im Fiqh. Sie hängt eng mit der Frage zusammen, ob die Basmala überhaupt ein Vers der Fatiha ist.",
-    "positions": [
+  "id": "salah-basmala-fatiha",
+  "slug": "basmala-fatiha-laut-leise",
+  "category": "salah",
+  "subcategory": "ablauf",
+  "question_de": "Soll die Basmala vor der Fatiha im Gebet laut oder leise gesprochen werden?",
+  "question_ar": "هل تُقرأ البسملة قبل الفاتحة جهراً أم سراً في الصلاة؟",
+  "search_aliases": [
+    "Basmala Fatiha laut",
+    "Bismillah Gebet laut leise",
+    "Basmala rezitieren Gebet",
+    "Bismillahirrahmanirrahim Fatiha",
+    "Basmala Teil Fatiha",
+    "Basmala Pflichtgebet"
+  ],
+  "context_de": "Die Frage, ob die Basmala (Bismillahir-Rahmanir-Rahim) vor der Fatiha im Gebet laut rezitiert werden soll, ist eine der ältesten Streitfragen im Fiqh. Sie hängt eng mit der Frage zusammen, ob die Basmala überhaupt ein Vers der Fatiha ist.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Basmala ist Teil der Fatiha und wird laut rezitiert",
+      "label_ar": "البسملة آية من الفاتحة وتُجهر بها",
+      "description_de": "Die Basmala ist ein eigenständiger Vers der Fatiha und muss in den lauten Gebeten (Fajr, Maghrib, Ischa) hörbar rezitiert werden.",
+      "scholars": [
+        "al-shafii"
+      ],
+      "madhabs": [
+        "shafii"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Basmala ist Teil der Fatiha und wird laut rezitiert",
-            "label_ar": "البسملة آية من الفاتحة وتُجهر بها",
-            "description_de": "Die Basmala ist ein eigenständiger Vers der Fatiha und muss in den lauten Gebeten (Fajr, Maghrib, Ischa) hörbar rezitiert werden.",
-            "scholars": [
-                "al-shafii"
-            ],
-            "madhabs": [
-                "shafii"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih Muslim, Nr. 399; Sunan an-Nasa'i, Nr. 904",
-                    "text_ar": "عن أنس رضي الله عنه قال: صليت خلف النبي ﷺ وأبي بكر وعمر فكانوا يستفتحون بالحمد لله رب العالمين",
-                    "text_de": "Anas (r.a.) berichtet: Ich betete hinter dem Propheten ﷺ, Abu Bakr und Umar, und sie begannen mit ‚Al-hamdu lillahi Rabbil-alamin'.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Muslim ibn al-Hajjaj",
-                    "explanation_de": "Die Schafiiten interpretieren andere Überlieferungen, die belegen, dass der Prophet ﷺ die Basmala rezitierte, als Beweis dafür, dass sie Teil der Fatiha ist. Sie argumentieren, dass Anas sich nur auf das laute Hören bezog, nicht auf das Weglassen der Basmala."
-                },
-                {
-                    "type": "hadith",
-                    "reference": "Sunan ad-Daraqutni, Nr. 1192",
-                    "text_ar": "أن النبي ﷺ كان يجهر ببسم الله الرحمن الرحيم",
-                    "text_de": "Abu Huraira (r.a.) berichtet, dass der Prophet ﷺ Bismillahir-Rahmanir-Rahim laut rezitierte.",
-                    "hadith_grade": "hasan",
-                    "graded_by": "Ad-Daraqutni",
-                    "explanation_de": "Imam asch-Schafi'i führt mehrere Überlieferungen an, die das laute Rezitieren der Basmala durch den Propheten ﷺ belegen. Er betrachtet die Basmala als den ersten Vers der Fatiha und als integralen Bestandteil jeder Sure außer Sure at-Tawba."
-                }
-            ],
-            "historical_context_de": "Die schafiitische Position wird durch die Praxis der mekkanischen Gelehrten gestützt. Imam asch-Schafi'i, der in Mekka studierte, übernahm diese Tradition. Die Frage der Zugehörigkeit der Basmala zur Fatiha war eines der meistdiskutierten Themen in den ersten Jahrhunderten des Islam."
+          "type": "hadith",
+          "reference": "Sahih Muslim, Nr. 399; Sunan an-Nasa'i, Nr. 904",
+          "text_ar": "عن أنس رضي الله عنه قال: صليت خلف النبي ﷺ وأبي بكر وعمر فكانوا يستفتحون بالحمد لله رب العالمين",
+          "text_de": "Anas (r.a.) berichtet: Ich betete hinter dem Propheten ﷺ, Abu Bakr und Umar, und sie begannen mit ‚Al-hamdu lillahi Rabbil-alamin'.",
+          "hadith_grade": "sahih",
+          "graded_by": "Muslim ibn al-Hajjaj",
+          "explanation_de": "Die Schafiiten interpretieren andere Überlieferungen, die belegen, dass der Prophet ﷺ die Basmala rezitierte, als Beweis dafür, dass sie Teil der Fatiha ist. Sie argumentieren, dass Anas sich nur auf das laute Hören bezog, nicht auf das Weglassen der Basmala."
         },
         {
-            "id": "pos-2",
-            "label_de": "Basmala wird leise gesprochen",
-            "label_ar": "البسملة تُقرأ سراً",
-            "description_de": "Die Basmala wird vor der Fatiha rezitiert, aber leise (sirr), nicht laut. Sie ist kein eigenständiger Vers der Fatiha, sondern dient als Einleitung.",
-            "scholars": [
-                "abu-hanifa",
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "hanafi",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih Muslim, Nr. 399",
-                    "text_ar": "عن أنس رضي الله عنه قال: صليت خلف النبي ﷺ وأبي بكر وعمر وعثمان فكانوا يستفتحون بالحمد لله رب العالمين لا يذكرون بسم الله الرحمن الرحيم في أول قراءة ولا في آخرها",
-                    "text_de": "Anas (r.a.) berichtet: Ich betete hinter dem Propheten ﷺ, Abu Bakr, Umar und Uthman – sie begannen mit ‚Al-hamdu lillahi Rabbil-alamin' und erwähnten ‚Bismillahir-Rahmanir-Rahim' weder am Anfang noch am Ende der Rezitation.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Muslim ibn al-Hajjaj",
-                    "explanation_de": "Die Hanafiten und Hanbaliten verstehen diesen Hadith so, dass die Basmala nicht laut rezitiert wurde. Sie argumentieren, dass ‚nicht erwähnen' bedeutet, dass sie leise gesprochen wurde und nicht als offizieller Vers der Fatiha betrachtet wird."
-                }
-            ],
-            "historical_context_de": "Die kufische Gelehrtentradition, aus der Abu Hanifa stammte, bevorzugte das leise Sprechen der Basmala. Auch die medinensische Tradition unter Ahmad ibn Hanbal folgte dieser Praxis. Historisch war dies die Praxis der Mehrheit der Gefährten."
-        },
-        {
-            "id": "pos-3",
-            "label_de": "Basmala ist kein Vers der Fatiha – sie wird gar nicht rezitiert",
-            "label_ar": "البسملة ليست آية من الفاتحة – ولا تُقرأ",
-            "description_de": "Die Basmala ist weder ein Vers der Fatiha noch einer anderen Sure (außer an-Naml). Im Gebet wird die Fatiha direkt mit ‚Al-hamdu lillahi Rabbil-alamin' begonnen.",
-            "scholars": [
-                "malik-ibn-anas"
-            ],
-            "madhabs": [
-                "maliki"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih Muslim, Nr. 399",
-                    "text_ar": "عن أنس رضي الله عنه قال: صليت خلف النبي ﷺ وأبي بكر وعمر فكانوا يستفتحون بالحمد لله رب العالمين",
-                    "text_de": "Anas (r.a.) berichtet: Sie begannen mit ‚Al-hamdu lillahi Rabbil-alamin'.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Muslim ibn al-Hajjaj",
-                    "explanation_de": "Malik versteht diesen Hadith wörtlich: Die Basmala wurde weder laut noch leise im Pflichtgebet rezitiert. Er folgt der Praxis der Bewohner Medinas, die das Gebet direkt mit der Fatiha begannen."
-                },
-                {
-                    "type": "hadith",
-                    "reference": "Al-Muwatta, Kitab as-Salah",
-                    "text_ar": "أن أهل المدينة كانوا لا يقرؤون بسم الله الرحمن الرحيم",
-                    "text_de": "Die Bewohner Medinas pflegten ‚Bismillahir-Rahmanir-Rahim' nicht zu rezitieren (im Gebet vor der Fatiha).",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Malik ibn Anas",
-                    "explanation_de": "Die lebende Praxis Medinas ist für Malik eine eigenständige und starke Rechtsquelle. Da die Medinenser die Basmala im Pflichtgebet nicht rezitierten, betrachtet Malik dies als korrekte Praxis."
-                }
-            ],
-            "historical_context_de": "Maliks Position spiegelt die strikte Befolgung der medinensischen Praxis wider. Die Bewohner Medinas, als direkte Erben der prophetischen Tradition, rezitierten die Basmala nicht im Pflichtgebet – und für Malik war dies der stärkste Beweis überhaupt."
+          "type": "hadith",
+          "reference": "Sunan ad-Daraqutni, Nr. 1192",
+          "text_ar": "أن النبي ﷺ كان يجهر ببسم الله الرحمن الرحيم",
+          "text_de": "Abu Huraira (r.a.) berichtet, dass der Prophet ﷺ Bismillahir-Rahmanir-Rahim laut rezitierte.",
+          "hadith_grade": "hasan",
+          "graded_by": "Ad-Daraqutni",
+          "explanation_de": "Imam asch-Schafi'i führt mehrere Überlieferungen an, die das laute Rezitieren der Basmala durch den Propheten ﷺ belegen. Er betrachtet die Basmala als den ersten Vers der Fatiha und als integralen Bestandteil jeder Sure außer Sure at-Tawba."
         }
-    ],
-    "related_questions": [
-        "salah-haende-binden",
-        "tahara-beruehrung-wudu",
-        "salah-qunut-fajr"
-    ],
-    "sources": [
+      ],
+      "historical_context_de": "Die schafiitische Position wird durch die Praxis der mekkanischen Gelehrten gestützt. Imam asch-Schafi'i, der in Mekka studierte, übernahm diese Tradition. Die Frage der Zugehörigkeit der Basmala zur Fatiha war eines der meistdiskutierten Themen in den ersten Jahrhunderten des Islam."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Basmala wird leise gesprochen",
+      "label_ar": "البسملة تُقرأ سراً",
+      "description_de": "Die Basmala wird vor der Fatiha rezitiert, aber leise (sirr), nicht laut. Sie ist kein eigenständiger Vers der Fatiha, sondern dient als Einleitung.",
+      "scholars": [
+        "abu-hanifa",
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "hanafi",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
-            "author": "Kuwaiti Ministry of Awqaf",
-            "url": "https://islamweb.net"
-        },
-        {
-            "title": "Al-Majmu' Sharh al-Muhadhdhab",
-            "author": "Imam an-Nawawi",
-            "url": "https://shamela.ws/book/384"
-        },
-        {
-            "title": "Bidayat al-Mujtahid",
-            "author": "Ibn Rushd",
-            "url": "https://shamela.ws/book/22375"
+          "type": "hadith",
+          "reference": "Sahih Muslim, Nr. 399",
+          "text_ar": "عن أنس رضي الله عنه قال: صليت خلف النبي ﷺ وأبي بكر وعمر وعثمان فكانوا يستفتحون بالحمد لله رب العالمين لا يذكرون بسم الله الرحمن الرحيم في أول قراءة ولا في آخرها",
+          "text_de": "Anas (r.a.) berichtet: Ich betete hinter dem Propheten ﷺ, Abu Bakr, Umar und Uthman – sie begannen mit ‚Al-hamdu lillahi Rabbil-alamin' und erwähnten ‚Bismillahir-Rahmanir-Rahim' weder am Anfang noch am Ende der Rezitation.",
+          "hadith_grade": "sahih",
+          "graded_by": "Muslim ibn al-Hajjaj",
+          "explanation_de": "Die Hanafiten und Hanbaliten verstehen diesen Hadith so, dass die Basmala nicht laut rezitiert wurde. Sie argumentieren, dass ‚nicht erwähnen' bedeutet, dass sie leise gesprochen wurde und nicht als offizieller Vers der Fatiha betrachtet wird."
         }
-    ]
+      ],
+      "historical_context_de": "Die kufische Gelehrtentradition, aus der Abu Hanifa stammte, bevorzugte das leise Sprechen der Basmala. Auch die medinensische Tradition unter Ahmad ibn Hanbal folgte dieser Praxis. Historisch war dies die Praxis der Mehrheit der Gefährten."
+    },
+    {
+      "id": "pos-3",
+      "label_de": "Basmala ist kein Vers der Fatiha – sie wird gar nicht rezitiert",
+      "label_ar": "البسملة ليست آية من الفاتحة – ولا تُقرأ",
+      "description_de": "Die Basmala ist weder ein Vers der Fatiha noch einer anderen Sure (außer an-Naml). Im Gebet wird die Fatiha direkt mit ‚Al-hamdu lillahi Rabbil-alamin' begonnen.",
+      "scholars": [
+        "malik-ibn-anas"
+      ],
+      "madhabs": [
+        "maliki"
+      ],
+      "evidence_chain": [
+        {
+          "type": "hadith",
+          "reference": "Sahih Muslim, Nr. 399",
+          "text_ar": "عن أنس رضي الله عنه قال: صليت خلف النبي ﷺ وأبي بكر وعمر فكانوا يستفتحون بالحمد لله رب العالمين",
+          "text_de": "Anas (r.a.) berichtet: Sie begannen mit ‚Al-hamdu lillahi Rabbil-alamin'.",
+          "hadith_grade": "sahih",
+          "graded_by": "Muslim ibn al-Hajjaj",
+          "explanation_de": "Malik versteht diesen Hadith wörtlich: Die Basmala wurde weder laut noch leise im Pflichtgebet rezitiert. Er folgt der Praxis der Bewohner Medinas, die das Gebet direkt mit der Fatiha begannen."
+        },
+        {
+          "type": "hadith",
+          "reference": "Al-Muwatta, Kitab as-Salah",
+          "text_ar": "أن أهل المدينة كانوا لا يقرؤون بسم الله الرحمن الرحيم",
+          "text_de": "Die Bewohner Medinas pflegten ‚Bismillahir-Rahmanir-Rahim' nicht zu rezitieren (im Gebet vor der Fatiha).",
+          "hadith_grade": "sahih",
+          "graded_by": "Malik ibn Anas",
+          "explanation_de": "Die lebende Praxis Medinas ist für Malik eine eigenständige und starke Rechtsquelle. Da die Medinenser die Basmala im Pflichtgebet nicht rezitierten, betrachtet Malik dies als korrekte Praxis."
+        }
+      ],
+      "historical_context_de": "Maliks Position spiegelt die strikte Befolgung der medinensischen Praxis wider. Die Bewohner Medinas, als direkte Erben der prophetischen Tradition, rezitierten die Basmala nicht im Pflichtgebet – und für Malik war dies der stärkste Beweis überhaupt."
+    }
+  ],
+  "related_questions": [
+    "salah-haende-binden",
+    "tahara-beruehrung-wudu",
+    "salah-qunut-fajr"
+  ],
+  "sources": [
+    {
+      "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
+      "author": "Kuwaiti Ministry of Awqaf",
+      "url": "https://islamweb.net"
+    },
+    {
+      "title": "Al-Majmu' Sharh al-Muhadhdhab",
+      "author": "Imam an-Nawawi",
+      "url": "https://shamela.ws/book/384"
+    },
+    {
+      "title": "Bidayat al-Mujtahid",
+      "author": "Ibn Rushd",
+      "url": "https://shamela.ws/book/22375"
+    }
+  ]
 }

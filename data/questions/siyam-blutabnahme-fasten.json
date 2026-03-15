@@ -1,94 +1,94 @@
 {
-    "id": "siyam-hijama-fasten",
-    "slug": "hijama-blutabnehmen-fasten-brechend",
-    "category": "siyam",
-    "subcategory": "",
-    "question_de": "Bricht Hijama (Schröpfen) oder eine Blutabnahme das Fasten?",
-    "question_ar": "هل الحجامة تفطر الصائم؟",
-    "search_aliases": [
-        "Hijama Fasten",
-        "Schröpfen Ramadan",
-        "Blutabnahme Fasten",
-        "Blut spenden Fasten",
-        "Hijama fatur"
-    ],
-    "context_de": "Hijama ist eine prophetische Heilmethode. Ob der damit verbundene Blutverlust das Fasten bricht, ist eine klassische Kontroverse zwischen der hanbalitischen Schule und der Mehrheit.",
-    "positions": [
+  "id": "siyam-hijama-fasten",
+  "slug": "hijama-blutabnehmen-fasten-brechend",
+  "category": "siyam",
+  "subcategory": "",
+  "question_de": "Bricht Hijama (Schröpfen) oder eine Blutabnahme das Fasten?",
+  "question_ar": "هل الحجامة تفطر الصائم؟",
+  "search_aliases": [
+    "Hijama Fasten",
+    "Schröpfen Ramadan",
+    "Blutabnahme Fasten",
+    "Blut spenden Fasten",
+    "Hijama fatur"
+  ],
+  "context_de": "Hijama ist eine prophetische Heilmethode. Ob der damit verbundene Blutverlust das Fasten bricht, ist eine klassische Kontroverse zwischen der hanbalitischen Schule und der Mehrheit.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Hijama bricht das Fasten",
+      "label_ar": "الحجامة تفطر الصائم",
+      "description_de": "Sowohl der Schröpfende als auch der Geschröpfte brechen durch die Hijama ihr Fasten.",
+      "scholars": [
+        "ahmad-ibn-hanbal",
+        "ibn-taymiyya",
+        "ibn-qayyim"
+      ],
+      "madhabs": [
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Hijama bricht das Fasten",
-            "label_ar": "الحجامة تفطر الصائم",
-            "description_de": "Sowohl der Schröpfende als auch der Geschröpfte brechen durch die Hijama ihr Fasten.",
-            "scholars": [
-                "ahmad-ibn-hanbal",
-                "ibn-taymiyya",
-                "ibn-qayyim"
-            ],
-            "madhabs": [
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sunan Abu Dawud, Nr. 2367; Sunan at-Tirmidhi",
-                    "text_ar": "أفطر الحاجم والمحجوم",
-                    "text_de": "Der Schröpfende und der Geschröpfte haben ihr Fasten gebrochen.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Ahmad ibn Hanbal / Al-Bukhari",
-                    "explanation_de": "Die Hanbaliten nehmen diesen Hadith wörtlich und als später geoffenbart/gültig an. Blutabnahmen für medizinische Zwecke werden oft analog dazu als fastenbrechend (wenn in großer Menge) oder kritisch betrachtet."
-                }
-            ],
-            "historical_context_de": "Ahmad ibn Hanbal betrachtete diesen Hadith als den stärksten zu diesem Thema. Es ist ein Alleinstellungsmerkmal der hanbalitischen Rechtsschule."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Hijama bricht das Fasten NICHT",
-            "label_ar": "الحجامة لا تفطر الصائم",
-            "description_de": "Hijama und Blutabnahmen brechen das Fasten nicht. Das Fasten wird durch das Einführen von Dingen in den Körper gebrochen, nicht durch das Ausscheiden.",
-            "scholars": [
-                "abu-hanifa",
-                "malik-ibn-anas",
-                "al-shafii",
-                "an-nawawi"
-            ],
-            "madhabs": [
-                "hanafi",
-                "maliki",
-                "shafii"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih al-Bukhari, Nr. 1939",
-                    "text_ar": "أن النبي ﷺ احتجم وهو صائم",
-                    "text_de": "Der Prophet ﷺ ließ sich schröpfen, während er fastete.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Al-Bukhari",
-                    "explanation_de": "Die Mehrheit argumentiert mit dieser späteren Tat des Propheten ﷺ, die den vorherigen Befehl aufhob (Abrogation/Naskh) oder zeigte, dass das Verbot nur der Sorge um die körperliche Schwäche galt."
-                }
-            ],
-            "historical_context_de": "Die Mehrheitsposition bietet Erleichterung für medizinische Tests im Ramadan. Das Schröpfen wird jedoch als verpönt (Makruh) angesehen, wenn es den Fastenden zu stark schwächt."
+          "type": "hadith",
+          "reference": "Sunan Abu Dawud, Nr. 2367; Sunan at-Tirmidhi",
+          "text_ar": "أفطر الحاجم والمحجوم",
+          "text_de": "Der Schröpfende und der Geschröpfte haben ihr Fasten gebrochen.",
+          "hadith_grade": "sahih",
+          "graded_by": "Ahmad ibn Hanbal / Al-Bukhari",
+          "explanation_de": "Die Hanbaliten nehmen diesen Hadith wörtlich und als später geoffenbart/gültig an. Blutabnahmen für medizinische Zwecke werden oft analog dazu als fastenbrechend (wenn in großer Menge) oder kritisch betrachtet."
         }
-    ],
-    "related_questions": [
-        "siyam-zahnpasta-fasten",
-        "siyam-augentropfen-fasten"
-    ],
-    "sources": [
+      ],
+      "historical_context_de": "Ahmad ibn Hanbal betrachtete diesen Hadith als den stärksten zu diesem Thema. Es ist ein Alleinstellungsmerkmal der hanbalitischen Rechtsschule."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Hijama bricht das Fasten NICHT",
+      "label_ar": "الحجامة لا تفطر الصائم",
+      "description_de": "Hijama und Blutabnahmen brechen das Fasten nicht. Das Fasten wird durch das Einführen von Dingen in den Körper gebrochen, nicht durch das Ausscheiden.",
+      "scholars": [
+        "abu-hanifa",
+        "malik-ibn-anas",
+        "al-shafii",
+        "an-nawawi"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki",
+        "shafii"
+      ],
+      "evidence_chain": [
         {
-            "title": "Bidayat al-Mujtahid",
-            "author": "Ibn Rushd",
-            "url": "https://shamela.ws/book/22375"
-        },
-        {
-            "title": "Al-Mughni",
-            "author": "Ibn Qudama",
-            "url": "https://shamela.ws/book/6946"
-        },
-        {
-            "title": "Sharh Sahih Muslim",
-            "author": "Imam an-Nawawi",
-            "url": "https://shamela.ws/book/1711"
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari, Nr. 1939",
+          "text_ar": "أن النبي ﷺ احتجم وهو صائم",
+          "text_de": "Der Prophet ﷺ ließ sich schröpfen, während er fastete.",
+          "hadith_grade": "sahih",
+          "graded_by": "Al-Bukhari",
+          "explanation_de": "Die Mehrheit argumentiert mit dieser späteren Tat des Propheten ﷺ, die den vorherigen Befehl aufhob (Abrogation/Naskh) oder zeigte, dass das Verbot nur der Sorge um die körperliche Schwäche galt."
         }
-    ]
+      ],
+      "historical_context_de": "Die Mehrheitsposition bietet Erleichterung für medizinische Tests im Ramadan. Das Schröpfen wird jedoch als verpönt (Makruh) angesehen, wenn es den Fastenden zu stark schwächt."
+    }
+  ],
+  "related_questions": [
+    "siyam-zahnpasta-fasten",
+    "siyam-augentropfen-fasten"
+  ],
+  "sources": [
+    {
+      "title": "Bidayat al-Mujtahid",
+      "author": "Ibn Rushd",
+      "url": "https://shamela.ws/book/22375"
+    },
+    {
+      "title": "Al-Mughni",
+      "author": "Ibn Qudama",
+      "url": "https://shamela.ws/book/6946"
+    },
+    {
+      "title": "Sharh Sahih Muslim",
+      "author": "Imam an-Nawawi",
+      "url": "https://shamela.ws/book/1711"
+    }
+  ]
 }

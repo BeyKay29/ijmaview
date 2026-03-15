@@ -1,131 +1,131 @@
 {
-    "id": "siyam-zahnpasta-fasten",
-    "slug": "zahnpasta-fasten-ramadan",
-    "category": "siyam",
-    "subcategory": "",
-    "question_de": "Bricht Zähneputzen mit Zahnpasta das Fasten?",
-    "question_ar": "هل تنظيف الأسنان بالمعجون يفطر الصائم؟",
-    "search_aliases": [
-        "Zähneputzen Fasten",
-        "Zahnpasta Ramadan",
-        "Zähne putzen Fasten brechen",
-        "Zahnbürste Ramadan",
-        "Mundpflege Fasten",
-        "Zahnpasta verschlucken Fasten"
-    ],
-    "context_de": "Eine alltägliche Frage, die besonders im Ramadan viele Muslime beschäftigt. Die Gelehrten unterscheiden zwischen dem Gebrauch des Siwak (natürliche Zahnbürste) und moderner Zahnpasta.",
-    "positions": [
+  "id": "siyam-zahnpasta-fasten",
+  "slug": "zahnpasta-fasten-ramadan",
+  "category": "siyam",
+  "subcategory": "",
+  "question_de": "Bricht Zähneputzen mit Zahnpasta das Fasten?",
+  "question_ar": "هل تنظيف الأسنان بالمعجون يفطر الصائم؟",
+  "search_aliases": [
+    "Zähneputzen Fasten",
+    "Zahnpasta Ramadan",
+    "Zähne putzen Fasten brechen",
+    "Zahnbürste Ramadan",
+    "Mundpflege Fasten",
+    "Zahnpasta verschlucken Fasten"
+  ],
+  "context_de": "Eine alltägliche Frage, die besonders im Ramadan viele Muslime beschäftigt. Die Gelehrten unterscheiden zwischen dem Gebrauch des Siwak (natürliche Zahnbürste) und moderner Zahnpasta.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Erlaubt, solange nichts verschluckt wird",
+      "label_ar": "جائز بشرط عدم البلع",
+      "description_de": "Das Zähneputzen mit Zahnpasta ist erlaubt, solange der Fastende darauf achtet, nichts davon zu verschlucken. Die bloße Verwendung im Mund bricht das Fasten nicht.",
+      "scholars": [
+        "abu-hanifa",
+        "al-shafii"
+      ],
+      "madhabs": [
+        "hanafi",
+        "shafii"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Erlaubt, solange nichts verschluckt wird",
-            "label_ar": "جائز بشرط عدم البلع",
-            "description_de": "Das Zähneputzen mit Zahnpasta ist erlaubt, solange der Fastende darauf achtet, nichts davon zu verschlucken. Die bloße Verwendung im Mund bricht das Fasten nicht.",
-            "scholars": [
-                "abu-hanifa",
-                "al-shafii"
-            ],
-            "madhabs": [
-                "hanafi",
-                "shafii"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih al-Bukhari, Nr. 1934; Sahih Muslim, Nr. 1151",
-                    "text_ar": "كان رسول الله ﷺ يستاك وهو صائم",
-                    "text_de": "Der Prophet ﷺ pflegte den Siwak zu benutzen, während er fastete.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Al-Bukhari / Muslim",
-                    "explanation_de": "Diese mutawatir überlieferte Praxis des Propheten ﷺ zeigt, dass Mundreinigung während des Fastens grundsätzlich erlaubt ist. Die Hanafiten und Schafiiten leiten daraus ab, dass auch moderne Zahnpasta erlaubt ist, solange nichts verschluckt wird."
-                },
-                {
-                    "type": "quran",
-                    "reference": "Sure 2:187 (Al-Baqara)",
-                    "text_ar": "وَكُلُوا وَاشْرَبُوا حَتَّىٰ يَتَبَيَّنَ لَكُمُ الْخَيْطُ الْأَبْيَضُ مِنَ الْخَيْطِ الْأَسْوَدِ مِنَ الْفَجْرِ",
-                    "text_de": "Und esst und trinkt, bis der weiße Faden der Morgendämmerung sich für euch vom schwarzen Faden unterscheidet…",
-                    "explanation_de": "Das Fasten wird durch absichtliches Essen und Trinken gebrochen. Zahnpasta, die nicht verschluckt wird, fällt nicht unter diese Kategorie."
-                }
-            ],
-            "historical_context_de": "Die Gelehrten der hanafitischen und schafiitischen Schule wenden hier das Prinzip an, dass das Fasten nur durch das absichtliche Einführen von Substanzen in den Magen gebrochen wird. Die Verwendung des Siwak war eine Gewohnheit des Propheten ﷺ, die auf die Erlaubtheit von Mundhygiene während des Fastens hinweist."
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari, Nr. 1934; Sahih Muslim, Nr. 1151",
+          "text_ar": "كان رسول الله ﷺ يستاك وهو صائم",
+          "text_de": "Der Prophet ﷺ pflegte den Siwak zu benutzen, während er fastete.",
+          "hadith_grade": "sahih",
+          "graded_by": "Al-Bukhari / Muslim",
+          "explanation_de": "Diese mutawatir überlieferte Praxis des Propheten ﷺ zeigt, dass Mundreinigung während des Fastens grundsätzlich erlaubt ist. Die Hanafiten und Schafiiten leiten daraus ab, dass auch moderne Zahnpasta erlaubt ist, solange nichts verschluckt wird."
         },
         {
-            "id": "pos-2",
-            "label_de": "Erlaubt, aber makruh (unerwünscht) nach dem Mittag",
-            "label_ar": "جائز لكنه مكروه بعد الزوال",
-            "description_de": "Das Zähneputzen ist grundsätzlich erlaubt, wird aber nach Mittag als makruh (unerwünscht) betrachtet, da der Mundgeruch des Fastenden bei Allah beliebt ist.",
-            "scholars": [
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih al-Bukhari, Nr. 1894; Sahih Muslim, Nr. 1151",
-                    "text_ar": "لَخُلُوفُ فَمِ الصائمِ أطيبُ عندَ اللهِ من ريحِ المسكِ",
-                    "text_de": "Der Mundgeruch des Fastenden ist bei Allah angenehmer als der Geruch von Moschus.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Al-Bukhari / Muslim",
-                    "explanation_de": "Die Hanbaliten argumentieren, dass der Mundgeruch des Fastenden (Khuluf) nach dem Mittag als Zeichen des Fastens geschätzt wird. Daher ist das Entfernen dieses Geruchs durch Zahnpasta unerwünscht, wenn auch nicht verboten."
-                },
-                {
-                    "type": "hadith",
-                    "reference": "Sahih al-Bukhari, Nr. 1934",
-                    "text_ar": "كان رسول الله ﷺ يستاك وهو صائم",
-                    "text_de": "Der Prophet ﷺ benutzte den Siwak während des Fastens.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Al-Bukhari",
-                    "explanation_de": "Obwohl die grundsätzliche Erlaubtheit des Siwak anerkannt wird, beschränken die Hanbaliten die uneingeschränkte Empfehlung auf die Zeit vor dem Mittag."
-                }
-            ],
-            "historical_context_de": "Ahmad ibn Hanbal war für seine besondere Vorsicht (Wara') bekannt. Seine vorsichtigere Position zum Zähneputzen nach dem Mittag spiegelt sein Bestreben wider, bei Zweifeln die sicherere Option zu wählen."
-        },
-        {
-            "id": "pos-3",
-            "label_de": "Siwak erlaubt, Zahnpasta vermeiden",
-            "label_ar": "السواك جائز واجتناب المعجون أولى",
-            "description_de": "Der Siwak ist jederzeit während des Fastens erlaubt, jedoch sollte moderne Zahnpasta mit starkem Geschmack vermieden werden, da die Gefahr des unbeabsichtigten Verschluckens besteht.",
-            "scholars": [
-                "malik-ibn-anas"
-            ],
-            "madhabs": [
-                "maliki"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Al-Muwatta, Kitab as-Siyam",
-                    "text_ar": "عن عامر بن ربيعة قال: رأيت رسول الله ﷺ ما لا أحصي يتسوك وهو صائم",
-                    "text_de": "Amir ibn Rabi'a berichtet: Ich sah den Propheten ﷺ unzählige Male den Siwak benutzen, während er fastete.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Malik ibn Anas",
-                    "explanation_de": "Malik erlaubt den natürlichen Siwak uneingeschränkt während des Fastens. Bei Zahnpasta empfiehlt er Vorsicht, da deren Geschmack und Konsistenz das versehentliche Verschlucken wahrscheinlicher machen."
-                }
-            ],
-            "historical_context_de": "In Maliks Methodik spielt das Prinzip ‚Sadd adh-Dhara'i' (Verschließen der Mittel, die zu Verbotenem führen können) eine zentrale Rolle. Die vorsichtige Haltung gegenüber Zahnpasta folgt diesem Prinzip: Obwohl Mundhygiene erlaubt ist, sollte man Situationen vermeiden, die zum versehentlichen Fastenbruch führen könnten."
+          "type": "quran",
+          "reference": "Sure 2:187 (Al-Baqara)",
+          "text_ar": "وَكُلُوا وَاشْرَبُوا حَتَّىٰ يَتَبَيَّنَ لَكُمُ الْخَيْطُ الْأَبْيَضُ مِنَ الْخَيْطِ الْأَسْوَدِ مِنَ الْفَجْرِ",
+          "text_de": "Und esst und trinkt, bis der weiße Faden der Morgendämmerung sich für euch vom schwarzen Faden unterscheidet…",
+          "explanation_de": "Das Fasten wird durch absichtliches Essen und Trinken gebrochen. Zahnpasta, die nicht verschluckt wird, fällt nicht unter diese Kategorie."
         }
-    ],
-    "related_questions": [
-        "tahara-nagellack-gebet",
-        "tahara-beruehrung-wudu",
-        "salah-haende-binden"
-    ],
-    "sources": [
+      ],
+      "historical_context_de": "Die Gelehrten der hanafitischen und schafiitischen Schule wenden hier das Prinzip an, dass das Fasten nur durch das absichtliche Einführen von Substanzen in den Magen gebrochen wird. Die Verwendung des Siwak war eine Gewohnheit des Propheten ﷺ, die auf die Erlaubtheit von Mundhygiene während des Fastens hinweist."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Erlaubt, aber makruh (unerwünscht) nach dem Mittag",
+      "label_ar": "جائز لكنه مكروه بعد الزوال",
+      "description_de": "Das Zähneputzen ist grundsätzlich erlaubt, wird aber nach Mittag als makruh (unerwünscht) betrachtet, da der Mundgeruch des Fastenden bei Allah beliebt ist.",
+      "scholars": [
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
-            "author": "Kuwaiti Ministry of Awqaf",
-            "url": "https://islamweb.net"
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari, Nr. 1894; Sahih Muslim, Nr. 1151",
+          "text_ar": "لَخُلُوفُ فَمِ الصائمِ أطيبُ عندَ اللهِ من ريحِ المسكِ",
+          "text_de": "Der Mundgeruch des Fastenden ist bei Allah angenehmer als der Geruch von Moschus.",
+          "hadith_grade": "sahih",
+          "graded_by": "Al-Bukhari / Muslim",
+          "explanation_de": "Die Hanbaliten argumentieren, dass der Mundgeruch des Fastenden (Khuluf) nach dem Mittag als Zeichen des Fastens geschätzt wird. Daher ist das Entfernen dieses Geruchs durch Zahnpasta unerwünscht, wenn auch nicht verboten."
         },
         {
-            "title": "Sahih al-Bukhari",
-            "author": "Imam al-Bukhari",
-            "url": "https://sunnah.com/bukhari"
-        },
-        {
-            "title": "Bidayat al-Mujtahid",
-            "author": "Ibn Rushd",
-            "url": "https://shamela.ws/book/22375"
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari, Nr. 1934",
+          "text_ar": "كان رسول الله ﷺ يستاك وهو صائم",
+          "text_de": "Der Prophet ﷺ benutzte den Siwak während des Fastens.",
+          "hadith_grade": "sahih",
+          "graded_by": "Al-Bukhari",
+          "explanation_de": "Obwohl die grundsätzliche Erlaubtheit des Siwak anerkannt wird, beschränken die Hanbaliten die uneingeschränkte Empfehlung auf die Zeit vor dem Mittag."
         }
-    ]
+      ],
+      "historical_context_de": "Ahmad ibn Hanbal war für seine besondere Vorsicht (Wara') bekannt. Seine vorsichtigere Position zum Zähneputzen nach dem Mittag spiegelt sein Bestreben wider, bei Zweifeln die sicherere Option zu wählen."
+    },
+    {
+      "id": "pos-3",
+      "label_de": "Siwak erlaubt, Zahnpasta vermeiden",
+      "label_ar": "السواك جائز واجتناب المعجون أولى",
+      "description_de": "Der Siwak ist jederzeit während des Fastens erlaubt, jedoch sollte moderne Zahnpasta mit starkem Geschmack vermieden werden, da die Gefahr des unbeabsichtigten Verschluckens besteht.",
+      "scholars": [
+        "malik-ibn-anas"
+      ],
+      "madhabs": [
+        "maliki"
+      ],
+      "evidence_chain": [
+        {
+          "type": "hadith",
+          "reference": "Al-Muwatta, Kitab as-Siyam",
+          "text_ar": "عن عامر بن ربيعة قال: رأيت رسول الله ﷺ ما لا أحصي يتسوك وهو صائم",
+          "text_de": "Amir ibn Rabi'a berichtet: Ich sah den Propheten ﷺ unzählige Male den Siwak benutzen, während er fastete.",
+          "hadith_grade": "sahih",
+          "graded_by": "Malik ibn Anas",
+          "explanation_de": "Malik erlaubt den natürlichen Siwak uneingeschränkt während des Fastens. Bei Zahnpasta empfiehlt er Vorsicht, da deren Geschmack und Konsistenz das versehentliche Verschlucken wahrscheinlicher machen."
+        }
+      ],
+      "historical_context_de": "In Maliks Methodik spielt das Prinzip ‚Sadd adh-Dhara'i' (Verschließen der Mittel, die zu Verbotenem führen können) eine zentrale Rolle. Die vorsichtige Haltung gegenüber Zahnpasta folgt diesem Prinzip: Obwohl Mundhygiene erlaubt ist, sollte man Situationen vermeiden, die zum versehentlichen Fastenbruch führen könnten."
+    }
+  ],
+  "related_questions": [
+    "tahara-nagellack-gebet",
+    "tahara-beruehrung-wudu",
+    "salah-haende-binden"
+  ],
+  "sources": [
+    {
+      "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
+      "author": "Kuwaiti Ministry of Awqaf",
+      "url": "https://islamweb.net"
+    },
+    {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam al-Bukhari",
+      "url": "https://sunnah.com/bukhari"
+    },
+    {
+      "title": "Bidayat al-Mujtahid",
+      "author": "Ibn Rushd",
+      "url": "https://shamela.ws/book/22375"
+    }
+  ]
 }

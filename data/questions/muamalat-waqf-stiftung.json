@@ -1,70 +1,72 @@
 {
-    "id": "muamalat-waqf-stiftung",
-    "slug": "waqf-islamische-stiftung-regeln-urteil",
-    "category": "muamalat",
-    "subcategory": "",
-    "question_de": "Was ist ein Waqf und welche Regeln gelten für diese religiöse Stiftung?",
-    "question_ar": "أحكام الوقف في الفقه الإسلامي",
-    "search_aliases": [
-        "Waqf Islam",
-        "Islamische Stiftung",
-        "Sadaqa Jariya Waqf",
-        "Waqf Eigentum",
-        "Stiftung gründen Islam"
-    ],
-    "context_de": "Der Waqf ist eine Form der permanenten Wohltätigkeit, bei der ein Vermögenswert (wie ein Gebäude oder Land) für einen guten Zweck 'festgehalten' wird.",
-    "positions": [
+  "id": "muamalat-waqf-stiftung",
+  "slug": "waqf-islamische-stiftung-regeln-urteil",
+  "category": "muamalat",
+  "subcategory": "",
+  "question_de": "Was ist ein Waqf und welche Regeln gelten für diese religiöse Stiftung?",
+  "question_ar": "أحكام الوقف في الفقه الإسلامي",
+  "search_aliases": [
+    "Waqf Islam",
+    "Islamische Stiftung",
+    "Sadaqa Jariya Waqf",
+    "Waqf Eigentum",
+    "Stiftung gründen Islam"
+  ],
+  "context_de": "Der Waqf ist eine Form der permanenten Wohltätigkeit, bei der ein Vermögenswert (wie ein Gebäude oder Land) für einen guten Zweck 'festgehalten' wird.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Unwiderruflich und permanent",
+      "label_ar": "الوقف حبس الأصل وتسبيل المنفعة",
+      "description_de": "Sobald etwas als Waqf gewidmet wurde, geht es aus dem Privateigentum in das Eigentum Gottes über. Es darf nicht mehr verkauft, vererbt oder verschenkt werden.",
+      "scholars": [
+        "abu-hanifa",
+        "malik-ibn-anas",
+        "al-shafii",
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki",
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Unwiderruflich und permanent",
-            "label_ar": "الوقف حبس الأصل وتسبيل المنفعة",
-            "description_de": "Sobald etwas als Waqf gewidmet wurde, geht es aus dem Privateigentum in das Eigentum Gottes über. Es darf nicht mehr verkauft, vererbt oder verschenkt werden.",
-            "scholars": [
-                "abu-hanifa",
-                "malik-ibn-anas",
-                "al-shafii",
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "hanafi",
-                "maliki",
-                "shafii",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih al-Bukhari; Sahih Muslim",
-                    "text_de": "Halte das Stammgut fest und spende die Erträge (an die Armen).",
-                    "explanation_de": "Hadith von Umar ibn al-Khattab über sein Land in Khaybar."
-                }
-            ],
-            "historical_context_de": "Waqf-Stiftungen waren das soziale Rückgrat der islamischen Geschichte und finanzierten Schulen (Madrasas), Krankenhäuser und Karawansereien."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Besonderheit des Geld-Waqf",
-            "label_ar": "وقف النقود",
-            "description_de": "Einige Gelehrte (vor allem Hanafiten) erlauben auch den Waqf von Bargeld, das für Investitionen genutzt wird, wobei nur die Gewinne gespendet werden.",
-            "scholars": [
-                "muhammad-asch-schaibani",
-                "abu-yusuf"
-            ],
-            "madhabs": [
-                "hanafi"
-            ],
-            "explanation_de": "Dies ermöglichte im Osmanischen Reich eine Art zinsloses Mikrokreditwesen."
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari; Sahih Muslim",
+          "text_de": "Halte das Stammgut fest und spende die Erträge (an die Armen).",
+          "explanation_de": "Hadith von Umar ibn al-Khattab über sein Land in Khaybar."
         }
-    ],
-    "related_questions": [
-        "zakah-familie-geben",
-        "muamalat-murabaha-bank"
-    ],
-    "sources": [
-        {
-            "title": "Bidayat al-Mujtahid",
-            "author": "Ibn Rushd",
-            "url": "https://shamela.ws/book/22375"
-        }
-    ]
+      ],
+      "historical_context_de": "Waqf-Stiftungen waren das soziale Rückgrat der islamischen Geschichte und finanzierten Schulen (Madrasas), Krankenhäuser und Karawansereien."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Besonderheit des Geld-Waqf",
+      "label_ar": "وقف النقود",
+      "description_de": "Einige Gelehrte (vor allem Hanafiten) erlauben auch den Waqf von Bargeld, das für Investitionen genutzt wird, wobei nur die Gewinne gespendet werden.",
+      "scholars": [
+        "muhammad-asch-schaibani",
+        "abu-yusuf"
+      ],
+      "madhabs": [
+        "hanafi"
+      ],
+      "explanation_de": "Dies ermöglichte im Osmanischen Reich eine Art zinsloses Mikrokreditwesen.",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    }
+  ],
+  "related_questions": [
+    "zakah-familie-geben",
+    "muamalat-murabaha-bank"
+  ],
+  "sources": [
+    {
+      "title": "Bidayat al-Mujtahid",
+      "author": "Ibn Rushd",
+      "url": "https://shamela.ws/book/22375"
+    }
+  ]
 }

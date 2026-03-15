@@ -1,85 +1,85 @@
 {
-    "id": "tahara-lachen-wudu",
-    "slug": "lachen-im-gebet-wudu-brechen",
-    "category": "tahara",
-    "subcategory": "wudu",
-    "question_de": "Bricht Lachen im Gebet den Wudu?",
-    "question_ar": "هل الضحك في الصلاة ينقض الوضوء؟",
-    "search_aliases": [
-        "Lachen Gebet Wudu",
-        "Lachen Wudu brechen",
-        "Lachen im Gebet",
-        "Hanafi Lachen Wudu",
-        "Lachen Gebetswaschung"
-    ],
-    "context_de": "Dies ist eine der berühmtesten Besonderheiten der hanafitischen Rechtsschule. Während Lachen außerhalb des Gebets nie den Wudu bricht, gibt es im Gebet spezielle Regeln.",
-    "positions": [
+  "id": "tahara-lachen-wudu",
+  "slug": "lachen-im-gebet-wudu-brechen",
+  "category": "tahara",
+  "subcategory": "wudu",
+  "question_de": "Bricht Lachen im Gebet den Wudu?",
+  "question_ar": "هل الضحك في الصلاة ينقض الوضوء؟",
+  "search_aliases": [
+    "Lachen Gebet Wudu",
+    "Lachen Wudu brechen",
+    "Lachen im Gebet",
+    "Hanafi Lachen Wudu",
+    "Lachen Gebetswaschung"
+  ],
+  "context_de": "Dies ist eine der berühmtesten Besonderheiten der hanafitischen Rechtsschule. Während Lachen außerhalb des Gebets nie den Wudu bricht, gibt es im Gebet spezielle Regeln.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Lautes Lachen im Gebet bricht Wudu UND Gebet",
+      "label_ar": "القهقهة في الصلاة تنقض الوضوء والصلاة",
+      "description_de": "Hörbares Lachen (Qahqaha) einer erwachsenen Person in einem Gebet mit Ruku und Sajda bricht sowohl das Gebet als auch den Wudu.",
+      "scholars": [
+        "abu-hanifa",
+        "abu-yusuf",
+        "muhammad-shaybani"
+      ],
+      "madhabs": [
+        "hanafi"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Lautes Lachen im Gebet bricht Wudu UND Gebet",
-            "label_ar": "القهقهة في الصلاة تنقض الوضوء والصلاة",
-            "description_de": "Hörbares Lachen (Qahqaha) einer erwachsenen Person in einem Gebet mit Ruku und Sajda bricht sowohl das Gebet als auch den Wudu.",
-            "scholars": [
-                "abu-hanifa",
-                "abu-yusuf",
-                "muhammad-shaybani"
-            ],
-            "madhabs": [
-                "hanafi"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sunan ad-Daraqutni; Al-Baihaqi",
-                    "text_ar": "من ضحك منكم قهقهة فليعد الوضوء والصلاة جميعاً",
-                    "text_de": "Wer von euch laut lacht (Qahqaha), der soll sowohl den Wudu als auch das Gebet wiederholen.",
-                    "hadith_grade": "mursal (schwach)",
-                    "graded_by": "Ad-Daraqutni",
-                    "explanation_de": "Obwohl die Überlieferungskette als schwach gilt, akzeptiert Abu Hanifa diesen Hadith aufgrund der Berichte mehrerer Gefährten. Er sieht darin eine Bestrafung für den Respektverlust gegenüber Allah im Gebet."
-                }
-            ],
-            "historical_context_de": "Die Hanafiten unterscheiden zwischen Lächeln (Tabassum - macht nichts), Lachen (Dahik - bricht nur Gebet) und lautes Lachen (Qahqaha - bricht Gebet und Wudu)."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Lachen bricht nur das Gebet, nicht den Wudu",
-            "label_ar": "الضحك ينقض الصلاة فقط",
-            "description_de": "Lachen bricht das Gebet, da es dem Zweck des Gebets widerspricht. Es hat jedoch keinen Einfluss auf den rituellen Reinheitszustand (Wudu).",
-            "scholars": [
-                "malik-ibn-anas",
-                "al-shafii",
-                "ahmad-ibn-hanbal",
-                "an-nawawi"
-            ],
-            "madhabs": [
-                "maliki",
-                "shafii",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Logik der Wudu-Brecher",
-                    "explanation_de": "Die Mehrheit argumentiert, dass Wudu nur durch materielle Ausscheidungen oder Kontrollverlust bricht. Lachen ist keine materielle Ausscheidung. Die Hadithe, die die Hanafiten nutzen, werden von der Mehrheit als nicht authentisch genug eingestuft, um eine so weitreichende Regel wie den Wudu-Bruch zu begründen."
-                }
-            ],
-            "historical_context_de": "Dies ist die Meinung der großen Mehrheit der Umma. Sie halten den Wudu für gültig, das Gebet muss jedoch aufgrund des Lachens neu begonnen werden."
+          "type": "hadith",
+          "reference": "Sunan ad-Daraqutni; Al-Baihaqi",
+          "text_ar": "من ضحك منكم قهقهة فليعد الوضوء والصلاة جميعاً",
+          "text_de": "Wer von euch laut lacht (Qahqaha), der soll sowohl den Wudu als auch das Gebet wiederholen.",
+          "hadith_grade": "mursal (schwach)",
+          "graded_by": "Ad-Daraqutni",
+          "explanation_de": "Obwohl die Überlieferungskette als schwach gilt, akzeptiert Abu Hanifa diesen Hadith aufgrund der Berichte mehrerer Gefährten. Er sieht darin eine Bestrafung für den Respektverlust gegenüber Allah im Gebet."
         }
-    ],
-    "related_questions": [
-        "tahara-beruehrung-wudu",
-        "salah-haende-binden"
-    ],
-    "sources": [
+      ],
+      "historical_context_de": "Die Hanafiten unterscheiden zwischen Lächeln (Tabassum - macht nichts), Lachen (Dahik - bricht nur Gebet) und lautes Lachen (Qahqaha - bricht Gebet und Wudu)."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Lachen bricht nur das Gebet, nicht den Wudu",
+      "label_ar": "الضحك ينقض الصلاة فقط",
+      "description_de": "Lachen bricht das Gebet, da es dem Zweck des Gebets widerspricht. Es hat jedoch keinen Einfluss auf den rituellen Reinheitszustand (Wudu).",
+      "scholars": [
+        "malik-ibn-anas",
+        "al-shafii",
+        "ahmad-ibn-hanbal",
+        "an-nawawi"
+      ],
+      "madhabs": [
+        "maliki",
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "title": "Al-Majmu'",
-            "author": "Imam an-Nawawi",
-            "url": "https://shamela.ws/book/384"
-        },
-        {
-            "title": "Al-Hidaya",
-            "author": "Al-Marghinani",
-            "url": "https://shamela.ws/book/913"
+          "type": "hadith",
+          "reference": "Logik der Wudu-Brecher",
+          "explanation_de": "Die Mehrheit argumentiert, dass Wudu nur durch materielle Ausscheidungen oder Kontrollverlust bricht. Lachen ist keine materielle Ausscheidung. Die Hadithe, die die Hanafiten nutzen, werden von der Mehrheit als nicht authentisch genug eingestuft, um eine so weitreichende Regel wie den Wudu-Bruch zu begründen."
         }
-    ]
+      ],
+      "historical_context_de": "Dies ist die Meinung der großen Mehrheit der Umma. Sie halten den Wudu für gültig, das Gebet muss jedoch aufgrund des Lachens neu begonnen werden."
+    }
+  ],
+  "related_questions": [
+    "tahara-beruehrung-wudu",
+    "salah-haende-binden"
+  ],
+  "sources": [
+    {
+      "title": "Al-Majmu'",
+      "author": "Imam an-Nawawi",
+      "url": "https://shamela.ws/book/384"
+    },
+    {
+      "title": "Al-Hidaya",
+      "author": "Al-Marghinani",
+      "url": "https://shamela.ws/book/913"
+    }
+  ]
 }

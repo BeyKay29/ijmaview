@@ -1,83 +1,88 @@
 {
-    "id": "erbrecht-nichtmuslime",
-    "slug": "erben-nichtmuslime-islam-urteil",
-    "category": "muamalat",
-    "subcategory": "",
-    "question_de": "Darf ein Muslim von einem Nichtmuslim erben (oder umgekehrt)?",
-    "question_ar": "حكم توريث المسلم من الكافر والعكس",
-    "search_aliases": [
-        "Erbrecht nichtmuslime",
-        "Erbe Nichtmuslim",
-        "Konvertit Erbe",
-        "Testament Nichtmuslim",
-        "Erben von Eltern Islam"
-    ],
-    "context_de": "Bei Konvertiten stellt sich oft die Frage nach dem Erbe ihrer nicht-muslimischen Familie. Das islamische Erbrecht hat hier strikte Regeln zur Glaubensverschiedenheit.",
-    "positions": [
+  "id": "erbrecht-nichtmuslime",
+  "slug": "erben-nichtmuslime-islam-urteil",
+  "category": "muamalat",
+  "subcategory": "",
+  "question_de": "Darf ein Muslim von einem Nichtmuslim erben (oder umgekehrt)?",
+  "question_ar": "حكم توريث المسلم من الكافر والعكس",
+  "search_aliases": [
+    "Erbrecht nichtmuslime",
+    "Erbe Nichtmuslim",
+    "Konvertit Erbe",
+    "Testament Nichtmuslim",
+    "Erben von Eltern Islam"
+  ],
+  "context_de": "Bei Konvertiten stellt sich oft die Frage nach dem Erbe ihrer nicht-muslimischen Familie. Das islamische Erbrecht hat hier strikte Regeln zur Glaubensverschiedenheit.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Kein gegenseitiges Erbe bei verschiedenen Religionen",
+      "label_ar": "لا يتوارث أهل ملتين شتى",
+      "description_de": "Ein Muslim erbt nicht von einem Nichtmuslim, und ein Nichtmuslim erbt nicht von einem Muslim.",
+      "scholars": [
+        "abu-hanifa",
+        "malik-ibn-anas",
+        "al-shafii",
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki",
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Kein gegenseitiges Erbe bei verschiedenen Religionen",
-            "label_ar": "لا يتوارث أهل ملتين شتى",
-            "description_de": "Ein Muslim erbt nicht von einem Nichtmuslim, und ein Nichtmuslim erbt nicht von einem Muslim.",
-            "scholars": [
-                "abu-hanifa",
-                "malik-ibn-anas",
-                "al-shafii",
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "hanafi",
-                "maliki",
-                "shafii",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih al-Bukhari, Nr. 6764; Sahih Muslim",
-                    "text_ar": "لا يرث المسلم الكافر ولا الكافر المسلم",
-                    "text_de": "Der Muslim erbt nicht vom Kafir (Ungläubigen), und der Kafir erbt nicht vom Muslim.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Al-Bukhari / Muslim"
-                }
-            ]
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Erbe durch Testament (Wasiyya) möglich",
-            "label_ar": "الوصية لغير الوارث",
-            "description_de": "Obwohl das gesetzliche Erbe ausgeschlossen ist, darf ein Muslim in einem Testament (bis zu 1/3 des Vermögens) bedacht werden oder selbst einem Nichtmuslim etwas vermachen.",
-            "scholars": [
-                "Mehrheitsmeinung"
-            ],
-            "explanation_de": "Dies dient dazu, familiäre Bande und Gerechtigkeit zu wahren, ohne die festen Regeln des Fara'id (gesetzlichen Erbes) zu verletzen."
-        },
-        {
-            "id": "pos-3",
-            "label_de": "Der Muslim darf vom Nichtmuslim erben (Minderheit)",
-            "label_ar": "الإسلام يزيد ولا ينقص",
-            "description_de": "Einige Gefährten und Gelehrte vertraten die Ansicht, dass der Muslim vom Nichtmuslim erben darf, aber nicht umgekehrt.",
-            "scholars": [
-                "muadh-ibn-jabal",
-                "muawiya-ibn-abi-sufyan"
-            ],
-            "explanation_de": "Sie stützten sich auf den Grundsatz: ‚Der Islam übertrifft (andere Religionen) und wird nicht übertroffen'."
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari, Nr. 6764; Sahih Muslim",
+          "text_ar": "لا يرث المسلم الكافر ولا الكافر المسلم",
+          "text_de": "Der Muslim erbt nicht vom Kafir (Ungläubigen), und der Kafir erbt nicht vom Muslim.",
+          "hadith_grade": "sahih",
+          "graded_by": "Al-Bukhari / Muslim"
         }
-    ],
-    "related_questions": [
-        "muamalat-riba-bankzins",
-        "nikah-wali-pflicht"
-    ],
-    "sources": [
-        {
-            "title": "Bidayat al-Mujtahid",
-            "author": "Ibn Rushd",
-            "url": "https://shamela.ws/book/22375"
-        },
-        {
-            "title": "Al-Mughni",
-            "author": "Ibn Qudama",
-            "url": "https://shamela.ws/book/6946"
-        }
-    ]
+      ],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Erbe durch Testament (Wasiyya) möglich",
+      "label_ar": "الوصية لغير الوارث",
+      "description_de": "Obwohl das gesetzliche Erbe ausgeschlossen ist, darf ein Muslim in einem Testament (bis zu 1/3 des Vermögens) bedacht werden oder selbst einem Nichtmuslim etwas vermachen.",
+      "scholars": [
+        "Mehrheitsmeinung"
+      ],
+      "explanation_de": "Dies dient dazu, familiäre Bande und Gerechtigkeit zu wahren, ohne die festen Regeln des Fara'id (gesetzlichen Erbes) zu verletzen.",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-3",
+      "label_de": "Der Muslim darf vom Nichtmuslim erben (Minderheit)",
+      "label_ar": "الإسلام يزيد ولا ينقص",
+      "description_de": "Einige Gefährten und Gelehrte vertraten die Ansicht, dass der Muslim vom Nichtmuslim erben darf, aber nicht umgekehrt.",
+      "scholars": [
+        "muadh-ibn-jabal",
+        "muawiya-ibn-abi-sufyan"
+      ],
+      "explanation_de": "Sie stützten sich auf den Grundsatz: ‚Der Islam übertrifft (andere Religionen) und wird nicht übertroffen'.",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    }
+  ],
+  "related_questions": [
+    "muamalat-riba-bankzins",
+    "nikah-wali-pflicht"
+  ],
+  "sources": [
+    {
+      "title": "Bidayat al-Mujtahid",
+      "author": "Ibn Rushd",
+      "url": "https://shamela.ws/book/22375"
+    },
+    {
+      "title": "Al-Mughni",
+      "author": "Ibn Qudama",
+      "url": "https://shamela.ws/book/6946"
+    }
+  ]
 }

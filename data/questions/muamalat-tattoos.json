@@ -1,74 +1,76 @@
 {
-    "id": "muamalat-tattoos",
-    "slug": "tattoos-taetowierungen-islam-urteil",
-    "category": "muamalat",
-    "subcategory": "",
-    "question_de": "Sind Tattoos (Tätowierungen) im Islam erlaubt?",
-    "question_ar": "حكم الوشم في الإسلام",
-    "search_aliases": [
-        "Tattoos Islam",
-        "Tätowierung Haram",
-        "Tattoos Wudu",
-        "Permanent Makeup Islam",
-        "Was ist mit alten Tattoos"
-    ],
-    "context_de": "Tattoos werden in der modernen Gesellschaft immer populärer. Die islamische Sichtweise basiert auf der Unversehrtheit des Körpers, wie Allah ihn erschaffen hat.",
-    "positions": [
+  "id": "muamalat-tattoos",
+  "slug": "tattoos-taetowierungen-islam-urteil",
+  "category": "muamalat",
+  "subcategory": "",
+  "question_de": "Sind Tattoos (Tätowierungen) im Islam erlaubt?",
+  "question_ar": "حكم الوشم في الإسلام",
+  "search_aliases": [
+    "Tattoos Islam",
+    "Tätowierung Haram",
+    "Tattoos Wudu",
+    "Permanent Makeup Islam",
+    "Was ist mit alten Tattoos"
+  ],
+  "context_de": "Tattoos werden in der modernen Gesellschaft immer populärer. Die islamische Sichtweise basiert auf der Unversehrtheit des Körpers, wie Allah ihn erschaffen hat.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Tattoos sind absolut verboten (Haram)",
+      "label_ar": "الوشم حرام بالإجماع",
+      "description_de": "Das Stechen von Tattoos ist eine große Sünde (Kabira), da es die Schöpfung Allahs verändert und dem Körper Schmerz zufügt.",
+      "scholars": [
+        "abu-hanifa",
+        "malik-ibn-anas",
+        "al-shafii",
+        "ahmad-ibn-hanbal",
+        "an-nawawi"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki",
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Tattoos sind absolut verboten (Haram)",
-            "label_ar": "الوشم حرام بالإجماع",
-            "description_de": "Das Stechen von Tattoos ist eine große Sünde (Kabira), da es die Schöpfung Allahs verändert und dem Körper Schmerz zufügt.",
-            "scholars": [
-                "abu-hanifa",
-                "malik-ibn-anas",
-                "al-shafii",
-                "ahmad-ibn-hanbal",
-                "an-nawawi"
-            ],
-            "madhabs": [
-                "hanafi",
-                "maliki",
-                "shafii",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih al-Bukhari, Nr. 5937; Sahih Muslim",
-                    "text_ar": "لعن الله الواشمة والمستوشمة",
-                    "text_de": "Allah verflucht die Tätowierenden und diejenige, die sich tätowieren lässt.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Al-Bukhari / Muslim"
-                }
-            ],
-            "historical_context_de": "Henna-Tattoos (Mehendi) sind erlaubt, da sie nur auf der Hautoberfläche liegen und nach einiger Zeit verschwinden."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Bereits vorhandene Tattoos (vor dem Islam)",
-            "label_ar": "المسلم الجديد والوشم السابق",
-            "description_de": "Wer Tattoos vor seiner Konversion zum Islam hatte oder sie in Unwissenheit stechen ließ, dem ist vergeben. Eine Entfernung ist nur Pflicht, wenn sie ohne große Schmerzen oder Narben möglich ist.",
-            "scholars": [
-                "Mehrheitsmeinung"
-            ],
-            "explanation_de": "Der Islam löscht die Sünden davor aus. Die Gültigkeit von Wudu und Ghusl wird durch Tattoos nicht beeinträchtigt, da die Tinte unter der Haut liegt."
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari, Nr. 5937; Sahih Muslim",
+          "text_ar": "لعن الله الواشمة والمستوشمة",
+          "text_de": "Allah verflucht die Tätowierenden und diejenige, die sich tätowieren lässt.",
+          "hadith_grade": "sahih",
+          "graded_by": "Al-Bukhari / Muslim"
         }
-    ],
-    "related_questions": [
-        "tahara-beruehrung-wudu",
-        "muamalat-bilder-fotos"
-    ],
-    "sources": [
-        {
-            "title": "Sharh Sahih Muslim",
-            "author": "Imam an-Nawawi",
-            "url": "https://shamela.ws/book/1711"
-        },
-        {
-            "title": "Fatawa al-Lajnah ad-Da'imah",
-            "author": "Saudi Scholar Committee",
-            "url": "https://alifta.gov.sa"
-        }
-    ]
+      ],
+      "historical_context_de": "Henna-Tattoos (Mehendi) sind erlaubt, da sie nur auf der Hautoberfläche liegen und nach einiger Zeit verschwinden."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Bereits vorhandene Tattoos (vor dem Islam)",
+      "label_ar": "المسلم الجديد والوشم السابق",
+      "description_de": "Wer Tattoos vor seiner Konversion zum Islam hatte oder sie in Unwissenheit stechen ließ, dem ist vergeben. Eine Entfernung ist nur Pflicht, wenn sie ohne große Schmerzen oder Narben möglich ist.",
+      "scholars": [
+        "Mehrheitsmeinung"
+      ],
+      "explanation_de": "Der Islam löscht die Sünden davor aus. Die Gültigkeit von Wudu und Ghusl wird durch Tattoos nicht beeinträchtigt, da die Tinte unter der Haut liegt.",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    }
+  ],
+  "related_questions": [
+    "tahara-beruehrung-wudu",
+    "muamalat-bilder-fotos"
+  ],
+  "sources": [
+    {
+      "title": "Sharh Sahih Muslim",
+      "author": "Imam an-Nawawi",
+      "url": "https://shamela.ws/book/1711"
+    },
+    {
+      "title": "Fatawa al-Lajnah ad-Da'imah",
+      "author": "Saudi Scholar Committee",
+      "url": "https://alifta.gov.sa"
+    }
+  ]
 }

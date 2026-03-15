@@ -1,73 +1,75 @@
 {
-    "id": "muamalat-gold-verkauf",
-    "slug": "goldkauf-schmuck-auf-raten-tauschen-urteil",
-    "category": "muamalat",
-    "subcategory": "",
-    "question_de": "Darf man Goldschmuck auf Raten kaufen oder altes Gold gegen neues Gold tauschen?",
-    "question_ar": "حكم شراء الذهب بالتقسيط ومبالدته",
-    "search_aliases": [
-        "Gold kaufen Raten",
-        "Gold tauschen Islam",
-        "Riba Gold",
-        "Goldschmuck kaufen Islam",
-        "Goldverkauf Zinsen"
-    ],
-    "context_de": "Gold ist im Islam eine Währungseinheit (Ribawi-Gut). Daher gelten für den Handel mit Gold strengere Regeln als für gewöhnliche Waren, um Riba (Zins) zu vermeiden.",
-    "positions": [
+  "id": "muamalat-gold-verkauf",
+  "slug": "goldkauf-schmuck-auf-raten-tauschen-urteil",
+  "category": "muamalat",
+  "subcategory": "",
+  "question_de": "Darf man Goldschmuck auf Raten kaufen oder altes Gold gegen neues Gold tauschen?",
+  "question_ar": "حكم شراء الذهب بالتقسيط ومبالدته",
+  "search_aliases": [
+    "Gold kaufen Raten",
+    "Gold tauschen Islam",
+    "Riba Gold",
+    "Goldschmuck kaufen Islam",
+    "Goldverkauf Zinsen"
+  ],
+  "context_de": "Gold ist im Islam eine Währungseinheit (Ribawi-Gut). Daher gelten für den Handel mit Gold strengere Regeln als für gewöhnliche Waren, um Riba (Zins) zu vermeiden.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Ratenkauf von Gold ist verboten (Riba al-Nasi'ah)",
+      "label_ar": "لا يجوز شراء الذهب بالتقسيط",
+      "description_de": "Gold muss sofort beim Kauf bezahlt werden (Zug um Zug). Eine Verzögerung der Zahlung ist Riba.",
+      "scholars": [
+        "abu-hanifa",
+        "malik-ibn-anas",
+        "al-shafii",
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki",
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Ratenkauf von Gold ist verboten (Riba al-Nasi'ah)",
-            "label_ar": "لا يجوز شراء الذهب بالتقسيط",
-            "description_de": "Gold muss sofort beim Kauf bezahlt werden (Zug um Zug). Eine Verzögerung der Zahlung ist Riba.",
-            "scholars": [
-                "abu-hanifa",
-                "malik-ibn-anas",
-                "al-shafii",
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "hanafi",
-                "maliki",
-                "shafii",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih Muslim, Nr. 1587",
-                    "text_ar": "الذهب بالذهب... يداً بيد، فمن زاد أو استزاد فقد أربى",
-                    "text_de": "Gold gegen Gold... Hand in Hand (sofort). Wer mehr gibt oder mehr verlangt, hat Zins (Riba) getrieben.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Muslim ibn al-Hajjaj",
-                    "explanation_de": "Da Gold eine Währung ist, muss der Tausch sofort erfolgen. Wenn man mit Euro zahlt, gilt dies als Währungstausch (Sarf), der ebenfalls sofort abgeschlossen sein muss."
-                }
-            ]
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Gold gegen Gold tauschen (mit Gewichtsunterschied)",
-            "label_ar": "مبادلة الذهب بالذهب وزناً بوزن",
-            "description_de": "Man darf nicht altes Gold (z.B. 10g) gegen neues Gold (z.B. 8g + Zuzahlung) direkt tauschen. Man muss das alte Gold verkaufen, das Geld nehmen und dann das neue Gold kaufen.",
-            "scholars": [
-                "Mehrheitsmeinung"
-            ],
-            "historical_context_de": "Dies dient dazu, den reinen Metallwert von der Arbeitsleistung (Schmuckdesign) strikt zu trennen und Zinsfallen zu vermeiden."
+          "type": "hadith",
+          "reference": "Sahih Muslim, Nr. 1587",
+          "text_ar": "الذهب بالذهب... يداً بيد، فمن زاد أو استزاد فقد أربى",
+          "text_de": "Gold gegen Gold... Hand in Hand (sofort). Wer mehr gibt oder mehr verlangt, hat Zins (Riba) getrieben.",
+          "hadith_grade": "sahih",
+          "graded_by": "Muslim ibn al-Hajjaj",
+          "explanation_de": "Da Gold eine Währung ist, muss der Tausch sofort erfolgen. Wenn man mit Euro zahlt, gilt dies als Währungstausch (Sarf), der ebenfalls sofort abgeschlossen sein muss."
         }
-    ],
-    "related_questions": [
-        "muamalat-riba-bankzins",
-        "zakah-goldschmuck-frauen"
-    ],
-    "sources": [
-        {
-            "title": "Bidayat al-Mujtahid",
-            "author": "Ibn Rushd",
-            "url": "https://shamela.ws/book/22375"
-        },
-        {
-            "title": "Al-Hidaya",
-            "author": "Al-Marghinani",
-            "url": "https://shamela.ws/book/913"
-        }
-    ]
+      ],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Gold gegen Gold tauschen (mit Gewichtsunterschied)",
+      "label_ar": "مبادلة الذهب بالذهب وزناً بوزن",
+      "description_de": "Man darf nicht altes Gold (z.B. 10g) gegen neues Gold (z.B. 8g + Zuzahlung) direkt tauschen. Man muss das alte Gold verkaufen, das Geld nehmen und dann das neue Gold kaufen.",
+      "scholars": [
+        "Mehrheitsmeinung"
+      ],
+      "historical_context_de": "Dies dient dazu, den reinen Metallwert von der Arbeitsleistung (Schmuckdesign) strikt zu trennen und Zinsfallen zu vermeiden.",
+      "evidence_chain": []
+    }
+  ],
+  "related_questions": [
+    "muamalat-riba-bankzins",
+    "zakah-goldschmuck-frauen"
+  ],
+  "sources": [
+    {
+      "title": "Bidayat al-Mujtahid",
+      "author": "Ibn Rushd",
+      "url": "https://shamela.ws/book/22375"
+    },
+    {
+      "title": "Al-Hidaya",
+      "author": "Al-Marghinani",
+      "url": "https://shamela.ws/book/913"
+    }
+  ]
 }

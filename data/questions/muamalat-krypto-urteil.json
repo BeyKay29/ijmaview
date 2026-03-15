@@ -1,52 +1,56 @@
 {
-    "id": "muamalat-krypto-urteil",
-    "slug": "bitcoin-kryptowaehrungen-halal-haram-urteil",
-    "category": "muamalat",
-    "subcategory": "",
-    "question_de": "Sind Kryptowährungen wie Bitcoin aus islamischer Sicht Halal oder Haram?",
-    "question_ar": "حكم التعامل بالعملات الرقمية والبيتكوين",
-    "search_aliases": [
-        "Bitcoin Halal",
-        "Krypto Haram",
-        "Kryptowährungen Islam",
-        "Bitcoin investieren Islam",
-        "Gharar Bitcoin"
-    ],
-    "context_de": "Kryptowährungen sind ein modernes Finanzphänomen. Ihre Einordnung im islamischen Recht (Fiqh al-Muamalat) wird unter zeitgenössischen Gelehrten intensiv debattiert.",
-    "positions": [
-        {
-            "id": "pos-1",
-            "label_de": "Erlaubt (Halal) – Als digitales Gut",
-            "label_ar": "جائزة باعتبارها مالاً رقمياً",
-            "description_de": "Kryptowährungen sind erlaubt, da sie einen Wert (Mal) darstellen, der von Menschen anerkannt wird und als Tauschmittel fungieren kann.",
-            "scholars": [
-                "Moderne Gelehrte",
-                "Einige Scharia-Boards"
-            ],
-            "explanation_de": "Befürworter sehen in Bitcoin eine technologische Weiterentwicklung von Geld. Da es kein Riba (Zins) enthält und auf einer transparenten Blockchain basiert, wird es als Halal eingestuft, solange man nicht in illegale Projekte investiert."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Verboten (Haram) – Wegen Instabilität und Gharar",
-            "label_ar": "محرمة لوجود الغرر والجهالة",
-            "description_de": "Der Handel mit Kryptowährungen ist aufgrund der extremen Preisstabilität (Gharar) und der fehlenden staatlichen Deckung verboten.",
-            "scholars": [
-                "Al-Azhar Fatwa Center",
-                "Diyanet (Türkei)",
-                "Großmufti von Ägypten"
-            ],
-            "explanation_de": "Kritiker argumentieren, dass Kryptowährungen keine echte Währung sind, anonyme Geldwäsche ermöglichen und einen Charakter von Glücksspiel (Maisir) haben, da der Wert rein spekulativ ist."
-        }
-    ],
-    "related_questions": [
-        "muamalat-riba-bankzins",
-        "zakah-aktien-krypto"
-    ],
-    "sources": [
-        {
-            "title": "Fatawa-Gremien der Moderne",
-            "author": "Diverse",
-            "url": "https://islamqa.info"
-        }
-    ]
+  "id": "muamalat-krypto-urteil",
+  "slug": "bitcoin-kryptowaehrungen-halal-haram-urteil",
+  "category": "muamalat",
+  "subcategory": "",
+  "question_de": "Sind Kryptowährungen wie Bitcoin aus islamischer Sicht Halal oder Haram?",
+  "question_ar": "حكم التعامل بالعملات الرقمية والبيتكوين",
+  "search_aliases": [
+    "Bitcoin Halal",
+    "Krypto Haram",
+    "Kryptowährungen Islam",
+    "Bitcoin investieren Islam",
+    "Gharar Bitcoin"
+  ],
+  "context_de": "Kryptowährungen sind ein modernes Finanzphänomen. Ihre Einordnung im islamischen Recht (Fiqh al-Muamalat) wird unter zeitgenössischen Gelehrten intensiv debattiert.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Erlaubt (Halal) – Als digitales Gut",
+      "label_ar": "جائزة باعتبارها مالاً رقمياً",
+      "description_de": "Kryptowährungen sind erlaubt, da sie einen Wert (Mal) darstellen, der von Menschen anerkannt wird und als Tauschmittel fungieren kann.",
+      "scholars": [
+        "Moderne Gelehrte",
+        "Einige Scharia-Boards"
+      ],
+      "explanation_de": "Befürworter sehen in Bitcoin eine technologische Weiterentwicklung von Geld. Da es kein Riba (Zins) enthält und auf einer transparenten Blockchain basiert, wird es als Halal eingestuft, solange man nicht in illegale Projekte investiert.",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Verboten (Haram) – Wegen Instabilität und Gharar",
+      "label_ar": "محرمة لوجود الغرر والجهالة",
+      "description_de": "Der Handel mit Kryptowährungen ist aufgrund der extremen Preisstabilität (Gharar) und der fehlenden staatlichen Deckung verboten.",
+      "scholars": [
+        "Al-Azhar Fatwa Center",
+        "Diyanet (Türkei)",
+        "Großmufti von Ägypten"
+      ],
+      "explanation_de": "Kritiker argumentieren, dass Kryptowährungen keine echte Währung sind, anonyme Geldwäsche ermöglichen und einen Charakter von Glücksspiel (Maisir) haben, da der Wert rein spekulativ ist.",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    }
+  ],
+  "related_questions": [
+    "muamalat-riba-bankzins",
+    "zakah-aktien-krypto"
+  ],
+  "sources": [
+    {
+      "title": "Fatawa-Gremien der Moderne",
+      "author": "Diverse",
+      "url": "https://islamqa.info"
+    }
+  ]
 }

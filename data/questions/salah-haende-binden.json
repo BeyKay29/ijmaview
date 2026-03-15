@@ -1,142 +1,142 @@
 {
-    "id": "salah-haende-binden",
-    "slug": "haende-binden-gebet",
-    "category": "salah",
-    "subcategory": "ablauf",
-    "question_de": "Wo sollen die Hände während des Stehens im Gebet platziert werden?",
-    "question_ar": "أين توضع اليدان في القيام أثناء الصلاة؟",
-    "search_aliases": [
-        "Hände binden Gebet",
-        "Hände falten Salah",
-        "Hände unter Brust Gebet",
-        "Hände runter Gebet",
-        "Qabd Sadl Gebet",
-        "Hände verschränken beten"
-    ],
-    "context_de": "Die Frage der Handposition im Gebet (Qabd vs. Sadl) ist eine der sichtbarsten Unterschiede zwischen den Rechtsschulen und führt häufig zu Diskussionen unter Muslimen.",
-    "positions": [
+  "id": "salah-haende-binden",
+  "slug": "haende-binden-gebet",
+  "category": "salah",
+  "subcategory": "ablauf",
+  "question_de": "Wo sollen die Hände während des Stehens im Gebet platziert werden?",
+  "question_ar": "أين توضع اليدان في القيام أثناء الصلاة؟",
+  "search_aliases": [
+    "Hände binden Gebet",
+    "Hände falten Salah",
+    "Hände unter Brust Gebet",
+    "Hände runter Gebet",
+    "Qabd Sadl Gebet",
+    "Hände verschränken beten"
+  ],
+  "context_de": "Die Frage der Handposition im Gebet (Qabd vs. Sadl) ist eine der sichtbarsten Unterschiede zwischen den Rechtsschulen und führt häufig zu Diskussionen unter Muslimen.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Rechte Hand auf linke, unterhalb der Brust",
+      "label_ar": "وضع اليمنى على اليسرى تحت الصدر",
+      "description_de": "Die rechte Hand wird auf den linken Unterarm gelegt, unterhalb der Brust und oberhalb des Nabels.",
+      "scholars": [
+        "al-shafii",
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Rechte Hand auf linke, unterhalb der Brust",
-            "label_ar": "وضع اليمنى على اليسرى تحت الصدر",
-            "description_de": "Die rechte Hand wird auf den linken Unterarm gelegt, unterhalb der Brust und oberhalb des Nabels.",
-            "scholars": [
-                "al-shafii",
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "shafii",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih Muslim, Nr. 401",
-                    "text_ar": "كان رسول الله ﷺ يضع يده اليمنى على يده اليسرى في الصلاة",
-                    "text_de": "Wa'il ibn Hujr berichtet: Der Gesandte Allahs ﷺ legte seine rechte Hand auf seine linke Hand im Gebet.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Muslim ibn al-Hajjaj",
-                    "explanation_de": "Dieser Hadith wird als klarer Beleg für das Zusammenlegen der Hände (Qabd) im Gebet angeführt. Imam asch-Schafi'i und Ahmad ibn Hanbal betrachten dies als Sunna mu'akkada (stark empfohlene Sunna)."
-                },
-                {
-                    "type": "hadith",
-                    "reference": "Abu Dawud, Nr. 759",
-                    "text_ar": "أن النبي ﷺ وضع يده اليمنى على ظهر كفه اليسرى والرسغ والساعد",
-                    "text_de": "Wa'il ibn Hujr berichtet, dass der Prophet ﷺ seine rechte Hand auf den Rücken seiner linken Hand, das Handgelenk und den Unterarm legte.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Al-Albani",
-                    "explanation_de": "Diese detailliertere Überlieferung beschreibt die genaue Art des Haltens und wird von den Schafiiten und Hanbaliten als Präzisierung der Handposition herangezogen."
-                }
-            ],
-            "historical_context_de": "Imam asch-Schafi'i und Ahmad ibn Hanbal betonten die strikte Befolgung der prophetischen Überlieferungen. Die zahlreichen Hadithe über das Zusammenlegen der Hände waren für beide ein eindeutiger Beleg. In der schafiitischen und hanbalitischen Tradition wird diese Haltung als Ausdruck der Demut vor Allah verstanden."
+          "type": "hadith",
+          "reference": "Sahih Muslim, Nr. 401",
+          "text_ar": "كان رسول الله ﷺ يضع يده اليمنى على يده اليسرى في الصلاة",
+          "text_de": "Wa'il ibn Hujr berichtet: Der Gesandte Allahs ﷺ legte seine rechte Hand auf seine linke Hand im Gebet.",
+          "hadith_grade": "sahih",
+          "graded_by": "Muslim ibn al-Hajjaj",
+          "explanation_de": "Dieser Hadith wird als klarer Beleg für das Zusammenlegen der Hände (Qabd) im Gebet angeführt. Imam asch-Schafi'i und Ahmad ibn Hanbal betrachten dies als Sunna mu'akkada (stark empfohlene Sunna)."
         },
         {
-            "id": "pos-2",
-            "label_de": "Hände seitlich herabhängen lassen (Sadl)",
-            "label_ar": "إرسال اليدين (السدل)",
-            "description_de": "Die Hände werden während des Stehens im Gebet seitlich am Körper herabhängen gelassen, ohne sie zusammenzulegen.",
-            "scholars": [
-                "malik-ibn-anas"
-            ],
-            "madhabs": [
-                "maliki"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Al-Muwatta, Kitab as-Salah",
-                    "text_ar": "أن مالكاً كان يرسل يديه في الصلاة",
-                    "text_de": "Ibn al-Qasim berichtet, dass Malik ibn Anas seine Hände im Gebet herabhängen ließ.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Malik ibn Anas",
-                    "explanation_de": "Malik bevorzugte das Herabhängen der Hände (Sadl) im Pflichtgebet. Er stützte sich dabei auf die Praxis der Bewohner Medinas, die er als lebende Überlieferung betrachtete."
-                },
-                {
-                    "type": "hadith",
-                    "reference": "Al-Mudawwana, Sahnun",
-                    "text_ar": "قال مالك: لا بأس بإرسال اليدين في الصلاة المكتوبة",
-                    "text_de": "Malik sagte: Es ist kein Problem, die Hände im Pflichtgebet herabhängen zu lassen.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Sahnun",
-                    "explanation_de": "In der malikitischen Rechtsschule wird das Sadl im Pflichtgebet bevorzugt, während das Qabd im freiwilligen Gebet erlaubt ist. Malik argumentierte, dass die Praxis der Medinenser diese Unterscheidung widerspiegelt."
-                }
-            ],
-            "historical_context_de": "Die malikitische Position zum Sadl speist sich aus der besonderen Methodik Maliks, der die lebende Tradition Medinas (Amal Ahl al-Madina) als Rechtsquelle neben Quran und Sunna betrachtete. Die Bewohner Medinas ließen die Hände bei den Pflichtgebeten herunter, was Malik als eine von Generation zu Generation weitergegebene Praxis ansah."
-        },
-        {
-            "id": "pos-3",
-            "label_de": "Rechte Hand auf linke, unterhalb des Nabels",
-            "label_ar": "وضع اليمنى على اليسرى تحت السرة",
-            "description_de": "Die Hände werden zusammengelegt und unterhalb des Nabels platziert.",
-            "scholars": [
-                "abu-hanifa"
-            ],
-            "madhabs": [
-                "hanafi"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Abu Dawud, Nr. 756",
-                    "text_ar": "أن علياً رضي الله عنه قال: من السنة وضع الكف على الكف في الصلاة تحت السرة",
-                    "text_de": "Ali (r.a.) sagte: Es gehört zur Sunna, die eine Handfläche auf die andere zu legen, unterhalb des Nabels im Gebet.",
-                    "hadith_grade": "hasan",
-                    "graded_by": "Ibn Hajar al-Asqalani",
-                    "explanation_de": "Die Hanafiten stützen sich auf diese Überlieferung von Ali ibn Abi Talib und weitere Belege, die die Position der Hände unterhalb des Nabels beschreiben."
-                },
-                {
-                    "type": "hadith",
-                    "reference": "Musannaf Ibn Abi Schayba",
-                    "text_ar": "عن إبراهيم النخعي أنه كان يضع يديه تحت سرته",
-                    "text_de": "Ibrahim an-Nakha'i pflegte seine Hände unterhalb seines Nabels zu platzieren.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Ibn Abi Schayba",
-                    "explanation_de": "Die Praxis von Ibrahim an-Nakha'i, einem der wichtigsten Lehrer Abu Hanifas, dient als zusätzliche Stütze für die hanafitische Position."
-                }
-            ],
-            "historical_context_de": "Abu Hanifas Methodik war stark von der kufischen Gelehrtentradition geprägt. Ibrahim an-Nakha'i und andere kufische Gelehrte überlieferten die Handposition unterhalb des Nabels. Diese Linie der Überlieferung geht über Alqama auf Abdullah ibn Mas'ud zurück, einem der engsten Gefährten des Propheten ﷺ."
+          "type": "hadith",
+          "reference": "Abu Dawud, Nr. 759",
+          "text_ar": "أن النبي ﷺ وضع يده اليمنى على ظهر كفه اليسرى والرسغ والساعد",
+          "text_de": "Wa'il ibn Hujr berichtet, dass der Prophet ﷺ seine rechte Hand auf den Rücken seiner linken Hand, das Handgelenk und den Unterarm legte.",
+          "hadith_grade": "sahih",
+          "graded_by": "Al-Albani",
+          "explanation_de": "Diese detailliertere Überlieferung beschreibt die genaue Art des Haltens und wird von den Schafiiten und Hanbaliten als Präzisierung der Handposition herangezogen."
         }
-    ],
-    "related_questions": [
-        "tahara-beruehrung-wudu",
-        "salah-basmala-fatiha",
-        "salah-qunut-fajr"
-    ],
-    "sources": [
+      ],
+      "historical_context_de": "Imam asch-Schafi'i und Ahmad ibn Hanbal betonten die strikte Befolgung der prophetischen Überlieferungen. Die zahlreichen Hadithe über das Zusammenlegen der Hände waren für beide ein eindeutiger Beleg. In der schafiitischen und hanbalitischen Tradition wird diese Haltung als Ausdruck der Demut vor Allah verstanden."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Hände seitlich herabhängen lassen (Sadl)",
+      "label_ar": "إرسال اليدين (السدل)",
+      "description_de": "Die Hände werden während des Stehens im Gebet seitlich am Körper herabhängen gelassen, ohne sie zusammenzulegen.",
+      "scholars": [
+        "malik-ibn-anas"
+      ],
+      "madhabs": [
+        "maliki"
+      ],
+      "evidence_chain": [
         {
-            "title": "Al-Majmu' Sharh al-Muhadhdhab",
-            "author": "Imam an-Nawawi",
-            "url": "https://shamela.ws/book/384"
+          "type": "hadith",
+          "reference": "Al-Muwatta, Kitab as-Salah",
+          "text_ar": "أن مالكاً كان يرسل يديه في الصلاة",
+          "text_de": "Ibn al-Qasim berichtet, dass Malik ibn Anas seine Hände im Gebet herabhängen ließ.",
+          "hadith_grade": "sahih",
+          "graded_by": "Malik ibn Anas",
+          "explanation_de": "Malik bevorzugte das Herabhängen der Hände (Sadl) im Pflichtgebet. Er stützte sich dabei auf die Praxis der Bewohner Medinas, die er als lebende Überlieferung betrachtete."
         },
         {
-            "title": "Al-Mudawwana al-Kubra",
-            "author": "Imam Sahnun",
-            "url": "https://shamela.ws/book/2325"
-        },
-        {
-            "title": "Radd al-Muhtar",
-            "author": "Ibn Abidin",
-            "url": "https://shamela.ws/book/1701"
+          "type": "hadith",
+          "reference": "Al-Mudawwana, Sahnun",
+          "text_ar": "قال مالك: لا بأس بإرسال اليدين في الصلاة المكتوبة",
+          "text_de": "Malik sagte: Es ist kein Problem, die Hände im Pflichtgebet herabhängen zu lassen.",
+          "hadith_grade": "sahih",
+          "graded_by": "Sahnun",
+          "explanation_de": "In der malikitischen Rechtsschule wird das Sadl im Pflichtgebet bevorzugt, während das Qabd im freiwilligen Gebet erlaubt ist. Malik argumentierte, dass die Praxis der Medinenser diese Unterscheidung widerspiegelt."
         }
-    ]
+      ],
+      "historical_context_de": "Die malikitische Position zum Sadl speist sich aus der besonderen Methodik Maliks, der die lebende Tradition Medinas (Amal Ahl al-Madina) als Rechtsquelle neben Quran und Sunna betrachtete. Die Bewohner Medinas ließen die Hände bei den Pflichtgebeten herunter, was Malik als eine von Generation zu Generation weitergegebene Praxis ansah."
+    },
+    {
+      "id": "pos-3",
+      "label_de": "Rechte Hand auf linke, unterhalb des Nabels",
+      "label_ar": "وضع اليمنى على اليسرى تحت السرة",
+      "description_de": "Die Hände werden zusammengelegt und unterhalb des Nabels platziert.",
+      "scholars": [
+        "abu-hanifa"
+      ],
+      "madhabs": [
+        "hanafi"
+      ],
+      "evidence_chain": [
+        {
+          "type": "hadith",
+          "reference": "Abu Dawud, Nr. 756",
+          "text_ar": "أن علياً رضي الله عنه قال: من السنة وضع الكف على الكف في الصلاة تحت السرة",
+          "text_de": "Ali (r.a.) sagte: Es gehört zur Sunna, die eine Handfläche auf die andere zu legen, unterhalb des Nabels im Gebet.",
+          "hadith_grade": "hasan",
+          "graded_by": "Ibn Hajar al-Asqalani",
+          "explanation_de": "Die Hanafiten stützen sich auf diese Überlieferung von Ali ibn Abi Talib und weitere Belege, die die Position der Hände unterhalb des Nabels beschreiben."
+        },
+        {
+          "type": "hadith",
+          "reference": "Musannaf Ibn Abi Schayba",
+          "text_ar": "عن إبراهيم النخعي أنه كان يضع يديه تحت سرته",
+          "text_de": "Ibrahim an-Nakha'i pflegte seine Hände unterhalb seines Nabels zu platzieren.",
+          "hadith_grade": "sahih",
+          "graded_by": "Ibn Abi Schayba",
+          "explanation_de": "Die Praxis von Ibrahim an-Nakha'i, einem der wichtigsten Lehrer Abu Hanifas, dient als zusätzliche Stütze für die hanafitische Position."
+        }
+      ],
+      "historical_context_de": "Abu Hanifas Methodik war stark von der kufischen Gelehrtentradition geprägt. Ibrahim an-Nakha'i und andere kufische Gelehrte überlieferten die Handposition unterhalb des Nabels. Diese Linie der Überlieferung geht über Alqama auf Abdullah ibn Mas'ud zurück, einem der engsten Gefährten des Propheten ﷺ."
+    }
+  ],
+  "related_questions": [
+    "tahara-beruehrung-wudu",
+    "salah-basmala-fatiha",
+    "salah-qunut-fajr"
+  ],
+  "sources": [
+    {
+      "title": "Al-Majmu' Sharh al-Muhadhdhab",
+      "author": "Imam an-Nawawi",
+      "url": "https://shamela.ws/book/384"
+    },
+    {
+      "title": "Al-Mudawwana al-Kubra",
+      "author": "Imam Sahnun",
+      "url": "https://shamela.ws/book/2325"
+    },
+    {
+      "title": "Radd al-Muhtar",
+      "author": "Ibn Abidin",
+      "url": "https://shamela.ws/book/1701"
+    }
+  ]
 }

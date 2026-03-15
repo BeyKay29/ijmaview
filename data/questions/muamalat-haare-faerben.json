@@ -1,72 +1,75 @@
 {
-    "id": "muamalat-haare-faerben",
-    "slug": "haare-faerben-islam-schwarz-henna-urteil",
-    "category": "muamalat",
-    "subcategory": "",
-    "question_de": "Ist das Färben der Haare (besonders Schwarz) im Islam erlaubt?",
-    "question_ar": "حكم صبغ الشعر بالسواد وغيره",
-    "search_aliases": [
-        "Haare färben Islam",
-        "Schwarz färben Haare",
-        "Henna Haare",
-        "Graue Haare färben",
-        "Bida Haare färben"
-    ],
-    "context_de": "Sowohl Männer als auch Frauen färben ihre Haare, um graue Haare zu verdecken oder aus ästhetischen Gründen. Hierbei gibt es spezifische Regeln zur Farbwahl.",
-    "positions": [
+  "id": "muamalat-haare-faerben",
+  "slug": "haare-faerben-islam-schwarz-henna-urteil",
+  "category": "muamalat",
+  "subcategory": "",
+  "question_de": "Ist das Färben der Haare (besonders Schwarz) im Islam erlaubt?",
+  "question_ar": "حكم صبغ الشعر بالسواد وغيره",
+  "search_aliases": [
+    "Haare färben Islam",
+    "Schwarz färben Haare",
+    "Henna Haare",
+    "Graue Haare färben",
+    "Bida Haare färben"
+  ],
+  "context_de": "Sowohl Männer als auch Frauen färben ihre Haare, um graue Haare zu verdecken oder aus ästhetischen Gründen. Hierbei gibt es spezifische Regeln zur Farbwahl.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Färben ist Sunna (außer Schwarz)",
+      "label_ar": "تغيير الشيب سنة - واجتناب السواد",
+      "description_de": "Es ist empfohlen, graue Haare mit Henna (Rot/Orange) oder Katam (Dunkelbraun) zu färben. Das reine Schwarzfärben sollte vermieden werden.",
+      "scholars": [
+        "al-shafii",
+        "an-nawawi"
+      ],
+      "madhabs": [
+        "shafii"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Färben ist Sunna (außer Schwarz)",
-            "label_ar": "تغيير الشيب سنة - واجتناب السواد",
-            "description_de": "Es ist empfohlen, graue Haare mit Henna (Rot/Orange) oder Katam (Dunkelbraun) zu färben. Das reine Schwarzfärben sollte vermieden werden.",
-            "scholars": [
-                "al-shafii",
-                "an-nawawi"
-            ],
-            "madhabs": [
-                "shafii"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih Muslim, Nr. 2102",
-                    "text_ar": "غيروا هذا بشيء، واجتنبوا السواد",
-                    "text_de": "Ändert dies (das graue Haar) mit etwas, aber meidet das Schwarz.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Muslim ibn al-Hajjaj",
-                    "explanation_de": "Der Prophet ﷺ empfahl Abu Quhafa (dem Vater von Abu Bakr), seine schneeweißen Haare zu färben, aber Schwarz zu meiden. Die Schafiiten sehen darin ein Verbot für reines Schwarz."
-                }
-            ]
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Schwarzfärben ist erlaubt (außer bei Täuschung)",
-            "label_ar": "جواز الصبغ بالسواد لغير التدليس",
-            "description_de": "Das Färben in Schwarz ist erlaubt, solange damit keine Täuschung (z.B. bei der Heirat oder im Krieg) beabsichtigt wird.",
-            "scholars": [
-                "abu-hanifa",
-                "abu-yusuf"
-            ],
-            "madhabs": [
-                "hanafi"
-            ],
-            "explanation_de": "Abu Yusuf, der Schüler von Abu Hanifa, erlaubte das Schwarzfärben ausdrücklich, um für die Ehefrau attraktiv auszusehen, so wie sie es für ihn tut."
+          "type": "hadith",
+          "reference": "Sahih Muslim, Nr. 2102",
+          "text_ar": "غيروا هذا بشيء، واجتنبوا السواد",
+          "text_de": "Ändert dies (das graue Haar) mit etwas, aber meidet das Schwarz.",
+          "hadith_grade": "sahih",
+          "graded_by": "Muslim ibn al-Hajjaj",
+          "explanation_de": "Der Prophet ﷺ empfahl Abu Quhafa (dem Vater von Abu Bakr), seine schneeweißen Haare zu färben, aber Schwarz zu meiden. Die Schafiiten sehen darin ein Verbot für reines Schwarz."
         }
-    ],
-    "related_questions": [
-        "muamalat-tattoos",
-        "salah-bart-pflicht"
-    ],
-    "sources": [
-        {
-            "title": "Sharh Sahih Muslim",
-            "author": "Imam an-Nawawi",
-            "url": "https://shamela.ws/book/1711"
-        },
-        {
-            "title": "Al-Hidaya",
-            "author": "Al-Marghinani",
-            "url": "https://shamela.ws/book/913"
-        }
-    ]
+      ],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Schwarzfärben ist erlaubt (außer bei Täuschung)",
+      "label_ar": "جواز الصبغ بالسواد لغير التدليس",
+      "description_de": "Das Färben in Schwarz ist erlaubt, solange damit keine Täuschung (z.B. bei der Heirat oder im Krieg) beabsichtigt wird.",
+      "scholars": [
+        "abu-hanifa",
+        "abu-yusuf"
+      ],
+      "madhabs": [
+        "hanafi"
+      ],
+      "explanation_de": "Abu Yusuf, der Schüler von Abu Hanifa, erlaubte das Schwarzfärben ausdrücklich, um für die Ehefrau attraktiv auszusehen, so wie sie es für ihn tut.",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    }
+  ],
+  "related_questions": [
+    "muamalat-tattoos",
+    "salah-bart-pflicht"
+  ],
+  "sources": [
+    {
+      "title": "Sharh Sahih Muslim",
+      "author": "Imam an-Nawawi",
+      "url": "https://shamela.ws/book/1711"
+    },
+    {
+      "title": "Al-Hidaya",
+      "author": "Al-Marghinani",
+      "url": "https://shamela.ws/book/913"
+    }
+  ]
 }

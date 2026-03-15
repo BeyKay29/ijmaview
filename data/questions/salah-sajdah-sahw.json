@@ -1,74 +1,76 @@
 {
-    "id": "salah-sajdah-sahw-urteil",
-    "slug": "prostration-vergesslichkeit-sajdah-sahw",
-    "category": "salah",
-    "subcategory": "arten",
-    "question_de": "Wann und wie verrichtet man die Prostration der Vergesslichkeit (Sajdah as-Sahw)?",
-    "question_ar": "حكم وكيفية سجود السهو",
-    "search_aliases": [
-        "Sajdah Sahw",
-        "Vergessen im Gebet",
-        "Fehler im Gebet korrigieren",
-        "Zusätzliche Rakat Sahw",
-        "Sahw vor oder nach Salam"
-    ],
-    "context_de": "Fehler im Gebet – wie das Vergessen einer Rakat, eines Sitzens oder Zweifel an der Anzahl – passieren jedem. Sajdah as-Sahw ist das Mittel zur Korrektur.",
-    "positions": [
+  "id": "salah-sajdah-sahw-urteil",
+  "slug": "prostration-vergesslichkeit-sajdah-sahw",
+  "category": "salah",
+  "subcategory": "arten",
+  "question_de": "Wann und wie verrichtet man die Prostration der Vergesslichkeit (Sajdah as-Sahw)?",
+  "question_ar": "حكم وكيفية سجود السهو",
+  "search_aliases": [
+    "Sajdah Sahw",
+    "Vergessen im Gebet",
+    "Fehler im Gebet korrigieren",
+    "Zusätzliche Rakat Sahw",
+    "Sahw vor oder nach Salam"
+  ],
+  "context_de": "Fehler im Gebet – wie das Vergessen einer Rakat, eines Sitzens oder Zweifel an der Anzahl – passieren jedem. Sajdah as-Sahw ist das Mittel zur Korrektur.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Sajdah Sahw ist Pflicht (Wajib)",
+      "label_ar": "سجود السهو واجب",
+      "description_de": "Wenn man einen wesentlichen Bestandteil (Wajib) des Gebets vergisst oder etwas hinzufügt, ist die Korrektur durch Sajdah as-Sahw verpflichtend.",
+      "scholars": [
+        "abu-hanifa",
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "hanafi",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Sajdah Sahw ist Pflicht (Wajib)",
-            "label_ar": "سجود السهو واجب",
-            "description_de": "Wenn man einen wesentlichen Bestandteil (Wajib) des Gebets vergisst oder etwas hinzufügt, ist die Korrektur durch Sajdah as-Sahw verpflichtend.",
-            "scholars": [
-                "abu-hanifa",
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "hanafi",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih Muslim, Nr. 572",
-                    "text_ar": "فإذا نسي أحدكم فليسجد سجدتين",
-                    "text_de": "Wenn einer von euch (etwas im Gebet) vergisst, soll er zwei Niederwerfungen machen.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Muslim ibn al-Hajjaj"
-                }
-            ],
-            "historical_context_de": "Hanafiten machen die Sajdah immer nach dem ersten Salam. Hanbaliten unterscheiden: bei Hinzufügung nach dem Salam, bei Auslassung vor dem Salam."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Sajdah Sahw ist Sunna",
-            "label_ar": "سجود السهو سنة",
-            "description_de": "Die Korrektur durch Sajdah as-Sahw ist eine Sunna, um das Gebet zu vervollständigen, aber kein Wajib.",
-            "scholars": [
-                "al-shafii",
-                "malik-ibn-anas"
-            ],
-            "madhabs": [
-                "shafii",
-                "maliki"
-            ],
-            "explanation_de": "Schafiiten machen die Sajdah grundsätzlich vor dem Salam (nach dem Tashahhud). Malikiten machen sie vor dem Salam bei Auslassung (Naqs) und nach dem Salam bei Hinzufügung (Ziyada)."
+          "type": "hadith",
+          "reference": "Sahih Muslim, Nr. 572",
+          "text_ar": "فإذا نسي أحدكم فليسجد سجدتين",
+          "text_de": "Wenn einer von euch (etwas im Gebet) vergisst, soll er zwei Niederwerfungen machen.",
+          "hadith_grade": "sahih",
+          "graded_by": "Muslim ibn al-Hajjaj"
         }
-    ],
-    "related_questions": [
-        "salah-witr-gebet",
-        "salah-tarawih-rakat"
-    ],
-    "sources": [
-        {
-            "title": "Bidayat al-Mujtahid",
-            "author": "Ibn Rushd",
-            "url": "https://shamela.ws/book/22375"
-        },
-        {
-            "title": "Al-Hidaya",
-            "author": "Al-Marghinani",
-            "url": "https://shamela.ws/book/913"
-        }
-    ]
+      ],
+      "historical_context_de": "Hanafiten machen die Sajdah immer nach dem ersten Salam. Hanbaliten unterscheiden: bei Hinzufügung nach dem Salam, bei Auslassung vor dem Salam."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Sajdah Sahw ist Sunna",
+      "label_ar": "سجود السهو سنة",
+      "description_de": "Die Korrektur durch Sajdah as-Sahw ist eine Sunna, um das Gebet zu vervollständigen, aber kein Wajib.",
+      "scholars": [
+        "al-shafii",
+        "malik-ibn-anas"
+      ],
+      "madhabs": [
+        "shafii",
+        "maliki"
+      ],
+      "explanation_de": "Schafiiten machen die Sajdah grundsätzlich vor dem Salam (nach dem Tashahhud). Malikiten machen sie vor dem Salam bei Auslassung (Naqs) und nach dem Salam bei Hinzufügung (Ziyada).",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    }
+  ],
+  "related_questions": [
+    "salah-witr-gebet",
+    "salah-tarawih-rakat"
+  ],
+  "sources": [
+    {
+      "title": "Bidayat al-Mujtahid",
+      "author": "Ibn Rushd",
+      "url": "https://shamela.ws/book/22375"
+    },
+    {
+      "title": "Al-Hidaya",
+      "author": "Al-Marghinani",
+      "url": "https://shamela.ws/book/913"
+    }
+  ]
 }

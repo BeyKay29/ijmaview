@@ -1,84 +1,84 @@
 {
-    "id": "muamalat-riba-bankzins",
-    "slug": "riba-bankzinsen-verboten",
-    "category": "muamalat",
-    "subcategory": "",
-    "question_de": "Sind Bankzinsen (Riba) im Islam verboten?",
-    "question_ar": "هل الفوائد البنكية ربا محرم؟",
-    "search_aliases": [
-        "Bankzinsen Islam",
-        "Riba verboten",
-        "Zinsen haram",
-        "Bank Islam erlaubt",
-        "Zinsen Kredit Islam",
-        "Riba Bankgeschäft"
-    ],
-    "context_de": "Die Frage nach Bankzinsen ist eine der relevantesten Fragen im modernen islamischen Wirtschaftsleben. Sie betrifft Sparkonten, Kredite, Hypotheken und viele weitere finanzielle Transaktionen.",
-    "positions": [
+  "id": "muamalat-riba-bankzins",
+  "slug": "riba-bankzinsen-verboten",
+  "category": "muamalat",
+  "subcategory": "",
+  "question_de": "Sind Bankzinsen (Riba) im Islam verboten?",
+  "question_ar": "هل الفوائد البنكية ربا محرم؟",
+  "search_aliases": [
+    "Bankzinsen Islam",
+    "Riba verboten",
+    "Zinsen haram",
+    "Bank Islam erlaubt",
+    "Zinsen Kredit Islam",
+    "Riba Bankgeschäft"
+  ],
+  "context_de": "Die Frage nach Bankzinsen ist eine der relevantesten Fragen im modernen islamischen Wirtschaftsleben. Sie betrifft Sparkonten, Kredite, Hypotheken und viele weitere finanzielle Transaktionen.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Bankzinsen sind Riba und absolut verboten",
+      "label_ar": "الفوائد البنكية ربا محرم قطعاً",
+      "description_de": "Alle vier Rechtsschulen sind sich einig, dass Riba (Zins/Wucher) zu den schwerwiegendsten Verboten im Islam gehört. Moderne Bankzinsen fallen unter dieses Verbot.",
+      "scholars": [
+        "abu-hanifa",
+        "malik-ibn-anas",
+        "al-shafii",
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki",
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Bankzinsen sind Riba und absolut verboten",
-            "label_ar": "الفوائد البنكية ربا محرم قطعاً",
-            "description_de": "Alle vier Rechtsschulen sind sich einig, dass Riba (Zins/Wucher) zu den schwerwiegendsten Verboten im Islam gehört. Moderne Bankzinsen fallen unter dieses Verbot.",
-            "scholars": [
-                "abu-hanifa",
-                "malik-ibn-anas",
-                "al-shafii",
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "hanafi",
-                "maliki",
-                "shafii",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "quran",
-                    "reference": "Sure 2:275 (Al-Baqara)",
-                    "text_ar": "وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا",
-                    "text_de": "Und Allah hat den Handel erlaubt und die Riba verboten.",
-                    "explanation_de": "Der Koranvers spricht ein eindeutiges und bedingungsloses Verbot der Riba aus. Alle vier Rechtsschulen sind sich einig, dass dies das Grundverbot darstellt."
-                },
-                {
-                    "type": "quran",
-                    "reference": "Sure 2:278-279 (Al-Baqara)",
-                    "text_ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَذَرُوا مَا بَقِيَ مِنَ الرِّبَا إِن كُنتُم مُّؤْمِنِينَ",
-                    "text_de": "O ihr, die ihr glaubt, fürchtet Allah und lasst von dem ab, was an Riba noch aussteht, wenn ihr Gläubige seid.",
-                    "explanation_de": "Dieser Vers verstärkt das Verbot noch durch die Androhung eines Krieges von Allah und Seinem Gesandten gegen diejenigen, die Riba nicht aufgeben."
-                },
-                {
-                    "type": "hadith",
-                    "reference": "Sahih Muslim, Nr. 1598",
-                    "text_ar": "لعن رسول الله ﷺ آكل الربا وموكله وكاتبه وشاهديه وقال هم سواء",
-                    "text_de": "Der Prophet ﷺ verfluchte den Nehmer von Riba, den Geber von Riba, den Schreiber und die beiden Zeugen und sagte: 'Sie sind gleich (in der Sünde).'",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Muslim ibn al-Hajjaj",
-                    "explanation_de": "Dieser Hadith zeigt die Schwere des Riba-Verbots – es betrifft alle Beteiligten gleichermaßen: den Kreditnehmer, den Kreditgeber, den Notar und die Zeugen."
-                }
-            ],
-            "historical_context_de": "Das Riba-Verbot gehört zu den wenigen Fiqh-Fragen, bei denen ein vollständiger Ijma (Konsens) aller Rechtsschulen herrscht. Die Internationale Fiqh-Akademie der OIC hat 1986 einstimmig bestätigt, dass moderne Bankzinsen unter das islamische Riba-Verbot fallen."
-        }
-    ],
-    "related_questions": [
-        "zakah-goldschmuck-frauen",
-        "nikah-wali-pflicht"
-    ],
-    "sources": [
-        {
-            "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
-            "author": "Kuwaiti Ministry of Awqaf",
-            "url": "https://islamweb.net"
+          "type": "quran",
+          "reference": "Sure 2:275 (Al-Baqara)",
+          "text_ar": "وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا",
+          "text_de": "Und Allah hat den Handel erlaubt und die Riba verboten.",
+          "explanation_de": "Der Koranvers spricht ein eindeutiges und bedingungsloses Verbot der Riba aus. Alle vier Rechtsschulen sind sich einig, dass dies das Grundverbot darstellt."
         },
         {
-            "title": "Beschluss der OIC Fiqh-Akademie (1986)",
-            "author": "Islamische Fiqh-Akademie",
-            "url": "https://www.iifa-aifi.org"
+          "type": "quran",
+          "reference": "Sure 2:278-279 (Al-Baqara)",
+          "text_ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَذَرُوا مَا بَقِيَ مِنَ الرِّبَا إِن كُنتُم مُّؤْمِنِينَ",
+          "text_de": "O ihr, die ihr glaubt, fürchtet Allah und lasst von dem ab, was an Riba noch aussteht, wenn ihr Gläubige seid.",
+          "explanation_de": "Dieser Vers verstärkt das Verbot noch durch die Androhung eines Krieges von Allah und Seinem Gesandten gegen diejenigen, die Riba nicht aufgeben."
         },
         {
-            "title": "Bidayat al-Mujtahid",
-            "author": "Ibn Rushd",
-            "url": "https://shamela.ws/book/22375"
+          "type": "hadith",
+          "reference": "Sahih Muslim, Nr. 1598",
+          "text_ar": "لعن رسول الله ﷺ آكل الربا وموكله وكاتبه وشاهديه وقال هم سواء",
+          "text_de": "Der Prophet ﷺ verfluchte den Nehmer von Riba, den Geber von Riba, den Schreiber und die beiden Zeugen und sagte: 'Sie sind gleich (in der Sünde).'",
+          "hadith_grade": "sahih",
+          "graded_by": "Muslim ibn al-Hajjaj",
+          "explanation_de": "Dieser Hadith zeigt die Schwere des Riba-Verbots – es betrifft alle Beteiligten gleichermaßen: den Kreditnehmer, den Kreditgeber, den Notar und die Zeugen."
         }
-    ]
+      ],
+      "historical_context_de": "Das Riba-Verbot gehört zu den wenigen Fiqh-Fragen, bei denen ein vollständiger Ijma (Konsens) aller Rechtsschulen herrscht. Die Internationale Fiqh-Akademie der OIC hat 1986 einstimmig bestätigt, dass moderne Bankzinsen unter das islamische Riba-Verbot fallen."
+    }
+  ],
+  "related_questions": [
+    "zakah-goldschmuck-frauen",
+    "nikah-wali-pflicht"
+  ],
+  "sources": [
+    {
+      "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
+      "author": "Kuwaiti Ministry of Awqaf",
+      "url": "https://islamweb.net"
+    },
+    {
+      "title": "Beschluss der OIC Fiqh-Akademie (1986)",
+      "author": "Islamische Fiqh-Akademie",
+      "url": "https://www.iifa-aifi.org"
+    },
+    {
+      "title": "Bidayat al-Mujtahid",
+      "author": "Ibn Rushd",
+      "url": "https://shamela.ws/book/22375"
+    }
+  ]
 }

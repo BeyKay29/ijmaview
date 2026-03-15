@@ -1,78 +1,78 @@
 {
-    "id": "tahara-nagellack-gebet",
-    "slug": "nagellack-gebet-wudu",
-    "category": "tahara",
-    "subcategory": "wudu",
-    "question_de": "Darf man mit Nagellack beten? Ist der Wudu gültig?",
-    "question_ar": "هل يجوز الصلاة بطلاء الأظافر؟ وهل يصح الوضوء معه؟",
-    "search_aliases": [
-        "Nagellack beten",
-        "Nagellack Wudu",
-        "Nagellack Gebet Islam",
-        "Nagellack Gebetswaschung",
-        "Nägel lackieren Islam",
-        "Maniküre Wudu gültig"
-    ],
-    "context_de": "Diese Frage betrifft besonders muslimische Frauen im Alltag. Da der Wudu das Waschen der Hände einschließlich der Fingerspitzen erfordert, stellt sich die Frage, ob eine Beschichtung wie Nagellack das Wasser daran hindert, die Haut zu erreichen.",
-    "positions": [
+  "id": "tahara-nagellack-gebet",
+  "slug": "nagellack-gebet-wudu",
+  "category": "tahara",
+  "subcategory": "wudu",
+  "question_de": "Darf man mit Nagellack beten? Ist der Wudu gültig?",
+  "question_ar": "هل يجوز الصلاة بطلاء الأظافر؟ وهل يصح الوضوء معه؟",
+  "search_aliases": [
+    "Nagellack beten",
+    "Nagellack Wudu",
+    "Nagellack Gebet Islam",
+    "Nagellack Gebetswaschung",
+    "Nägel lackieren Islam",
+    "Maniküre Wudu gültig"
+  ],
+  "context_de": "Diese Frage betrifft besonders muslimische Frauen im Alltag. Da der Wudu das Waschen der Hände einschließlich der Fingerspitzen erfordert, stellt sich die Frage, ob eine Beschichtung wie Nagellack das Wasser daran hindert, die Haut zu erreichen.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Wudu ungültig – Wasser muss die Nägel erreichen",
+      "label_ar": "الوضوء باطل – يجب وصول الماء إلى الأظافر",
+      "description_de": "Alle vier Rechtsschulen sind sich einig, dass der Wudu nur gültig ist, wenn das Wasser jede vorgeschriebene Stelle des Körpers erreicht. Nagellack bildet eine wasserundurchlässige Schicht und verhindert dies.",
+      "scholars": [
+        "abu-hanifa",
+        "malik-ibn-anas",
+        "al-shafii",
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki",
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Wudu ungültig – Wasser muss die Nägel erreichen",
-            "label_ar": "الوضوء باطل – يجب وصول الماء إلى الأظافر",
-            "description_de": "Alle vier Rechtsschulen sind sich einig, dass der Wudu nur gültig ist, wenn das Wasser jede vorgeschriebene Stelle des Körpers erreicht. Nagellack bildet eine wasserundurchlässige Schicht und verhindert dies.",
-            "scholars": [
-                "abu-hanifa",
-                "malik-ibn-anas",
-                "al-shafii",
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "hanafi",
-                "maliki",
-                "shafii",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "quran",
-                    "reference": "Sure 5:6 (Al-Ma'ida)",
-                    "text_ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوا وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ",
-                    "text_de": "O ihr, die ihr glaubt! Wenn ihr euch zum Gebet begebt, so wascht euer Gesicht und eure Hände bis zu den Ellbogen…",
-                    "explanation_de": "Der Koranvers ordnet das Waschen (Ghasl) der Hände an. Alle vier Rechtsschulen verstehen unter ‚Waschen' das Fließen des Wassers über die gesamte vorgeschriebene Fläche. Eine Barriere, die das Wasser abhält, macht den Wudu ungültig."
-                },
-                {
-                    "type": "hadith",
-                    "reference": "Sahih Muslim, Nr. 243",
-                    "text_ar": "أن النبي ﷺ رأى رجلاً في قدمه لمعة قدر الدرهم لم يصبها الماء فأمره بالإعادة",
-                    "text_de": "Der Prophet ﷺ sah einen Mann, an dessen Fuß eine Stelle in der Größe eines Dirhams war, die das Wasser nicht erreicht hatte, und befahl ihm, den Wudu zu wiederholen.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Muslim ibn al-Hajjaj",
-                    "explanation_de": "Dieser Hadith zeigt, dass selbst eine kleine ungewaschene Stelle den Wudu ungültig macht. Nagellack bedeckt die gesamten Nägel und verhindert das Erreichen des Wassers, was den Wudu nach allen Rechtsschulen ungültig macht."
-                }
-            ],
-            "historical_context_de": "Diese Frage wird in den klassischen Fiqh-Werken unter dem Kapitel ‚Hindernisse des Waschwassers' (Hawail al-Ma') behandelt. Die Gelehrten diskutierten bereits Substanzen wie Wachs, Teig und Farbe, die das Wasser von der Haut abhalten. Moderner Nagellack fällt unter dasselbe Prinzip."
-        }
-    ],
-    "related_questions": [
-        "tahara-beruehrung-wudu",
-        "salah-haende-binden",
-        "siyam-zahnpasta-fasten"
-    ],
-    "sources": [
-        {
-            "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
-            "author": "Kuwaiti Ministry of Awqaf",
-            "url": "https://islamweb.net"
+          "type": "quran",
+          "reference": "Sure 5:6 (Al-Ma'ida)",
+          "text_ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوا وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ",
+          "text_de": "O ihr, die ihr glaubt! Wenn ihr euch zum Gebet begebt, so wascht euer Gesicht und eure Hände bis zu den Ellbogen…",
+          "explanation_de": "Der Koranvers ordnet das Waschen (Ghasl) der Hände an. Alle vier Rechtsschulen verstehen unter ‚Waschen' das Fließen des Wassers über die gesamte vorgeschriebene Fläche. Eine Barriere, die das Wasser abhält, macht den Wudu ungültig."
         },
         {
-            "title": "Sahih Muslim",
-            "author": "Muslim ibn al-Hajjaj",
-            "url": "https://sunnah.com/muslim"
-        },
-        {
-            "title": "Al-Majmu' Sharh al-Muhadhdhab",
-            "author": "Imam an-Nawawi",
-            "url": "https://shamela.ws/book/384"
+          "type": "hadith",
+          "reference": "Sahih Muslim, Nr. 243",
+          "text_ar": "أن النبي ﷺ رأى رجلاً في قدمه لمعة قدر الدرهم لم يصبها الماء فأمره بالإعادة",
+          "text_de": "Der Prophet ﷺ sah einen Mann, an dessen Fuß eine Stelle in der Größe eines Dirhams war, die das Wasser nicht erreicht hatte, und befahl ihm, den Wudu zu wiederholen.",
+          "hadith_grade": "sahih",
+          "graded_by": "Muslim ibn al-Hajjaj",
+          "explanation_de": "Dieser Hadith zeigt, dass selbst eine kleine ungewaschene Stelle den Wudu ungültig macht. Nagellack bedeckt die gesamten Nägel und verhindert das Erreichen des Wassers, was den Wudu nach allen Rechtsschulen ungültig macht."
         }
-    ]
+      ],
+      "historical_context_de": "Diese Frage wird in den klassischen Fiqh-Werken unter dem Kapitel ‚Hindernisse des Waschwassers' (Hawail al-Ma') behandelt. Die Gelehrten diskutierten bereits Substanzen wie Wachs, Teig und Farbe, die das Wasser von der Haut abhalten. Moderner Nagellack fällt unter dasselbe Prinzip."
+    }
+  ],
+  "related_questions": [
+    "tahara-beruehrung-wudu",
+    "salah-haende-binden",
+    "siyam-zahnpasta-fasten"
+  ],
+  "sources": [
+    {
+      "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
+      "author": "Kuwaiti Ministry of Awqaf",
+      "url": "https://islamweb.net"
+    },
+    {
+      "title": "Sahih Muslim",
+      "author": "Muslim ibn al-Hajjaj",
+      "url": "https://sunnah.com/muslim"
+    },
+    {
+      "title": "Al-Majmu' Sharh al-Muhadhdhab",
+      "author": "Imam an-Nawawi",
+      "url": "https://shamela.ws/book/384"
+    }
+  ]
 }

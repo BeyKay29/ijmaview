@@ -1,86 +1,87 @@
 {
-    "id": "salah-sutrah-pflicht",
-    "slug": "sutrah-pflicht-oder-sunna-gebet",
-    "category": "salah",
-    "subcategory": "voraussetzungen",
-    "question_de": "Ist die Sutrah (Gegenstand vor dem Betenden) Pflicht oder Sunna?",
-    "question_ar": "حكم السترة في الصلاة",
-    "search_aliases": [
-        "Sutrah Gebet",
-        "Gegenstand vor Beter",
-        "Sutrah Pflicht",
-        "Sutrah Sunna",
-        "Vor Beter laufen"
-    ],
-    "context_de": "Die Sutrah ist ein Gegenstand (wie ein Stuhl, eine Wand oder ein Stab), den man vor sich platziert, um den Bereich des Gebets zu markieren und zu verhindern, dass Menschen direkt vor einem herlaufen.",
-    "positions": [
+  "id": "salah-sutrah-pflicht",
+  "slug": "sutrah-pflicht-oder-sunna-gebet",
+  "category": "salah",
+  "subcategory": "voraussetzungen",
+  "question_de": "Ist die Sutrah (Gegenstand vor dem Betenden) Pflicht oder Sunna?",
+  "question_ar": "حكم السترة في الصلاة",
+  "search_aliases": [
+    "Sutrah Gebet",
+    "Gegenstand vor Beter",
+    "Sutrah Pflicht",
+    "Sutrah Sunna",
+    "Vor Beter laufen"
+  ],
+  "context_de": "Die Sutrah ist ein Gegenstand (wie ein Stuhl, eine Wand oder ein Stab), den man vor sich platziert, um den Bereich des Gebets zu markieren und zu verhindern, dass Menschen direkt vor einem herlaufen.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Sutrah ist eine empfohlene Sunna (Mehrheit)",
+      "label_ar": "السترة سنة مؤكدة - مذهب الجمهور",
+      "description_de": "Das Aufstellen einer Sutrah ist eine stark empfohlene Sunna (Sunna mu'akkada), aber keine Bedingung für die Gültigkeit des Gebets.",
+      "scholars": [
+        "abu-hanifa",
+        "malik-ibn-anas",
+        "al-shafii"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki",
+        "shafii"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Sutrah ist eine empfohlene Sunna (Mehrheit)",
-            "label_ar": "السترة سنة مؤكدة - مذهب الجمهور",
-            "description_de": "Das Aufstellen einer Sutrah ist eine stark empfohlene Sunna (Sunna mu'akkada), aber keine Bedingung für die Gültigkeit des Gebets.",
-            "scholars": [
-                "abu-hanifa",
-                "malik-ibn-anas",
-                "al-shafii"
-            ],
-            "madhabs": [
-                "hanafi",
-                "maliki",
-                "shafii"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sunan Abu Dawud; Ibn Majah",
-                    "text_ar": "إذا صلى أحدكم فليصل إلى سترة وليدن منها",
-                    "text_de": "Wenn einer von euch betet, soll er in Richtung einer Sutrah beten und nah an sie herantreten.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Al-Albani / Abu Dawud",
-                    "explanation_de": "Obwohl der Hadith einen Befehlston hat, verstehen die drei Rechtsschulen dies als Empfehlung, da es Berichte gibt, dass der Prophet ﷺ auch ohne Sutrah betete (z.B. in weiten Flächen)."
-                }
-            ],
-            "historical_context_de": "In der hanafitischen und malikitischen Schule ist die Sutrah besonders wichtig, wenn man damit rechnet, dass jemand vor einem herlaufen könnte."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Sutrah ist Pflicht (Wajib)",
-            "label_ar": "السترة واجبة",
-            "description_de": "Es ist für jeden Beter (der nicht hinter einem Imam betet) verpflichtend, eine Sutrah zu verwenden.",
-            "scholars": [
-                "ahmad-ibn-hanbal",
-                "ibn-taymiyya"
-            ],
-            "madhabs": [
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih Muslim, Nr. 510",
-                    "text_ar": "لا تصل إلا إلى سترة",
-                    "text_de": "Bete nur in Richtung einer Sutrah.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Muslim ibn al-Hajjaj",
-                    "explanation_de": "Gelehrte wie Ibn Taymiyya nehmen den Befehl wörtlich und sehen darin eine Verpflichtung, um das Gebet vor Störungen zu schützen."
-                }
-            ]
+          "type": "hadith",
+          "reference": "Sunan Abu Dawud; Ibn Majah",
+          "text_ar": "إذا صلى أحدكم فليصل إلى سترة وليدن منها",
+          "text_de": "Wenn einer von euch betet, soll er in Richtung einer Sutrah beten und nah an sie herantreten.",
+          "hadith_grade": "sahih",
+          "graded_by": "Al-Albani / Abu Dawud",
+          "explanation_de": "Obwohl der Hadith einen Befehlston hat, verstehen die drei Rechtsschulen dies als Empfehlung, da es Berichte gibt, dass der Prophet ﷺ auch ohne Sutrah betete (z.B. in weiten Flächen)."
         }
-    ],
-    "related_questions": [
-        "salah-haende-binden",
-        "salah-amin-laut-leise"
-    ],
-    "sources": [
+      ],
+      "historical_context_de": "In der hanafitischen und malikitischen Schule ist die Sutrah besonders wichtig, wenn man damit rechnet, dass jemand vor einem herlaufen könnte."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Sutrah ist Pflicht (Wajib)",
+      "label_ar": "السترة واجبة",
+      "description_de": "Es ist für jeden Beter (der nicht hinter einem Imam betet) verpflichtend, eine Sutrah zu verwenden.",
+      "scholars": [
+        "ahmad-ibn-hanbal",
+        "ibn-taymiyya"
+      ],
+      "madhabs": [
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "title": "Al-Mughni",
-            "author": "Ibn Qudama",
-            "url": "https://shamela.ws/book/6946"
-        },
-        {
-            "title": "Al-Majmu'",
-            "author": "Imam an-Nawawi",
-            "url": "https://shamela.ws/book/384"
+          "type": "hadith",
+          "reference": "Sahih Muslim, Nr. 510",
+          "text_ar": "لا تصل إلا إلى سترة",
+          "text_de": "Bete nur in Richtung einer Sutrah.",
+          "hadith_grade": "sahih",
+          "graded_by": "Muslim ibn al-Hajjaj",
+          "explanation_de": "Gelehrte wie Ibn Taymiyya nehmen den Befehl wörtlich und sehen darin eine Verpflichtung, um das Gebet vor Störungen zu schützen."
         }
-    ]
+      ],
+      "historical_context_de": ""
+    }
+  ],
+  "related_questions": [
+    "salah-haende-binden",
+    "salah-amin-laut-leise"
+  ],
+  "sources": [
+    {
+      "title": "Al-Mughni",
+      "author": "Ibn Qudama",
+      "url": "https://shamela.ws/book/6946"
+    },
+    {
+      "title": "Al-Majmu'",
+      "author": "Imam an-Nawawi",
+      "url": "https://shamela.ws/book/384"
+    }
+  ]
 }

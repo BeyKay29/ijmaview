@@ -1,91 +1,91 @@
 {
-    "id": "salah-qunut-fajr",
-    "slug": "qunut-fajr-gebet",
-    "category": "salah",
-    "subcategory": "ablauf",
-    "question_de": "Wird das Qunut-Bittgebet im Fajr-Gebet gesprochen?",
-    "question_ar": "هل يُقنت في صلاة الفجر؟",
-    "search_aliases": [
-        "Qunut Fajr",
-        "Dua Qunut Morgengebet",
-        "Qunut beten",
-        "Bittgebet Fajr",
-        "Qunut Witr Fajr"
-    ],
-    "context_de": "Die Frage, ob im Fajr-Gebet regelmäßig ein Qunut-Bittgebet gesprochen wird, ist ein weiterer sichtbarer Unterschied zwischen den Rechtsschulen und betrifft die tägliche Gebetspraxis.",
-    "positions": [
+  "id": "salah-qunut-fajr",
+  "slug": "qunut-fajr-gebet",
+  "category": "salah",
+  "subcategory": "ablauf",
+  "question_de": "Wird das Qunut-Bittgebet im Fajr-Gebet gesprochen?",
+  "question_ar": "هل يُقنت في صلاة الفجر؟",
+  "search_aliases": [
+    "Qunut Fajr",
+    "Dua Qunut Morgengebet",
+    "Qunut beten",
+    "Bittgebet Fajr",
+    "Qunut Witr Fajr"
+  ],
+  "context_de": "Die Frage, ob im Fajr-Gebet regelmäßig ein Qunut-Bittgebet gesprochen wird, ist ein weiterer sichtbarer Unterschied zwischen den Rechtsschulen und betrifft die tägliche Gebetspraxis.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Qunut im Fajr ist Sunna (regelmäßig)",
+      "label_ar": "القنوت في الفجر سنة راتبة",
+      "description_de": "Das Qunut-Bittgebet wird im Fajr-Gebet regelmäßig nach dem Ruku' der zweiten Rak'a gesprochen. Es ist eine Sunna mu'akkada.",
+      "scholars": [
+        "al-shafii",
+        "malik-ibn-anas"
+      ],
+      "madhabs": [
+        "shafii",
+        "maliki"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Qunut im Fajr ist Sunna (regelmäßig)",
-            "label_ar": "القنوت في الفجر سنة راتبة",
-            "description_de": "Das Qunut-Bittgebet wird im Fajr-Gebet regelmäßig nach dem Ruku' der zweiten Rak'a gesprochen. Es ist eine Sunna mu'akkada.",
-            "scholars": [
-                "al-shafii",
-                "malik-ibn-anas"
-            ],
-            "madhabs": [
-                "shafii",
-                "maliki"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih Muslim, Nr. 677; Sunan an-Nasa'i",
-                    "text_ar": "أن النبي ﷺ قنت شهراً يدعو على أحياء من العرب ثم تركه",
-                    "text_de": "Anas ibn Malik (r.a.) berichtet: Der Prophet ﷺ hörte nicht auf, im Fajr-Gebet Qunut zu sprechen, bis er diese Welt verließ.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Ahmad ibn Hanbal / Al-Baihaqi",
-                    "explanation_de": "Die Schafiiten und Malikiten stützen sich auf die Überlieferung von Anas, dass der Prophet ﷺ das Qunut im Fajr-Gebet bis zu seinem Tod beibehielt. Sie betrachten dies als beständige Sunna."
-                }
-            ],
-            "historical_context_de": "Das regelmäßige Qunut im Fajr war die Praxis in Medina und Ägypten, wo die schafiitische und malikitische Tradition stark verbreitet waren. Die Gelehrten beider Schulen sahen darin eine ununterbrochene prophetische Tradition."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Qunut nur in Notzeiten (Qunut an-Nawazil)",
-            "label_ar": "القنوت فقط في النوازل",
-            "description_de": "Das Qunut wird nur in außergewöhnlichen Situationen (Katastrophen, Kriege) gesprochen, nicht regelmäßig im Fajr.",
-            "scholars": [
-                "abu-hanifa",
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "hanafi",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih al-Bukhari, Nr. 4089; Sahih Muslim, Nr. 677",
-                    "text_ar": "قنت النبي ﷺ شهراً يدعو عليهم ثم ترك",
-                    "text_de": "Der Prophet ﷺ sprach einen Monat lang das Qunut als Bittgebet gegen sie, dann ließ er es.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Al-Bukhari / Muslim",
-                    "explanation_de": "Die Hanafiten und Hanbaliten argumentieren, dass der Prophet ﷺ das Qunut nur vorübergehend sprach – als Reaktion auf ein bestimmtes Ereignis – und es dann wieder aufgab. Dies zeigt, dass es keine beständige Sunna ist."
-                }
-            ],
-            "historical_context_de": "Die kufische Gelehrtentradition, vertreten durch Abu Hanifa, und die Bagdader Tradition Ahmad ibn Hanbals sahen das regelmäßige Qunut im Fajr nicht als prophetische Praxis. Sie beschränkten es auf Notzeiten (Nawazil)."
+          "type": "hadith",
+          "reference": "Sahih Muslim, Nr. 677; Sunan an-Nasa'i",
+          "text_ar": "أن النبي ﷺ قنت شهراً يدعو على أحياء من العرب ثم تركه",
+          "text_de": "Anas ibn Malik (r.a.) berichtet: Der Prophet ﷺ hörte nicht auf, im Fajr-Gebet Qunut zu sprechen, bis er diese Welt verließ.",
+          "hadith_grade": "sahih",
+          "graded_by": "Ahmad ibn Hanbal / Al-Baihaqi",
+          "explanation_de": "Die Schafiiten und Malikiten stützen sich auf die Überlieferung von Anas, dass der Prophet ﷺ das Qunut im Fajr-Gebet bis zu seinem Tod beibehielt. Sie betrachten dies als beständige Sunna."
         }
-    ],
-    "related_questions": [
-        "salah-haende-binden",
-        "salah-basmala-fatiha"
-    ],
-    "sources": [
+      ],
+      "historical_context_de": "Das regelmäßige Qunut im Fajr war die Praxis in Medina und Ägypten, wo die schafiitische und malikitische Tradition stark verbreitet waren. Die Gelehrten beider Schulen sahen darin eine ununterbrochene prophetische Tradition."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Qunut nur in Notzeiten (Qunut an-Nawazil)",
+      "label_ar": "القنوت فقط في النوازل",
+      "description_de": "Das Qunut wird nur in außergewöhnlichen Situationen (Katastrophen, Kriege) gesprochen, nicht regelmäßig im Fajr.",
+      "scholars": [
+        "abu-hanifa",
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "hanafi",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "title": "Al-Majmu' Sharh al-Muhadhdhab",
-            "author": "Imam an-Nawawi",
-            "url": "https://shamela.ws/book/384"
-        },
-        {
-            "title": "Al-Mughni",
-            "author": "Ibn Qudama",
-            "url": "https://shamela.ws/book/6946"
-        },
-        {
-            "title": "Bidayat al-Mujtahid",
-            "author": "Ibn Rushd",
-            "url": "https://shamela.ws/book/22375"
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari, Nr. 4089; Sahih Muslim, Nr. 677",
+          "text_ar": "قنت النبي ﷺ شهراً يدعو عليهم ثم ترك",
+          "text_de": "Der Prophet ﷺ sprach einen Monat lang das Qunut als Bittgebet gegen sie, dann ließ er es.",
+          "hadith_grade": "sahih",
+          "graded_by": "Al-Bukhari / Muslim",
+          "explanation_de": "Die Hanafiten und Hanbaliten argumentieren, dass der Prophet ﷺ das Qunut nur vorübergehend sprach – als Reaktion auf ein bestimmtes Ereignis – und es dann wieder aufgab. Dies zeigt, dass es keine beständige Sunna ist."
         }
-    ]
+      ],
+      "historical_context_de": "Die kufische Gelehrtentradition, vertreten durch Abu Hanifa, und die Bagdader Tradition Ahmad ibn Hanbals sahen das regelmäßige Qunut im Fajr nicht als prophetische Praxis. Sie beschränkten es auf Notzeiten (Nawazil)."
+    }
+  ],
+  "related_questions": [
+    "salah-haende-binden",
+    "salah-basmala-fatiha"
+  ],
+  "sources": [
+    {
+      "title": "Al-Majmu' Sharh al-Muhadhdhab",
+      "author": "Imam an-Nawawi",
+      "url": "https://shamela.ws/book/384"
+    },
+    {
+      "title": "Al-Mughni",
+      "author": "Ibn Qudama",
+      "url": "https://shamela.ws/book/6946"
+    },
+    {
+      "title": "Bidayat al-Mujtahid",
+      "author": "Ibn Rushd",
+      "url": "https://shamela.ws/book/22375"
+    }
+  ]
 }

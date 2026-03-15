@@ -1,70 +1,73 @@
 {
-    "id": "muamalat-hund-zuhause",
-    "slug": "hund-in-der-wohnung-halten-islam-urteil",
-    "category": "muamalat",
-    "subcategory": "",
-    "question_de": "Darf man einen Hund in der Wohnung halten?",
-    "question_ar": "حكم تربية الكلب في البيت",
-    "search_aliases": [
-        "Hund Wohnung",
-        "Hund halten Islam",
-        "Engel betreten Haus Hund",
-        "Hund Hygiene",
-        "Hund als Haustier"
-    ],
-    "context_de": "Hunde gelten im Islam als nützliche Tiere für Jagd und Schutz, aber ihre Haltung als Haustier innerhalb des Wohnraums ist umstritten.",
-    "positions": [
+  "id": "muamalat-hund-zuhause",
+  "slug": "hund-in-der-wohnung-halten-islam-urteil",
+  "category": "muamalat",
+  "subcategory": "",
+  "question_de": "Darf man einen Hund in der Wohnung halten?",
+  "question_ar": "حكم تربية الكلب في البيت",
+  "search_aliases": [
+    "Hund Wohnung",
+    "Hund halten Islam",
+    "Engel betreten Haus Hund",
+    "Hund Hygiene",
+    "Hund als Haustier"
+  ],
+  "context_de": "Hunde gelten im Islam als nützliche Tiere für Jagd und Schutz, aber ihre Haltung als Haustier innerhalb des Wohnraums ist umstritten.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Verboten, außer für Jagd, Viehzucht oder Schutz",
+      "label_ar": "تحريم اقتناء الكلب إلا لحاجة",
+      "description_de": "Die Haltung eines Hundes ohne triftigen Grund (Jagd, Schutz, Hirtenhund) führt dazu, dass die Belohnung für gute Taten täglich abnimmt.",
+      "scholars": [
+        "Mehrheitsmeinung"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Verboten, außer für Jagd, Viehzucht oder Schutz",
-            "label_ar": "تحريم اقتناء الكلب إلا لحاجة",
-            "description_de": "Die Haltung eines Hundes ohne triftigen Grund (Jagd, Schutz, Hirtenhund) führt dazu, dass die Belohnung für gute Taten täglich abnimmt.",
-            "scholars": [
-                "Mehrheitsmeinung"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih al-Bukhari; Sahih Muslim",
-                    "text_ar": "من اقتنى كلباً إلا كلب صيد أو ماشية نقص من أجره كل يوم قيراطان",
-                    "text_de": "Wer einen Hund hält, außer einem Jagdhund oder einem zum Hüten von Vieh, dem werden täglich zwei Qirat von seinem Lohn (für gute Taten) abgezogen.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Al-Bukhari / Muslim"
-                },
-                {
-                    "type": "hadith",
-                    "reference": "Sahih Muslim",
-                    "text_ar": "لا تدخل الملائكة بيتاً فيه كلب ولا صورة",
-                    "text_de": "Die Engel betreten kein Haus, in dem ein Hund oder ein Bild (eines Lebewesens) ist.",
-                    "hadith_grade": "sahih"
-                }
-            ]
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari; Sahih Muslim",
+          "text_ar": "من اقتنى كلباً إلا كلب صيد أو ماشية نقص من أجره كل يوم قيراطان",
+          "text_de": "Wer einen Hund hält, außer einem Jagdhund oder einem zum Hüten von Vieh, dem werden täglich zwei Qirat von seinem Lohn (für gute Taten) abgezogen.",
+          "hadith_grade": "sahih",
+          "graded_by": "Al-Bukhari / Muslim"
         },
         {
-            "id": "pos-2",
-            "label_de": "Erlaubt (Minderheit der Malikiten)",
-            "label_ar": "جواز اقتناء الكلب عند بعض المالكية",
-            "description_de": "Hunde sind laut Malikiten an sich rein (Tahir). Die Haltung ist zwar ohne Notwendigkeit verpönt (Makruh), aber nicht absolut verboten.",
-            "scholars": [
-                "Einige Gelehrte der malikitischen Schule"
-            ],
-            "explanation_de": "Sie argumentieren, dass das Abziehen des Lohns kein absolutes Verbot (Haram) beweist, sondern lediglich die Unangemessenheit darstellt."
+          "type": "hadith",
+          "reference": "Sahih Muslim",
+          "text_ar": "لا تدخل الملائكة بيتاً فيه كلب ولا صورة",
+          "text_de": "Die Engel betreten kein Haus, in dem ein Hund oder ein Bild (eines Lebewesens) ist.",
+          "hadith_grade": "sahih"
         }
-    ],
-    "related_questions": [
-        "tahara-hund-unrein",
-        "muamalat-hund-handel"
-    ],
-    "sources": [
-        {
-            "title": "Bidayat al-Mujtahid",
-            "author": "Ibn Rushd",
-            "url": "https://shamela.ws/book/22375"
-        },
-        {
-            "title": "Sharh Sahih Muslim",
-            "author": "Imam an-Nawawi",
-            "url": "https://shamela.ws/book/1711"
-        }
-    ]
+      ],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Erlaubt (Minderheit der Malikiten)",
+      "label_ar": "جواز اقتناء الكلب عند بعض المالكية",
+      "description_de": "Hunde sind laut Malikiten an sich rein (Tahir). Die Haltung ist zwar ohne Notwendigkeit verpönt (Makruh), aber nicht absolut verboten.",
+      "scholars": [
+        "Einige Gelehrte der malikitischen Schule"
+      ],
+      "explanation_de": "Sie argumentieren, dass das Abziehen des Lohns kein absolutes Verbot (Haram) beweist, sondern lediglich die Unangemessenheit darstellt.",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    }
+  ],
+  "related_questions": [
+    "tahara-hund-unrein",
+    "muamalat-hund-handel"
+  ],
+  "sources": [
+    {
+      "title": "Bidayat al-Mujtahid",
+      "author": "Ibn Rushd",
+      "url": "https://shamela.ws/book/22375"
+    },
+    {
+      "title": "Sharh Sahih Muslim",
+      "author": "Imam an-Nawawi",
+      "url": "https://shamela.ws/book/1711"
+    }
+  ]
 }

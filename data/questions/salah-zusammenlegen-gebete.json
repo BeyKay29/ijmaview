@@ -1,92 +1,92 @@
 {
-    "id": "salah-zusammenlegen-gebete",
-    "slug": "gebete-zusammenlegen-jam",
-    "category": "salah",
-    "subcategory": "voraussetzungen",
-    "question_de": "Darf man Gebete zusammenlegen (Jam') auf Reisen?",
-    "question_ar": "هل يجوز الجمع بين الصلاتين في السفر؟",
-    "search_aliases": [
-        "Gebete zusammenlegen",
-        "Jam Gebete Reise",
-        "Dhuhr Asr zusammen beten",
-        "Maghrib Ischa zusammen",
-        "Reise Gebet zusammenlegen"
-    ],
-    "context_de": "Die Frage des Zusammenlegens von Gebeten (Jam') auf Reisen betrifft jeden reisenden Muslim und hat direkte praktische Bedeutung besonders bei Flugreisen, Geschäftsreisen und Umzügen.",
-    "positions": [
+  "id": "salah-zusammenlegen-gebete",
+  "slug": "gebete-zusammenlegen-jam",
+  "category": "salah",
+  "subcategory": "voraussetzungen",
+  "question_de": "Darf man Gebete zusammenlegen (Jam') auf Reisen?",
+  "question_ar": "هل يجوز الجمع بين الصلاتين في السفر؟",
+  "search_aliases": [
+    "Gebete zusammenlegen",
+    "Jam Gebete Reise",
+    "Dhuhr Asr zusammen beten",
+    "Maghrib Ischa zusammen",
+    "Reise Gebet zusammenlegen"
+  ],
+  "context_de": "Die Frage des Zusammenlegens von Gebeten (Jam') auf Reisen betrifft jeden reisenden Muslim und hat direkte praktische Bedeutung besonders bei Flugreisen, Geschäftsreisen und Umzügen.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Jam' auf Reisen ist erlaubt",
+      "label_ar": "الجمع في السفر جائز",
+      "description_de": "Auf Reisen dürfen Dhuhr mit Asr sowie Maghrib mit Ischa zusammengelegt werden – entweder zur ersten oder zur zweiten Gebetszeit.",
+      "scholars": [
+        "malik-ibn-anas",
+        "al-shafii",
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "maliki",
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Jam' auf Reisen ist erlaubt",
-            "label_ar": "الجمع في السفر جائز",
-            "description_de": "Auf Reisen dürfen Dhuhr mit Asr sowie Maghrib mit Ischa zusammengelegt werden – entweder zur ersten oder zur zweiten Gebetszeit.",
-            "scholars": [
-                "malik-ibn-anas",
-                "al-shafii",
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "maliki",
-                "shafii",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih Muslim, Nr. 705",
-                    "text_ar": "أن رسول الله ﷺ جمع بين الظهر والعصر وبين المغرب والعشاء بالمدينة من غير خوف ولا مطر",
-                    "text_de": "Ibn Abbas (r.a.) berichtet: Der Gesandte Allahs ﷺ legte Dhuhr und Asr sowie Maghrib und Ischa in Medina zusammen, ohne dass Angst oder Regen herrschte.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Muslim ibn al-Hajjaj",
-                    "explanation_de": "Dieser Hadith belegt die grundsätzliche Erlaubtheit des Zusammenlegens. Die drei Rechtsschulen erlauben Jam' auf Reisen als gesicherte Sunna."
-                }
-            ],
-            "historical_context_de": "Die Erlaubtheit des Jam' auf Reisen ist durch zahlreiche authentische Überlieferungen belegt. Imam Malik, asch-Schafi'i und Ahmad ibn Hanbal sehen dies als Erleichterung (Rukhsa) für Reisende."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Jam' ist auf Reisen nicht erlaubt (außer in Arafat/Muzdalifa)",
-            "label_ar": "لا يجوز الجمع في السفر إلا في عرفة ومزدلفة",
-            "description_de": "Das Zusammenlegen von Gebeten ist grundsätzlich nicht erlaubt, außer an den Orten der Hajj (Arafat und Muzdalifa). Der Reisende darf kürzen (Qasr), aber nicht zusammenlegen.",
-            "scholars": [
-                "abu-hanifa"
-            ],
-            "madhabs": [
-                "hanafi"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih al-Bukhari, Nr. 1091",
-                    "text_ar": "أن النبي ﷺ كان يصلي كل صلاة في وقتها في السفر إلا بعرفة ومزدلفة",
-                    "text_de": "Der Prophet ﷺ betete auf Reisen jedes Gebet zu seiner eigenen Zeit, außer in Arafat und Muzdalifa.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Al-Bukhari",
-                    "explanation_de": "Abu Hanifa sieht den Jam' als Spezialfall nur für die Hajj-Stätten. Die von Ibn Abbas überlieferten Hadithe über Jam' in Medina interpretiert er als ‚scheinbares Zusammenlegen' (Jam' suri) – d.h. das erste Gebet am Ende seiner Zeit und das zweite am Anfang seiner Zeit."
-                }
-            ],
-            "historical_context_de": "Die hanafitische Position spiegelt die besondere Vorsicht (Ihtiyat) Abu Hanifas wider, die Gebetszeiten strikt einzuhalten. Er re-interpretiert die scheinbar widersprüchlichen Überlieferungen, um die grundsätzliche Pflicht zur Einhaltung der Gebetszeiten aufrechtzuerhalten."
+          "type": "hadith",
+          "reference": "Sahih Muslim, Nr. 705",
+          "text_ar": "أن رسول الله ﷺ جمع بين الظهر والعصر وبين المغرب والعشاء بالمدينة من غير خوف ولا مطر",
+          "text_de": "Ibn Abbas (r.a.) berichtet: Der Gesandte Allahs ﷺ legte Dhuhr und Asr sowie Maghrib und Ischa in Medina zusammen, ohne dass Angst oder Regen herrschte.",
+          "hadith_grade": "sahih",
+          "graded_by": "Muslim ibn al-Hajjaj",
+          "explanation_de": "Dieser Hadith belegt die grundsätzliche Erlaubtheit des Zusammenlegens. Die drei Rechtsschulen erlauben Jam' auf Reisen als gesicherte Sunna."
         }
-    ],
-    "related_questions": [
-        "salah-haende-binden",
-        "salah-qunut-fajr",
-        "hajj-umra-pflicht"
-    ],
-    "sources": [
+      ],
+      "historical_context_de": "Die Erlaubtheit des Jam' auf Reisen ist durch zahlreiche authentische Überlieferungen belegt. Imam Malik, asch-Schafi'i und Ahmad ibn Hanbal sehen dies als Erleichterung (Rukhsa) für Reisende."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Jam' ist auf Reisen nicht erlaubt (außer in Arafat/Muzdalifa)",
+      "label_ar": "لا يجوز الجمع في السفر إلا في عرفة ومزدلفة",
+      "description_de": "Das Zusammenlegen von Gebeten ist grundsätzlich nicht erlaubt, außer an den Orten der Hajj (Arafat und Muzdalifa). Der Reisende darf kürzen (Qasr), aber nicht zusammenlegen.",
+      "scholars": [
+        "abu-hanifa"
+      ],
+      "madhabs": [
+        "hanafi"
+      ],
+      "evidence_chain": [
         {
-            "title": "Sahih Muslim",
-            "author": "Muslim ibn al-Hajjaj",
-            "url": "https://sunnah.com/muslim"
-        },
-        {
-            "title": "Al-Hidaya",
-            "author": "Al-Marghinani",
-            "url": "https://shamela.ws/book/913"
-        },
-        {
-            "title": "Al-Mughni",
-            "author": "Ibn Qudama",
-            "url": "https://shamela.ws/book/6946"
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari, Nr. 1091",
+          "text_ar": "أن النبي ﷺ كان يصلي كل صلاة في وقتها في السفر إلا بعرفة ومزدلفة",
+          "text_de": "Der Prophet ﷺ betete auf Reisen jedes Gebet zu seiner eigenen Zeit, außer in Arafat und Muzdalifa.",
+          "hadith_grade": "sahih",
+          "graded_by": "Al-Bukhari",
+          "explanation_de": "Abu Hanifa sieht den Jam' als Spezialfall nur für die Hajj-Stätten. Die von Ibn Abbas überlieferten Hadithe über Jam' in Medina interpretiert er als ‚scheinbares Zusammenlegen' (Jam' suri) – d.h. das erste Gebet am Ende seiner Zeit und das zweite am Anfang seiner Zeit."
         }
-    ]
+      ],
+      "historical_context_de": "Die hanafitische Position spiegelt die besondere Vorsicht (Ihtiyat) Abu Hanifas wider, die Gebetszeiten strikt einzuhalten. Er re-interpretiert die scheinbar widersprüchlichen Überlieferungen, um die grundsätzliche Pflicht zur Einhaltung der Gebetszeiten aufrechtzuerhalten."
+    }
+  ],
+  "related_questions": [
+    "salah-haende-binden",
+    "salah-qunut-fajr",
+    "hajj-umra-pflicht"
+  ],
+  "sources": [
+    {
+      "title": "Sahih Muslim",
+      "author": "Muslim ibn al-Hajjaj",
+      "url": "https://sunnah.com/muslim"
+    },
+    {
+      "title": "Al-Hidaya",
+      "author": "Al-Marghinani",
+      "url": "https://shamela.ws/book/913"
+    },
+    {
+      "title": "Al-Mughni",
+      "author": "Ibn Qudama",
+      "url": "https://shamela.ws/book/6946"
+    }
+  ]
 }

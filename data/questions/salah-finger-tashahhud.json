@@ -1,87 +1,91 @@
 {
-    "id": "salah-finger-tashahhud",
-    "slug": "finger-bewegen-tashahhud-urteil",
-    "category": "salah",
-    "subcategory": "voraussetzungen",
-    "question_de": "Soll man den Finger im Tashahhud bewegen oder stillhalten?",
-    "question_ar": "حكم تحريك الأصبع في التشهد",
-    "search_aliases": [
-        "Finger Tashahhud",
-        "Zeigefinger Gebet",
-        "Finger bewegen Gebet",
-        "Tashahhud Finger heben",
-        "Finger kreisen Gebet"
-    ],
-    "context_de": "Das Heben des rechten Zeigefingers während des Zeugnisses (Tashahhud) ist eine bekannte Sunna. Die Art und Weise der Ausführung unterscheidet sich jedoch stark zwischen den Schulen.",
-    "positions": [
+  "id": "salah-finger-tashahhud",
+  "slug": "finger-bewegen-tashahhud-urteil",
+  "category": "salah",
+  "subcategory": "voraussetzungen",
+  "question_de": "Soll man den Finger im Tashahhud bewegen oder stillhalten?",
+  "question_ar": "حكم تحريك الأصبع في التشهد",
+  "search_aliases": [
+    "Finger Tashahhud",
+    "Zeigefinger Gebet",
+    "Finger bewegen Gebet",
+    "Tashahhud Finger heben",
+    "Finger kreisen Gebet"
+  ],
+  "context_de": "Das Heben des rechten Zeigefingers während des Zeugnisses (Tashahhud) ist eine bekannte Sunna. Die Art und Weise der Ausführung unterscheidet sich jedoch stark zwischen den Schulen.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Heben bei 'La ilaha' und Senken bei 'illa Allah'",
+      "label_ar": "رفعه عند النفي وخفضه عند الإثبات",
+      "description_de": "Der Finger wird bei der Verneinung (La ilaha) gehoben und bei der Bestätigung (illa Allah) wieder gesenkt oder stillgehalten.",
+      "scholars": [
+        "abu-hanifa",
+        "muhammad-shaybani"
+      ],
+      "madhabs": [
+        "hanafi"
+      ],
+      "historical_context_de": "Dies ist die Standardpraxis in der hanafitischen Schule, um die Einheit Allahs symbolisch zu unterstreichen.",
+      "evidence_chain": []
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Kontinuierliches Bewegen/Schütteln",
+      "label_ar": "تحريك الأصبع باستمرار",
+      "description_de": "Der Finger wird vom Anfang bis zum Ende des Tashahhuds kontinuierlich leicht auf und ab bewegt.",
+      "scholars": [
+        "malik-ibn-anas",
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "maliki",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Heben bei 'La ilaha' und Senken bei 'illa Allah'",
-            "label_ar": "رفعه عند النفي وخفضه عند الإثبات",
-            "description_de": "Der Finger wird bei der Verneinung (La ilaha) gehoben und bei der Bestätigung (illa Allah) wieder gesenkt oder stillgehalten.",
-            "scholars": [
-                "abu-hanifa",
-                "muhammad-shaybani"
-            ],
-            "madhabs": [
-                "hanafi"
-            ],
-            "historical_context_de": "Dies ist die Standardpraxis in der hanafitischen Schule, um die Einheit Allahs symbolisch zu unterstreichen."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Kontinuierliches Bewegen/Schütteln",
-            "label_ar": "تحريك الأصبع باستمرار",
-            "description_de": "Der Finger wird vom Anfang bis zum Ende des Tashahhuds kontinuierlich leicht auf und ab bewegt.",
-            "scholars": [
-                "malik-ibn-anas",
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "maliki",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sunan an-Nasa'i, Nr. 1268",
-                    "text_ar": "رأيته يحركها يدعو بها",
-                    "text_de": "Ich sah ihn (den Propheten) seinen Finger bewegen und damit Bittgebete sprechen.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Ibn Hibban / Al-Albani",
-                    "explanation_de": "Die Malikiten interpretieren ‚bewegen' als horizontales Hin- und Herbewegen. Hanbaliten bewegen ihn bei jedem Namen Allahs oder Bittgebet."
-                }
-            ]
-        },
-        {
-            "id": "pos-3",
-            "label_de": "Heben und Stillhalten",
-            "label_ar": "الرفع بدون تحريك",
-            "description_de": "Der Finger wird einmal gehoben (bei 'illa Allah') und dann bis zum Ende des Gebets stillgehalten ohne Bewegung.",
-            "scholars": [
-                "al-shafii",
-                "an-nawawi"
-            ],
-            "madhabs": [
-                "shafii"
-            ],
-            "explanation_de": "Die Schafiiten basieren dies auf Überlieferungen, in denen steht, dass der Prophet ﷺ den Finger nicht bewegte (la yuharrikuha). Sie sehen das Stillhalten als Zeichen der Konzentration."
+          "type": "hadith",
+          "reference": "Sunan an-Nasa'i, Nr. 1268",
+          "text_ar": "رأيته يحركها يدعو بها",
+          "text_de": "Ich sah ihn (den Propheten) seinen Finger bewegen und damit Bittgebete sprechen.",
+          "hadith_grade": "sahih",
+          "graded_by": "Ibn Hibban / Al-Albani",
+          "explanation_de": "Die Malikiten interpretieren ‚bewegen' als horizontales Hin- und Herbewegen. Hanbaliten bewegen ihn bei jedem Namen Allahs oder Bittgebet."
         }
-    ],
-    "related_questions": [
-        "salah-haende-binden",
-        "salah-amin-laut-leise"
-    ],
-    "sources": [
-        {
-            "title": "Al-Majmu'",
-            "author": "Imam an-Nawawi",
-            "url": "https://shamela.ws/book/384"
-        },
-        {
-            "title": "Al-Mughni",
-            "author": "Ibn Qudama",
-            "url": "https://shamela.ws/book/6946"
-        }
-    ]
+      ],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-3",
+      "label_de": "Heben und Stillhalten",
+      "label_ar": "الرفع بدون تحريك",
+      "description_de": "Der Finger wird einmal gehoben (bei 'illa Allah') und dann bis zum Ende des Gebets stillgehalten ohne Bewegung.",
+      "scholars": [
+        "al-shafii",
+        "an-nawawi"
+      ],
+      "madhabs": [
+        "shafii"
+      ],
+      "explanation_de": "Die Schafiiten basieren dies auf Überlieferungen, in denen steht, dass der Prophet ﷺ den Finger nicht bewegte (la yuharrikuha). Sie sehen das Stillhalten als Zeichen der Konzentration.",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    }
+  ],
+  "related_questions": [
+    "salah-haende-binden",
+    "salah-amin-laut-leise"
+  ],
+  "sources": [
+    {
+      "title": "Al-Majmu'",
+      "author": "Imam an-Nawawi",
+      "url": "https://shamela.ws/book/384"
+    },
+    {
+      "title": "Al-Mughni",
+      "author": "Ibn Qudama",
+      "url": "https://shamela.ws/book/6946"
+    }
+  ]
 }

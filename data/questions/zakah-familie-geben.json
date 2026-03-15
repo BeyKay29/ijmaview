@@ -1,95 +1,99 @@
 {
-    "id": "zakah-verwandte-geben",
-    "slug": "zakah-an-familienmitglieder-verwandte-geben",
-    "category": "zakah",
-    "subcategory": "",
-    "question_de": "Darf man seine Zakah an bedürftige Familienmitglieder geben?",
-    "question_ar": "هل يجوز إعطاء الزكاة للأقارب؟",
-    "search_aliases": [
-        "Zakah Familie",
-        "Zakah Verwandte",
-        "Zakah Eltern geben",
-        "Zakah Geschwister",
-        "Zakah Ehefrau geben"
-    ],
-    "context_de": "Oft sind die engsten Verwandten in finanzieller Not. Es stellt sich die Frage, ob man seine Zakah für sie verwenden darf oder ob andere Unterstützungspflichten vorgehen.",
-    "positions": [
+  "id": "zakah-verwandte-geben",
+  "slug": "zakah-an-familienmitglieder-verwandte-geben",
+  "category": "zakah",
+  "subcategory": "",
+  "question_de": "Darf man seine Zakah an bedürftige Familienmitglieder geben?",
+  "question_ar": "هل يجوز إعطاء الزكاة للأقارب؟",
+  "search_aliases": [
+    "Zakah Familie",
+    "Zakah Verwandte",
+    "Zakah Eltern geben",
+    "Zakah Geschwister",
+    "Zakah Ehefrau geben"
+  ],
+  "context_de": "Oft sind die engsten Verwandten in finanzieller Not. Es stellt sich die Frage, ob man seine Zakah für sie verwenden darf oder ob andere Unterstützungspflichten vorgehen.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Nicht an Personen, für die man unterhaltspflichtig ist",
+      "label_ar": "لا تجوز لمن تلزمك نفقته",
+      "description_de": "Es ist verboten, Zakah an Personen zu geben, die man ohnehin finanziell unterstützen muss. Dazu gehören Eltern, Großeltern, Kinder und die Ehefrau.",
+      "scholars": [
+        "abu-hanifa",
+        "malik-ibn-anas",
+        "al-shafii",
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki",
+        "shafii",
+        "hanbali"
+      ],
+      "explanation_de": "Da man für diese Personen sorgen muss, würde die Zakah indirekt einem selbst zugutekommen, indem man sich die eigenen Unterhaltskosten spart.",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Erlaubt für Geschwister und entferntere Verwandte (doppelter Lohn)",
+      "label_ar": "يجوز للأخوة والأقارب غير ملزمي النفقة",
+      "description_de": "Bedürftige Geschwister, Tanten, Onkel oder Cousins dürfen Zakah erhalten. Dies wird sogar als besser angesehen, da es zwei Belohnungen bringt: Zakah und Verwandtschaftspflege (Sila ar-Rahim).",
+      "scholars": [
+        "Mehrheitsmeinung"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Nicht an Personen, für die man unterhaltspflichtig ist",
-            "label_ar": "لا تجوز لمن تلزمك نفقته",
-            "description_de": "Es ist verboten, Zakah an Personen zu geben, die man ohnehin finanziell unterstützen muss. Dazu gehören Eltern, Großeltern, Kinder und die Ehefrau.",
-            "scholars": [
-                "abu-hanifa",
-                "malik-ibn-anas",
-                "al-shafii",
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "hanafi",
-                "maliki",
-                "shafii",
-                "hanbali"
-            ],
-            "explanation_de": "Da man für diese Personen sorgen muss, würde die Zakah indirekt einem selbst zugutekommen, indem man sich die eigenen Unterhaltskosten spart."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Erlaubt für Geschwister und entferntere Verwandte (doppelter Lohn)",
-            "label_ar": "يجوز للأخوة والأقارب غير ملزمي النفقة",
-            "description_de": "Bedürftige Geschwister, Tanten, Onkel oder Cousins dürfen Zakah erhalten. Dies wird sogar als besser angesehen, da es zwei Belohnungen bringt: Zakah und Verwandtschaftspflege (Sila ar-Rahim).",
-            "scholars": [
-                "Mehrheitsmeinung"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sunan at-Tirmidhi, Nr. 658",
-                    "text_ar": "الصدقة على المساكين صدقة، وهي على ذي الرحم اثنتان: صدقة وصلة",
-                    "text_de": "Die Sadaqa (Almosen) an Bedürftige ist eine Sadaqa, und an Verwandte ist sie zweierlei: Sadaqa und Pflege der Verwandtschaftsbande.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "At-Tirmidhi"
-                }
-            ]
-        },
-        {
-            "id": "pos-3",
-            "label_de": "Die Ehefrau darf dem Ehemann Zakah geben",
-            "label_ar": "إعطاء الزوجة لزوجها الفقير",
-            "description_de": "Da die Frau nicht für den Unterhalt des Mannes verantwortlich ist, darf sie ihre Zakah an ihren bedürftigen Ehemann geben.",
-            "scholars": [
-                "al-shafii",
-                "ahmad-ibn-hanbal",
-                "muhammad-shaybani"
-            ],
-            "madhabs": [
-                "shafii",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih al-Bukhari, Nr. 1462",
-                    "text_de": "Zainab, die Frau von Ibn Mas'ud, fragte den Propheten ﷺ, ob sie ihrem armen Ehemann Almosen geben dürfe, und er bejahte dies.",
-                    "hadith_grade": "sahih"
-                }
-            ]
+          "type": "hadith",
+          "reference": "Sunan at-Tirmidhi, Nr. 658",
+          "text_ar": "الصدقة على المساكين صدقة، وهي على ذي الرحم اثنتان: صدقة وصلة",
+          "text_de": "Die Sadaqa (Almosen) an Bedürftige ist eine Sadaqa, und an Verwandte ist sie zweierlei: Sadaqa und Pflege der Verwandtschaftsbande.",
+          "hadith_grade": "sahih",
+          "graded_by": "At-Tirmidhi"
         }
-    ],
-    "related_questions": [
-        "zakah-schulden-abziehen",
-        "zakah-goldschmuck-frauen"
-    ],
-    "sources": [
+      ],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-3",
+      "label_de": "Die Ehefrau darf dem Ehemann Zakah geben",
+      "label_ar": "إعطاء الزوجة لزوجها الفقير",
+      "description_de": "Da die Frau nicht für den Unterhalt des Mannes verantwortlich ist, darf sie ihre Zakah an ihren bedürftigen Ehemann geben.",
+      "scholars": [
+        "al-shafii",
+        "ahmad-ibn-hanbal",
+        "muhammad-shaybani"
+      ],
+      "madhabs": [
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "title": "Al-Majmu'",
-            "author": "Imam an-Nawawi",
-            "url": "https://shamela.ws/book/384"
-        },
-        {
-            "title": "Al-Hidaya",
-            "author": "Al-Marghinani",
-            "url": "https://shamela.ws/book/913"
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari, Nr. 1462",
+          "text_de": "Zainab, die Frau von Ibn Mas'ud, fragte den Propheten ﷺ, ob sie ihrem armen Ehemann Almosen geben dürfe, und er bejahte dies.",
+          "hadith_grade": "sahih"
         }
-    ]
+      ],
+      "historical_context_de": ""
+    }
+  ],
+  "related_questions": [
+    "zakah-schulden-abziehen",
+    "zakah-goldschmuck-frauen"
+  ],
+  "sources": [
+    {
+      "title": "Al-Majmu'",
+      "author": "Imam an-Nawawi",
+      "url": "https://shamela.ws/book/384"
+    },
+    {
+      "title": "Al-Hidaya",
+      "author": "Al-Marghinani",
+      "url": "https://shamela.ws/book/913"
+    }
+  ]
 }

@@ -1,68 +1,71 @@
 {
-    "id": "muamalat-alkohol-kochen",
-    "slug": "kochen-mit-alkohol-wein-verdunsten-islam-urteil",
-    "category": "muamalat",
-    "subcategory": "",
-    "question_de": "Darf man mit Alkohol (z.B. Wein in Sauce) kochen, wenn der Alkohol verdampft?",
-    "question_ar": "حكم الطبخ بالخمر إذا طار كحوله",
-    "search_aliases": [
-        "Kochen mit Wein",
-        "Alkohol verdampfen",
-        "Essen mit Alkohol",
-        "Halal Sauce Wein",
-        "Weinsoße Islam"
-    ],
-    "context_de": "In der westlichen Küche wird oft Wein oder Branntwein zur Aromatisierung von Saucen verwendet. Das Argument ist meist, dass der Alkohol beim Kochen verdampft.",
-    "positions": [
+  "id": "muamalat-alkohol-kochen",
+  "slug": "kochen-mit-alkohol-wein-verdunsten-islam-urteil",
+  "category": "muamalat",
+  "subcategory": "",
+  "question_de": "Darf man mit Alkohol (z.B. Wein in Sauce) kochen, wenn der Alkohol verdampft?",
+  "question_ar": "حكم الطبخ بالخمر إذا طار كحوله",
+  "search_aliases": [
+    "Kochen mit Wein",
+    "Alkohol verdampfen",
+    "Essen mit Alkohol",
+    "Halal Sauce Wein",
+    "Weinsoße Islam"
+  ],
+  "context_de": "In der westlichen Küche wird oft Wein oder Branntwein zur Aromatisierung von Saucen verwendet. Das Argument ist meist, dass der Alkohol beim Kochen verdampft.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Absolut verboten (Haram)",
+      "label_ar": "بقاء النجاسة والتحريم",
+      "description_de": "Es ist verboten, Alkohol zu kaufen oder zum Kochen zu verwenden, auch wenn er verdampft. Die Substanz (Khamr) bleibt materiell unrein (Najis), solange sie sich nicht in Essig verwandelt.",
+      "scholars": [
+        "al-shafii",
+        "ahmad-ibn-hanbal",
+        "malik-ibn-anas",
+        "abu-hanifa"
+      ],
+      "madhabs": [
+        "shafii",
+        "hanbali",
+        "maliki",
+        "hanafi"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Absolut verboten (Haram)",
-            "label_ar": "بقاء النجاسة والتحريم",
-            "description_de": "Es ist verboten, Alkohol zu kaufen oder zum Kochen zu verwenden, auch wenn er verdampft. Die Substanz (Khamr) bleibt materiell unrein (Najis), solange sie sich nicht in Essig verwandelt.",
-            "scholars": [
-                "al-shafii",
-                "ahmad-ibn-hanbal",
-                "malik-ibn-anas",
-                "abu-hanifa"
-            ],
-            "madhabs": [
-                "shafii",
-                "hanbali",
-                "maliki",
-                "hanafi"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sunan Abu Dawud, Nr. 3674",
-                    "text_de": "Allah hat den Wein verflucht, seinen Trinker, seinen Einschenker, seinen Verkäufer, seinen Käufer, seinen Presser, den Auftraggeber zum Pressen, seinen Träger und denjenigen, zu dem er getragen wird.",
-                    "explanation_de": "Da der Umgang mit Alkohol (Khamr) in jeder Form verboten ist, ist auch die Verwendung als Zutat unzulässig. Wissenschaftliche Studien zeigen zudem, dass oft Restalkohol im Essen verbleibt."
-                }
-            ]
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Essig aus Wein (Istihala)",
-            "label_ar": "انقلاب الخمر خلاً",
-            "description_de": "Wenn Wein von selbst zu Essig wird, ist er Halal und rein. Das künstliche Zufügen von Stoffen, um Wein in Essig zu verwandeln, ist jedoch umstritten.",
-            "scholars": [
-                "abu-hanifa"
-            ],
-            "madhabs": [
-                "hanafi"
-            ],
-            "explanation_de": "Die stoffliche Umwandlung (Istihala) macht eine unpure Substanz pur."
+          "type": "hadith",
+          "reference": "Sunan Abu Dawud, Nr. 3674",
+          "text_de": "Allah hat den Wein verflucht, seinen Trinker, seinen Einschenker, seinen Verkäufer, seinen Käufer, seinen Presser, den Auftraggeber zum Pressen, seinen Träger und denjenigen, zu dem er getragen wird.",
+          "explanation_de": "Da der Umgang mit Alkohol (Khamr) in jeder Form verboten ist, ist auch die Verwendung als Zutat unzulässig. Wissenschaftliche Studien zeigen zudem, dass oft Restalkohol im Essen verbleibt."
         }
-    ],
-    "related_questions": [
-        "tahara-alkohol-parfuem",
-        "muamalat-gelatine-schwein"
-    ],
-    "sources": [
-        {
-            "title": "Bidayat al-Mujtahid",
-            "author": "Ibn Rushd",
-            "url": "https://shamela.ws/book/22375"
-        }
-    ]
+      ],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Essig aus Wein (Istihala)",
+      "label_ar": "انقلاب الخمر خلاً",
+      "description_de": "Wenn Wein von selbst zu Essig wird, ist er Halal und rein. Das künstliche Zufügen von Stoffen, um Wein in Essig zu verwandeln, ist jedoch umstritten.",
+      "scholars": [
+        "abu-hanifa"
+      ],
+      "madhabs": [
+        "hanafi"
+      ],
+      "explanation_de": "Die stoffliche Umwandlung (Istihala) macht eine unpure Substanz pur.",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    }
+  ],
+  "related_questions": [
+    "tahara-alkohol-parfuem",
+    "muamalat-gelatine-schwein"
+  ],
+  "sources": [
+    {
+      "title": "Bidayat al-Mujtahid",
+      "author": "Ibn Rushd",
+      "url": "https://shamela.ws/book/22375"
+    }
+  ]
 }

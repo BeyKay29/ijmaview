@@ -1,50 +1,53 @@
 {
-    "id": "zakah-aktien-krypto",
-    "slug": "zakah-auf-aktien-kryptowaehrungen-bitcoin",
-    "category": "zakah",
-    "subcategory": "",
-    "question_de": "Wie berechnet man Zakah auf Aktien und Kryptowährungen (Bitcoin etc.)?",
-    "question_ar": "زكاة الأسهم والعملات الرقمية",
-    "search_aliases": [
-        "Zakah Aktien",
-        "Zakah Krypto",
-        "Zakah Bitcoin",
-        "Zakah Portfolio",
-        "Aktienhandel Zakah"
-    ],
-    "context_de": "Moderne Anlageformen wie Aktien und Kryptowährungen müssen nach islamischem Recht bewertet werden, um die Zakah-Pflicht zu ermitteln.",
-    "positions": [
-        {
-            "id": "pos-1",
-            "label_de": "Zakah auf den aktuellen Marktwert (Handelsware)",
-            "label_ar": "الزكاة على القيمة السوقية",
-            "description_de": "Kryptowährungen und Aktien (wenn für den Handel bestimmt) werden wie Bargeld behandelt. Man zahlt 2,5% auf den Marktwert zum Zeitpunkt der Zakah-Fälligkeit.",
-            "scholars": [
-                "Moderne Fiqh-Akademien"
-            ],
-            "explanation_de": "Kryptowährungen gelten als digitales Gut mit Wert (Mal). Aktien werden als Handelsware (Uruud at-Tijara) eingestuft, wenn die Absicht der Wiederverkauf ist."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Anteilige Berechnung bei Langzeit-Investments",
-            "label_ar": "الزكاة على الموجودات الزكوية للشركة",
-            "description_de": "Wenn Aktien als Langzeit-Investment (Dividenden-Strategie) gehalten werden, wird Zakah nur auf den Anteil des Unternehmensvermögens gezahlt, der selbst Zakah-pflichtig ist (Bargeld, Forderungen, Vorräte).",
-            "scholars": [
-                "AAOIFI Standards",
-                "Zakah-Gremien"
-            ],
-            "historical_context_de": "Dies ist eine komplexere Berechnungsmethode, die oft auf ca. 10-25% des Aktienwerts hinausläuft, auf die dann 2,5% Zakah gezahlt werden."
-        }
-    ],
-    "related_questions": [
-        "zakah-schulden-abziehen",
-        "muamalat-riba-bankzins"
-    ],
-    "sources": [
-        {
-            "title": "AAOIFI Shariah Standards",
-            "author": "AAOIFI",
-            "url": "https://aaoifi.com"
-        }
-    ]
+  "id": "zakah-aktien-krypto",
+  "slug": "zakah-auf-aktien-kryptowaehrungen-bitcoin",
+  "category": "zakah",
+  "subcategory": "",
+  "question_de": "Wie berechnet man Zakah auf Aktien und Kryptowährungen (Bitcoin etc.)?",
+  "question_ar": "زكاة الأسهم والعملات الرقمية",
+  "search_aliases": [
+    "Zakah Aktien",
+    "Zakah Krypto",
+    "Zakah Bitcoin",
+    "Zakah Portfolio",
+    "Aktienhandel Zakah"
+  ],
+  "context_de": "Moderne Anlageformen wie Aktien und Kryptowährungen müssen nach islamischem Recht bewertet werden, um die Zakah-Pflicht zu ermitteln.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Zakah auf den aktuellen Marktwert (Handelsware)",
+      "label_ar": "الزكاة على القيمة السوقية",
+      "description_de": "Kryptowährungen und Aktien (wenn für den Handel bestimmt) werden wie Bargeld behandelt. Man zahlt 2,5% auf den Marktwert zum Zeitpunkt der Zakah-Fälligkeit.",
+      "scholars": [
+        "Moderne Fiqh-Akademien"
+      ],
+      "explanation_de": "Kryptowährungen gelten als digitales Gut mit Wert (Mal). Aktien werden als Handelsware (Uruud at-Tijara) eingestuft, wenn die Absicht der Wiederverkauf ist.",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Anteilige Berechnung bei Langzeit-Investments",
+      "label_ar": "الزكاة على الموجودات الزكوية للشركة",
+      "description_de": "Wenn Aktien als Langzeit-Investment (Dividenden-Strategie) gehalten werden, wird Zakah nur auf den Anteil des Unternehmensvermögens gezahlt, der selbst Zakah-pflichtig ist (Bargeld, Forderungen, Vorräte).",
+      "scholars": [
+        "AAOIFI Standards",
+        "Zakah-Gremien"
+      ],
+      "historical_context_de": "Dies ist eine komplexere Berechnungsmethode, die oft auf ca. 10-25% des Aktienwerts hinausläuft, auf die dann 2,5% Zakah gezahlt werden.",
+      "evidence_chain": []
+    }
+  ],
+  "related_questions": [
+    "zakah-schulden-abziehen",
+    "muamalat-riba-bankzins"
+  ],
+  "sources": [
+    {
+      "title": "AAOIFI Shariah Standards",
+      "author": "AAOIFI",
+      "url": "https://aaoifi.com"
+    }
+  ]
 }

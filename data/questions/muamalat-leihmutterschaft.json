@@ -1,52 +1,55 @@
 {
-    "id": "muamalat-leihmutterschaft",
-    "slug": "leihmutterschaft-islam-halal-haram-urteil",
-    "category": "muamalat",
-    "subcategory": "",
-    "question_de": "Ist Leihmutterschaft im Islam erlaubt?",
-    "question_ar": "حكم استئجار الأرحام في الإسلام",
-    "search_aliases": [
-        "Leihmutter Islam",
-        "Leihmutterschaft Haram",
-        "Baby von anderer Frau",
-        "Gebärmutter mieten",
-        "Surrogacy Islam"
-    ],
-    "context_de": "Bei der Leihmutterschaft trägt eine Frau ein Kind für ein anderes Paar aus. In der islamischen Bioethik berührt dies fundamentale Fragen der Mutterschaft und der Abstammung.",
-    "positions": [
-        {
-            "id": "pos-1",
-            "label_de": "Absolut verboten (Haram)",
-            "label_ar": "تحريم استئجار الأرحام مطلقاً",
-            "description_de": "Leihmutterschaft ist verboten, da sie die Institution der Ehe verletzt, die Abstammung (Nasab) verwirrt und den Körper der Frau kommerzialisiert.",
-            "scholars": [
-                "Internationale Fiqh-Akademie",
-                "Al-Azhar",
-                "Saudi Permanent Committee",
-                "IAO"
-            ],
-            "explanation_de": "Die Mutterschaft im Islam ist untrennbar mit der Geburt verbunden (‚Ihre Mütter sind nur diejenigen, die sie geboren haben', Sure 58:2). Durch die Einbeziehung einer dritten Gebärmutter entstehen rechtliche und moralische Konflikte darüber, wer die ‚echte' Mutter ist. Zudem wird der Uterus als Teil der Intimsphäre gesehen, der nicht ‚vermietet' werden darf."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Verbot auch innerhalb einer Vielehe",
-            "label_ar": "التحريم حتى بين الزوجات",
-            "description_de": "Selbst wenn ein Mann zwei Ehefrauen hat, darf die Eizelle der einen nicht in die Gebärmutter der anderen eingepflanzt werden.",
-            "scholars": [
-                "Mehrheitsmeinung"
-            ],
-            "historical_context_de": "Anfangs gab es hierzu vereinzelte abweichende Meinungen, die jedoch von den großen Gremien aufgrund der Nasab-Problematik (Verwirrung der Verwandtschaftsverhältnisse) verworfen wurden."
-        }
-    ],
-    "related_questions": [
-        "muamalat-ivf-befruchtung",
-        "nikah-wali-pflicht"
-    ],
-    "sources": [
-        {
-            "title": "Resolutionen der Internationalen Fiqh-Akademie",
-            "author": "OIC",
-            "url": "https://iifa-aifi.org"
-        }
-    ]
+  "id": "muamalat-leihmutterschaft",
+  "slug": "leihmutterschaft-islam-halal-haram-urteil",
+  "category": "muamalat",
+  "subcategory": "",
+  "question_de": "Ist Leihmutterschaft im Islam erlaubt?",
+  "question_ar": "حكم استئجار الأرحام في الإسلام",
+  "search_aliases": [
+    "Leihmutter Islam",
+    "Leihmutterschaft Haram",
+    "Baby von anderer Frau",
+    "Gebärmutter mieten",
+    "Surrogacy Islam"
+  ],
+  "context_de": "Bei der Leihmutterschaft trägt eine Frau ein Kind für ein anderes Paar aus. In der islamischen Bioethik berührt dies fundamentale Fragen der Mutterschaft und der Abstammung.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Absolut verboten (Haram)",
+      "label_ar": "تحريم استئجار الأرحام مطلقاً",
+      "description_de": "Leihmutterschaft ist verboten, da sie die Institution der Ehe verletzt, die Abstammung (Nasab) verwirrt und den Körper der Frau kommerzialisiert.",
+      "scholars": [
+        "Internationale Fiqh-Akademie",
+        "Al-Azhar",
+        "Saudi Permanent Committee",
+        "IAO"
+      ],
+      "explanation_de": "Die Mutterschaft im Islam ist untrennbar mit der Geburt verbunden (‚Ihre Mütter sind nur diejenigen, die sie geboren haben', Sure 58:2). Durch die Einbeziehung einer dritten Gebärmutter entstehen rechtliche und moralische Konflikte darüber, wer die ‚echte' Mutter ist. Zudem wird der Uterus als Teil der Intimsphäre gesehen, der nicht ‚vermietet' werden darf.",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Verbot auch innerhalb einer Vielehe",
+      "label_ar": "التحريم حتى بين الزوجات",
+      "description_de": "Selbst wenn ein Mann zwei Ehefrauen hat, darf die Eizelle der einen nicht in die Gebärmutter der anderen eingepflanzt werden.",
+      "scholars": [
+        "Mehrheitsmeinung"
+      ],
+      "historical_context_de": "Anfangs gab es hierzu vereinzelte abweichende Meinungen, die jedoch von den großen Gremien aufgrund der Nasab-Problematik (Verwirrung der Verwandtschaftsverhältnisse) verworfen wurden.",
+      "evidence_chain": []
+    }
+  ],
+  "related_questions": [
+    "muamalat-ivf-befruchtung",
+    "nikah-wali-pflicht"
+  ],
+  "sources": [
+    {
+      "title": "Resolutionen der Internationalen Fiqh-Akademie",
+      "author": "OIC",
+      "url": "https://iifa-aifi.org"
+    }
+  ]
 }

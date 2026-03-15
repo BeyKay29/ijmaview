@@ -1,87 +1,88 @@
 {
-    "id": "salah-raf-al-yadayn",
-    "slug": "haende-heben-im-gebet-raf-al-yadayn",
-    "category": "salah",
-    "subcategory": "voraussetzungen",
-    "question_de": "Wann sollen die Hände im Gebet gehoben werden (Raf' al-Yadayn)?",
-    "question_ar": "رفع اليدين في الصلاة",
-    "search_aliases": [
-        "Hände heben Gebet",
-        "Raf al-Yadayn",
-        "Hände heben Ruku",
-        "Hände heben nach Sajda",
-        "Gebetsbewegungen Hände"
-    ],
-    "context_de": "Jeder muslimische Beter hebt die Hände beim ersten Takbir (Allahu Akbar). Ob sie auch vor und nach dem Ruku (Beugung) gehoben werden sollen, ist eine bekannte Streitfrage.",
-    "positions": [
+  "id": "salah-raf-al-yadayn",
+  "slug": "haende-heben-im-gebet-raf-al-yadayn",
+  "category": "salah",
+  "subcategory": "voraussetzungen",
+  "question_de": "Wann sollen die Hände im Gebet gehoben werden (Raf' al-Yadayn)?",
+  "question_ar": "رفع اليدين في الصلاة",
+  "search_aliases": [
+    "Hände heben Gebet",
+    "Raf al-Yadayn",
+    "Hände heben Ruku",
+    "Hände heben nach Sajda",
+    "Gebetsbewegungen Hände"
+  ],
+  "context_de": "Jeder muslimische Beter hebt die Hände beim ersten Takbir (Allahu Akbar). Ob sie auch vor und nach dem Ruku (Beugung) gehoben werden sollen, ist eine bekannte Streitfrage.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Hände heben NUR beim ersten Takbir",
+      "label_ar": "الرفع فقط عند تكبيرة الإحرام",
+      "description_de": "Die Hände werden nur zu Beginn des Gebets (Takbirat al-Ihram) gehoben. In den weiteren Übergängen bleiben sie unbewegt.",
+      "scholars": [
+        "abu-hanifa",
+        "malik-ibn-anas",
+        "ibn-taymiyya"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Hände heben NUR beim ersten Takbir",
-            "label_ar": "الرفع فقط عند تكبيرة الإحرام",
-            "description_de": "Die Hände werden nur zu Beginn des Gebets (Takbirat al-Ihram) gehoben. In den weiteren Übergängen bleiben sie unbewegt.",
-            "scholars": [
-                "abu-hanifa",
-                "malik-ibn-anas",
-                "ibn-taymiyya"
-            ],
-            "madhabs": [
-                "hanafi",
-                "maliki"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sunan Abu Dawud, Nr. 748; Sunan an-Nasa'i",
-                    "text_ar": "أن رسول الله ﷺ كان يرفع يديه في أول تكبيرة ثم لا يعود",
-                    "text_de": "Der Gesandte Allahs ﷺ pflegte seine Hände beim ersten Takbir zu heben und tat dies danach nicht mehr.",
-                    "hadith_grade": "sahih (laut Hanafiten)",
-                    "graded_by": "Ibn Abi Schayba / Abu Hanifa",
-                    "explanation_de": "Die Hanafiten folgen den Berichten von Abdullah ibn Mas'ud (r.a.), der eines der genauesten Gebetsvorbilder war. Malikiten folgen der Praxis der Bewohner Medinas."
-                }
-            ],
-            "historical_context_de": "In der hanafitischen Schule ist dies ein wichtiges Unterscheidungsmerkmal."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Hände heben beim Ruku und beim Aufstehen",
-            "label_ar": "الرفع عند الركوع والرفع منه",
-            "description_de": "Die Hände werden viermal gehoben: 1. Zu Beginn, 2. Vor dem Ruku, 3. Beim Aufstehen aus dem Ruku, 4. Beim Aufstehen aus der zweiten Rakat (nach dem ersten Tashahhud).",
-            "scholars": [
-                "al-shafii",
-                "ahmad-ibn-hanbal",
-                "an-nawawi"
-            ],
-            "madhabs": [
-                "shafii",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih al-Bukhari, Nr. 735; Sahih Muslim",
-                    "text_ar": "كان رسول الله ﷺ إذا قام إلى الصلاة رفع يديه... وإذا كبر للركوع... وإذا قال سمع الله لمن حمده",
-                    "text_de": "Der Gesandte Allahs ﷺ hob seine Hände, wenn er das Gebet begann... und wenn er Takbir für den Ruku machte... und wenn er sagte: ‚Sami'a Allahu liman hamidah'.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Al-Bukhari / Muslim",
-                    "explanation_de": "Die Schafiiten und Hanbaliten stützen sich auf die Mehrheit der authentischen Überlieferungen (u.a. von Ibn Umar), die diese zusätzlichen Bewegungen beschreiben."
-                }
-            ]
+          "type": "hadith",
+          "reference": "Sunan Abu Dawud, Nr. 748; Sunan an-Nasa'i",
+          "text_ar": "أن رسول الله ﷺ كان يرفع يديه في أول تكبيرة ثم لا يعود",
+          "text_de": "Der Gesandte Allahs ﷺ pflegte seine Hände beim ersten Takbir zu heben und tat dies danach nicht mehr.",
+          "hadith_grade": "sahih (laut Hanafiten)",
+          "graded_by": "Ibn Abi Schayba / Abu Hanifa",
+          "explanation_de": "Die Hanafiten folgen den Berichten von Abdullah ibn Mas'ud (r.a.), der eines der genauesten Gebetsvorbilder war. Malikiten folgen der Praxis der Bewohner Medinas."
         }
-    ],
-    "related_questions": [
-        "salah-haende-binden",
-        "salah-amin-laut-leise"
-    ],
-    "sources": [
+      ],
+      "historical_context_de": "In der hanafitischen Schule ist dies ein wichtiges Unterscheidungsmerkmal."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Hände heben beim Ruku und beim Aufstehen",
+      "label_ar": "الرفع عند الركوع والرفع منه",
+      "description_de": "Die Hände werden viermal gehoben: 1. Zu Beginn, 2. Vor dem Ruku, 3. Beim Aufstehen aus dem Ruku, 4. Beim Aufstehen aus der zweiten Rakat (nach dem ersten Tashahhud).",
+      "scholars": [
+        "al-shafii",
+        "ahmad-ibn-hanbal",
+        "an-nawawi"
+      ],
+      "madhabs": [
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "title": "Al-Majmu'",
-            "author": "Imam an-Nawawi",
-            "url": "https://shamela.ws/book/384"
-        },
-        {
-            "title": "Al-Mughni",
-            "author": "Ibn Qudama",
-            "url": "https://shamela.ws/book/6946"
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari, Nr. 735; Sahih Muslim",
+          "text_ar": "كان رسول الله ﷺ إذا قام إلى الصلاة رفع يديه... وإذا كبر للركوع... وإذا قال سمع الله لمن حمده",
+          "text_de": "Der Gesandte Allahs ﷺ hob seine Hände, wenn er das Gebet begann... und wenn er Takbir für den Ruku machte... und wenn er sagte: ‚Sami'a Allahu liman hamidah'.",
+          "hadith_grade": "sahih",
+          "graded_by": "Al-Bukhari / Muslim",
+          "explanation_de": "Die Schafiiten und Hanbaliten stützen sich auf die Mehrheit der authentischen Überlieferungen (u.a. von Ibn Umar), die diese zusätzlichen Bewegungen beschreiben."
         }
-    ]
+      ],
+      "historical_context_de": ""
+    }
+  ],
+  "related_questions": [
+    "salah-haende-binden",
+    "salah-amin-laut-leise"
+  ],
+  "sources": [
+    {
+      "title": "Al-Majmu'",
+      "author": "Imam an-Nawawi",
+      "url": "https://shamela.ws/book/384"
+    },
+    {
+      "title": "Al-Mughni",
+      "author": "Ibn Qudama",
+      "url": "https://shamela.ws/book/6946"
+    }
+  ]
 }

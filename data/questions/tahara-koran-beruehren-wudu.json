@@ -1,77 +1,78 @@
 {
-    "id": "tahara-koran-beruehren-wudu",
-    "slug": "koran-beruehren-ohne-wudu-erlaubt",
-    "category": "tahara",
-    "subcategory": "wudu",
-    "question_de": "Darf man den Koran (Mushaf) ohne Wudu berühren?",
-    "question_ar": "هل يجوز مس المصحف بدون وضوء؟",
-    "search_aliases": [
-        "Koran berühren ohne Wudu",
-        "Mushaf ohne Wudu",
-        "Koran lesen ohne Wudu",
-        "Quran berühren Reinheit",
-        "Quran ohne Gebetswaschung"
-    ],
-    "context_de": "Diese Frage betrifft den Respekt gegenüber dem Wort Allahs. Es geht primär um das physische Exemplar des Korans (Mushaf), nicht um digitale Apps.",
-    "positions": [
+  "id": "tahara-koran-beruehren-wudu",
+  "slug": "koran-beruehren-ohne-wudu-erlaubt",
+  "category": "tahara",
+  "subcategory": "wudu",
+  "question_de": "Darf man den Koran (Mushaf) ohne Wudu berühren?",
+  "question_ar": "هل يجوز مس المصحف بدون وضوء؟",
+  "search_aliases": [
+    "Koran berühren ohne Wudu",
+    "Mushaf ohne Wudu",
+    "Koran lesen ohne Wudu",
+    "Quran berühren Reinheit",
+    "Quran ohne Gebetswaschung"
+  ],
+  "context_de": "Diese Frage betrifft den Respekt gegenüber dem Wort Allahs. Es geht primär um das physische Exemplar des Korans (Mushaf), nicht um digitale Apps.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Berühren ohne Wudu ist verboten (Mehrheit)",
+      "label_ar": "لا يجوز مس المصحف إلا بطاهر",
+      "description_de": "Es ist nicht erlaubt, den arabischen Mushaf ohne den Zustand der rituellen Reinheit (Wudu) zu berühren.",
+      "scholars": [
+        "abu-hanifa",
+        "malik-ibn-anas",
+        "al-shafii",
+        "ahmad-ibn-hanbal",
+        "an-nawawi"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki",
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Berühren ohne Wudu ist verboten (Mehrheit)",
-            "label_ar": "لا يجوز مس المصحف إلا بطاهر",
-            "description_de": "Es ist nicht erlaubt, den arabischen Mushaf ohne den Zustand der rituellen Reinheit (Wudu) zu berühren.",
-            "scholars": [
-                "abu-hanifa",
-                "malik-ibn-anas",
-                "al-shafii",
-                "ahmad-ibn-hanbal",
-                "an-nawawi"
-            ],
-            "madhabs": [
-                "hanafi",
-                "maliki",
-                "shafii",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "quran",
-                    "reference": "Sure 56:79 (Al-Waqi'a)",
-                    "text_ar": "لَّا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ",
-                    "text_de": "Keiner darf es berühren außer den Gereinigten.",
-                    "explanation_de": "Die Mehrheit der Gelehrten interpretiert diesen Vers so, dass er sich auf den physischen Mushaf bezieht und die rituell Reinen meint."
-                }
-            ],
-            "historical_context_de": "Dies ist die etablierte Meinung der vier Rechtsschulen. Es gibt einen Brief des Propheten ﷺ an Amr ibn Hazm, in dem steht: 'Niemand darf den Koran berühren außer ein Reiner.'"
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Berühren ohne Wudu ist erlaubt",
-            "label_ar": "يجوز مس المصحف بدون وضوء",
-            "description_de": "Das Verbot im Vers bezieht sich auf die Engel und die 'wohlbewahrte Tafel' im Himmel, nicht auf Menschen und den Mushaf.",
-            "scholars": [
-                "ibn-taymiyya"
-            ],
-            "madhabs": [
-                "hanbali"
-            ],
-            "explanation_de": "Ibn Taymiyya diskutiert in seinen Fatawa, dass zwar die Mehrheit es verbietet, einige Gefährten und Nachfolger es jedoch für Lernzwecke oder aufgrund der Interpretation des Verses (Engel) erlaubten. Dennoch empfahl er das Wudu aus Respekt.",
-            "historical_context_de": "In der heutigen Zeit wird diese Meinung oft für Apps oder Übersetzungen angewendet, bei denen sich die Gelehrten einig sind, dass sie nicht als 'Mushaf' gelten."
+          "type": "quran",
+          "reference": "Sure 56:79 (Al-Waqi'a)",
+          "text_ar": "لَّا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ",
+          "text_de": "Keiner darf es berühren außer den Gereinigten.",
+          "explanation_de": "Die Mehrheit der Gelehrten interpretiert diesen Vers so, dass er sich auf den physischen Mushaf bezieht und die rituell Reinen meint."
         }
-    ],
-    "related_questions": [
-        "tahara-beruehrung-wudu",
-        "tahara-blut-wudu"
-    ],
-    "sources": [
-        {
-            "title": "Al-Majmu'",
-            "author": "Imam an-Nawawi",
-            "url": "https://shamela.ws/book/384"
-        },
-        {
-            "title": "Majmu' al-Fatawa",
-            "author": "Ibn Taymiyya",
-            "url": "https://shamela.ws/book/505"
-        }
-    ]
+      ],
+      "historical_context_de": "Dies ist die etablierte Meinung der vier Rechtsschulen. Es gibt einen Brief des Propheten ﷺ an Amr ibn Hazm, in dem steht: 'Niemand darf den Koran berühren außer ein Reiner.'"
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Berühren ohne Wudu ist erlaubt",
+      "label_ar": "يجوز مس المصحف بدون وضوء",
+      "description_de": "Das Verbot im Vers bezieht sich auf die Engel und die 'wohlbewahrte Tafel' im Himmel, nicht auf Menschen und den Mushaf.",
+      "scholars": [
+        "ibn-taymiyya"
+      ],
+      "madhabs": [
+        "hanbali"
+      ],
+      "explanation_de": "Ibn Taymiyya diskutiert in seinen Fatawa, dass zwar die Mehrheit es verbietet, einige Gefährten und Nachfolger es jedoch für Lernzwecke oder aufgrund der Interpretation des Verses (Engel) erlaubten. Dennoch empfahl er das Wudu aus Respekt.",
+      "historical_context_de": "In der heutigen Zeit wird diese Meinung oft für Apps oder Übersetzungen angewendet, bei denen sich die Gelehrten einig sind, dass sie nicht als 'Mushaf' gelten.",
+      "evidence_chain": []
+    }
+  ],
+  "related_questions": [
+    "tahara-beruehrung-wudu",
+    "tahara-blut-wudu"
+  ],
+  "sources": [
+    {
+      "title": "Al-Majmu'",
+      "author": "Imam an-Nawawi",
+      "url": "https://shamela.ws/book/384"
+    },
+    {
+      "title": "Majmu' al-Fatawa",
+      "author": "Ibn Taymiyya",
+      "url": "https://shamela.ws/book/505"
+    }
+  ]
 }

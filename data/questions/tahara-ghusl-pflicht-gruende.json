@@ -1,72 +1,72 @@
 {
-    "id": "tahara-ghusl-pflicht-gruende",
-    "slug": "wann-ist-ghusl-pflicht-janaba",
-    "category": "tahara",
-    "subcategory": "ghusl",
-    "question_de": "Wann ist die Ganzkörperwaschung (Ghusl) Pflicht?",
-    "question_ar": "ما هي موجبات الغسل؟",
-    "search_aliases": [
-        "Ghusl Pflicht",
-        "Wann Ghusl",
-        "Ganzkörperwaschung nötig",
-        "Janaba Ghusl",
-        "Haid Ende Ghusl",
-        "Samenfluss Ghusl"
-    ],
-    "context_de": "Der Zustand der großen Unreinheit (Janaba) verhindert die Verrichtung des Gebets und das Betreten der Moschee. Die Kenntnis der Gründe für den Ghusl ist daher essentiell.",
-    "positions": [
+  "id": "tahara-ghusl-pflicht-gruende",
+  "slug": "wann-ist-ghusl-pflicht-janaba",
+  "category": "tahara",
+  "subcategory": "ghusl",
+  "question_de": "Wann ist die Ganzkörperwaschung (Ghusl) Pflicht?",
+  "question_ar": "ما هي موجبات الغسل؟",
+  "search_aliases": [
+    "Ghusl Pflicht",
+    "Wann Ghusl",
+    "Ganzkörperwaschung nötig",
+    "Janaba Ghusl",
+    "Haid Ende Ghusl",
+    "Samenfluss Ghusl"
+  ],
+  "context_de": "Der Zustand der großen Unreinheit (Janaba) verhindert die Verrichtung des Gebets und das Betreten der Moschee. Die Kenntnis der Gründe für den Ghusl ist daher essentiell.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Die sechs Hauptgründe für Ghusl (Mehrheit)",
+      "label_ar": "موجبات الغسل الستة",
+      "description_de": "Ghusl wird in folgenden Fällen zur Pflicht: 1. Austritt von Mani (mit Lust), 2. Geschlechtsverkehr (auch ohne Samenerguss), 3. Ende der Menstruation (Haid), 4. Ende des Wochenbetts (Nifas), 5. Tod (Waschung des Verstorbenen), 6. Eintritt in den Islam (umstritten).",
+      "scholars": [
+        "abu-hanifa",
+        "malik-ibn-anas",
+        "al-shafii",
+        "ahmad-ibn-hanbal",
+        "an-nawawi"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki",
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Die sechs Hauptgründe für Ghusl (Mehrheit)",
-            "label_ar": "موجبات الغسل الستة",
-            "description_de": "Ghusl wird in folgenden Fällen zur Pflicht: 1. Austritt von Mani (mit Lust), 2. Geschlechtsverkehr (auch ohne Samenerguss), 3. Ende der Menstruation (Haid), 4. Ende des Wochenbetts (Nifas), 5. Tod (Waschung des Verstorbenen), 6. Eintritt in den Islam (umstritten).",
-            "scholars": [
-                "abu-hanifa",
-                "malik-ibn-anas",
-                "al-shafii",
-                "ahmad-ibn-hanbal",
-                "an-nawawi"
-            ],
-            "madhabs": [
-                "hanafi",
-                "maliki",
-                "shafii",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "quran",
-                    "reference": "Sure 5:6 (Al-Ma'ida)",
-                    "text_ar": "وَإِن كُنتُمْ جُنُبًا فَاطَّهَّرُوا",
-                    "text_de": "Und wenn ihr im Zustand der Unreinheit (Janaba) seid, dann reinigt euch.",
-                    "explanation_de": "Dies ist der generelle Befehl zur Vollwaschung bei Janaba."
-                },
-                {
-                    "type": "hadith",
-                    "reference": "Sahih al-Bukhari; Sahih Muslim",
-                    "text_ar": "إذا جلس بين شعبها الأربع ثم جهدها فقد وجب الغسل",
-                    "text_de": "Wenn er zwischen ihren vier Gliedmaßen sitzt und sich bemüht (eindringt), ist der Ghusl zur Pflicht geworden (auch ohne Samenerguss).",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Al-Bukhari / Muslim"
-                }
-            ],
-            "historical_context_de": "Es gibt leichtere Meinungsverschiedenheiten über den Ghusl beim Eintritt in den Islam (einige sagen Pflicht, andere Sunna) und über den Ghusl nach dem Waschen eines Toten."
-        }
-    ],
-    "related_questions": [
-        "tahara-fluessigkeiten-unterscheidung",
-        "tahara-haid-gebet-nachholen"
-    ],
-    "sources": [
-        {
-            "title": "Al-Majmu'",
-            "author": "Imam an-Nawawi",
-            "url": "https://shamela.ws/book/384"
+          "type": "quran",
+          "reference": "Sure 5:6 (Al-Ma'ida)",
+          "text_ar": "وَإِن كُنتُمْ جُنُبًا فَاطَّهَّرُوا",
+          "text_de": "Und wenn ihr im Zustand der Unreinheit (Janaba) seid, dann reinigt euch.",
+          "explanation_de": "Dies ist der generelle Befehl zur Vollwaschung bei Janaba."
         },
         {
-            "title": "Al-Mughni",
-            "author": "Ibn Qudama",
-            "url": "https://shamela.ws/book/6946"
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari; Sahih Muslim",
+          "text_ar": "إذا جلس بين شعبها الأربع ثم جهدها فقد وجب الغسل",
+          "text_de": "Wenn er zwischen ihren vier Gliedmaßen sitzt und sich bemüht (eindringt), ist der Ghusl zur Pflicht geworden (auch ohne Samenerguss).",
+          "hadith_grade": "sahih",
+          "graded_by": "Al-Bukhari / Muslim"
         }
-    ]
+      ],
+      "historical_context_de": "Es gibt leichtere Meinungsverschiedenheiten über den Ghusl beim Eintritt in den Islam (einige sagen Pflicht, andere Sunna) und über den Ghusl nach dem Waschen eines Toten."
+    }
+  ],
+  "related_questions": [
+    "tahara-fluessigkeiten-unterscheidung",
+    "tahara-haid-gebet-nachholen"
+  ],
+  "sources": [
+    {
+      "title": "Al-Majmu'",
+      "author": "Imam an-Nawawi",
+      "url": "https://shamela.ws/book/384"
+    },
+    {
+      "title": "Al-Mughni",
+      "author": "Ibn Qudama",
+      "url": "https://shamela.ws/book/6946"
+    }
+  ]
 }

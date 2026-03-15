@@ -1,92 +1,92 @@
 {
-    "id": "salah-amin-laut-leise",
-    "slug": "amin-laut-leise-gebet",
-    "category": "salah",
-    "subcategory": "ablauf",
-    "question_de": "Soll das Amin nach der Fatiha laut oder leise gesprochen werden?",
-    "question_ar": "هل يُجهر بالتأمين بعد الفاتحة أم يُسر؟",
-    "search_aliases": [
-        "Amin laut Gebet",
-        "Amin leise beten",
-        "Amin Fatiha",
-        "Amin Gebet Stimme",
-        "Amin hörbar sprechen"
-    ],
-    "context_de": "Ob das Amin nach der Fatiha im Gebet laut oder leise gesprochen wird, ist ein sichtbarer Unterschied besonders zwischen der hanafitischen Tradition und den anderen Rechtsschulen.",
-    "positions": [
+  "id": "salah-amin-laut-leise",
+  "slug": "amin-laut-leise-gebet",
+  "category": "salah",
+  "subcategory": "ablauf",
+  "question_de": "Soll das Amin nach der Fatiha laut oder leise gesprochen werden?",
+  "question_ar": "هل يُجهر بالتأمين بعد الفاتحة أم يُسر؟",
+  "search_aliases": [
+    "Amin laut Gebet",
+    "Amin leise beten",
+    "Amin Fatiha",
+    "Amin Gebet Stimme",
+    "Amin hörbar sprechen"
+  ],
+  "context_de": "Ob das Amin nach der Fatiha im Gebet laut oder leise gesprochen wird, ist ein sichtbarer Unterschied besonders zwischen der hanafitischen Tradition und den anderen Rechtsschulen.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Amin laut aussprechen (in lauten Gebeten)",
+      "label_ar": "الجهر بالتأمين في الصلاة الجهرية",
+      "description_de": "Das Amin wird in den lauten Gebeten (Fajr, Maghrib, Ischa) hörbar ausgesprochen.",
+      "scholars": [
+        "al-shafii",
+        "ahmad-ibn-hanbal",
+        "malik-ibn-anas"
+      ],
+      "madhabs": [
+        "shafii",
+        "hanbali",
+        "maliki"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Amin laut aussprechen (in lauten Gebeten)",
-            "label_ar": "الجهر بالتأمين في الصلاة الجهرية",
-            "description_de": "Das Amin wird in den lauten Gebeten (Fajr, Maghrib, Ischa) hörbar ausgesprochen.",
-            "scholars": [
-                "al-shafii",
-                "ahmad-ibn-hanbal",
-                "malik-ibn-anas"
-            ],
-            "madhabs": [
-                "shafii",
-                "hanbali",
-                "maliki"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih al-Bukhari, Nr. 780; Sahih Muslim, Nr. 410",
-                    "text_ar": "كان رسول الله ﷺ إذا قال غير المغضوب عليهم ولا الضالين قال آمين حتى يسمعها أهل الصف الأول",
-                    "text_de": "Wenn der Gesandte Allahs ﷺ 'ghairil-maghdubi alaihim wa lad-dallin' rezitierte, sagte er 'Amin' so laut, dass die erste Reihe es hören konnte.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Al-Bukhari / Muslim",
-                    "explanation_de": "Dieser authentische Hadith belegt eindeutig, dass der Prophet ﷺ das Amin laut sprach. Die Schafiiten, Hanbaliten und Malikiten folgen dieser Sunna."
-                }
-            ],
-            "historical_context_de": "Die Mehrheit der Gelehrten folgt hier der klaren prophetischen Praxis. Das laute Amin war die Tradition in Medina, Mekka und Ägypten."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Amin leise sprechen",
-            "label_ar": "الإسرار بالتأمين",
-            "description_de": "Das Amin wird nach der Fatiha leise (im Stillen) gesprochen, auch in den lauten Gebeten.",
-            "scholars": [
-                "abu-hanifa"
-            ],
-            "madhabs": [
-                "hanafi"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sunan Abu Dawud, Nr. 932",
-                    "text_ar": "أن النبي ﷺ كان إذا فرغ من قراءة أم القرآن خفض صوته فقال آمين",
-                    "text_de": "Der Prophet ﷺ senkte nach der Rezitation der Umm al-Quran (Fatiha) seine Stimme und sagte 'Amin'.",
-                    "hadith_grade": "hasan",
-                    "graded_by": "Abu Dawud",
-                    "explanation_de": "Abu Hanifa stützt sich auf Überlieferungen, die das leise Sprechen des Amin belegen, und auf die Praxis der kufischen Gelehrtentradition."
-                }
-            ],
-            "historical_context_de": "Die hanafitische Position spiegelt die kufische Gebetspraxis wider, die sich von der medinensischen unterschied. In Kufa wurde das Amin leise gesprochen, was Abu Hanifa als authentische Tradition übernahm."
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari, Nr. 780; Sahih Muslim, Nr. 410",
+          "text_ar": "كان رسول الله ﷺ إذا قال غير المغضوب عليهم ولا الضالين قال آمين حتى يسمعها أهل الصف الأول",
+          "text_de": "Wenn der Gesandte Allahs ﷺ 'ghairil-maghdubi alaihim wa lad-dallin' rezitierte, sagte er 'Amin' so laut, dass die erste Reihe es hören konnte.",
+          "hadith_grade": "sahih",
+          "graded_by": "Al-Bukhari / Muslim",
+          "explanation_de": "Dieser authentische Hadith belegt eindeutig, dass der Prophet ﷺ das Amin laut sprach. Die Schafiiten, Hanbaliten und Malikiten folgen dieser Sunna."
         }
-    ],
-    "related_questions": [
-        "salah-basmala-fatiha",
-        "salah-haende-binden",
-        "salah-qunut-fajr"
-    ],
-    "sources": [
+      ],
+      "historical_context_de": "Die Mehrheit der Gelehrten folgt hier der klaren prophetischen Praxis. Das laute Amin war die Tradition in Medina, Mekka und Ägypten."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Amin leise sprechen",
+      "label_ar": "الإسرار بالتأمين",
+      "description_de": "Das Amin wird nach der Fatiha leise (im Stillen) gesprochen, auch in den lauten Gebeten.",
+      "scholars": [
+        "abu-hanifa"
+      ],
+      "madhabs": [
+        "hanafi"
+      ],
+      "evidence_chain": [
         {
-            "title": "Sahih al-Bukhari",
-            "author": "Imam al-Bukhari",
-            "url": "https://sunnah.com/bukhari"
-        },
-        {
-            "title": "Radd al-Muhtar",
-            "author": "Ibn Abidin",
-            "url": "https://shamela.ws/book/1701"
-        },
-        {
-            "title": "Al-Majmu'",
-            "author": "Imam an-Nawawi",
-            "url": "https://shamela.ws/book/384"
+          "type": "hadith",
+          "reference": "Sunan Abu Dawud, Nr. 932",
+          "text_ar": "أن النبي ﷺ كان إذا فرغ من قراءة أم القرآن خفض صوته فقال آمين",
+          "text_de": "Der Prophet ﷺ senkte nach der Rezitation der Umm al-Quran (Fatiha) seine Stimme und sagte 'Amin'.",
+          "hadith_grade": "hasan",
+          "graded_by": "Abu Dawud",
+          "explanation_de": "Abu Hanifa stützt sich auf Überlieferungen, die das leise Sprechen des Amin belegen, und auf die Praxis der kufischen Gelehrtentradition."
         }
-    ]
+      ],
+      "historical_context_de": "Die hanafitische Position spiegelt die kufische Gebetspraxis wider, die sich von der medinensischen unterschied. In Kufa wurde das Amin leise gesprochen, was Abu Hanifa als authentische Tradition übernahm."
+    }
+  ],
+  "related_questions": [
+    "salah-basmala-fatiha",
+    "salah-haende-binden",
+    "salah-qunut-fajr"
+  ],
+  "sources": [
+    {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam al-Bukhari",
+      "url": "https://sunnah.com/bukhari"
+    },
+    {
+      "title": "Radd al-Muhtar",
+      "author": "Ibn Abidin",
+      "url": "https://shamela.ws/book/1701"
+    },
+    {
+      "title": "Al-Majmu'",
+      "author": "Imam an-Nawawi",
+      "url": "https://shamela.ws/book/384"
+    }
+  ]
 }

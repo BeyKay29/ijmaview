@@ -1,75 +1,78 @@
 {
-    "id": "nikah-ehevertrag-klauseln",
-    "slug": "bedingungen-im-ehevertrag-arbeit-zweitfrau",
-    "category": "nikah",
-    "subcategory": "",
-    "question_de": "Welche Bedingungen dürfen in einen islamischen Ehevertrag aufgenommen werden (z.B. Verbot einer Zweitfrau)?",
-    "question_ar": "الشروط في عقد النكاح",
-    "search_aliases": [
-        "Ehevertrag Bedingungen",
-        "Zweitfrau verbieten",
-        "Klausel Ehevertrag Arbeit",
-        "Bedingung Scheidung Ehevertrag",
-        "Nikah Nama"
-    ],
-    "context_de": "Der islamische Ehevertrag (Nikah) ist ein zivilrechtlicher Vertrag, in den das Paar individuelle Bedingungen aufnehmen kann, um ihre Rechte zu sichern.",
-    "positions": [
+  "id": "nikah-ehevertrag-klauseln",
+  "slug": "bedingungen-im-ehevertrag-arbeit-zweitfrau",
+  "category": "nikah",
+  "subcategory": "",
+  "question_de": "Welche Bedingungen dürfen in einen islamischen Ehevertrag aufgenommen werden (z.B. Verbot einer Zweitfrau)?",
+  "question_ar": "الشروط في عقد النكاح",
+  "search_aliases": [
+    "Ehevertrag Bedingungen",
+    "Zweitfrau verbieten",
+    "Klausel Ehevertrag Arbeit",
+    "Bedingung Scheidung Ehevertrag",
+    "Nikah Nama"
+  ],
+  "context_de": "Der islamische Ehevertrag (Nikah) ist ein zivilrechtlicher Vertrag, in den das Paar individuelle Bedingungen aufnehmen kann, um ihre Rechte zu sichern.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Bedingungen sind bindend (solange sie Halal sind)",
+      "label_ar": "المسلمون على شروطهم",
+      "description_de": "Alle Bedingungen, die dem Wesen der Ehe nicht widersprechen, sind bindend. Wenn eine Bedingung (z.B. keine Zweitfrau) gebrochen wird, hat die Frau das Recht auf Scheidung (Faskh).",
+      "scholars": [
+        "ahmad-ibn-hanbal",
+        "ibn-taymiyya"
+      ],
+      "madhabs": [
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Bedingungen sind bindend (solange sie Halal sind)",
-            "label_ar": "المسلمون على شروطهم",
-            "description_de": "Alle Bedingungen, die dem Wesen der Ehe nicht widersprechen, sind bindend. Wenn eine Bedingung (z.B. keine Zweitfrau) gebrochen wird, hat die Frau das Recht auf Scheidung (Faskh).",
-            "scholars": [
-                "ahmad-ibn-hanbal",
-                "ibn-taymiyya"
-            ],
-            "madhabs": [
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih al-Bukhari, Nr. 2721; Sahih Muslim",
-                    "text_ar": "أحق الشروط أن توفوا به ما استحللتم به الفروج",
-                    "text_de": "Die Bedingungen, die am ehesten erfüllt werden müssen, sind diejenigen, durch die ihr den Geschlechtsverkehr (die Ehe) erlaubt gemacht habt.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Al-Bukhari / Muslim",
-                    "explanation_de": "Die Hanbaliten sind hier am koran- und sunnagetreuesten: Sie erlauben fast jede Bedingung (Arbeit, Wohnort, keine Zweitfrau)."
-                }
-            ]
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Einschränkende Bedingungen sind ungültig (aber Vertrag bleibt bestehen)",
-            "label_ar": "الشرط باطل والعقد صحيح",
-            "description_de": "Bedingungen, die ein Recht einschränken, das Allah dem Mann gegeben hat (wie die Polygamie), gelten als ungültig, auch wenn sie im Vertrag stehen.",
-            "scholars": [
-                "abu-hanifa",
-                "malik-ibn-anas",
-                "al-shafii"
-            ],
-            "madhabs": [
-                "hanafi",
-                "maliki",
-                "shafii"
-            ],
-            "explanation_de": "Diese Schulen argumentieren, dass man nichts verbieten kann, was Allah erlaubt hat. Dennoch kann ein Bruch solcher Vereinbarungen moralisch verwerflich sein oder Auswirkungen auf die Brautgabe (Mahr) haben."
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari, Nr. 2721; Sahih Muslim",
+          "text_ar": "أحق الشروط أن توفوا به ما استحللتم به الفروج",
+          "text_de": "Die Bedingungen, die am ehesten erfüllt werden müssen, sind diejenigen, durch die ihr den Geschlechtsverkehr (die Ehe) erlaubt gemacht habt.",
+          "hadith_grade": "sahih",
+          "graded_by": "Al-Bukhari / Muslim",
+          "explanation_de": "Die Hanbaliten sind hier am koran- und sunnagetreuesten: Sie erlauben fast jede Bedingung (Arbeit, Wohnort, keine Zweitfrau)."
         }
-    ],
-    "related_questions": [
-        "nikah-mahr-hoehe",
-        "nikah-frau-arbeit"
-    ],
-    "sources": [
-        {
-            "title": "Al-Mughni",
-            "author": "Ibn Qudama",
-            "url": "https://shamela.ws/book/6946"
-        },
-        {
-            "title": "Al-Hidaya",
-            "author": "Al-Marghinani",
-            "url": "https://shamela.ws/book/913"
-        }
-    ]
+      ],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Einschränkende Bedingungen sind ungültig (aber Vertrag bleibt bestehen)",
+      "label_ar": "الشرط باطل والعقد صحيح",
+      "description_de": "Bedingungen, die ein Recht einschränken, das Allah dem Mann gegeben hat (wie die Polygamie), gelten als ungültig, auch wenn sie im Vertrag stehen.",
+      "scholars": [
+        "abu-hanifa",
+        "malik-ibn-anas",
+        "al-shafii"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki",
+        "shafii"
+      ],
+      "explanation_de": "Diese Schulen argumentieren, dass man nichts verbieten kann, was Allah erlaubt hat. Dennoch kann ein Bruch solcher Vereinbarungen moralisch verwerflich sein oder Auswirkungen auf die Brautgabe (Mahr) haben.",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    }
+  ],
+  "related_questions": [
+    "nikah-mahr-hoehe",
+    "nikah-frau-arbeit"
+  ],
+  "sources": [
+    {
+      "title": "Al-Mughni",
+      "author": "Ibn Qudama",
+      "url": "https://shamela.ws/book/6946"
+    },
+    {
+      "title": "Al-Hidaya",
+      "author": "Al-Marghinani",
+      "url": "https://shamela.ws/book/913"
+    }
+  ]
 }

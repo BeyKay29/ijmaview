@@ -1,51 +1,54 @@
 {
-    "id": "muamalat-ivf-befruchtung",
-    "slug": "kuenstliche-befruchtung-ivf-islam-urteil",
-    "category": "muamalat",
-    "subcategory": "",
-    "question_de": "Ist künstliche Befruchtung (IVF) im Islam erlaubt?",
-    "question_ar": "حكم التلقيح الاصطناعي في الإسلام",
-    "search_aliases": [
-        "IVF Islam",
-        "Künstliche Befruchtung Halal",
-        "Kinderwunsch Islam",
-        "In-Vitro-Fertilisation",
-        "Embryo Transfer Islam"
-    ],
-    "context_de": "Moderne Reproduktionsmedizin bietet Paaren mit unerfülltem Kinderwunsch Möglichkeiten wie die In-Vitro-Fertilisation (IVF). Die ethischen Grenzen liegen in der Wahrung der Abstammung (Nasab).",
-    "positions": [
-        {
-            "id": "pos-1",
-            "label_de": "Erlaubt bei verheirateten Paaren (Halal)",
-            "label_ar": "جائز بين الزوجين فقط",
-            "description_de": "Künstliche Befruchtung ist erlaubt, solange Sperma und Eizelle ausschließlich vom Ehepaar stammen und der Embryo in die Gebärmutter der Ehefrau eingesetzt wird.",
-            "scholars": [
-                "Internationale Fiqh-Akademie",
-                "Al-Azhar",
-                "Saudi Permanent Committee"
-            ],
-            "explanation_de": "Solange kein Dritter (Samenspender, Eizellspenderin) beteiligt ist, gilt dies als legitime medizinische Behandlung, um den göttlichen Segen der Fortpflanzung zu ermöglichen."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Spendersamen oder Leihmutterschaft verboten (Haram)",
-            "label_ar": "تحريم الاستعانة بطرف ثالث",
-            "description_de": "Die Einbeziehung einer dritten Person (Samenspende, Eizellspende oder Leihmutter) ist absolut verboten, da dies einem Ehebruch (Zina) gleichkommt und die familiäre Linie (Nasab) zerstört.",
-            "scholars": [
-                "Alle zeitgenössischen Gelehrtenräte"
-            ],
-            "historical_context_de": "Der Schutz der Abstammung (Hifz an-Nasab) ist eines der fünf Kernziele der Scharia (Maqasid asch-Scharia)."
-        }
-    ],
-    "related_questions": [
-        "nikah-verhuetung",
-        "muamalat-abtreibung"
-    ],
-    "sources": [
-        {
-            "title": "Resolutionen der Internationalen Fiqh-Akademie",
-            "author": "OIC",
-            "url": "https://iifa-aifi.org"
-        }
-    ]
+  "id": "muamalat-ivf-befruchtung",
+  "slug": "kuenstliche-befruchtung-ivf-islam-urteil",
+  "category": "muamalat",
+  "subcategory": "",
+  "question_de": "Ist künstliche Befruchtung (IVF) im Islam erlaubt?",
+  "question_ar": "حكم التلقيح الاصطناعي في الإسلام",
+  "search_aliases": [
+    "IVF Islam",
+    "Künstliche Befruchtung Halal",
+    "Kinderwunsch Islam",
+    "In-Vitro-Fertilisation",
+    "Embryo Transfer Islam"
+  ],
+  "context_de": "Moderne Reproduktionsmedizin bietet Paaren mit unerfülltem Kinderwunsch Möglichkeiten wie die In-Vitro-Fertilisation (IVF). Die ethischen Grenzen liegen in der Wahrung der Abstammung (Nasab).",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Erlaubt bei verheirateten Paaren (Halal)",
+      "label_ar": "جائز بين الزوجين فقط",
+      "description_de": "Künstliche Befruchtung ist erlaubt, solange Sperma und Eizelle ausschließlich vom Ehepaar stammen und der Embryo in die Gebärmutter der Ehefrau eingesetzt wird.",
+      "scholars": [
+        "Internationale Fiqh-Akademie",
+        "Al-Azhar",
+        "Saudi Permanent Committee"
+      ],
+      "explanation_de": "Solange kein Dritter (Samenspender, Eizellspenderin) beteiligt ist, gilt dies als legitime medizinische Behandlung, um den göttlichen Segen der Fortpflanzung zu ermöglichen.",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Spendersamen oder Leihmutterschaft verboten (Haram)",
+      "label_ar": "تحريم الاستعانة بطرف ثالث",
+      "description_de": "Die Einbeziehung einer dritten Person (Samenspende, Eizellspende oder Leihmutter) ist absolut verboten, da dies einem Ehebruch (Zina) gleichkommt und die familiäre Linie (Nasab) zerstört.",
+      "scholars": [
+        "Alle zeitgenössischen Gelehrtenräte"
+      ],
+      "historical_context_de": "Der Schutz der Abstammung (Hifz an-Nasab) ist eines der fünf Kernziele der Scharia (Maqasid asch-Scharia).",
+      "evidence_chain": []
+    }
+  ],
+  "related_questions": [
+    "nikah-verhuetung",
+    "muamalat-abtreibung"
+  ],
+  "sources": [
+    {
+      "title": "Resolutionen der Internationalen Fiqh-Akademie",
+      "author": "OIC",
+      "url": "https://iifa-aifi.org"
+    }
+  ]
 }

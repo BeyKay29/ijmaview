@@ -1,50 +1,53 @@
 {
-    "id": "siyam-spritze-fasten",
-    "slug": "spritzen-insulin-vitamine-fasten-brechen-urteil",
-    "category": "siyam",
-    "subcategory": "",
-    "question_de": "Brechen Spritzen (Insulin, Vitamine, Antibiotika) das Fasten?",
-    "question_ar": "حكم الإبر والحقن للصائم",
-    "search_aliases": [
-        "Spritze Fasten",
-        "Insulin Ramadan",
-        "Impfung Fasten",
-        "Vitamin Spritze Fasten",
-        "Antibiotika Spritze Ramadan"
-    ],
-    "context_de": "Moderne Medizin erfordert oft Injektionen. Da diese direkt in den Körper gelangen, stellt sich die Frage nach der Vereinbarkeit mit dem Fasten.",
-    "positions": [
-        {
-            "id": "pos-1",
-            "label_de": "Medizinische Spritzen brechen das Fasten NICHT",
-            "label_ar": "الإبر العلاجية لا تفطر",
-            "description_de": "Spritzen in den Muskel (intramuskulär) oder unter die Haut (subkutan, z.B. Insulin) brechen das Fasten nicht, da sie nicht durch eine natürliche Körperöffnung (Mund, Nase) in den Magen gelangen.",
-            "scholars": [
-                "an-nawawi",
-                "ibn-taymiyya"
-            ],
-            "explanation_de": "Das Fasten bricht durch das, was 'Eintritt' (Mouth, Nose etc.) in den Magen findet, um zu ernähren. Medizinische Spritzen dienen der Heilung, nicht der Ernährung."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Nährspritzen (Infusionen) brechen das Fasten",
-            "label_ar": "الإبر المغذية تفطر",
-            "description_de": "Spritzen oder Infusionen, die zur Ernährung dienen (Glukose, Vitamine als Ersatz für Nahrung), brechen das Fasten, da sie den Zweck der Nahrungsaufnahme erfüllen.",
-            "scholars": [
-                "Fatawa-Gremien der Moderne"
-            ],
-            "historical_context_de": "Dies ist ein modernes Ijtihad-Thema. Die Gelehrten unterscheiden zwischen reiner Therapie und Ernährungshilfe."
-        }
-    ],
-    "related_questions": [
-        "siyam-blutabnahme-fasten",
-        "siyam-augentropfen-fasten"
-    ],
-    "sources": [
-        {
-            "title": "Fatawa Zeitgenössischer Gelehrter",
-            "author": "Diverse",
-            "url": "https://islamqa.info"
-        }
-    ]
+  "id": "siyam-spritze-fasten",
+  "slug": "spritzen-insulin-vitamine-fasten-brechen-urteil",
+  "category": "siyam",
+  "subcategory": "",
+  "question_de": "Brechen Spritzen (Insulin, Vitamine, Antibiotika) das Fasten?",
+  "question_ar": "حكم الإبر والحقن للصائم",
+  "search_aliases": [
+    "Spritze Fasten",
+    "Insulin Ramadan",
+    "Impfung Fasten",
+    "Vitamin Spritze Fasten",
+    "Antibiotika Spritze Ramadan"
+  ],
+  "context_de": "Moderne Medizin erfordert oft Injektionen. Da diese direkt in den Körper gelangen, stellt sich die Frage nach der Vereinbarkeit mit dem Fasten.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Medizinische Spritzen brechen das Fasten NICHT",
+      "label_ar": "الإبر العلاجية لا تفطر",
+      "description_de": "Spritzen in den Muskel (intramuskulär) oder unter die Haut (subkutan, z.B. Insulin) brechen das Fasten nicht, da sie nicht durch eine natürliche Körperöffnung (Mund, Nase) in den Magen gelangen.",
+      "scholars": [
+        "an-nawawi",
+        "ibn-taymiyya"
+      ],
+      "explanation_de": "Das Fasten bricht durch das, was 'Eintritt' (Mouth, Nose etc.) in den Magen findet, um zu ernähren. Medizinische Spritzen dienen der Heilung, nicht der Ernährung.",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Nährspritzen (Infusionen) brechen das Fasten",
+      "label_ar": "الإبر المغذية تفطر",
+      "description_de": "Spritzen oder Infusionen, die zur Ernährung dienen (Glukose, Vitamine als Ersatz für Nahrung), brechen das Fasten, da sie den Zweck der Nahrungsaufnahme erfüllen.",
+      "scholars": [
+        "Fatawa-Gremien der Moderne"
+      ],
+      "historical_context_de": "Dies ist ein modernes Ijtihad-Thema. Die Gelehrten unterscheiden zwischen reiner Therapie und Ernährungshilfe.",
+      "evidence_chain": []
+    }
+  ],
+  "related_questions": [
+    "siyam-blutabnahme-fasten",
+    "siyam-augentropfen-fasten"
+  ],
+  "sources": [
+    {
+      "title": "Fatawa Zeitgenössischer Gelehrter",
+      "author": "Diverse",
+      "url": "https://islamqa.info"
+    }
+  ]
 }

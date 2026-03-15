@@ -1,76 +1,78 @@
 {
-    "id": "salah-dua-gemeinsam",
-    "slug": "gemeinsames-dua-nach-gebet-sunna-bida",
-    "category": "salah",
-    "subcategory": "arten",
-    "question_de": "Ist das gemeinsame Bittgebet (Dua) unter Führung des Imams nach dem Pflichtgebet erlaubt?",
-    "question_ar": "حكم الدعاء الجماعي بعد الصلاة",
-    "search_aliases": [
-        "Gemeinsames Dua",
-        "Dua nach Gebet",
-        "Imam Dua laut",
-        "Dua gemeinsam hände heben",
-        "Bida Dua"
-    ],
-    "context_de": "In vielen Moscheen, besonders im türkischen und südasiatischen Raum, spricht der Imam nach dem Gebet laut ein Dua und die Gemeinde sagt 'Amin'.",
-    "positions": [
+  "id": "salah-dua-gemeinsam",
+  "slug": "gemeinsames-dua-nach-gebet-sunna-bida",
+  "category": "salah",
+  "subcategory": "arten",
+  "question_de": "Ist das gemeinsame Bittgebet (Dua) unter Führung des Imams nach dem Pflichtgebet erlaubt?",
+  "question_ar": "حكم الدعاء الجماعي بعد الصلاة",
+  "search_aliases": [
+    "Gemeinsames Dua",
+    "Dua nach Gebet",
+    "Imam Dua laut",
+    "Dua gemeinsam hände heben",
+    "Bida Dua"
+  ],
+  "context_de": "In vielen Moscheen, besonders im türkischen und südasiatischen Raum, spricht der Imam nach dem Gebet laut ein Dua und die Gemeinde sagt 'Amin'.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Erlaubt und empfohlen (Sunna/Mustahabb)",
+      "label_ar": "جائز ومستحب",
+      "description_de": "Das gemeinsame Dua ist eine gute Tat, da Gott Bittgebete nach den Pflichtgebeten besonders annimmt. Es hilft zudem Unwissenden, Dua zu lernen.",
+      "scholars": [
+        "abu-hanifa",
+        "al-shafii"
+      ],
+      "madhabs": [
+        "hanafi",
+        "shafii"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Erlaubt und empfohlen (Sunna/Mustahabb)",
-            "label_ar": "جائز ومستحب",
-            "description_de": "Das gemeinsame Dua ist eine gute Tat, da Gott Bittgebete nach den Pflichtgebeten besonders annimmt. Es hilft zudem Unwissenden, Dua zu lernen.",
-            "scholars": [
-                "abu-hanifa",
-                "al-shafii"
-            ],
-            "madhabs": [
-                "hanafi",
-                "shafii"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sunan at-Tirmidhi, Nr. 3499",
-                    "text_ar": "أي الدعاء أسمع؟ قال: جوف الليل الآخر، ودبر الصلوات المكتوبات",
-                    "text_de": "Welches Dua wird am ehesten gehört? Er antwortete: ‚In der Tiefe der letzten Nachtruhe und nach den Pflichtgebeten.'",
-                    "hadith_grade": "hasan",
-                    "graded_by": "At-Tirmidhi",
-                    "explanation_de": "Die Befürworter argumentieren: Wenn Dua nach dem Gebet gut ist, warum sollte es gemeinsam schlechter sein? Es gibt keine explizite Verbotsregel für die Gemeinschaft."
-                }
-            ],
-            "historical_context_de": "Diese Praxis ist in der hanafitischen Welt (Türkei, Balkan) tief verwurzelt."
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Nicht überliefert / Neuerung (Bida)",
-            "label_ar": "لم يثبت وهو بدعة إضافية",
-            "description_de": "Der Prophet ﷺ und seine Gefährten pflegten das Dua nach dem Gebet individuell und leise zu verrichten. Die ständige kollektive Form ist eine Neuerung im Gottesdienst.",
-            "scholars": [
-                "malik-ibn-anas",
-                "ahmad-ibn-hanbal",
-                "ibn-taymiyya"
-            ],
-            "madhabs": [
-                "maliki",
-                "hanbali"
-            ],
-            "explanation_de": "Die Kritiker argumentieren, dass gottesdienstliche Handlungen (Ibadat) nur so vollzogen werden dürfen, wie sie explizit überliefert sind. Die ständige Bindung des Dua an die Gemeinschaft nach jedem Gebet habe keine Grundlage in der Sunna."
+          "type": "hadith",
+          "reference": "Sunan at-Tirmidhi, Nr. 3499",
+          "text_ar": "أي الدعاء أسمع؟ قال: جوف الليل الآخر، ودبر الصلوات المكتوبات",
+          "text_de": "Welches Dua wird am ehesten gehört? Er antwortete: ‚In der Tiefe der letzten Nachtruhe und nach den Pflichtgebeten.'",
+          "hadith_grade": "hasan",
+          "graded_by": "At-Tirmidhi",
+          "explanation_de": "Die Befürworter argumentieren: Wenn Dua nach dem Gebet gut ist, warum sollte es gemeinsam schlechter sein? Es gibt keine explizite Verbotsregel für die Gemeinschaft."
         }
-    ],
-    "related_questions": [
-        "salah-amin-laut-leise",
-        "muamalat-musik-islam"
-    ],
-    "sources": [
-        {
-            "title": "Majmu' al-Fatawa",
-            "author": "Ibn Taymiyya",
-            "url": "https://shamela.ws/book/505"
-        },
-        {
-            "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
-            "author": "Kuwaiti Ministry of Awqaf",
-            "url": "https://islamweb.net"
-        }
-    ]
+      ],
+      "historical_context_de": "Diese Praxis ist in der hanafitischen Welt (Türkei, Balkan) tief verwurzelt."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Nicht überliefert / Neuerung (Bida)",
+      "label_ar": "لم يثبت وهو بدعة إضافية",
+      "description_de": "Der Prophet ﷺ und seine Gefährten pflegten das Dua nach dem Gebet individuell und leise zu verrichten. Die ständige kollektive Form ist eine Neuerung im Gottesdienst.",
+      "scholars": [
+        "malik-ibn-anas",
+        "ahmad-ibn-hanbal",
+        "ibn-taymiyya"
+      ],
+      "madhabs": [
+        "maliki",
+        "hanbali"
+      ],
+      "explanation_de": "Die Kritiker argumentieren, dass gottesdienstliche Handlungen (Ibadat) nur so vollzogen werden dürfen, wie sie explizit überliefert sind. Die ständige Bindung des Dua an die Gemeinschaft nach jedem Gebet habe keine Grundlage in der Sunna.",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    }
+  ],
+  "related_questions": [
+    "salah-amin-laut-leise",
+    "muamalat-musik-islam"
+  ],
+  "sources": [
+    {
+      "title": "Majmu' al-Fatawa",
+      "author": "Ibn Taymiyya",
+      "url": "https://shamela.ws/book/505"
+    },
+    {
+      "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
+      "author": "Kuwaiti Ministry of Awqaf",
+      "url": "https://islamweb.net"
+    }
+  ]
 }
