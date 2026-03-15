@@ -26,7 +26,8 @@
       ],
       "explanation_de": "Der entscheidende Unterschied zum Zinskredit ist das Risiko: Die Bank muss zwischenzeitlich Eigentümerin sein und trägt das Risiko für das Gut (Zerstörung etc.), bevor sie es weiterverkauft. Handel mit Waren (mit Gewinn) ist erlaubt, Handel mit Geld (mit Zins) nicht.",
       "evidence_chain": [],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     },
     {
       "id": "pos-2",
@@ -34,11 +35,12 @@
       "label_ar": "محرم إذا كان حيلة على الربا",
       "description_de": "Wenn die Bank die Ware nie physisch oder rechtlich besitzt und nur Geld gegen mehr Geld tauscht, ist es eine verbotene List (Hila), um das Riba-Verbot zu umgehen.",
       "scholars": [
-        "Moderne Kritiker",
-        "Einige Salafi-Gelehrte"
+        "Einige Salafi-Gelehrte",
+        "Moderne Kritiker"
       ],
       "historical_context_de": "Gelehrte betonen, dass viele 'islamische' Finanzprodukte in der Praxis oft nicht die strengen kaufmännischen Bedingungen der Scharia erfüllen.",
-      "evidence_chain": []
+      "evidence_chain": [],
+      "madhabs": []
     }
   ],
   "related_questions": [

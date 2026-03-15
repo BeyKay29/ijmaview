@@ -21,7 +21,12 @@
       "description_de": "Eine Frau darf nicht ohne Mahram reisen, auch nicht zur Hajj. Wenn sie keinen Mahram hat, ist die Hajj für sie (noch) keine Pflicht.",
       "scholars": [
         "abu-hanifa",
-        "ahmad-ibn-hanbal"
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -34,7 +39,8 @@
           "text_ar": "لا تسافر المرأة إلا مع ذي محرم",
           "text_de": "Eine Frau soll nicht reisen, außer mit einem Mahram.",
           "hadith_grade": "sahih",
-          "graded_by": "Al-Bukhari / Muslim"
+          "graded_by": "Al-Bukhari / Muslim",
+          "explanation_de": ""
         }
       ],
       "historical_context_de": ""
@@ -45,8 +51,11 @@
       "label_ar": "جواز السفر مع الرفقة الآمنة",
       "description_de": "Wenn die Reise sicher ist und in einer Gruppe von vertrauenswürdigen Frauen oder Paaren erfolgt, darf die Frau auch ohne Mahram zur Pflicht-Hajj reisen.",
       "scholars": [
-        "malik-ibn-anas",
-        "al-shafii"
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-rushd",
+        "malik-ibn-anas"
       ],
       "madhabs": [
         "maliki",
@@ -62,7 +71,9 @@
       "label_ar": "التنظيم المعاصر",
       "description_de": "Seit kurzem erlaubt Saudi-Arabien Frauen ab einem bestimmten Alter die Einreise zur Umra und Hajj ohne Mahram, basierend auf modernen Sicherheitsstandards.",
       "historical_context_de": "Dies folgt der malikitischen/schafiitischen Ansicht der ‚sicheren Begleitung' (Rafqa Amina).",
-      "evidence_chain": []
+      "evidence_chain": [],
+      "scholars": [],
+      "madhabs": []
     }
   ],
   "related_questions": [

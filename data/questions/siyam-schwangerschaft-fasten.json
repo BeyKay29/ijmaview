@@ -20,7 +20,9 @@
       "label_ar": "يجب القضاء فقط",
       "description_de": "Schwangere und Stillende dürfen das Fasten brechen, wenn sie Schaden fürchten. Sie müssen die verpassten Tage später nachholen.",
       "scholars": [
-        "abu-hanifa"
+        "abu-hanifa",
+        "abu-yusuf",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi"
@@ -35,8 +37,13 @@
       "label_ar": "القضاء مع الفدية",
       "description_de": "Wenn sie um das Kind fürchten, müssen sie nachholen und zusätzlich für jeden Tag eine Speisung (Fidya) leisten.",
       "scholars": [
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
-        "ahmad-ibn-hanbal"
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya"
       ],
       "madhabs": [
         "shafii",
@@ -56,7 +63,8 @@
       ],
       "explanation_de": "Dies war die Meinung einiger prominenter Gefährten (Sahaba), um die Härte für Frauen zu mildern, die oft über Jahre hinweg entweder schwanger sind oder stillen.",
       "evidence_chain": [],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     }
   ],
   "related_questions": [

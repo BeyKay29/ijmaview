@@ -20,13 +20,14 @@
       "label_ar": "محرم لبقاء أصل النجاسة",
       "description_de": "Gelatine aus Schwein oder ungeschächtetem Rind ist Haram. Die chemische Umwandlung ist nicht tiefgreifend genug, um als Istihala (vollständige Wesensänderung) zu gelten.",
       "scholars": [
-        "Mehrheitsmeinung der zeitgenössischen Gelehrten",
         "Al-Azhar",
+        "Mehrheitsmeinung der zeitgenössischen Gelehrten",
         "Saudi Permanent Committee"
       ],
       "explanation_de": "Die Verpflichtung, Schweinefleisch und verendete Tiere zu meiden, ist absolut. Da Gelatine aus Knochen und Haut dieser Tiere gewonnen wird, bleibt sie Bestandteil des Verbotenen.",
       "evidence_chain": [],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     },
     {
       "id": "pos-2",
@@ -39,7 +40,8 @@
       ],
       "explanation_de": "Sie vergleichen Gelatine mit der Umwandlung von Wein in Essig oder Haut in Leder. Die neue Substanz hat keine Ähnlichkeit mit dem unreinen Ursprung.",
       "evidence_chain": [],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     }
   ],
   "related_questions": [

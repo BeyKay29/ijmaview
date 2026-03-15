@@ -22,6 +22,10 @@
       "description_de": "Das Hören und Spielen von Musikinstrumenten ist verboten. Erlaubt ist lediglich die Duff (Rahmentrommel) bei bestimmten Anlässen wie Hochzeiten.",
       "scholars": [
         "ahmad-ibn-hanbal",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
         "malik-ibn-anas"
       ],
       "madhabs": [
@@ -47,7 +51,9 @@
       "label_ar": "الأصل في الغناء الإباحة",
       "description_de": "Musik und Gesang sind grundsätzlich erlaubt, solange der Inhalt nicht zu Verbotenem aufruft und kein übermäßiger Zeitaufwand betrieben wird.",
       "scholars": [
-        "abu-hanifa"
+        "abu-hanifa",
+        "abu-yusuf",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi"

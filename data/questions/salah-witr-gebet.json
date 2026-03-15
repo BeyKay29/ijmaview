@@ -21,7 +21,9 @@
       "label_ar": "الوتر واجب",
       "description_de": "Das Witr-Gebet ist eine Pflicht (Wajib), die nicht ohne triftigen Grund ausgelassen werden darf. Es steht in der Verpflichtung knapp unter den fünf Pflichtgebeten.",
       "scholars": [
-        "abu-hanifa"
+        "abu-hanifa",
+        "abu-yusuf",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi"
@@ -45,11 +47,17 @@
       "label_ar": "الوتر سنة مؤكدة",
       "description_de": "Das Witr ist keine Pflicht, sondern eine Sunna mu'akkada. Der Prophet ﷺ hat es nie unterlassen, aber es gehört nicht zu den fünf Pflichtgebeten.",
       "scholars": [
-        "malik-ibn-anas",
-        "al-shafii",
+        "abu-yusuf",
         "ahmad-ibn-hanbal",
-        "muhammad-shaybani",
-        "abu-yusuf"
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "maliki",

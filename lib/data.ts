@@ -3,7 +3,7 @@ import { Category, Scholar, Question } from './types';
 import categoriesData from '@/data/categories/categories.json';
 import scholarsData from '@/data/scholars/scholars.json';
 
-// Tahara (19)
+// Tahara (22)
 import taharaBeruehrung from '@/data/questions/tahara-beruehrung-wudu.json';
 import taharaNagellack from '@/data/questions/tahara-nagellack-gebet.json';
 import taharaSocken from '@/data/questions/tahara-socken-ueberstreichen.json';
@@ -18,10 +18,12 @@ import taharaSchlaf from '@/data/questions/tahara-schlaf-wudu.json';
 import taharaLachen from '@/data/questions/tahara-lachen-wudu.json';
 import taharaKhimar from '@/data/questions/tahara-khimar-streichen.json';
 import taharaZopf from '@/data/questions/tahara-zopf-ghusl.json';
-import taharaTayammum from '@/data/questions/tahara-tayammum-bedingungen.json.json';
+import taharaTayammum from '@/data/questions/tahara-tayammum-bedingungen.json';
 import taharaFluessig from '@/data/questions/tahara-fluessigkeiten-unterscheidung.json';
 import taharaGhusl from '@/data/questions/tahara-ghusl-pflicht-gruende.json';
 import taharaWaschmaschine from '@/data/questions/tahara-waschmaschine-najasa.json';
+import taharaHundSpeichel from '@/data/questions/muamalat-hund-speichel.json';
+import taharaParfuemAlkohol from '@/data/questions/muamalat-parfuem-alkohol.json';
 
 // Salah (20)
 import salahHaende from '@/data/questions/salah-haende-binden.json';
@@ -72,19 +74,19 @@ import hajjUmra from '@/data/questions/hajj-umra-pflicht.json';
 import hajjFrauen from '@/data/questions/hajj-frauen-mahram.json';
 import hajjSchulden from '@/data/questions/hajj-schulden-hajj.json';
 
-// Muamalat (32)
+// Muamalat (45)
 import muamalatRiba from '@/data/questions/muamalat-riba-bankzins.json';
-import muamalatVersicherung from '@/data/questions/muamalat-versicherung-islam.json';
+import muamalatVersicherung from '@/data/questions/muamalat-versicherung.json';
 import muamalatMusik from '@/data/questions/muamalat-musik-islam.json';
 import muamalatBilder from '@/data/questions/muamalat-bilder-fotos.json';
 import muamalatHund from '@/data/questions/muamalat-hund-handel.json';
-import muamalatKrypto from '@/data/questions/muamalat-krypto-urteil.json';
+import muamalatKrypto from '@/data/questions/muamalat-kryptowaehrung-halal.json';
 import muamalatDropshipping from '@/data/questions/muamalat-dropshipping.json';
-import muamalatTattoos from '@/data/questions/muamalat-tattoos.json';
+import muamalatTattoos from '@/data/questions/muamalat-tattoos-islam.json';
 import muamalatHaareFaerben from '@/data/questions/muamalat-haare-faerben.json';
 import muamalatSchminke from '@/data/questions/muamalat-schminke-oeffentlichkeit.json';
 import muamalatGold from '@/data/questions/muamalat-gold-verkauf.json';
-import muamalatOrganspende from '@/data/questions/muamalat-organspende.json';
+import muamalatOrganspende from '@/data/questions/muamalat-organspende-urteil.json';
 import muamalatAbtreibung from '@/data/questions/muamalat-abtreibung.json';
 import muamalatChirurgie from '@/data/questions/muamalat-plastische-chirurgie.json';
 import muamalatAlkoholKochen from '@/data/questions/muamalat-alkohol-kochen.json';
@@ -110,8 +112,12 @@ import muamalatWaqf from '@/data/questions/muamalat-waqf-stiftung.json';
 import muamalatIsbal from '@/data/questions/muamalat-isbal-knoechel.json';
 import muamalatGoldSeide from '@/data/questions/muamalat-gold-seide-mann.json';
 import muamalatFrauenFriedhof from '@/data/questions/muamalat-frauen-friedhof.json';
+import muamalatAugenbrauen from '@/data/questions/muamalat-augenbraue-zupfen.json';
+import muamalatAktienhandel from '@/data/questions/muamalat-aktienhandel.json';
+import muamalatGoldOnline from '@/data/questions/muamalat-goldkauf-online.json';
+import muamalatExtensions from '@/data/questions/muamalat-haare-extensions.json';
 
-// Nikah (13)
+// Nikah (14)
 import nikahWali from '@/data/questions/nikah-wali-pflicht.json';
 import nikahMahr from '@/data/questions/nikah-mahr-hoehe.json';
 import nikahKopftuch from '@/data/questions/nikah-kopftuch-pflicht.json';
@@ -125,9 +131,10 @@ import nikahVerhuetung from '@/data/questions/nikah-verhuetung.json';
 import nikahKhul from '@/data/questions/nikah-khul-scheidung.json';
 import nikahHadhana from '@/data/questions/nikah-hadhana-sorgerecht.json';
 import nikahShuhud from '@/data/questions/nikah-shuhud-zeugen.json';
+import nikahMutah from '@/data/questions/nikah-mutah-urteil.json';
 
 const allQuestions: Question[] = [
-    // Tahara (18)
+    // Tahara (20)
     taharaBeruehrung as Question,
     taharaNagellack as Question,
     taharaSocken as Question,
@@ -146,6 +153,8 @@ const allQuestions: Question[] = [
     taharaFluessig as Question,
     taharaGhusl as Question,
     taharaWaschmaschine as Question,
+    taharaHundSpeichel as Question,
+    taharaParfuemAlkohol as Question,
 
     // Salah (20)
     salahHaende as Question,
@@ -196,7 +205,7 @@ const allQuestions: Question[] = [
     hajjFrauen as Question,
     hajjSchulden as Question,
 
-    // Muamalat (37)
+    // Muamalat (41)
     muamalatRiba as Question,
     muamalatVersicherung as Question,
     muamalatMusik as Question,
@@ -234,8 +243,12 @@ const allQuestions: Question[] = [
     muamalatIsbal as Question,
     muamalatGoldSeide as Question,
     muamalatFrauenFriedhof as Question,
+    muamalatAugenbrauen as Question,
+    muamalatAktienhandel as Question,
+    muamalatGoldOnline as Question,
+    muamalatExtensions as Question,
 
-    // Nikah (13)
+    // Nikah (14)
     nikahWali as Question,
     nikahMahr as Question,
     nikahKopftuch as Question,
@@ -249,6 +262,7 @@ const allQuestions: Question[] = [
     nikahKhul as Question,
     nikahHadhana as Question,
     nikahShuhud as Question,
+    nikahMutah as Question,
 ];
 
 export function getCategories(): Category[] {

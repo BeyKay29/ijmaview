@@ -20,7 +20,10 @@
       "label_ar": "القنوت في الفجر سنة راتبة",
       "description_de": "Das Qunut-Bittgebet wird im Fajr-Gebet regelmäßig nach dem Ruku' der zweiten Rak'a gesprochen. Es ist eine Sunna mu'akkada.",
       "scholars": [
+        "al-ghazali",
         "al-shafii",
+        "an-nawawi",
+        "ibn-rushd",
         "malik-ibn-anas"
       ],
       "madhabs": [
@@ -47,7 +50,12 @@
       "description_de": "Das Qunut wird nur in außergewöhnlichen Situationen (Katastrophen, Kriege) gesprochen, nicht regelmäßig im Fajr.",
       "scholars": [
         "abu-hanifa",
-        "ahmad-ibn-hanbal"
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",

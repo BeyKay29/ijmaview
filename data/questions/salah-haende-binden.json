@@ -21,8 +21,13 @@
       "label_ar": "وضع اليمنى على اليسرى تحت الصدر",
       "description_de": "Die rechte Hand wird auf den linken Unterarm gelegt, unterhalb der Brust und oberhalb des Nabels.",
       "scholars": [
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
-        "ahmad-ibn-hanbal"
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya"
       ],
       "madhabs": [
         "shafii",
@@ -56,6 +61,7 @@
       "label_ar": "إرسال اليدين (السدل)",
       "description_de": "Die Hände werden während des Stehens im Gebet seitlich am Körper herabhängen gelassen, ohne sie zusammenzulegen.",
       "scholars": [
+        "ibn-rushd",
         "malik-ibn-anas"
       ],
       "madhabs": [
@@ -89,7 +95,9 @@
       "label_ar": "وضع اليمنى على اليسرى تحت السرة",
       "description_de": "Die Hände werden zusammengelegt und unterhalb des Nabels platziert.",
       "scholars": [
-        "abu-hanifa"
+        "abu-hanifa",
+        "abu-yusuf",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi"

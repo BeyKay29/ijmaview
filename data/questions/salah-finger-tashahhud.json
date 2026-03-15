@@ -21,6 +21,7 @@
       "description_de": "Der Finger wird bei der Verneinung (La ilaha) gehoben und bei der Bestätigung (illa Allah) wieder gesenkt oder stillgehalten.",
       "scholars": [
         "abu-hanifa",
+        "abu-yusuf",
         "muhammad-shaybani"
       ],
       "madhabs": [
@@ -35,8 +36,12 @@
       "label_ar": "تحريك الأصبع باستمرار",
       "description_de": "Der Finger wird vom Anfang bis zum Ende des Tashahhuds kontinuierlich leicht auf und ab bewegt.",
       "scholars": [
-        "malik-ibn-anas",
-        "ahmad-ibn-hanbal"
+        "ahmad-ibn-hanbal",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas"
       ],
       "madhabs": [
         "maliki",
@@ -61,6 +66,7 @@
       "label_ar": "الرفع بدون تحريك",
       "description_de": "Der Finger wird einmal gehoben (bei 'illa Allah') und dann bis zum Ende des Gebets stillgehalten ohne Bewegung.",
       "scholars": [
+        "al-ghazali",
         "al-shafii",
         "an-nawawi"
       ],

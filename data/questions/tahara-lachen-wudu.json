@@ -46,10 +46,15 @@
       "label_ar": "الضحك ينقض الصلاة فقط",
       "description_de": "Lachen bricht das Gebet, da es dem Zweck des Gebets widerspricht. Es hat jedoch keinen Einfluss auf den rituellen Reinheitszustand (Wudu).",
       "scholars": [
-        "malik-ibn-anas",
-        "al-shafii",
         "ahmad-ibn-hanbal",
-        "an-nawawi"
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas"
       ],
       "madhabs": [
         "maliki",
@@ -60,7 +65,9 @@
         {
           "type": "hadith",
           "reference": "Logik der Wudu-Brecher",
-          "explanation_de": "Die Mehrheit argumentiert, dass Wudu nur durch materielle Ausscheidungen oder Kontrollverlust bricht. Lachen ist keine materielle Ausscheidung. Die Hadithe, die die Hanafiten nutzen, werden von der Mehrheit als nicht authentisch genug eingestuft, um eine so weitreichende Regel wie den Wudu-Bruch zu begründen."
+          "explanation_de": "Die Mehrheit argumentiert, dass Wudu nur durch materielle Ausscheidungen oder Kontrollverlust bricht. Lachen ist keine materielle Ausscheidung. Die Hadithe, die die Hanafiten nutzen, werden von der Mehrheit als nicht authentisch genug eingestuft, um eine so weitreichende Regel wie den Wudu-Bruch zu begründen.",
+          "text_ar": "",
+          "text_de": ""
         }
       ],
       "historical_context_de": "Dies ist die Meinung der großen Mehrheit der Umma. Sie halten den Wudu für gültig, das Gebet muss jedoch aufgrund des Lachens neu begonnen werden."

@@ -24,7 +24,8 @@
       ],
       "explanation_de": "Dies gilt als Heilung (Ilaj) und Wiederherstellung der normalen Funktion, was im Islam geboten ist.",
       "evidence_chain": [],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     },
     {
       "id": "pos-2",
@@ -41,10 +42,12 @@
           "reference": "Sahih al-Bukhari; Sahih Muslim",
           "text_ar": "لعن الله... والمتفلجات للحسن المغيرات خلق الله",
           "text_de": "Allah verflucht... diejenigen, die sich Lücken zwischen den Zähnen machen lassen, um schöner zu wirken, und so die Schöpfung Allahs verändern.",
-          "hadith_grade": "sahih"
+          "hadith_grade": "sahih",
+          "explanation_de": ""
         }
       ],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     },
     {
       "id": "pos-3",
@@ -55,7 +58,8 @@
         "Moderne Gelehrte"
       ],
       "historical_context_de": "Es gibt einen Unterschied zwischen dem Hinzufügen von etwas (Veneers) und dem irreversiblen Wegfeilen von gesunder Zahnsubstanz.",
-      "evidence_chain": []
+      "evidence_chain": [],
+      "madhabs": []
     }
   ],
   "related_questions": [

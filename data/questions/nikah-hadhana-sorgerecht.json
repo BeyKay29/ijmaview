@@ -21,9 +21,17 @@
       "description_de": "Solange das Kind klein ist (Stillzeit und frühe Kindheit), hat die Mutter das vorrangige Recht auf das Sorgerecht, es sei denn, sie heiratet erneut.",
       "scholars": [
         "abu-hanifa",
-        "malik-ibn-anas",
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
-        "ahmad-ibn-hanbal"
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -37,7 +45,9 @@
           "reference": "Sunan Abu Dawud, Nr. 2276",
           "text_de": "Eine Frau sagte: ‚O Gesandter Allahs, mein Schoß war ein Gefäß für meinen Sohn... nun will sein Vater ihn mir wegnehmen.' Er ﷺ sagte: ‚Du hast mehr Recht auf ihn, solange du nicht (erneut) heiratest.'",
           "hadith_grade": "hasan",
-          "graded_by": "Al-Albani"
+          "graded_by": "Al-Albani",
+          "text_ar": "",
+          "explanation_de": ""
         }
       ],
       "historical_context_de": "Die Hadhana (Pflege/Sorgerecht) dient dem Schutz und der Zuwendung, die in jungen Jahren meist von der Mutter besser geleistet werden kann."
@@ -48,8 +58,13 @@
       "label_ar": "تخيير الولد بين أبويه",
       "description_de": "Wenn das Kind das Alter der Vernunft (Tamyiz, ca. 7 Jahre) erreicht, darf es in einigen Rechtsschulen wählen, bei welchem Elternteil es leben möchte.",
       "scholars": [
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
-        "ahmad-ibn-hanbal"
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya"
       ],
       "madhabs": [
         "shafii",

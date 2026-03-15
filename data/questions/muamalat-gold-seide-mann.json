@@ -1,85 +1,105 @@
 {
-    "id": "muamalat-gold-seide-mann",
-    "slug": "gold-und-seide-fuer-maenner-islam-urteil",
-    "category": "muamalat",
-    "subcategory": "",
-    "question_de": "Dürfen muslimische Männer Goldschmuck tragen oder Seide anziehen?",
-    "question_ar": "حكم لبس الذهب والحرير للرجال",
-    "search_aliases": [
-        "Gold Mann Islam",
-        "Seide Mann Islam",
-        "Goldring Mann",
-        "Ehering Gold Mann",
-        "Seidenkrawatte Islam"
-    ],
-    "context_de": "Gold und Seide gelten im Islam als Schmuck der Frauen. Für Männer gilt im Diesseits eine Beschränkung.",
-    "positions": [
+  "id": "muamalat-gold-seide-mann",
+  "slug": "gold-und-seide-fuer-maenner-islam-urteil",
+  "category": "muamalat",
+  "subcategory": "",
+  "question_de": "Dürfen muslimische Männer Goldschmuck tragen oder Seide anziehen?",
+  "question_ar": "حكم لبس الذهب والحرير للرجال",
+  "search_aliases": [
+    "Gold Mann Islam",
+    "Seide Mann Islam",
+    "Goldring Mann",
+    "Ehering Gold Mann",
+    "Seidenkrawatte Islam"
+  ],
+  "context_de": "Gold und Seide gelten im Islam als Schmuck der Frauen. Für Männer gilt im Diesseits eine Beschränkung.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Verboten für Männer (Ijma)",
+      "label_ar": "تحريم الذهب والحرير على ذكور الأمة",
+      "description_de": "Das Tragen von Gold (Ringe, Ketten, Uhren) und reiner Seide ist für muslimische Männer verboten.",
+      "scholars": [
+        "Alle Rechtsschulen (Ijma)",
+        "abu-yusuf",
+        "al-ghazali",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "muhammad-shaybani"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki",
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Verboten für Männer (Ijma)",
-            "label_ar": "تحريم الذهب والحرير على ذكور الأمة",
-            "description_de": "Das Tragen von Gold (Ringe, Ketten, Uhren) und reiner Seide ist für muslimische Männer verboten.",
-            "scholars": [
-                "Alle Rechtsschulen (Ijma)"
-            ],
-            "madhabs": [
-                "hanafi",
-                "maliki",
-                "shafii",
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sunan an-Nasa'i; Abu Dawud",
-                    "text_ar": "إن هذين حرام على ذكور أمتي، حل لإناثهم",
-                    "text_de": "Wahrlich, diese beiden (Gold und Seide) sind verboten für die Männer meiner Umma und erlaubt für ihre Frauen.",
-                    "hadith_grade": "sahih",
-                    "graded_by": "Al-Albani"
-                }
-            ]
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Ausnahme bei Seide: Medizinisch oder geringe Menge",
-            "label_ar": "استثناء الحرير للحاجة أو القدر يسير",
-            "description_de": "Seide ist erlaubt, wenn eine Hautkrankheit (wie Juckreiz) dies erfordert oder wenn es sich nur um einen schmalen Besatz (ca. 4 Finger breit) an der Kleidung handelt.",
-            "scholars": [
-                "al-shafii",
-                "ahmad-ibn-hanbal"
-            ],
-            "madhabs": [
-                "shafii",
-                "hanbali"
-            ],
-            "explanation_de": "Der Prophet ﷺ erlaubte Abdurrahman ibn Auf und Az-Zubayr das Tragen von Seide wegen eines Hautleidens."
-        },
-        {
-            "id": "pos-3",
-            "label_de": "Silber ist erlaubt",
-            "label_ar": "جواز الفضة للرجال",
-            "description_de": "Männer dürfen Silberringe tragen, da der Prophet ﷺ selbst einen Siegelring aus Silber trug.",
-            "scholars": [
-                "Mehrheitsmeinung"
-            ]
+          "type": "hadith",
+          "reference": "Sunan an-Nasa'i; Abu Dawud",
+          "text_ar": "إن هذين حرام على ذكور أمتي، حل لإناثهم",
+          "text_de": "Wahrlich, diese beiden (Gold und Seide) sind verboten für die Männer meiner Umma und erlaubt für ihre Frauen.",
+          "hadith_grade": "sahih",
+          "graded_by": "Al-Albani",
+          "explanation_de": ""
         }
-    ],
-    "related_questions": [
-        "zakah-goldschmuck-frauen",
-        "muamalat-isbal-knoechel"
-    ],
-    "sources": [
-        {
-            "title": "Bidayat al-Mujtahid",
-            "author": "Ibn Rushd",
-            "url": "https://shamela.ws/book/22375"
-        },
-        {
-            "title": "Al-Mughni",
-            "author": "Ibn Qudama",
-            "url": "https://shamela.ws/book/6946"
-        }
-    ],
-    "evidence_chain": [],
-    "historical_context_de": ""
+      ],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Ausnahme bei Seide: Medizinisch oder geringe Menge",
+      "label_ar": "استثناء الحرير للحاجة أو القدر يسير",
+      "description_de": "Seide ist erlaubt, wenn eine Hautkrankheit (wie Juckreiz) dies erfordert oder wenn es sich nur um einen schmalen Besatz (ca. 4 Finger breit) an der Kleidung handelt.",
+      "scholars": [
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya"
+      ],
+      "madhabs": [
+        "shafii",
+        "hanbali"
+      ],
+      "explanation_de": "Der Prophet ﷺ erlaubte Abdurrahman ibn Auf und Az-Zubayr das Tragen von Seide wegen eines Hautleidens.",
+      "evidence_chain": [],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-3",
+      "label_de": "Silber ist erlaubt",
+      "label_ar": "جواز الفضة للرجال",
+      "description_de": "Männer dürfen Silberringe tragen, da der Prophet ﷺ selbst einen Siegelring aus Silber trug.",
+      "scholars": [
+        "Mehrheitsmeinung"
+      ],
+      "madhabs": [],
+      "evidence_chain": [],
+      "historical_context_de": ""
+    }
+  ],
+  "related_questions": [
+    "zakah-goldschmuck-frauen",
+    "muamalat-isbal-knoechel"
+  ],
+  "sources": [
+    {
+      "title": "Bidayat al-Mujtahid",
+      "author": "Ibn Rushd",
+      "url": "https://shamela.ws/book/22375"
+    },
+    {
+      "title": "Al-Mughni",
+      "author": "Ibn Qudama",
+      "url": "https://shamela.ws/book/6946"
+    }
+  ],
+  "evidence_chain": [],
+  "historical_context_de": ""
 }

@@ -1,0 +1,59 @@
+{
+  "id": "muamalat-parfuem-alkohol",
+  "slug": "parfuem-mit-alkohol-halal-erlaubt-gebet",
+  "category": "tahara",
+  "subcategory": "Reinheit",
+  "question_de": "Ist Parfüm mit Alkohol erlaubt?",
+  "question_ar": "حكم استخدام العطور التي تحتوي على الكحول",
+  "search_aliases": [
+    "Alkohol Parfüm",
+    "Ethanol Gebet",
+    "Unreinheit Alkohol"
+  ],
+  "context_de": "Viele moderne Parfüms enthalten Ethanol. Die Frage ist, ob dieser Alkohol als unrein (Najis) gilt.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Erlaubt (Nicht Najis)",
+      "label_ar": "جائز وطاهر",
+      "description_de": "Synthetischer Alkohol in Parfüms ist nicht der berauschende Wein (Khamr), der unrein ist. Er ist rein und das Gebet damit gültig.",
+      "scholars": [
+        "Ghamari",
+        "Moderne Gelehrte",
+        "Taqi Usmani",
+        "abu-yusuf",
+        "al-ghazali",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "muhammad-shaybani"
+      ],
+      "madhabs": [
+        "hanafi",
+        "shafii",
+        "maliki",
+        "hanbali"
+      ],
+      "evidence_chain": [
+        {
+          "type": "fiqh-rule",
+          "reference": "Al-Aslu fit-Taharah",
+          "explanation_de": "Grundsätzlich sind alle Dinge rein, bis ihre Unreinheit bewiesen ist.",
+          "text_ar": "",
+          "text_de": ""
+        }
+      ],
+      "historical_context_de": "Frühere Gelehrte kannten den industriellen Alkohol nicht, daher ist dies ein modernes Urteil (Ijtihad)."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Fatawa Hindiyya",
+      "author": "Diverse",
+      "url": "#"
+    }
+  ],
+  "related_questions": []
+}

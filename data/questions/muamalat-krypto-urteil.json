@@ -20,12 +20,13 @@
       "label_ar": "جائزة باعتبارها مالاً رقمياً",
       "description_de": "Kryptowährungen sind erlaubt, da sie einen Wert (Mal) darstellen, der von Menschen anerkannt wird und als Tauschmittel fungieren kann.",
       "scholars": [
-        "Moderne Gelehrte",
-        "Einige Scharia-Boards"
+        "Einige Scharia-Boards",
+        "Moderne Gelehrte"
       ],
       "explanation_de": "Befürworter sehen in Bitcoin eine technologische Weiterentwicklung von Geld. Da es kein Riba (Zins) enthält und auf einer transparenten Blockchain basiert, wird es als Halal eingestuft, solange man nicht in illegale Projekte investiert.",
       "evidence_chain": [],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     },
     {
       "id": "pos-2",
@@ -39,7 +40,8 @@
       ],
       "explanation_de": "Kritiker argumentieren, dass Kryptowährungen keine echte Währung sind, anonyme Geldwäsche ermöglichen und einen Charakter von Glücksspiel (Maisir) haben, da der Wert rein spekulativ ist.",
       "evidence_chain": [],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     }
   ],
   "related_questions": [

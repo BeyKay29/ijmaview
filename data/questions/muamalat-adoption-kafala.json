@@ -31,7 +31,8 @@
           "explanation_de": "Die Abstammung (Nasab) ist im Islam ein heiliges Gut und darf nicht durch Verträge geändert werden."
         }
       ],
-      "historical_context_de": "Der Prophet ﷺ hatte selbst einen Adoptivsohn (Zaid ibn Haritha), dem er seinen Namen gab, bis dieser Vers herabgesandt wurde."
+      "historical_context_de": "Der Prophet ﷺ hatte selbst einen Adoptivsohn (Zaid ibn Haritha), dem er seinen Namen gab, bis dieser Vers herabgesandt wurde.",
+      "madhabs": []
     },
     {
       "id": "pos-2",
@@ -47,10 +48,13 @@
           "reference": "Sahih al-Bukhari",
           "text_de": "Ich und derjenige, der für eine Waise sorgt, werden im Paradies so sein – und er hielt Zeige- und Mittelfinger nah zusammen.",
           "hadith_grade": "sahih",
-          "graded_by": "Al-Bukhari"
+          "graded_by": "Al-Bukhari",
+          "text_ar": "",
+          "explanation_de": ""
         }
       ],
-      "historical_context_de": "Das Pflegekind bleibt jedoch ein ‚Fremder' (Non-Mahram) bezüglich der Regeln des Hidschabs und der Erbschaft, außer es wurde im Säuglingsalter gestillt (Milchverwandtschaft)."
+      "historical_context_de": "Das Pflegekind bleibt jedoch ein ‚Fremder' (Non-Mahram) bezüglich der Regeln des Hidschabs und der Erbschaft, außer es wurde im Säuglingsalter gestillt (Milchverwandtschaft).",
+      "madhabs": []
     }
   ],
   "related_questions": [

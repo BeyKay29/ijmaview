@@ -20,9 +20,15 @@
       "label_ar": "الجمع في السفر جائز",
       "description_de": "Auf Reisen dürfen Dhuhr mit Asr sowie Maghrib mit Ischa zusammengelegt werden – entweder zur ersten oder zur zweiten Gebetszeit.",
       "scholars": [
-        "malik-ibn-anas",
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
-        "ahmad-ibn-hanbal"
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas"
       ],
       "madhabs": [
         "maliki",
@@ -48,7 +54,9 @@
       "label_ar": "لا يجوز الجمع في السفر إلا في عرفة ومزدلفة",
       "description_de": "Das Zusammenlegen von Gebeten ist grundsätzlich nicht erlaubt, außer an den Orten der Hajj (Arafat und Muzdalifa). Der Reisende darf kürzen (Qasr), aber nicht zusammenlegen.",
       "scholars": [
-        "abu-hanifa"
+        "abu-hanifa",
+        "abu-yusuf",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi"

@@ -1,0 +1,58 @@
+{
+  "id": "muamalat-aktienhandel",
+  "slug": "aktienhandel-islam-halal-haram-regeln",
+  "category": "muamalat",
+  "subcategory": "Finanzen",
+  "question_de": "Ist der Handel mit Aktien im Islam erlaubt?",
+  "question_ar": "حكم تداول الأسهم في الإسلام",
+  "search_aliases": [
+    "Aktien halal",
+    "Börse Islam",
+    "Trading haram"
+  ],
+  "context_de": "Investitionen in Unternehmen sind ein moderner Teil der Vermögensbildung. Es müssen jedoch Kriterien erfüllt sein.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Erlaubt bei Erfüllung von Kriterien",
+      "label_ar": "جائز بضوابط",
+      "description_de": "Aktienhandel ist erlaubt, wenn das Unternehmen keine verbotenen Produkte herstellt (Alkohol, Schwein) und seine Schulden/Zinseinnahmen bestimmte Grenzen nicht überschreiten.",
+      "scholars": [
+        "AAOIFI Kriterien",
+        "Taqi Usmani",
+        "abu-yusuf",
+        "al-ghazali",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "muhammad-shaybani"
+      ],
+      "madhabs": [
+        "hanafi",
+        "shafii",
+        "maliki",
+        "hanbali"
+      ],
+      "evidence_chain": [
+        {
+          "type": "fiqh-rule",
+          "reference": "Sharika (Partnerschaft)",
+          "explanation_de": "Eine Aktie repräsentiert einen Anteil an einem realen Unternehmen, was als Partnerschaft gilt.",
+          "text_ar": "",
+          "text_de": ""
+        }
+      ],
+      "historical_context_de": "Gelehrte haben 'Schari'ah-Screening' Verfahren entwickelt, um Halal-Aktien zu identifizieren."
+    }
+  ],
+  "sources": [
+    {
+      "title": "AAOIFI Shuriah Standards",
+      "author": "General Scholar",
+      "url": "#"
+    }
+  ],
+  "related_questions": []
+}

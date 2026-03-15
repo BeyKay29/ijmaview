@@ -1,0 +1,73 @@
+{
+  "id": "muamalat-goldkauf-online",
+  "slug": "gold-online-kaufen-islam-halal-haram",
+  "category": "muamalat",
+  "subcategory": "Finanzen",
+  "question_de": "Darf man Gold online kaufen?",
+  "question_ar": "حكم شراء الذهب عبر الإنترنت",
+  "search_aliases": [
+    "Gold online",
+    "Riba al-Fadl",
+    "Hand-zu-Hand Handel"
+  ],
+  "context_de": "Beim Kauf von Gold und Silber schreibt der Islam vor, dass der Austausch sofort erfolgen muss (Hand-zu-Hand).",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Verboten (Aufgeschobener Tausch)",
+      "label_ar": "غير جائز للتأخير",
+      "description_de": "Der Online-Kauf ist problematisch, da die Ware nicht sofort physisch übergeben wird, was zu 'Riba an-Nasi'ah' (Aufschub-Zins) führen kann.",
+      "scholars": [
+        "abu-hanifa",
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas",
+        "muhammad-shaybani",
+        "shafii"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki",
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
+        {
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari, Sahih Muslim",
+          "text_de": "...Gold gegen Gold, Silber gegen Silber... Hand in Hand (Yadan biyad).",
+          "hadith_grade": "sahih",
+          "explanation_de": "Wenn Gold mit Geld (Silber-Ersatz) gekauft wird, muss der Besitzübergang vor Ort geschehen.",
+          "text_ar": ""
+        }
+      ],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Erlaubt bei sofortiger Abbuchung und Eigentumsübergang",
+      "label_ar": "جائز بالقبض الحكمي",
+      "description_de": "Einige moderne Gelehrte erlauben es, wenn der ' حكمي' (juristische) Besitz sofort übergeht (Bankgutschrift) und das Gold sofort für den Käufer reserviert wird.",
+      "scholars": [
+        "Einige moderne Fiqh-Gremien"
+      ],
+      "historical_context_de": "Der Begriff 'Qabd' (Besitznahme) wird in der digitalen Welt neu definiert.",
+      "madhabs": [],
+      "evidence_chain": []
+    }
+  ],
+  "sources": [
+    {
+      "title": "Fatawa al-Mu'amalat",
+      "author": "Diverse",
+      "url": "#"
+    }
+  ],
+  "related_questions": []
+}

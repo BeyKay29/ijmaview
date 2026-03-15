@@ -21,10 +21,17 @@
       "description_de": "Alle vier Rechtsschulen sind sich einig, dass verpasste Gebete so schnell wie möglich nachgeholt werden müssen, unabhängig davon, ob sie vergessen oder absichtlich ausgelassen wurden.",
       "scholars": [
         "abu-hanifa",
-        "malik-ibn-anas",
-        "al-shafii",
+        "abu-yusuf",
         "ahmad-ibn-hanbal",
-        "an-nawawi"
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -51,8 +58,9 @@
       "label_ar": "التوبة وكثرة النوافل",
       "description_de": "Absichtlich verpasste Gebete können nicht nachgeholt werden. Man muss aufrichtig bereuen und vermehrt freiwillige Gebete (Sunna/Nawafil) verrichten.",
       "scholars": [
-        "ibn-taymiyya",
-        "ibn-qayyim"
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya"
       ],
       "madhabs": [
         "hanbali"

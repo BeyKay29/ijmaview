@@ -29,10 +29,12 @@
           "text_ar": "أحلت لنا ميتتان ودمان: الحوت والجراد...",
           "text_de": "Zwei Arten von verendeten Tieren und zwei Arten von Blut wurden uns erlaubt: Der Fisch und die Heuschrecke...",
           "hadith_grade": "sahih",
-          "graded_by": "Al-Albani"
+          "graded_by": "Al-Albani",
+          "explanation_de": ""
         }
       ],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     },
     {
       "id": "pos-2",
@@ -41,8 +43,15 @@
       "description_de": "Andere Insekten (Käfer, Fliegen, Spinnen) gelten als widerwärtig (Khaba'ith) und sind daher verboten.",
       "scholars": [
         "abu-hanifa",
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
-        "ahmad-ibn-hanbal"
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -59,6 +68,7 @@
       "label_ar": "جواز أكل الحشرات عند المالكية",
       "description_de": "Einige malikitische Gelehrte erlauben den Verzehr von Insekten, sofern sie ‚geschlachtet' werden (z.B. durch Rösten oder Kochen mit Absicht).",
       "scholars": [
+        "ibn-rushd",
         "malik-ibn-anas"
       ],
       "madhabs": [

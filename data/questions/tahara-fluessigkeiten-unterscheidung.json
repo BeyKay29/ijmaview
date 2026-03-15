@@ -21,9 +21,17 @@
       "description_de": "Mani ist die weißliche, dicke Flüssigkeit, die bei Lustempfinden austritt. Ihr Austritt (ob im Schlaf oder wach) macht Ghusl (Vollwaschung) zur Pflicht.",
       "scholars": [
         "abu-hanifa",
-        "malik-ibn-anas",
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
-        "ahmad-ibn-hanbal"
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -38,7 +46,8 @@
           "text_ar": "إنما الماء من الماء",
           "text_de": "Das Wasser (Ghusl) ist nur wegen des Wassers (Mani) nötig.",
           "hadith_grade": "sahih",
-          "graded_by": "Muslim ibn al-Hajjaj"
+          "graded_by": "Muslim ibn al-Hajjaj",
+          "explanation_de": ""
         }
       ],
       "historical_context_de": "Über die Reinheit des Mani als Substanz gibt es Streit: Schafiiten/Hanbaliten sagen rein (tahir), Hanafiten/Malikiten sagen unrein (najis)."
@@ -50,9 +59,17 @@
       "description_de": "Madhi ist eine dünne, klare Flüssigkeit, die bei ersten Lustgedanken oder Vorspiel austritt. Er ist Najis (unrein), erfordert aber nur das Waschen des Organs und Wudu.",
       "scholars": [
         "abu-hanifa",
-        "malik-ibn-anas",
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
-        "ahmad-ibn-hanbal"
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -67,7 +84,8 @@
           "text_ar": "توضأ واغسل ذكرك",
           "text_de": "Mache Wudu und wasche dein Glied.",
           "hadith_grade": "sahih",
-          "graded_by": "Al-Bukhari"
+          "graded_by": "Al-Bukhari",
+          "explanation_de": ""
         }
       ],
       "historical_context_de": "Ali ibn Abi Talib (r.a.) fragte den Propheten ﷺ über Madhi, da er sich schämte, selbst zu fragen."
@@ -79,9 +97,17 @@
       "description_de": "Wadi ist eine dicke, weiße Flüssigkeit, die manchmal nach dem Urinieren austritt. Er wird wie Urin behandelt (waschen + Wudu).",
       "scholars": [
         "abu-hanifa",
-        "malik-ibn-anas",
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
-        "ahmad-ibn-hanbal"
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",

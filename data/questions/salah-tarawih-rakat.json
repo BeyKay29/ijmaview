@@ -21,10 +21,15 @@
       "description_de": "Die vier Rechtsschulen betrachten 20 Raka'at (plus 3 Witr) als die etablierte Sunna, basierend auf der Praxis seit der Zeit von Umar ibn al-Khattab (r.a.).",
       "scholars": [
         "abu-hanifa",
-        "al-shafii",
+        "abu-yusuf",
         "ahmad-ibn-hanbal",
+        "al-ghazali",
+        "al-shafii",
         "an-nawawi",
-        "al-ghazali"
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -50,6 +55,7 @@
       "label_ar": "ست وثلاثون ركعة – مذهب مالك",
       "description_de": "Imam Malik bevorzugte 36 Raka'at, da dies die Praxis der Bewohner Medinas zu seiner Zeit war.",
       "scholars": [
+        "ibn-rushd",
         "malik-ibn-anas"
       ],
       "madhabs": [
@@ -72,6 +78,8 @@
       "label_ar": "ثماني ركعات",
       "description_de": "Es gibt keine feste Begrenzung, aber 8 Raka'at entsprechen der Zahl, die der Prophet ﷺ gewöhnlich im Nachtgebet verrichtete.",
       "scholars": [
+        "ibn-qayyim",
+        "ibn-qudama",
         "ibn-taymiyya"
       ],
       "madhabs": [

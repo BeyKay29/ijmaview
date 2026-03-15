@@ -21,9 +21,13 @@
       "description_de": "Es reicht aus, Wasser über den Kopf zu gießen, bis es die Kopfhaut (Wurzeln) erreicht. Die Zöpfe selbst müssen nicht geöffnet werden.",
       "scholars": [
         "abu-hanifa",
-        "malik-ibn-anas",
+        "abu-yusuf",
+        "al-ghazali",
         "al-shafii",
-        "an-nawawi"
+        "an-nawawi",
+        "ibn-rushd",
+        "malik-ibn-anas",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -49,7 +53,10 @@
       "label_ar": "يجب نقضها في غسل الحيض",
       "description_de": "Das Öffnen der Zöpfe ist Pflicht, damit das Wasser jedes Haar und die gesamte Struktur erreichen kann, insbesondere nach der Menstruation.",
       "scholars": [
-        "ahmad-ibn-hanbal"
+        "ahmad-ibn-hanbal",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya"
       ],
       "madhabs": [
         "hanbali"
@@ -58,7 +65,9 @@
         {
           "type": "hadith",
           "reference": "Berichte von Aischa (r.a.)",
-          "explanation_de": "Die Hanbaliten unterscheiden oft strikt zwischen Janaba (kein Öffnen nötig) und Haid-Ende (Öffnen nötig), basierend auf anderen Überlieferungen, die zur Gründlichkeit nach der Menstruation aufrufen."
+          "explanation_de": "Die Hanbaliten unterscheiden oft strikt zwischen Janaba (kein Öffnen nötig) und Haid-Ende (Öffnen nötig), basierend auf anderen Überlieferungen, die zur Gründlichkeit nach der Menstruation aufrufen.",
+          "text_ar": "",
+          "text_de": ""
         }
       ],
       "historical_context_de": "Ahmad ibn Hanbal war in Fragen der rituellen Gründlichkeit oft vorsichtiger."

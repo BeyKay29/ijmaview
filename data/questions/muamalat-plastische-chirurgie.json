@@ -27,10 +27,12 @@
           "type": "hadith",
           "reference": "Sunan Abu Dawud, Nr. 4232",
           "text_de": "Ein Gefährte (Arfajah) verlor seine Nase im Krieg. Der Prophet ﷺ erlaubte ihm, sich eine Nase aus Gold anfertigen zu lassen.",
-          "explanation_de": "Dies dient als Basis für die Erlaubtheit der Wiederherstellung der ursprünglichen Form."
+          "explanation_de": "Dies dient als Basis für die Erlaubtheit der Wiederherstellung der ursprünglichen Form.",
+          "text_ar": ""
         }
       ],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     },
     {
       "id": "pos-2",
@@ -38,19 +40,21 @@
       "label_ar": "التجميل التحسيني وتغيير خلق الله",
       "description_de": "Eingriffe, die nur dazu dienen, ‚schöner' auszusehen (z.B. Lippen aufspritzen, Botox bei kleinen Falten, Fettabsaugung ohne medizinischen Grund), gelten als Verändern der Schöpfung Allahs.",
       "scholars": [
+        "Fatawa-Gremien",
         "al-shafii",
-        "an-nawawi",
-        "Fatawa-Gremien"
+        "an-nawawi"
       ],
       "evidence_chain": [
         {
           "type": "quran",
           "reference": "Sure 4:119 (An-Nisa)",
           "text_de": "Satan sagte: ‚... und ich werde ihnen befehlen, und sie werden die Schöpfung Allahs verändern.'",
-          "explanation_de": "Das unnötige Verändern der natürlichen Form wird als Satanswerk betrachtet."
+          "explanation_de": "Das unnötige Verändern der natürlichen Form wird als Satanswerk betrachtet.",
+          "text_ar": ""
         }
       ],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     }
   ],
   "related_questions": [

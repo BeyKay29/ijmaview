@@ -21,10 +21,18 @@
       "label_ar": "يجب القيام واستقبال القبلة في الفريضة",
       "description_de": "Bei Pflichtgebeten (Fard) muss man stehen, sich verbeugen (Ruku) und niederwerfen (Sajda) sowie die Qibla einhalten. Ist das im Fahrzeug möglich (z.B. im Flugzeuggang), muss es so verrichtet werden.",
       "scholars": [
-        "al-shafii",
+        "abu-hanifa",
+        "abu-yusuf",
         "ahmad-ibn-hanbal",
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
         "malik-ibn-anas",
-        "abu-hanifa"
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "shafii",
@@ -50,9 +58,17 @@
       "description_de": "Freiwillige Gebete (Sunna/Nawafil) dürfen problemlos im Sitzen verrichtet werden, auch wenn man gesund ist und das Fahrzeug die Richtung ändert.",
       "scholars": [
         "abu-hanifa",
-        "malik-ibn-anas",
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
-        "ahmad-ibn-hanbal"
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -67,7 +83,8 @@
           "text_ar": "كان رسول الله ﷺ يصلي على راحلته حيث توجهت به",
           "text_de": "Der Gesandte Allahs ﷺ pflegte (freiwillige Gebete) auf seinem Reittier zu verrichten, egal in welche Richtung es ihn trug.",
           "hadith_grade": "sahih",
-          "graded_by": "Al-Bukhari / Muslim"
+          "graded_by": "Al-Bukhari / Muslim",
+          "explanation_de": ""
         }
       ],
       "historical_context_de": ""

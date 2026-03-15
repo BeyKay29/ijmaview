@@ -21,9 +21,17 @@
       "description_de": "Wenn man aus reiner Vergesslichkeit isst oder trinkt, bleibt das Fasten gültig. Man muss sofort aufhören, sobald man sich erinnert, und den Tag zu Ende fasten.",
       "scholars": [
         "abu-hanifa",
-        "al-shafii",
+        "abu-yusuf",
         "ahmad-ibn-hanbal",
-        "malik-ibn-anas"
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -38,7 +46,8 @@
           "text_ar": "من نسي وهو صائم، فأكل أو شرب، فليتم صومه، فإنما أطعمه الله وسقاه",
           "text_de": "Wer vergisst, dass er fastet, und isst oder trinkt, der soll sein Fasten fortsetzen, denn es war Allah, der ihn speiste und tränkte.",
           "hadith_grade": "sahih",
-          "graded_by": "Al-Bukhari / Muslim"
+          "graded_by": "Al-Bukhari / Muslim",
+          "explanation_de": ""
         }
       ],
       "historical_context_de": "Dies ist einer der klarsten Beweise für die Barmherzigkeit im Islam. Es ist kein Nachholen und keine Sühne erforderlich."

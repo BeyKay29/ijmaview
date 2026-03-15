@@ -21,9 +21,17 @@
       "description_de": "Verhütung ist erlaubt, um die Gesundheit der Mutter zu schützen, die Erziehung der vorhandenen Kinder zu sichern oder aus wirtschaftlichen Erwägungen.",
       "scholars": [
         "abu-hanifa",
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
         "malik-ibn-anas",
-        "ahmad-ibn-hanbal"
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -36,7 +44,8 @@
           "type": "hadith",
           "reference": "Sahih al-Bukhari; Sahih Muslim",
           "text_de": "Die Gefährten praktizierten ‚Azl' (Coitus interruptus) zur Zeit des Propheten ﷺ, während der Koran herabgesandt wurde (und es wurde nicht verboten).",
-          "explanation_de": "Da der Prophet ﷺ von der Praxis wusste und der Koran sie nicht verbot, gilt sie als grundsätzlich erlaubt. Moderne Mittel (Pille, Kondom) werden analog zum Azl behandelt."
+          "explanation_de": "Da der Prophet ﷺ von der Praxis wusste und der Koran sie nicht verbot, gilt sie als grundsätzlich erlaubt. Moderne Mittel (Pille, Kondom) werden analog zum Azl behandelt.",
+          "text_ar": ""
         }
       ],
       "historical_context_de": ""
@@ -50,7 +59,8 @@
         "Mehrheitsmeinung"
       ],
       "historical_context_de": "Dies gilt als Verändern der Schöpfung und als unnötiger Eingriff in die göttliche Gabe der Fruchtbarkeit.",
-      "evidence_chain": []
+      "evidence_chain": [],
+      "madhabs": []
     }
   ],
   "related_questions": [

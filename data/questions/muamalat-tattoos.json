@@ -21,10 +21,17 @@
       "description_de": "Das Stechen von Tattoos ist eine große Sünde (Kabira), da es die Schöpfung Allahs verändert und dem Körper Schmerz zufügt.",
       "scholars": [
         "abu-hanifa",
-        "malik-ibn-anas",
-        "al-shafii",
+        "abu-yusuf",
         "ahmad-ibn-hanbal",
-        "an-nawawi"
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -39,7 +46,8 @@
           "text_ar": "لعن الله الواشمة والمستوشمة",
           "text_de": "Allah verflucht die Tätowierenden und diejenige, die sich tätowieren lässt.",
           "hadith_grade": "sahih",
-          "graded_by": "Al-Bukhari / Muslim"
+          "graded_by": "Al-Bukhari / Muslim",
+          "explanation_de": ""
         }
       ],
       "historical_context_de": "Henna-Tattoos (Mehendi) sind erlaubt, da sie nur auf der Hautoberfläche liegen und nach einiger Zeit verschwinden."
@@ -54,7 +62,8 @@
       ],
       "explanation_de": "Der Islam löscht die Sünden davor aus. Die Gültigkeit von Wudu und Ghusl wird durch Tattoos nicht beeinträchtigt, da die Tinte unter der Haut liegt.",
       "evidence_chain": [],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     }
   ],
   "related_questions": [

@@ -21,8 +21,11 @@
       "label_ar": "يجوز المسح على الخفين دون الجوارب الرقيقة",
       "description_de": "Das Masah ist nur über dicke, wasserundurchlässige Ledersocken (Khuffain) erlaubt, nicht über gewöhnliche dünne Socken.",
       "scholars": [
-        "malik-ibn-anas",
-        "al-shafii"
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-rushd",
+        "malik-ibn-anas"
       ],
       "madhabs": [
         "maliki",
@@ -48,7 +51,12 @@
       "description_de": "Das Masah ist auch über gewöhnliche Socken erlaubt, sofern sie dick genug sind, dass man darin laufen kann.",
       "scholars": [
         "abu-hanifa",
-        "ahmad-ibn-hanbal"
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",

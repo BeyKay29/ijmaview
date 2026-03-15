@@ -20,14 +20,15 @@
       "label_ar": "تحريم استئجار الأرحام مطلقاً",
       "description_de": "Leihmutterschaft ist verboten, da sie die Institution der Ehe verletzt, die Abstammung (Nasab) verwirrt und den Körper der Frau kommerzialisiert.",
       "scholars": [
-        "Internationale Fiqh-Akademie",
         "Al-Azhar",
-        "Saudi Permanent Committee",
-        "IAO"
+        "IAO",
+        "Internationale Fiqh-Akademie",
+        "Saudi Permanent Committee"
       ],
       "explanation_de": "Die Mutterschaft im Islam ist untrennbar mit der Geburt verbunden (‚Ihre Mütter sind nur diejenigen, die sie geboren haben', Sure 58:2). Durch die Einbeziehung einer dritten Gebärmutter entstehen rechtliche und moralische Konflikte darüber, wer die ‚echte' Mutter ist. Zudem wird der Uterus als Teil der Intimsphäre gesehen, der nicht ‚vermietet' werden darf.",
       "evidence_chain": [],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     },
     {
       "id": "pos-2",
@@ -38,7 +39,8 @@
         "Mehrheitsmeinung"
       ],
       "historical_context_de": "Anfangs gab es hierzu vereinzelte abweichende Meinungen, die jedoch von den großen Gremien aufgrund der Nasab-Problematik (Verwirrung der Verwandtschaftsverhältnisse) verworfen wurden.",
-      "evidence_chain": []
+      "evidence_chain": [],
+      "madhabs": []
     }
   ],
   "related_questions": [

@@ -21,9 +21,15 @@
       "description_de": "Das Gebet hinter einem sündigen Imam ist gültig, solange er die Säulen des Gebets korrekt ausführt und nicht in den Unglauben (Kufr) abgefallen ist.",
       "scholars": [
         "abu-hanifa",
-        "al-shafii",
+        "abu-yusuf",
         "ahmad-ibn-hanbal",
-        "ibn-taymiyya"
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -37,7 +43,8 @@
           "text_ar": "يصلون لكم، فإن أصابوا فلكم، وإن أخطأوا فلكم وعليهم",
           "text_de": "Sie (die Imame) beten für euch; wenn sie es richtig machen, ist es für euch (der Lohn), und wenn sie Fehler machen, ist es dennoch für euch (der Lohn), aber gegen sie (die Last der Sünde).",
           "hadith_grade": "sahih",
-          "graded_by": "Al-Bukhari"
+          "graded_by": "Al-Bukhari",
+          "explanation_de": ""
         }
       ],
       "historical_context_de": "Die Gefährten des Propheten ﷺ beteten hinter Hajjaj ibn Yusuf, obwohl dieser für seine Härte und Ungerechtigkeit bekannt war, um die Einheit der Gemeinschaft (Jama'a) zu wahren."
@@ -48,6 +55,7 @@
       "label_ar": "كراهة الصلاة خلف الفاسق",
       "description_de": "Es ist verpönt (Makruh), einen Fasiq als Imam einzusetzen. Wenn man die Wahl hat, sollte man hinter einem rechtschaffenen Imam beten. Das Gebet ist jedoch technisch gültig.",
       "scholars": [
+        "ibn-rushd",
         "malik-ibn-anas"
       ],
       "madhabs": [

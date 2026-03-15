@@ -21,7 +21,9 @@
       "description_de": "Dezente Verschönerungen, die traditionell zum Gesicht und den Händen gehören (wie Kajal oder dezente Farben), sind erlaubt.",
       "scholars": [
         "abu-hanifa",
-        "ibn-abbas"
+        "abu-yusuf",
+        "ibn-abbas",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi"
@@ -43,9 +45,13 @@
       "label_ar": "تحريم التبرج بالزينة",
       "description_de": "Das Tragen von auffälliger Schminke vor fremden Männern (Non-Mahrams) gilt als unzulässige Zurschaustellung (Tabarruj).",
       "scholars": [
-        "al-shafii",
         "ahmad-ibn-hanbal",
-        "an-nawawi"
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya"
       ],
       "madhabs": [
         "shafii",

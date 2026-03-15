@@ -21,8 +21,14 @@
       "description_de": "Schulden, die sofort oder bald fällig sind, werden vom Gesamtvermögen abgezogen. Nur auf den verbleibenden Betrag wird Zakah gezahlt, sofern dieser den Nisab (Mindestbetrag) erreicht.",
       "scholars": [
         "abu-hanifa",
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
         "malik-ibn-anas",
-        "ahmad-ibn-hanbal"
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -39,7 +45,9 @@
       "label_ar": "الدين لا يمنع الزكاة في الأموال الباطنة",
       "description_de": "Schulden haben keinen Einfluss auf die Zakah-Pflicht auf Geld, Gold und Handelsware (‚geheime Güter').",
       "scholars": [
-        "al-shafii"
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi"
       ],
       "madhabs": [
         "shafii"

@@ -21,9 +21,17 @@
       "description_de": "Gold muss sofort beim Kauf bezahlt werden (Zug um Zug). Eine Verzögerung der Zahlung ist Riba.",
       "scholars": [
         "abu-hanifa",
-        "malik-ibn-anas",
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
-        "ahmad-ibn-hanbal"
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -53,7 +61,8 @@
         "Mehrheitsmeinung"
       ],
       "historical_context_de": "Dies dient dazu, den reinen Metallwert von der Arbeitsleistung (Schmuckdesign) strikt zu trennen und Zinsfallen zu vermeiden.",
-      "evidence_chain": []
+      "evidence_chain": [],
+      "madhabs": []
     }
   ],
   "related_questions": [

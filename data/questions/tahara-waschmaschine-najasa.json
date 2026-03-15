@@ -24,7 +24,8 @@
       ],
       "explanation_de": "Das Wasser in der Maschine wird ständig erneuert (Zulauf/Ablauf). Dies entspricht dem Prinzip von fließendem Wasser, das Unreinheiten wegspült. Solange nach dem Waschen keine Spuren von Farbe, Geruch oder Geschmack der Unreinheit mehr vorhanden sind, ist alles rein.",
       "evidence_chain": [],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     },
     {
       "id": "pos-2",
@@ -32,8 +33,13 @@
       "label_ar": "الاحتياط في الماء القليل",
       "description_de": "Einige klassische Sichtweisen besagen, dass stehendes Wasser unrein wird, sobald Unreinheit hineingelangt, außer die Wassermenge ist sehr groß (mehr als ca. 200 Liter, Qullatayn).",
       "scholars": [
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
-        "ahmad-ibn-hanbal"
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya"
       ],
       "madhabs": [
         "shafii",

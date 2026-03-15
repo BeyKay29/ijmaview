@@ -21,10 +21,17 @@
       "description_de": "Es ist nicht erlaubt, den arabischen Mushaf ohne den Zustand der rituellen Reinheit (Wudu) zu berühren.",
       "scholars": [
         "abu-hanifa",
-        "malik-ibn-anas",
-        "al-shafii",
+        "abu-yusuf",
         "ahmad-ibn-hanbal",
-        "an-nawawi"
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -49,6 +56,8 @@
       "label_ar": "يجوز مس المصحف بدون وضوء",
       "description_de": "Das Verbot im Vers bezieht sich auf die Engel und die 'wohlbewahrte Tafel' im Himmel, nicht auf Menschen und den Mushaf.",
       "scholars": [
+        "ibn-qayyim",
+        "ibn-qudama",
         "ibn-taymiyya"
       ],
       "madhabs": [

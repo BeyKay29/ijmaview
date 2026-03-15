@@ -22,7 +22,11 @@
       "description_de": "Das Zähneputzen mit Zahnpasta ist erlaubt, solange der Fastende darauf achtet, nichts davon zu verschlucken. Die bloße Verwendung im Mund bricht das Fasten nicht.",
       "scholars": [
         "abu-hanifa",
-        "al-shafii"
+        "abu-yusuf",
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -54,7 +58,10 @@
       "label_ar": "جائز لكنه مكروه بعد الزوال",
       "description_de": "Das Zähneputzen ist grundsätzlich erlaubt, wird aber nach Mittag als makruh (unerwünscht) betrachtet, da der Mundgeruch des Fastenden bei Allah beliebt ist.",
       "scholars": [
-        "ahmad-ibn-hanbal"
+        "ahmad-ibn-hanbal",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya"
       ],
       "madhabs": [
         "hanbali"
@@ -87,6 +94,7 @@
       "label_ar": "السواك جائز واجتناب المعجون أولى",
       "description_de": "Der Siwak ist jederzeit während des Fastens erlaubt, jedoch sollte moderne Zahnpasta mit starkem Geschmack vermieden werden, da die Gefahr des unbeabsichtigten Verschluckens besteht.",
       "scholars": [
+        "ibn-rushd",
         "malik-ibn-anas"
       ],
       "madhabs": [

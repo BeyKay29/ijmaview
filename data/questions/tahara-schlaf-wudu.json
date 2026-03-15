@@ -20,10 +20,15 @@
       "label_ar": "النوم المستغرق ينقض الوضوء",
       "description_de": "Tiefer Schlaf, bei dem man die Kontrolle über seine Sinne verliert, bricht den Wudu. Leichtes Einnippeln im Sitzen nicht.",
       "scholars": [
-        "al-shafii",
         "ahmad-ibn-hanbal",
-        "malik-ibn-anas",
-        "an-nawawi"
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas"
       ],
       "madhabs": [
         "shafii",
@@ -49,7 +54,9 @@
       "label_ar": "النوم في الصلاة لا ينقض",
       "description_de": "Solange man in einer Gebetshaltung (stehend, sitzend, knieend) schläft, bricht der Wudu nicht. Nur Schlaf im Liegen bricht den Wudu.",
       "scholars": [
-        "abu-hanifa"
+        "abu-hanifa",
+        "abu-yusuf",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi"

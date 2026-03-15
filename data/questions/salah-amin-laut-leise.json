@@ -20,8 +20,14 @@
       "label_ar": "الجهر بالتأمين في الصلاة الجهرية",
       "description_de": "Das Amin wird in den lauten Gebeten (Fajr, Maghrib, Ischa) hörbar ausgesprochen.",
       "scholars": [
-        "al-shafii",
         "ahmad-ibn-hanbal",
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
         "malik-ibn-anas"
       ],
       "madhabs": [
@@ -48,7 +54,9 @@
       "label_ar": "الإسرار بالتأمين",
       "description_de": "Das Amin wird nach der Fatiha leise (im Stillen) gesprochen, auch in den lauten Gebeten.",
       "scholars": [
-        "abu-hanifa"
+        "abu-hanifa",
+        "abu-yusuf",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi"

@@ -62,22 +62,28 @@ export default function Header() {
                         initial={{ opacity: 0, height: 0 }}
                         animate={{ opacity: 1, height: 'auto' }}
                         exit={{ opacity: 0, height: 0 }}
-                        transition={{ duration: 0.3 }}
+                        transition={{ duration: 0.4, ease: [0.32, 0.72, 0, 1] }}
                     >
                         <div className="mobile-nav-inner">
                             <div className="mobile-search-wrapper">
                                 <SearchBar variant="compact" />
                             </div>
-                            {navLinks.map((link) => (
-                                <Link
+                            {navLinks.map((link, i) => (
+                                <motion.div
                                     key={link.href}
-                                    href={link.href}
-                                    className={`mobile-nav-link ${pathname === link.href ? 'active' : ''
-                                        }`}
-                                    onClick={() => setMobileOpen(false)}
+                                    initial={{ opacity: 0, x: -20 }}
+                                    animate={{ opacity: 1, x: 0 }}
+                                    transition={{ delay: 0.1 + i * 0.05 }}
                                 >
-                                    {link.label}
-                                </Link>
+                                    <Link
+                                        href={link.href}
+                                        className={`mobile-nav-link ${pathname === link.href ? 'active' : ''
+                                            }`}
+                                        onClick={() => setMobileOpen(false)}
+                                    >
+                                        {link.label}
+                                    </Link>
+                                </motion.div>
                             ))}
                         </div>
                     </motion.div>

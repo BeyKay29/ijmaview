@@ -20,10 +20,15 @@
       "label_ar": "يجوز حمل الصبي في الصلاة",
       "description_de": "Es ist erlaubt, ein Kind während des Gebets zu tragen, es beim Stehen hochzunehmen und beim Niederwerfen abzusetzen.",
       "scholars": [
-        "al-shafii",
         "ahmad-ibn-hanbal",
-        "malik-ibn-anas",
-        "an-nawawi"
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas"
       ],
       "madhabs": [
         "shafii",
@@ -49,7 +54,9 @@
       "label_ar": "مكروه إلا لضرورة",
       "description_de": "Ohne dringenden Grund sollte man Bewegungen im Gebet vermeiden. Das Tragen eines Kindes ohne Notwendigkeit wird als verpönt (Makruh) angesehen.",
       "scholars": [
-        "abu-hanifa"
+        "abu-hanifa",
+        "abu-yusuf",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi"

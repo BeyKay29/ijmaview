@@ -20,10 +20,18 @@
       "label_ar": "بقاء النجاسة والتحريم",
       "description_de": "Es ist verboten, Alkohol zu kaufen oder zum Kochen zu verwenden, auch wenn er verdampft. Die Substanz (Khamr) bleibt materiell unrein (Najis), solange sie sich nicht in Essig verwandelt.",
       "scholars": [
-        "al-shafii",
+        "abu-hanifa",
+        "abu-yusuf",
         "ahmad-ibn-hanbal",
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
         "malik-ibn-anas",
-        "abu-hanifa"
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "shafii",
@@ -36,7 +44,8 @@
           "type": "hadith",
           "reference": "Sunan Abu Dawud, Nr. 3674",
           "text_de": "Allah hat den Wein verflucht, seinen Trinker, seinen Einschenker, seinen Verkäufer, seinen Käufer, seinen Presser, den Auftraggeber zum Pressen, seinen Träger und denjenigen, zu dem er getragen wird.",
-          "explanation_de": "Da der Umgang mit Alkohol (Khamr) in jeder Form verboten ist, ist auch die Verwendung als Zutat unzulässig. Wissenschaftliche Studien zeigen zudem, dass oft Restalkohol im Essen verbleibt."
+          "explanation_de": "Da der Umgang mit Alkohol (Khamr) in jeder Form verboten ist, ist auch die Verwendung als Zutat unzulässig. Wissenschaftliche Studien zeigen zudem, dass oft Restalkohol im Essen verbleibt.",
+          "text_ar": ""
         }
       ],
       "historical_context_de": ""
@@ -47,7 +56,9 @@
       "label_ar": "انقلاب الخمر خلاً",
       "description_de": "Wenn Wein von selbst zu Essig wird, ist er Halal und rein. Das künstliche Zufügen von Stoffen, um Wein in Essig zu verwandeln, ist jedoch umstritten.",
       "scholars": [
-        "abu-hanifa"
+        "abu-hanifa",
+        "abu-yusuf",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi"

@@ -21,9 +21,17 @@
       "description_de": "Ein Muslim erbt nicht von einem Nichtmuslim, und ein Nichtmuslim erbt nicht von einem Muslim.",
       "scholars": [
         "abu-hanifa",
-        "malik-ibn-anas",
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
-        "ahmad-ibn-hanbal"
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -38,7 +46,8 @@
           "text_ar": "لا يرث المسلم الكافر ولا الكافر المسلم",
           "text_de": "Der Muslim erbt nicht vom Kafir (Ungläubigen), und der Kafir erbt nicht vom Muslim.",
           "hadith_grade": "sahih",
-          "graded_by": "Al-Bukhari / Muslim"
+          "graded_by": "Al-Bukhari / Muslim",
+          "explanation_de": ""
         }
       ],
       "historical_context_de": ""
@@ -53,7 +62,8 @@
       ],
       "explanation_de": "Dies dient dazu, familiäre Bande und Gerechtigkeit zu wahren, ohne die festen Regeln des Fara'id (gesetzlichen Erbes) zu verletzen.",
       "evidence_chain": [],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     },
     {
       "id": "pos-3",
@@ -66,7 +76,8 @@
       ],
       "explanation_de": "Sie stützten sich auf den Grundsatz: ‚Der Islam übertrifft (andere Religionen) und wird nicht übertroffen'.",
       "evidence_chain": [],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     }
   ],
   "related_questions": [

@@ -20,8 +20,8 @@
       "label_ar": "جائز بنص القرآن",
       "description_de": "Das Fleisch der Leute der Schrift ist laut Koran erlaubt, sofern es sich nicht um Schweinefleisch handelt und das Tier nicht einem Götzen gewidmet wurde.",
       "scholars": [
-        "Mehrheitsmeinung",
-        "Ibn Taymiyya"
+        "Ibn Taymiyya",
+        "Mehrheitsmeinung"
       ],
       "evidence_chain": [
         {
@@ -32,7 +32,8 @@
           "explanation_de": "Gelehrte wie Ibn Taymiyya betonen, dass Gott wusste, wie sie schlachten, und es dennoch erlaubte. Koscheres Fleisch ist nach fast allen Gelehrten Halal."
         }
       ],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     },
     {
       "id": "pos-2",
@@ -40,12 +41,13 @@
       "label_ar": "يشترط فيها ما يشترط في ذبيحة المسلم",
       "description_de": "Heute ist das Fleisch im Supermarkt oft durch Betäubung oder Methoden gewonnen, die den Kriterien der 'Schlächtung' (Dhabh) nicht entsprechen. Daher ist es in der modernen Zeit oft nicht erlaubt.",
       "scholars": [
-        "Moderne Gelehrte",
-        "Einige Hanafiten"
+        "Einige Hanafiten",
+        "Moderne Gelehrte"
       ],
       "explanation_de": "Die Kritiker argumentieren, dass moderne Christen oft gar nicht mehr rituell schlachten oder gar nicht gläubig sind (Atheisten). Zudem muss der Name Gottes (oder zumindest kein anderer Name) angerufen werden.",
       "evidence_chain": [],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     }
   ],
   "related_questions": [

@@ -21,9 +21,17 @@
       "description_de": "Sobald etwas als Waqf gewidmet wurde, geht es aus dem Privateigentum in das Eigentum Gottes über. Es darf nicht mehr verkauft, vererbt oder verschenkt werden.",
       "scholars": [
         "abu-hanifa",
-        "malik-ibn-anas",
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
-        "ahmad-ibn-hanbal"
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -36,7 +44,8 @@
           "type": "hadith",
           "reference": "Sahih al-Bukhari; Sahih Muslim",
           "text_de": "Halte das Stammgut fest und spende die Erträge (an die Armen).",
-          "explanation_de": "Hadith von Umar ibn al-Khattab über sein Land in Khaybar."
+          "explanation_de": "Hadith von Umar ibn al-Khattab über sein Land in Khaybar.",
+          "text_ar": ""
         }
       ],
       "historical_context_de": "Waqf-Stiftungen waren das soziale Rückgrat der islamischen Geschichte und finanzierten Schulen (Madrasas), Krankenhäuser und Karawansereien."
@@ -47,8 +56,9 @@
       "label_ar": "وقف النقود",
       "description_de": "Einige Gelehrte (vor allem Hanafiten) erlauben auch den Waqf von Bargeld, das für Investitionen genutzt wird, wobei nur die Gewinne gespendet werden.",
       "scholars": [
+        "abu-yusuf",
         "muhammad-asch-schaibani",
-        "abu-yusuf"
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi"

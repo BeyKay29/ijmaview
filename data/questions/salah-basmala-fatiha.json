@@ -21,7 +21,9 @@
       "label_ar": "البسملة آية من الفاتحة وتُجهر بها",
       "description_de": "Die Basmala ist ein eigenständiger Vers der Fatiha und muss in den lauten Gebeten (Fajr, Maghrib, Ischa) hörbar rezitiert werden.",
       "scholars": [
-        "al-shafii"
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi"
       ],
       "madhabs": [
         "shafii"
@@ -55,7 +57,12 @@
       "description_de": "Die Basmala wird vor der Fatiha rezitiert, aber leise (sirr), nicht laut. Sie ist kein eigenständiger Vers der Fatiha, sondern dient als Einleitung.",
       "scholars": [
         "abu-hanifa",
-        "ahmad-ibn-hanbal"
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -80,6 +87,7 @@
       "label_ar": "البسملة ليست آية من الفاتحة – ولا تُقرأ",
       "description_de": "Die Basmala ist weder ein Vers der Fatiha noch einer anderen Sure (außer an-Naml). Im Gebet wird die Fatiha direkt mit ‚Al-hamdu lillahi Rabbil-alamin' begonnen.",
       "scholars": [
+        "ibn-rushd",
         "malik-ibn-anas"
       ],
       "madhabs": [

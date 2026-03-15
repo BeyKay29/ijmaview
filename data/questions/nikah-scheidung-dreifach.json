@@ -21,9 +21,17 @@
       "description_de": "Wer drei Scheidungen in einer Sitzung ausspricht, hat die Ehe damit endgültig beendet. Eine Versöhnung während der Wartezeit ist nicht mehr möglich.",
       "scholars": [
         "abu-hanifa",
-        "malik-ibn-anas",
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
-        "ahmad-ibn-hanbal"
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -50,8 +58,9 @@
       "label_ar": "يقع واحدة",
       "description_de": "Egal wie oft das Wort in einer Sitzung wiederholt wird, es zählt nur als eine einzige Scheidung.",
       "scholars": [
-        "ibn-taymiyya",
-        "ibn-qayyim"
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya"
       ],
       "madhabs": [
         "hanbali"

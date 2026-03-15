@@ -21,6 +21,8 @@
       "description_de": "Alle Bedingungen, die dem Wesen der Ehe nicht widersprechen, sind bindend. Wenn eine Bedingung (z.B. keine Zweitfrau) gebrochen wird, hat die Frau das Recht auf Scheidung (Faskh).",
       "scholars": [
         "ahmad-ibn-hanbal",
+        "ibn-qayyim",
+        "ibn-qudama",
         "ibn-taymiyya"
       ],
       "madhabs": [
@@ -46,8 +48,13 @@
       "description_de": "Bedingungen, die ein Recht einschränken, das Allah dem Mann gegeben hat (wie die Polygamie), gelten als ungültig, auch wenn sie im Vertrag stehen.",
       "scholars": [
         "abu-hanifa",
+        "abu-yusuf",
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-rushd",
         "malik-ibn-anas",
-        "al-shafii"
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",

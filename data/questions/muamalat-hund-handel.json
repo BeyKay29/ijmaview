@@ -21,9 +21,13 @@
       "label_ar": "لا يجوز بيع الكلب مطلقاً",
       "description_de": "Es ist verboten, Hunde zu verkaufen oder zu kaufen, unabhängig vom Verwendungszweck.",
       "scholars": [
-        "al-shafii",
         "ahmad-ibn-hanbal",
-        "an-nawawi"
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya"
       ],
       "madhabs": [
         "shafii",
@@ -48,8 +52,10 @@
       "label_ar": "يجوز بيع كلب الصيد والحراسة",
       "description_de": "Hunde, die einen Nutzen haben (Jagd-, Wach- oder Hirtenhunde), dürfen gehandelt werden. Nur der Handel mit gewöhnlichen Haustieren ist untersagt.",
       "scholars": [
+        "abu-yusuf",
+        "ibn-rushd",
         "malik-ibn-anas",
-        "abu-yusuf"
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "maliki",
@@ -74,7 +80,9 @@
       "label_ar": "يجوز بيع جميع أنواع الكلاب",
       "description_de": "Der Handel mit Hunden ist grundsätzlich erlaubt, da sie einen Wert besitzen.",
       "scholars": [
-        "abu-hanifa"
+        "abu-hanifa",
+        "abu-yusuf",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi"

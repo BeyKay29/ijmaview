@@ -22,10 +22,17 @@
       "description_de": "Ghusl wird in folgenden Fällen zur Pflicht: 1. Austritt von Mani (mit Lust), 2. Geschlechtsverkehr (auch ohne Samenerguss), 3. Ende der Menstruation (Haid), 4. Ende des Wochenbetts (Nifas), 5. Tod (Waschung des Verstorbenen), 6. Eintritt in den Islam (umstritten).",
       "scholars": [
         "abu-hanifa",
-        "malik-ibn-anas",
-        "al-shafii",
+        "abu-yusuf",
         "ahmad-ibn-hanbal",
-        "an-nawawi"
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -47,7 +54,8 @@
           "text_ar": "إذا جلس بين شعبها الأربع ثم جهدها فقد وجب الغسل",
           "text_de": "Wenn er zwischen ihren vier Gliedmaßen sitzt und sich bemüht (eindringt), ist der Ghusl zur Pflicht geworden (auch ohne Samenerguss).",
           "hadith_grade": "sahih",
-          "graded_by": "Al-Bukhari / Muslim"
+          "graded_by": "Al-Bukhari / Muslim",
+          "explanation_de": ""
         }
       ],
       "historical_context_de": "Es gibt leichtere Meinungsverschiedenheiten über den Ghusl beim Eintritt in den Islam (einige sagen Pflicht, andere Sunna) und über den Ghusl nach dem Waschen eines Toten."

@@ -24,7 +24,8 @@
       ],
       "explanation_de": "Es wird als ‚Kira' (Vermietung von Rechenkraft) oder ‚Ja'ala' (Belohnung für eine Leistung) eingestuft. Solange die Währung an sich als Mal (Gut) akzeptiert wird, ist der Prozess ihrer Erzeugung legal.",
       "evidence_chain": [],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     },
     {
       "id": "pos-2",
@@ -35,7 +36,8 @@
         "Umweltschutz-orientierte Fiqh-Ansätze"
       ],
       "historical_context_de": "Dies betrifft vor allem Proof-of-Work-Mechanismen. Modernere, energiesparende Verfahren (Proof-of-Stake) werden meist positiver bewertet.",
-      "evidence_chain": []
+      "evidence_chain": [],
+      "madhabs": []
     }
   ],
   "related_questions": [

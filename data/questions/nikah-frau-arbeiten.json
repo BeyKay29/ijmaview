@@ -24,7 +24,8 @@
       ],
       "explanation_de": "Das Geld, das die Frau verdient, gehört allein ihr. Der Ehemann hat kein Recht darauf, auch wenn er für den gesamten Unterhalt der Familie aufkommen muss.",
       "evidence_chain": [],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     },
     {
       "id": "pos-2",
@@ -32,11 +33,12 @@
       "label_ar": "فرض كفاية في بعض المهن",
       "description_de": "In Bereichen wie Medizin (Frauenärztinnen), Pädagogik oder bei der Polizei für Frauen ist die Arbeit von Frauen eine religiöse Notwendigkeit für die Gesellschaft.",
       "scholars": [
-        "an-nawawi",
-        "al-ghazali"
+        "al-ghazali",
+        "an-nawawi"
       ],
       "historical_context_de": "Schon zur Zeit des Propheten ﷺ gab es Frauen, die im Handel tätig waren (wie Khadija r.a.) oder Verwundete in Kriegen pflegten.",
-      "evidence_chain": []
+      "evidence_chain": [],
+      "madhabs": []
     }
   ],
   "related_questions": [

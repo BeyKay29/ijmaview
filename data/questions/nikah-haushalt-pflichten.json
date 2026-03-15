@@ -20,10 +20,15 @@
       "label_ar": "الخدمة ليست واجبة شرعاً",
       "description_de": "Die primären Pflichten der Frau in der Ehe sind die Treue und die Erziehung der Kinder. Die Hausarbeit ist keine rechtlich einklagbare Pflicht.",
       "scholars": [
-        "al-shafii",
         "ahmad-ibn-hanbal",
-        "malik-ibn-anas",
-        "an-nawawi"
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas"
       ],
       "madhabs": [
         "shafii",
@@ -40,7 +45,9 @@
       "label_ar": "واجبة ديانةً وعرفاً",
       "description_de": "Es gehört zum guten Zusammenleben (Ma'ruf), dass die Frau den Haushalt führt, solange der Mann für den Unterhalt sorgt.",
       "scholars": [
-        "abu-hanifa"
+        "abu-hanifa",
+        "abu-yusuf",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi"
@@ -58,7 +65,8 @@
         "ibn-taymiyya"
       ],
       "historical_context_de": "Gelehrte wie Ibn Taymiyya betonen, dass eine gerechte Arbeitsteilung dem Geist des Islams entspricht: Der Mann draußen, die Frau drinnen.",
-      "evidence_chain": []
+      "evidence_chain": [],
+      "madhabs": []
     }
   ],
   "related_questions": [

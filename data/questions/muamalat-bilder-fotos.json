@@ -22,8 +22,9 @@
       "description_de": "Jede Abbildung von Lebewesen – ob gemalt, gezeichnet oder fotografiert – ist verboten.",
       "scholars": [
         "ahmad-ibn-hanbal",
-        "ibn-taymiyya",
-        "ibn-qayyim"
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya"
       ],
       "madhabs": [
         "hanbali"
@@ -47,8 +48,11 @@
       "label_ar": "التصوير الفوتوغرافي جائز – التصوير باليد محرم",
       "description_de": "Die Fotografie ist erlaubt, da sie kein 'Erschaffen' im Sinne der Hadithe darstellt, sondern ein Einfangen der bestehenden Schöpfung. Handgemalte lebensechte Bilder bleiben verboten.",
       "scholars": [
+        "abu-yusuf",
         "al-ghazali",
-        "an-nawawi"
+        "an-nawawi",
+        "ibn-rushd",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "shafii",

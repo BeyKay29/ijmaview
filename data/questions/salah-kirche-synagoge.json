@@ -20,8 +20,14 @@
       "label_ar": "جواز الصلاة في الكنائس",
       "description_de": "Es ist grundsätzlich erlaubt, in einer Kirche oder Synagoge zu beten, da der Prophet ﷺ sagte, dass die gesamte Erde für ihn als Gebetsstätte rein gemacht wurde.",
       "scholars": [
-        "al-shafii",
+        "abu-yusuf",
         "ahmad-ibn-hanbal",
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya",
         "muhammad-shaybani"
       ],
       "madhabs": [
@@ -34,7 +40,9 @@
           "type": "hadith",
           "reference": "Sahih al-Bukhari; Sahih Muslim",
           "text_de": "Die gesamte Erde wurde mir als Gebetsstätte (Masjid) und als reinigend gegeben.",
-          "hadith_grade": "sahih"
+          "hadith_grade": "sahih",
+          "text_ar": "",
+          "explanation_de": ""
         }
       ],
       "historical_context_de": "Der Kalif Umar ibn al-Khattab weigerte sich jedoch, in der Grabeskirche in Jerusalem zu beten, damit Muslime sie später nicht in eine Moschee umwandeln (Schutz der christlichen Rechte)."
@@ -46,8 +54,11 @@
       "description_de": "Wenn in der Kirche Bilder oder Statuen (von Jesus, Maria oder Heiligen) sind, ist das Gebet dort verpönt, da diese als Ablenkung oder als Ähnlichkeit zum Götzenkult gesehen werden können.",
       "scholars": [
         "abu-hanifa",
+        "abu-yusuf",
+        "ibn-abbas",
+        "ibn-rushd",
         "malik-ibn-anas",
-        "ibn-abbas"
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",

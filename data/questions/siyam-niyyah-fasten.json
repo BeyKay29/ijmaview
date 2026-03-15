@@ -20,9 +20,15 @@
       "label_ar": "يجب تبييت النية قبل الفجر",
       "description_de": "Die Absicht zum Pflichtfasten (Ramadan) muss in der Nacht vor dem Fajr-Gebet gefasst werden. Ohne diese nächtliche Absicht ist das Fasten ungültig.",
       "scholars": [
-        "malik-ibn-anas",
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
-        "ahmad-ibn-hanbal"
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas"
       ],
       "madhabs": [
         "maliki",
@@ -48,7 +54,9 @@
       "label_ar": "تجوز النية حتى الضحى",
       "description_de": "Die Absicht zum Fasten im Ramadan kann auch nach dem Fajr noch gefasst werden, solange man bis dahin nichts gegessen oder getrunken hat.",
       "scholars": [
-        "abu-hanifa"
+        "abu-hanifa",
+        "abu-yusuf",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi"

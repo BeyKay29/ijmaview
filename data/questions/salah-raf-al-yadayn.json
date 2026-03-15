@@ -21,8 +21,11 @@
       "description_de": "Die Hände werden nur zu Beginn des Gebets (Takbirat al-Ihram) gehoben. In den weiteren Übergängen bleiben sie unbewegt.",
       "scholars": [
         "abu-hanifa",
+        "abu-yusuf",
+        "ibn-rushd",
+        "ibn-taymiyya",
         "malik-ibn-anas",
-        "ibn-taymiyya"
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -47,9 +50,13 @@
       "label_ar": "الرفع عند الركوع والرفع منه",
       "description_de": "Die Hände werden viermal gehoben: 1. Zu Beginn, 2. Vor dem Ruku, 3. Beim Aufstehen aus dem Ruku, 4. Beim Aufstehen aus der zweiten Rakat (nach dem ersten Tashahhud).",
       "scholars": [
-        "al-shafii",
         "ahmad-ibn-hanbal",
-        "an-nawawi"
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya"
       ],
       "madhabs": [
         "shafii",

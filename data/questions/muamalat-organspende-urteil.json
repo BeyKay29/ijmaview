@@ -1,0 +1,83 @@
+{
+  "id": "muamalat-organspende-pflicht",
+  "slug": "organspende-islam-nach-dem-tod-erlaubt-urteil",
+  "category": "muamalat",
+  "subcategory": "",
+  "question_de": "Ist eine Organspende nach dem Tod im Islam erlaubt?",
+  "question_ar": "حكم التبرع بالأعضاء بعد الموت",
+  "search_aliases": [
+    "Organspende Islam",
+    "Organspende erlaubt",
+    "Toter Körper Islam",
+    "Nierenspende Islam",
+    "Herzspende Islam"
+  ],
+  "context_de": "In der modernen Medizin können Organe Leben retten. Die Gelehrten diskutieren dies vor dem Hintergrund der Unversehrtheit des menschlichen Körpers.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Erlaubt (Maslaha - Gemeinwohl)",
+      "label_ar": "جائز للمصلحة",
+      "description_de": "Die Organspende ist erlaubt, da die Lebensrettung (Hifz an-Nafs) eines Lebenden schwerer wiegt als die Unversehrtheit des Leichnams.",
+      "scholars": [
+        "Taqi Usmani",
+        "Yusuf al-Qaradawi",
+        "abu-yusuf",
+        "al-ghazali",
+        "an-nawawi",
+        "muhammad-shaybani"
+      ],
+      "madhabs": [
+        "hanafi",
+        "shafii"
+      ],
+      "evidence_chain": [
+        {
+          "type": "quran",
+          "reference": "Sure 5:32",
+          "text_de": "...und wer ein Leben rettet, so ist es, als ob er die ganze Menschheit gerettet hätte.",
+          "explanation_de": "Dieses Prinzip wird als vorrangig gegenüber dem Schutz der Totenruhe angesehen.",
+          "text_ar": ""
+        }
+      ],
+      "historical_context_de": "Moderne Fiqh-Akademien haben dies in den letzten Jahrzehnten mehrheitlich erlaubt."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Verboten (Respekt vor dem Toten)",
+      "label_ar": "محرم احتراما للميت",
+      "description_de": "Der menschliche Körper gehört Gott und ist auch nach dem Tod unantastbar. Das Aufschneiden des Körpers gilt als Verstümmelung.",
+      "scholars": [
+        "Einige konservative Gelehrte",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya"
+      ],
+      "madhabs": [
+        "hanbali"
+      ],
+      "evidence_chain": [
+        {
+          "type": "hadith",
+          "reference": "Sunan Abu Dawud",
+          "text_de": "Das Brechen der Knochen eines Toten ist wie das Brechen seiner Knochen im Leben.",
+          "hadith_grade": "sahih",
+          "text_ar": "",
+          "explanation_de": ""
+        }
+      ],
+      "historical_context_de": ""
+    }
+  ],
+  "related_questions": [
+    "muamalat-euthanasie",
+    "muamalat-ivf-befruchtung"
+  ],
+  "sources": [
+    {
+      "title": "Majalla al-Majma al-Fiqhi",
+      "author": "IFA",
+      "url": "https://iifa-aifi.org"
+    }
+  ]
+}

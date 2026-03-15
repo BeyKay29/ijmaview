@@ -20,12 +20,13 @@
       "label_ar": "محرمة لوجود الغرر والقمار",
       "description_de": "Lootboxen, die mit echtem Geld gekauft werden und Zufallsgewinne enthalten, fallen unter das Verbot von Maisir (Glücksspiel) und Gharar (Risikogeschäft).",
       "scholars": [
-        "Moderne Gelehrte",
-        "Fatwa-Gremien"
+        "Fatwa-Gremien",
+        "Moderne Gelehrte"
       ],
       "explanation_de": "Man zahlt Geld für etwas Ungewisses. Da der Inhalt meist einen (virtuellen) Marktwert hat, gewinnt der Spieler entweder mehr als er gezahlt hat oder er verliert fast alles. Dies entspricht der Definition von Glücksspiel.",
       "evidence_chain": [],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     },
     {
       "id": "pos-2",
@@ -36,7 +37,8 @@
         "Mehrheitsmeinung"
       ],
       "historical_context_de": "Gelehrte warnen dennoch vor der Zeitverschwendung (Israf al-Waqt) und Suchtgefahr.",
-      "evidence_chain": []
+      "evidence_chain": [],
+      "madhabs": []
     }
   ],
   "related_questions": [

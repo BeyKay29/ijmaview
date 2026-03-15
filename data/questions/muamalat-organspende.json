@@ -29,10 +29,12 @@
           "type": "quran",
           "reference": "Sure 5:32 (Al-Ma'ida)",
           "text_de": "Und wer einem Menschen das Leben rettet, so soll es sein, als hätte er der ganzen Menschheit das Leben gerettet.",
-          "explanation_de": "Die Mehrheit der modernen Fiqh-Akademien erlaubt die Spende sowohl zu Lebzeiten (z.B. Niere) als auch nach dem Tod, unter der Bedingung der Freiwilligkeit und dass kein Handel (Verkauf) getrieben wird."
+          "explanation_de": "Die Mehrheit der modernen Fiqh-Akademien erlaubt die Spende sowohl zu Lebzeiten (z.B. Niere) als auch nach dem Tod, unter der Bedingung der Freiwilligkeit und dass kein Handel (Verkauf) getrieben wird.",
+          "text_ar": ""
         }
       ],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     },
     {
       "id": "pos-2",
@@ -44,7 +46,8 @@
       ],
       "explanation_de": "Kritiker argumentieren, dass der Mensch kein Verfügungsrecht über seine Organe hat und der Körper im Grab unversehrt sein sollte. Zudem wird die Definition des ‚Hirntods' oft skeptisch betrachtet.",
       "evidence_chain": [],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     }
   ],
   "related_questions": [

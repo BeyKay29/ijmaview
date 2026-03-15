@@ -20,6 +20,7 @@
       "label_ar": "تغيير الشيب سنة - واجتناب السواد",
       "description_de": "Es ist empfohlen, graue Haare mit Henna (Rot/Orange) oder Katam (Dunkelbraun) zu färben. Das reine Schwarzfärben sollte vermieden werden.",
       "scholars": [
+        "al-ghazali",
         "al-shafii",
         "an-nawawi"
       ],
@@ -46,7 +47,8 @@
       "description_de": "Das Färben in Schwarz ist erlaubt, solange damit keine Täuschung (z.B. bei der Heirat oder im Krieg) beabsichtigt wird.",
       "scholars": [
         "abu-hanifa",
-        "abu-yusuf"
+        "abu-yusuf",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi"

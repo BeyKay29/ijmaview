@@ -18,6 +18,8 @@ const iconMap: Record<string, React.ReactNode> = {
     compass: <Compass size={28} />,
     handshake: <Handshake size={28} />,
     heart: <Heart size={28} />,
+    users: <Handshake size={28} />,
+    gavel: <Compass size={28} />,
 };
 
 interface CategoryCardProps {

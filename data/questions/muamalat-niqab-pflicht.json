@@ -21,8 +21,13 @@
       "description_de": "Das Gesicht und die Hände sind keine Awrah. Der Niqab ist eine lobenswerte Tat (Sunna/Fadila), aber keine Pflicht.",
       "scholars": [
         "abu-hanifa",
+        "abu-yusuf",
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-rushd",
         "malik-ibn-anas",
-        "al-shafii"
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -34,7 +39,8 @@
           "type": "quran",
           "reference": "Sure 24:31 (An-Nur)",
           "text_de": "...außer dem, was davon sichtbar sein muss.",
-          "explanation_de": "Die Mehrheit der Sahaba (wie Ibn Abbas) interpretierte dies als Gesicht und Hände."
+          "explanation_de": "Die Mehrheit der Sahaba (wie Ibn Abbas) interpretierte dies als Gesicht und Hände.",
+          "text_ar": ""
         }
       ],
       "historical_context_de": "Dies ist die Meinung der großen Mehrheit der Gelehrten über die Jahrhunderte hinweg."
@@ -46,6 +52,8 @@
       "description_de": "In Zeiten der Fitna (Versuchung) oder grundsätzlich ist es Pflicht für die Frau, ihr Gesicht vor fremden Männern zu verhüllen.",
       "scholars": [
         "ahmad-ibn-hanbal",
+        "ibn-qayyim",
+        "ibn-qudama",
         "ibn-taymiyya"
       ],
       "madhabs": [
@@ -56,7 +64,8 @@
           "type": "hadith",
           "reference": "Sunan Abu Dawud",
           "text_de": "Asma bint Abi Bakr trug dünne Kleidung. Der Prophet ﷺ wandte sich ab und sagte: ‚O Asma, wenn eine Frau das Alter der Menstruation erreicht, darf nichts von ihr gesehen werden außer diesem und diesem' - und er deutete auf sein Gesicht und seine Hände.",
-          "explanation_de": "Hanbaliten kritisieren oft die Authentizität dieses Hadiths oder sagen, er wurde durch spätere Verse (Hidschab-Verse) aufgehoben."
+          "explanation_de": "Hanbaliten kritisieren oft die Authentizität dieses Hadiths oder sagen, er wurde durch spätere Verse (Hidschab-Verse) aufgehoben.",
+          "text_ar": ""
         }
       ],
       "historical_context_de": "In Saudi-Arabien und Teilen der Golfstaaten ist dies die dominierende Rechtsmeinung."

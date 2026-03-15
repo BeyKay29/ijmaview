@@ -21,8 +21,15 @@
       "description_de": "Ein Nikah-Vertrag ohne mindestens zwei männliche, muslimische Zeugen ist ungültig (Batil).",
       "scholars": [
         "abu-hanifa",
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
-        "ahmad-ibn-hanbal"
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -36,7 +43,8 @@
           "text_ar": "لا نكاح إلا بولي وشاهدي عدل",
           "text_de": "Es gibt keine Nikah außer mit einem Wali (Vormund) und zwei gerechten Zeugen.",
           "hadith_grade": "sahih",
-          "graded_by": "Al-Albani"
+          "graded_by": "Al-Albani",
+          "explanation_de": ""
         }
       ],
       "historical_context_de": "Die Anwesenheit von Zeugen schützt die Rechte beider Parteien, insbesondere der Frau, im Falle eines Streits."
@@ -47,6 +55,7 @@
       "label_ar": "إعلان النكاح يغني عن الشهادة",
       "description_de": "Bei den Malikiten ist die Bekanntgabe (I'lan) der Ehe gegenüber der Öffentlichkeit wichtiger als die Anwesenheit von zwei speziellen Zeugen beim Vertragsschluss (auch wenn Zeugen dennoch empfohlen sind).",
       "scholars": [
+        "ibn-rushd",
         "malik-ibn-anas"
       ],
       "madhabs": [

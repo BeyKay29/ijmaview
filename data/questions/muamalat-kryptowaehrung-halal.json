@@ -1,0 +1,72 @@
+{
+  "id": "muamalat-krypto-urteil",
+  "slug": "bitcoin-kryptowaehrungen-halal-haram",
+  "category": "muamalat",
+  "subcategory": "Finanzen",
+  "question_de": "Sind Kryptowährungen wie Bitcoin im Islam erlaubt?",
+  "question_ar": "حكم العملات الرقمية والبيتكوين",
+  "search_aliases": [
+    "Bitcoin halal",
+    "Krypto haram",
+    "Gharar Krypto"
+  ],
+  "context_de": "Mit dem Aufkommen digitaler Währungen haben Gelehrte unterschiedliche Ansichten zu deren Status als Geld oer Ware.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Erlaubt (Währung/Digitale Ware)",
+      "label_ar": "جائز كمال متقوم",
+      "description_de": "Kryptowährungen sind erlaubt, solange sie als Tauschmittel akzeptiert werden und kein übermäßiger Betrug (Gharar) vorliegt.",
+      "scholars": [
+        "Monzer Kahf",
+        "Taqi Usmani (mit Bedingungen)",
+        "abu-yusuf",
+        "al-ghazali",
+        "an-nawawi",
+        "muhammad-shaybani"
+      ],
+      "madhabs": [
+        "hanafi",
+        "shafii"
+      ],
+      "evidence_chain": [
+        {
+          "type": "fiqh-rule",
+          "reference": "Al-Aslu fil-Mu'amalat al-Ibahah",
+          "explanation_de": "Grundsätzlich ist im Handel alles erlaubt, was nicht explizit verboten ist.",
+          "text_ar": "",
+          "text_de": ""
+        }
+      ],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Nicht erlaubt (Gharar/Glücksspiel)",
+      "label_ar": "غير جائز للغرر",
+      "description_de": "Wegen der extremen Volatilität und mangelnden staatlichen Regulierung ähnelt Krypto dem Glücksspiel (Maisir).",
+      "scholars": [
+        "Shawkai Allam",
+        "abu-yusuf",
+        "muhammad-shaybani",
+        "Ägyptisches Dar al-Ifta"
+      ],
+      "madhabs": [
+        "hanafi"
+      ],
+      "historical_context_de": "Diese Position wird oft von staatlichen Institutionen vertreten, um wirtschaftliche Stabilität zu wahren.",
+      "evidence_chain": []
+    }
+  ],
+  "related_questions": [
+    "muamalat-bitcoin-mining",
+    "muamalat-lootboxen"
+  ],
+  "sources": [
+    {
+      "title": "Islamic Finance News",
+      "author": "General Scholar",
+      "url": "#"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "nikah-mutah-urteil",
+  "slug": "mutah-zeitehe-islam-erlaubt-verboten",
+  "category": "nikah",
+  "subcategory": "Eheformen",
+  "question_de": "Ist die Zeitehe (Mut'ah) im sunnitischen Islam erlaubt?",
+  "question_ar": "حكم نكاح المتعة عند أهل السنة",
+  "search_aliases": [
+    "Mutah Ehe",
+    "Zeitehe",
+    "Schiiten Mutah"
+  ],
+  "context_de": "Die Nikah al-Mut'ah war in der Frühzeit des Islams zeitweise erlaubt, bis sie endgültig verboten wurde.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Verboten (Abrogiert)",
+      "label_ar": "محرم وباطل",
+      "description_de": "Die sunnitischen Gelehrten sind sich einig, dass die Zeitehe nach dem Tag von Khaybar oder der Eroberung Mekkas endgültig verboten wurde.",
+      "scholars": [
+        "abu-hanifa",
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas",
+        "muhammad-shaybani",
+        "shafii"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki",
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
+        {
+          "type": "hadith",
+          "reference": "Sahih Muslim",
+          "text_de": "Der Gesandte Allahs ﷺ verbot die Mut'ah am Tag von Khaybar...",
+          "hadith_grade": "sahih",
+          "text_ar": "",
+          "explanation_de": ""
+        }
+      ],
+      "historical_context_de": "Dies ist einer der Hauptunterschiede zwischen sunnitischen und schiitischen Rechtsschulen (die sie erlauben)."
+    }
+  ],
+  "related_questions": [
+    "nikah-misyar-ehe"
+  ],
+  "sources": [
+    {
+      "title": "Subul al-Salam",
+      "author": "As-San'ani",
+      "url": "#"
+    }
+  ]
+}

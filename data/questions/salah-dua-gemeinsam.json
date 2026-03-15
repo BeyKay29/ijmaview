@@ -21,7 +21,11 @@
       "description_de": "Das gemeinsame Dua ist eine gute Tat, da Gott Bittgebete nach den Pflichtgebeten besonders annimmt. Es hilft zudem Unwissenden, Dua zu lernen.",
       "scholars": [
         "abu-hanifa",
-        "al-shafii"
+        "abu-yusuf",
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -46,9 +50,12 @@
       "label_ar": "لم يثبت وهو بدعة إضافية",
       "description_de": "Der Prophet ﷺ und seine Gefährten pflegten das Dua nach dem Gebet individuell und leise zu verrichten. Die ständige kollektive Form ist eine Neuerung im Gottesdienst.",
       "scholars": [
-        "malik-ibn-anas",
         "ahmad-ibn-hanbal",
-        "ibn-taymiyya"
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas"
       ],
       "madhabs": [
         "maliki",

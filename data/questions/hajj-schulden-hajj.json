@@ -21,9 +21,17 @@
       "description_de": "Man darf zur Hajj gehen, wenn die Schulden nicht sofort fällig sind, die Ratenzahlung gesichert ist oder der Gläubiger die Reise ausdrücklich erlaubt.",
       "scholars": [
         "abu-hanifa",
-        "malik-ibn-anas",
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
-        "ahmad-ibn-hanbal"
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -44,7 +52,8 @@
         "Mehrheitsmeinung"
       ],
       "historical_context_de": "Gelehrte betonen, dass es sündhaft sein kann, zur Hajj zu reisen, während man fällige Schulden ignoriert.",
-      "evidence_chain": []
+      "evidence_chain": [],
+      "madhabs": []
     }
   ],
   "related_questions": [

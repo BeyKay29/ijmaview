@@ -20,16 +20,17 @@
       "label_ar": "محرم قطعاً",
       "description_de": "Rauchen ist Haram, da es den Körper nachweislich schädigt, tödliche Krankheiten verursacht und das Vermögen verschwendet.",
       "scholars": [
+        "Diyanet",
         "Großmufti von Ägypten",
-        "Saudi Scholar Committee",
-        "Diyanet"
+        "Saudi Scholar Committee"
       ],
       "evidence_chain": [
         {
           "type": "quran",
           "reference": "Sure 2:195 (Al-Baqara)",
           "text_de": "und stürzt euch nicht mit eurer eigenen Hand ins Verderben.",
-          "explanation_de": "Da Rauchen gesundheitsschädlich ist, fällt es unter das Verbot der Selbstschädigung."
+          "explanation_de": "Da Rauchen gesundheitsschädlich ist, fällt es unter das Verbot der Selbstschädigung.",
+          "text_ar": ""
         },
         {
           "type": "hadith",
@@ -37,10 +38,12 @@
           "text_ar": "لا ضرر ولا ضرار",
           "text_de": "Es soll kein Schaden zugefügt und kein Schaden erwidert werden (Schadenszufügungsverbot).",
           "hadith_grade": "hasan",
-          "graded_by": "An-Nawawi"
+          "graded_by": "An-Nawawi",
+          "explanation_de": ""
         }
       ],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     },
     {
       "id": "pos-2",
@@ -51,7 +54,8 @@
         "Historische Meinung einiger Hanafiten/Malikiten"
       ],
       "historical_context_de": "Als Tabak neu aufkam, wussten die Gelehrten noch nichts über die toxische Wirkung. Heute tendieren fast alle zur Meinung 'Haram'.",
-      "evidence_chain": []
+      "evidence_chain": [],
+      "madhabs": []
     }
   ],
   "related_questions": [

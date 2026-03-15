@@ -1,85 +1,95 @@
 {
-    "id": "muamalat-isbal-knoechel",
-    "slug": "isbal-hosen-ueber-knoechel-mann-islam-urteil",
-    "category": "muamalat",
-    "subcategory": "",
-    "question_de": "Darf die Kleidung (Hose/Gewand) des Mannes unter die Knöchel hängen (Isbal)?",
-    "question_ar": "حكم الإسبال للمرد من الرجال",
-    "search_aliases": [
-        "Isbal Islam",
-        "Hose unter Knöchel",
-        "Kleidung Mann Knöchel",
-        "Isbal Haram oder Makruh",
-        "Knöchelbedeckung"
-    ],
-    "context_de": "In einigen Überlieferungen wird das Tragen von Kleidung unterhalb der Knöchel streng untersagt. Die Gelehrten diskutieren, ob dies nur bei Arroganz gilt.",
-    "positions": [
+  "id": "muamalat-isbal-knoechel",
+  "slug": "isbal-hosen-ueber-knoechel-mann-islam-urteil",
+  "category": "muamalat",
+  "subcategory": "",
+  "question_de": "Darf die Kleidung (Hose/Gewand) des Mannes unter die Knöchel hängen (Isbal)?",
+  "question_ar": "حكم الإسبال للمرد من الرجال",
+  "search_aliases": [
+    "Isbal Islam",
+    "Hose unter Knöchel",
+    "Kleidung Mann Knöchel",
+    "Isbal Haram oder Makruh",
+    "Knöchelbedeckung"
+  ],
+  "context_de": "In einigen Überlieferungen wird das Tragen von Kleidung unterhalb der Knöchel streng untersagt. Die Gelehrten diskutieren, ob dies nur bei Arroganz gilt.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Absolut verboten (Haram)",
+      "label_ar": "محرم مطلقاً",
+      "description_de": "Jeder Isbal beim Mann ist verboten, unabhängig davon, ob er aus Arroganz geschieht oder nicht.",
+      "scholars": [
+        "ahmad-ibn-hanbal",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya",
+        "moderne Salafi-Gelehrte"
+      ],
+      "madhabs": [
+        "hanbali"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Absolut verboten (Haram)",
-            "label_ar": "محرم مطلقاً",
-            "description_de": "Jeder Isbal beim Mann ist verboten, unabhängig davon, ob er aus Arroganz geschieht oder nicht.",
-            "scholars": [
-                "ahmad-ibn-hanbal",
-                "ibn-taymiyya",
-                "moderne Salafi-Gelehrte"
-            ],
-            "madhabs": [
-                "hanbali"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih al-Bukhari, Nr. 5787",
-                    "text_ar": "ما أسفل من الكعبين من الإزار ففي النار",
-                    "text_de": "Was auch immer vom Untergewand (Izar) unter den Knöcheln ist, ist im Feuer.",
-                    "hadith_grade": "sahih"
-                }
-            ]
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Nur bei Arroganz verboten (Mehrheit)",
-            "label_ar": "محرم للخيلاء ومكروه لغيره",
-            "description_de": "Isbal ist nur dann eine Sünde, wenn er aus Stolz oder Arroganz (Khuyala') geschieht. Ohne Arroganz ist es verpönt (Makruh) oder erlaubt.",
-            "scholars": [
-                "abu-hanifa",
-                "al-shafii",
-                "malik-ibn-anas",
-                "an-nawawi"
-            ],
-            "madhabs": [
-                "hanafi",
-                "shafii",
-                "maliki"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih al-Bukhari, Nr. 3665",
-                    "text_de": "Abu Bakr sagte: ‚O Gesandter Allahs, eine Seite meines Gewandes rutscht immer herunter, wenn ich nicht darauf achte.' Der Prophet ﷺ sagte: ‚Du gehörst nicht zu denen, die es aus Arroganz tun.'",
-                    "hadith_grade": "sahih"
-                }
-            ],
-            "historical_context_de": "In der damaligen Zeit war lange Kleidung ein Zeichen von Reichtum und Hochmut."
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari, Nr. 5787",
+          "text_ar": "ما أسفل من الكعبين من الإزار ففي النار",
+          "text_de": "Was auch immer vom Untergewand (Izar) unter den Knöcheln ist, ist im Feuer.",
+          "hadith_grade": "sahih",
+          "explanation_de": ""
         }
-    ],
-    "related_questions": [
-        "salah-kleidung-kurz-mann",
-        "muamalat-niqab-pflicht"
-    ],
-    "sources": [
+      ],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Nur bei Arroganz verboten (Mehrheit)",
+      "label_ar": "محرم للخيلاء ومكروه لغيره",
+      "description_de": "Isbal ist nur dann eine Sünde, wenn er aus Stolz oder Arroganz (Khuyala') geschieht. Ohne Arroganz ist es verpönt (Makruh) oder erlaubt.",
+      "scholars": [
+        "abu-hanifa",
+        "abu-yusuf",
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-rushd",
+        "malik-ibn-anas",
+        "muhammad-shaybani"
+      ],
+      "madhabs": [
+        "hanafi",
+        "shafii",
+        "maliki"
+      ],
+      "evidence_chain": [
         {
-            "title": "Fath al-Bari",
-            "author": "Ibn Hajar al-Asqalani",
-            "url": "https://shamela.ws/book/1673"
-        },
-        {
-            "title": "Sharh Sahih Muslim",
-            "author": "Imam an-Nawawi",
-            "url": "https://shamela.ws/book/1711"
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari, Nr. 3665",
+          "text_de": "Abu Bakr sagte: ‚O Gesandter Allahs, eine Seite meines Gewandes rutscht immer herunter, wenn ich nicht darauf achte.' Der Prophet ﷺ sagte: ‚Du gehörst nicht zu denen, die es aus Arroganz tun.'",
+          "hadith_grade": "sahih",
+          "text_ar": "",
+          "explanation_de": ""
         }
-    ],
-    "evidence_chain": [],
-    "historical_context_de": ""
+      ],
+      "historical_context_de": "In der damaligen Zeit war lange Kleidung ein Zeichen von Reichtum und Hochmut."
+    }
+  ],
+  "related_questions": [
+    "salah-kleidung-kurz-mann",
+    "muamalat-niqab-pflicht"
+  ],
+  "sources": [
+    {
+      "title": "Fath al-Bari",
+      "author": "Ibn Hajar al-Asqalani",
+      "url": "https://shamela.ws/book/1673"
+    },
+    {
+      "title": "Sharh Sahih Muslim",
+      "author": "Imam an-Nawawi",
+      "url": "https://shamela.ws/book/1711"
+    }
+  ],
+  "evidence_chain": [],
+  "historical_context_de": ""
 }

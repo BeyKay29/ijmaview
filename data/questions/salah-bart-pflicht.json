@@ -22,8 +22,11 @@
       "description_de": "Das Wachsenlassen des Bartes ist eine Pflicht. Das vollständige Rasieren ist verboten (haram).",
       "scholars": [
         "ahmad-ibn-hanbal",
-        "malik-ibn-anas",
-        "ibn-taymiyya"
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas"
       ],
       "madhabs": [
         "hanbali",
@@ -48,8 +51,8 @@
       "label_ar": "اللحية سنة مؤكدة",
       "description_de": "Das Wachsenlassen des Bartes ist eine stark empfohlene Sunna (Sunna mu'akkada), aber keine Pflicht. Das Rasieren ist verpönt (makruh), aber keine Sünde.",
       "scholars": [
-        "al-shafii",
         "al-ghazali",
+        "al-shafii",
         "an-nawawi"
       ],
       "madhabs": [

@@ -21,7 +21,12 @@
       "description_de": "Wenn man einen wesentlichen Bestandteil (Wajib) des Gebets vergisst oder etwas hinzufügt, ist die Korrektur durch Sajdah as-Sahw verpflichtend.",
       "scholars": [
         "abu-hanifa",
-        "ahmad-ibn-hanbal"
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -34,7 +39,8 @@
           "text_ar": "فإذا نسي أحدكم فليسجد سجدتين",
           "text_de": "Wenn einer von euch (etwas im Gebet) vergisst, soll er zwei Niederwerfungen machen.",
           "hadith_grade": "sahih",
-          "graded_by": "Muslim ibn al-Hajjaj"
+          "graded_by": "Muslim ibn al-Hajjaj",
+          "explanation_de": ""
         }
       ],
       "historical_context_de": "Hanafiten machen die Sajdah immer nach dem ersten Salam. Hanbaliten unterscheiden: bei Hinzufügung nach dem Salam, bei Auslassung vor dem Salam."
@@ -45,7 +51,10 @@
       "label_ar": "سجود السهو سنة",
       "description_de": "Die Korrektur durch Sajdah as-Sahw ist eine Sunna, um das Gebet zu vervollständigen, aber kein Wajib.",
       "scholars": [
+        "al-ghazali",
         "al-shafii",
+        "an-nawawi",
+        "ibn-rushd",
         "malik-ibn-anas"
       ],
       "madhabs": [

@@ -21,9 +21,17 @@
       "description_de": "Wenn die Frau den Ehemann nicht mehr erträgt oder befürchtet, ihre religiösen Pflichten ihm gegenüber nicht mehr erfüllen zu können, darf sie Khul' verlangen.",
       "scholars": [
         "abu-hanifa",
-        "malik-ibn-anas",
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
-        "ahmad-ibn-hanbal"
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -43,7 +51,9 @@
           "type": "hadith",
           "reference": "Sahih al-Bukhari, Nr. 5273",
           "text_de": "Die Frau von Thabit ibn Qais kam zum Propheten ﷺ und sagte, sie habe keinen religiösen oder moralischen Tadel an ihm, könne ihn aber nicht mehr lieben. Der Prophet ﷺ fragte: ‚Gibst du ihm seinen Garten (den Mahr) zurück?' Sie sagte: ‚Ja.' Der Prophet ﷺ befahl ihm, sie zu entlassen.",
-          "hadith_grade": "sahih"
+          "hadith_grade": "sahih",
+          "text_ar": "",
+          "explanation_de": ""
         }
       ],
       "historical_context_de": ""
@@ -54,11 +64,12 @@
       "label_ar": "هل يشترط رضا الزوج في الخلع؟",
       "description_de": "Die Gelehrten streiten darüber, ob der Mann dem Khul' zustimmen muss oder ob ein Richter ihn dazu zwingen kann, wenn die Frau triftige Gründe hat.",
       "scholars": [
-        "Mehrheitsmeinung: Zustimmung nötig",
-        "Einige: Richterspruch reicht"
+        "Einige: Richterspruch reicht",
+        "Mehrheitsmeinung: Zustimmung nötig"
       ],
       "historical_context_de": "In modernen muslimischen Ländern (wie Ägypten) gibt es Gesetze, die den Khul' auch ohne Zustimmung des Mannes ermöglichen, basierend auf dem Hadith von Thabit ibn Qais.",
-      "evidence_chain": []
+      "evidence_chain": [],
+      "madhabs": []
     }
   ],
   "related_questions": [

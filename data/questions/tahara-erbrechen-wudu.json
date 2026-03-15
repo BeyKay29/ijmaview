@@ -21,9 +21,12 @@
       "description_de": "Erbrechen bricht den Wudu, wenn es in einer Menge geschieht, die den Mund füllt.",
       "scholars": [
         "abu-hanifa",
+        "abu-yusuf",
         "ahmad-ibn-hanbal",
-        "muhammad-shaybani",
-        "abu-yusuf"
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -48,9 +51,11 @@
       "label_ar": "القيء لا ينقض الوضوء",
       "description_de": "Erbrechen bricht den Wudu nicht, da es keinen zwingenden Beweis für den Bruch gibt. Die Tat des Propheten ﷺ wird als Empfehlung (Mustahabb) verstanden.",
       "scholars": [
-        "malik-ibn-anas",
+        "al-ghazali",
         "al-shafii",
-        "an-nawawi"
+        "an-nawawi",
+        "ibn-rushd",
+        "malik-ibn-anas"
       ],
       "madhabs": [
         "maliki",

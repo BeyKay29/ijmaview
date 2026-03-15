@@ -21,8 +21,13 @@
       "label_ar": "لعاب الكلب نجس – يُغسل سبعاً إحداهن بالتراب",
       "description_de": "Der Speichel des Hundes ist unrein (Najis). Ein Gefäß, aus dem ein Hund getrunken hat, muss sieben Mal gewaschen werden, davon einmal mit Erde.",
       "scholars": [
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
-        "ahmad-ibn-hanbal"
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya"
       ],
       "madhabs": [
         "shafii",
@@ -47,7 +52,9 @@
       "label_ar": "لعاب الكلب نجس – يُغسل ثلاثاً",
       "description_de": "Der Speichel des Hundes ist unrein, aber dreimaliges Waschen reicht aus. Die Zahl ‚sieben' im Hadith wird als Betonung der Gründlichkeit verstanden.",
       "scholars": [
-        "abu-hanifa"
+        "abu-hanifa",
+        "abu-yusuf",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi"
@@ -71,6 +78,7 @@
       "label_ar": "الكلب طاهر – والنهي عن اقتنائه فقط",
       "description_de": "Imam Malik betrachtet den Hund als grundsätzlich reines Tier. Das Waschen des Gefäßes im Hadith ist eine gottesdienstliche Anweisung (ta'abbudi), nicht wegen Unreinheit.",
       "scholars": [
+        "ibn-rushd",
         "malik-ibn-anas"
       ],
       "madhabs": [

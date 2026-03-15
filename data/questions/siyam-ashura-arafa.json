@@ -1,66 +1,73 @@
 {
-    "id": "siyam-ashura-arafa",
-    "slug": "fasten-an-ashura-und-tag-von-arafa-islam-urteil",
-    "category": "siyam",
-    "subcategory": "",
-    "question_de": "Welchen Stellenwert hat das Fasten an Ashura und am Tag von Arafa?",
-    "question_ar": "فضل صيام يوم عاشوراء ويوم عرفة",
-    "search_aliases": [
-        "Ashura fasten",
-        "Arafa fasten",
-        "Belohnung Ashura",
-        "Fasten 9. 10. Muharram",
-        "Arafat Tag Fasten"
-    ],
-    "context_de": "Neben dem obligatorischen Ramadan gibt es Tage im Jahr, an denen das Fasten besonders empfohlen ist.",
-    "positions": [
+  "id": "siyam-ashura-arafa",
+  "slug": "fasten-an-ashura-und-tag-von-arafa-islam-urteil",
+  "category": "siyam",
+  "subcategory": "",
+  "question_de": "Welchen Stellenwert hat das Fasten an Ashura und am Tag von Arafa?",
+  "question_ar": "فضل صيام يوم عاشوراء ويوم عرفة",
+  "search_aliases": [
+    "Ashura fasten",
+    "Arafa fasten",
+    "Belohnung Ashura",
+    "Fasten 9. 10. Muharram",
+    "Arafat Tag Fasten"
+  ],
+  "context_de": "Neben dem obligatorischen Ramadan gibt es Tage im Jahr, an denen das Fasten besonders empfohlen ist.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Tag von Arafa: Sühne für zwei Jahre",
+      "label_ar": "صيام يوم عرفة يكفر سنتين",
+      "description_de": "Das Fasten am 9. Dhul-Hijjah (Tag von Arafa) wird für diejenigen empfohlen, die nicht auf der Hajj sind.",
+      "scholars": [
+        "Alle Rechtsschulen"
+      ],
+      "evidence_chain": [
         {
-            "id": "pos-1",
-            "label_de": "Tag von Arafa: Sühne für zwei Jahre",
-            "label_ar": "صيام يوم عرفة يكفر سنتين",
-            "description_de": "Das Fasten am 9. Dhul-Hijjah (Tag von Arafa) wird für diejenigen empfohlen, die nicht auf der Hajj sind.",
-            "scholars": [
-                "Alle Rechtsschulen"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih Muslim",
-                    "text_de": "Das Fasten am Tag von Arafa sühnt die Sünden des vergangenen und des kommenden Jahres.",
-                    "hadith_grade": "sahih"
-                }
-            ]
-        },
-        {
-            "id": "pos-2",
-            "label_de": "Ashura: Sühne für ein Jahr",
-            "label_ar": "صيام يوم عاشوراء يكفر سنة",
-            "description_de": "Das Fasten am 10. Muharram (Ashura) ist Sunna. Es wird empfohlen, auch den 9. Muharram dazuzufasten, um sich von den Bräuchen anderer Religionen zu unterscheiden.",
-            "scholars": [
-                "Alle Rechtsschulen"
-            ],
-            "evidence_chain": [
-                {
-                    "type": "hadith",
-                    "reference": "Sahih Muslim",
-                    "text_de": "Das Fasten am Tag von Ashura sühnt die Sünden des vergangenen Jahres.",
-                    "hadith_grade": "sahih"
-                }
-            ],
-            "historical_context_de": "Der Prophet ﷺ stellte fest, dass die Juden diesen Tag feierten, weil Gott Moses und sein Volk rettete. Er sagte: ‚Wir haben mehr Recht auf Moses als sie', und befahl das Fasten."
+          "type": "hadith",
+          "reference": "Sahih Muslim",
+          "text_de": "Das Fasten am Tag von Arafa sühnt die Sünden des vergangenen und des kommenden Jahres.",
+          "hadith_grade": "sahih",
+          "text_ar": "",
+          "explanation_de": ""
         }
-    ],
-    "related_questions": [
-        "siyam-niyyah-fasten",
-        "hajj-umra-pflicht"
-    ],
-    "sources": [
+      ],
+      "madhabs": [],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Ashura: Sühne für ein Jahr",
+      "label_ar": "صيام يوم عاشوراء يكفر سنة",
+      "description_de": "Das Fasten am 10. Muharram (Ashura) ist Sunna. Es wird empfohlen, auch den 9. Muharram dazuzufasten, um sich von den Bräuchen anderer Religionen zu unterscheiden.",
+      "scholars": [
+        "Alle Rechtsschulen"
+      ],
+      "evidence_chain": [
         {
-            "title": "Sahih Muslim",
-            "author": "Imam Muslim",
-            "url": "https://shamela.ws/book/1727"
+          "type": "hadith",
+          "reference": "Sahih Muslim",
+          "text_de": "Das Fasten am Tag von Ashura sühnt die Sünden des vergangenen Jahres.",
+          "hadith_grade": "sahih",
+          "text_ar": "",
+          "explanation_de": ""
         }
-    ],
-    "evidence_chain": [],
-    "historical_context_de": ""
+      ],
+      "historical_context_de": "Der Prophet ﷺ stellte fest, dass die Juden diesen Tag feierten, weil Gott Moses und sein Volk rettete. Er sagte: ‚Wir haben mehr Recht auf Moses als sie', und befahl das Fasten.",
+      "madhabs": []
+    }
+  ],
+  "related_questions": [
+    "siyam-niyyah-fasten",
+    "hajj-umra-pflicht"
+  ],
+  "sources": [
+    {
+      "title": "Sahih Muslim",
+      "author": "Imam Muslim",
+      "url": "https://shamela.ws/book/1727"
+    }
+  ],
+  "evidence_chain": [],
+  "historical_context_de": ""
 }

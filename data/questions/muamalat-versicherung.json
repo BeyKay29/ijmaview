@@ -1,0 +1,71 @@
+{
+  "id": "muamalat-versicherung",
+  "slug": "versicherungen-islam-halal-haram-takaful",
+  "category": "muamalat",
+  "subcategory": "Finanzen",
+  "question_de": "Sind Versicherungen im Islam erlaubt?",
+  "question_ar": "حكم التأمين التجاري والتكافلي",
+  "search_aliases": [
+    "Versicherung haram",
+    "Lebensversicherung Islam",
+    "Takaful"
+  ],
+  "context_de": "Konventionelle Versicherungen enthalten oft Elemente von Gharar (Unsicherheit) und Riba (Zins).",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Konventionell verboten / Takaful erlaubt",
+      "label_ar": "التأمين التجاري محرم والتكافلي جائز",
+      "description_de": "Kommerzielle Versicherungen sind wegen Gharar (Wetten auf Unglück) verboten. Erlaubt ist das genossenschaftliche Takaful-Modell.",
+      "scholars": [
+        "IFA",
+        "Ibn-Abidin",
+        "Taqi Usmani",
+        "abu-yusuf",
+        "al-ghazali",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya",
+        "muhammad-shaybani"
+      ],
+      "madhabs": [
+        "hanafi",
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
+        {
+          "type": "hadith",
+          "reference": "Sahih Muslim",
+          "text_de": "Der Prophet ﷺ verbot den Handel mit Gharar (Unsicherheit).",
+          "hadith_grade": "sahih",
+          "text_ar": "",
+          "explanation_de": ""
+        }
+      ],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Erlaubt bei Notwendigkeit (Dharura)",
+      "label_ar": "جائز للحاجة",
+      "description_de": "Pflichtversicherungen (KFZ, Krankenversicherung) sind erlaubt, da der Einzelne keine Wahl hat und sie zum Schutz des Lebens/Eigentums notwendig sind.",
+      "scholars": [
+        "Modernist Gelehrte",
+        "Mustafa al-Zarqa"
+      ],
+      "historical_context_de": "Mustafa al-Zarqa war einer der ersten, die das Versicherungswesen als modernes notwendiges System verteidigten.",
+      "madhabs": [],
+      "evidence_chain": []
+    }
+  ],
+  "sources": [
+    {
+      "title": "Al-Nizam al-Ta'mini",
+      "author": "Mustafa al-Zarqa",
+      "url": "#"
+    }
+  ],
+  "related_questions": []
+}

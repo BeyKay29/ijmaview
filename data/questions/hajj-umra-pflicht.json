@@ -21,8 +21,13 @@
       "label_ar": "العمرة واجبة",
       "description_de": "Die Umra ist wie die Hajj eine Pflicht für jeden Muslim, der dazu in der Lage ist.",
       "scholars": [
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
-        "ahmad-ibn-hanbal"
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya"
       ],
       "madhabs": [
         "shafii",
@@ -55,7 +60,10 @@
       "description_de": "Die Umra ist eine stark empfohlene Sunna, aber keine Pflicht.",
       "scholars": [
         "abu-hanifa",
-        "malik-ibn-anas"
+        "abu-yusuf",
+        "ibn-rushd",
+        "malik-ibn-anas",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",

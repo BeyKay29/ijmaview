@@ -20,7 +20,9 @@
       "label_ar": "لا يحل من حيوان البحر إلا السمك",
       "description_de": "Aus dem Meer darf nur das gegessen werden, was als 'Samak' (Fisch) definiert ist. Meeresfrüchte (Garnelen, Krebse, Muscheln, Tintenfische) sind verboten oder verpönt.",
       "scholars": [
-        "abu-hanifa"
+        "abu-hanifa",
+        "abu-yusuf",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi"
@@ -35,9 +37,15 @@
       "label_ar": "كل ما في البحر حلال",
       "description_de": "Alles, was im Meer lebt, ist grundsätzlich Halal, egal ob Fisch, Krustentier oder Weichtier.",
       "scholars": [
-        "malik-ibn-anas",
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
-        "ahmad-ibn-hanbal"
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas"
       ],
       "madhabs": [
         "maliki",
@@ -58,7 +66,8 @@
           "text_ar": "هو الطهور ماؤه، الحل ميتته",
           "text_de": "Sein (des Meeres) Wasser ist reinigend und seine verendeten Tiere sind Halal.",
           "hadith_grade": "sahih",
-          "graded_by": "At-Tirmidhi"
+          "graded_by": "At-Tirmidhi",
+          "explanation_de": ""
         }
       ],
       "historical_context_de": "Diese Meinungsverschiedenheit führt dazu, dass in hanafitisch geprägten Regionen (wie der Türkei oder Pakistan) Garnelen oft vermieden werden, während sie in arabischen Ländern (oft malikitisch/schafiitisch) Grundnahrungsmittel sind."

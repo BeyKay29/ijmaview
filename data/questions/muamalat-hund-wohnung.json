@@ -29,17 +29,20 @@
           "text_ar": "من اقتنى كلباً إلا كلب صيد أو ماشية نقص من أجره كل يوم قيراطان",
           "text_de": "Wer einen Hund hält, außer einem Jagdhund oder einem zum Hüten von Vieh, dem werden täglich zwei Qirat von seinem Lohn (für gute Taten) abgezogen.",
           "hadith_grade": "sahih",
-          "graded_by": "Al-Bukhari / Muslim"
+          "graded_by": "Al-Bukhari / Muslim",
+          "explanation_de": ""
         },
         {
           "type": "hadith",
           "reference": "Sahih Muslim",
           "text_ar": "لا تدخل الملائكة بيتاً فيه كلب ولا صورة",
           "text_de": "Die Engel betreten kein Haus, in dem ein Hund oder ein Bild (eines Lebewesens) ist.",
-          "hadith_grade": "sahih"
+          "hadith_grade": "sahih",
+          "explanation_de": ""
         }
       ],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     },
     {
       "id": "pos-2",
@@ -51,7 +54,8 @@
       ],
       "explanation_de": "Sie argumentieren, dass das Abziehen des Lohns kein absolutes Verbot (Haram) beweist, sondern lediglich die Unangemessenheit darstellt.",
       "evidence_chain": [],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     }
   ],
   "related_questions": [

@@ -20,7 +20,9 @@
       "label_ar": "الدم السائل ينقض الوضوء",
       "description_de": "Wenn Blut aus einer Wunde fließt und über die Austrittsstelle hinausgeht, ist der Wudu gebrochen.",
       "scholars": [
-        "abu-hanifa"
+        "abu-hanifa",
+        "abu-yusuf",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi"
@@ -44,8 +46,11 @@
       "label_ar": "خروج الدم لا ينقض الوضوء",
       "description_de": "Austretendes Blut – unabhängig von der Menge – bricht den Wudu nicht, da es keinen authentischen Beweis dafür gibt.",
       "scholars": [
-        "malik-ibn-anas",
-        "al-shafii"
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-rushd",
+        "malik-ibn-anas"
       ],
       "madhabs": [
         "maliki",

@@ -1,0 +1,70 @@
+{
+  "id": "muamalat-augenbrauen-zupfen",
+  "slug": "augenbrauen-zupfen-nams-islam-haram",
+  "category": "muamalat",
+  "subcategory": "Schönheit",
+  "question_de": "Ist das Zupfen der Augenbrauen (Nams) erlaubt?",
+  "question_ar": "حكم النمص (ترقيق الحواجب) في الإسلام",
+  "search_aliases": [
+    "Nams haram",
+    "Augenbrauen zupfen",
+    "Augenbrauen formen"
+  ],
+  "context_de": "Das Verschönern des Gesichts durch Zupfen der Brauen wird in Hadithen thematisiert.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Verboten (Große Sünde)",
+      "label_ar": "حرام ومن الكبائر",
+      "description_de": "Das Zupfen der Augenbrauen, um sie dünner zu machen, ist verboten. Davon ausgenommen ist das Entfernen von Haaren zwischen den Brauen oder bei Deformationen.",
+      "scholars": [
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya",
+        "shafii"
+      ],
+      "madhabs": [
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
+        {
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari, Sahih Muslim",
+          "text_de": "Allah verflucht die Namsah (Zupfende) und die Mutanammisah (Sich-Zupfende)...",
+          "hadith_grade": "sahih",
+          "text_ar": "",
+          "explanation_de": ""
+        }
+      ],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Erlaubt für verheiratete Frauen (mit Erlaubnis)",
+      "label_ar": "جائز للمتزوجة بإذن زوجها",
+      "description_de": "Einige Gelehrte erlauben es einer Ehefrau, sich für ihren Ehemann zu verschönern, solange es keine fremden Männer sehen.",
+      "scholars": [
+        "Einige hanafitische Gelehrte",
+        "abu-yusuf",
+        "muhammad-shaybani"
+      ],
+      "madhabs": [
+        "hanafi"
+      ],
+      "historical_context_de": "Die Interpretation des Wortes 'Nams' variiert; manche schränken es auf das vollständige Entfernen ein.",
+      "evidence_chain": []
+    }
+  ],
+  "sources": [
+    {
+      "title": "Al-Bahr al-Ra'iq",
+      "author": "Ibn Nujaym",
+      "url": "#"
+    }
+  ],
+  "related_questions": []
+}

@@ -29,10 +29,12 @@
           "text_ar": "لا تبع ما ليس عندك",
           "text_de": "Verkaufe nicht, was du nicht bei dir hast.",
           "hadith_grade": "sahih",
-          "graded_by": "At-Tirmidhi"
+          "graded_by": "At-Tirmidhi",
+          "explanation_de": ""
         }
       ],
-      "historical_context_de": "Dieses Verbot dient dazu, Betrug und Streitigkeiten zu vermeiden, falls die Ware nicht geliefert werden kann."
+      "historical_context_de": "Dieses Verbot dient dazu, Betrug und Streitigkeiten zu vermeiden, falls die Ware nicht geliefert werden kann.",
+      "madhabs": []
     },
     {
       "id": "pos-2",
@@ -44,7 +46,8 @@
       ],
       "explanation_de": "Wenn der Händler klar kommuniziert, dass er als Agent des Herstellers agiert (Wala), oder wenn die Ware so genau spezifiziert ist, dass kein Risiko besteht, sehen moderne Gelehrte darin eine gültige Handelsform, die dem Geist des Salam-Vertrags entspricht.",
       "evidence_chain": [],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     }
   ],
   "related_questions": [

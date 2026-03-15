@@ -20,9 +20,13 @@
       "label_ar": "جائز لمن يملك نفسه",
       "description_de": "Küssen und Zärtlichkeiten sind erlaubt, solange sie nicht zum Samenerguss oder zum Geschlechtsverkehr führen.",
       "scholars": [
-        "al-shafii",
         "ahmad-ibn-hanbal",
-        "an-nawawi"
+        "al-ghazali",
+        "al-shafii",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya"
       ],
       "madhabs": [
         "shafii",
@@ -35,7 +39,8 @@
           "text_ar": "كان النبي ﷺ يقبل وهو صائم... وكان أملككم لإربه",
           "text_de": "Der Prophet ﷺ pflegte (seine Frauen) zu küssen, während er fastete... und er war derjenige von euch, der seine Triebe am besten beherrschte.",
           "hadith_grade": "sahih",
-          "graded_by": "Al-Bukhari / Muslim"
+          "graded_by": "Al-Bukhari / Muslim",
+          "explanation_de": ""
         }
       ],
       "historical_context_de": ""
@@ -47,7 +52,10 @@
       "description_de": "Es ist verpönt für junge Menschen, bei denen die Gefahr des Kontrollverlusts hoch ist. Für ältere Menschen ist es eher erlaubt.",
       "scholars": [
         "abu-hanifa",
-        "malik-ibn-anas"
+        "abu-yusuf",
+        "ibn-rushd",
+        "malik-ibn-anas",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",

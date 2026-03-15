@@ -21,9 +21,17 @@
       "description_de": "Bis zum Vollzug des Ehevertrags (Nikah) gelten Verlobte als Fremde. Körperkontakt, Händchenhalten und das Alleinsein in einem Raum (Khalwa) sind verboten.",
       "scholars": [
         "abu-hanifa",
-        "malik-ibn-anas",
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
         "al-shafii",
-        "ahmad-ibn-hanbal"
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas",
+        "muhammad-shaybani"
       ],
       "madhabs": [
         "hanafi",
@@ -38,7 +46,8 @@
           "text_ar": "لا يخلون رجل بامرأة إلا مع ذي محرم",
           "text_de": "Kein Mann darf mit einer Frau allein sein, außer in Gegenwart eines Mahrams (naher Verwandter).",
           "hadith_grade": "sahih",
-          "graded_by": "Al-Bukhari / Muslim"
+          "graded_by": "Al-Bukhari / Muslim",
+          "explanation_de": ""
         }
       ],
       "historical_context_de": "Die Verlobung dient dem Kennenlernen unter Aufsicht, um die Eignung festzustellen."
@@ -58,10 +67,12 @@
           "text_ar": "انظر إليها، فإنه أحرى أن يؤدم بينكما",
           "text_de": "Schau sie an, denn das ist eher dazu geeignet, Harmonie zwischen euch zu stiften.",
           "hadith_grade": "sahih",
-          "graded_by": "At-Tirmidhi"
+          "graded_by": "At-Tirmidhi",
+          "explanation_de": ""
         }
       ],
-      "historical_context_de": ""
+      "historical_context_de": "",
+      "madhabs": []
     }
   ],
   "related_questions": [

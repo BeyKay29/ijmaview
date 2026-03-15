@@ -21,8 +21,9 @@
       "description_de": "Das Tragen von Gegenständen (wie dem blauen Auge), in der Überzeugung, dass der Gegenstand selbst schützt, ist kleiner Schirk (Shirk Asghar).",
       "scholars": [
         "ahmad-ibn-hanbal",
-        "ibn-taymiyya",
-        "ibn-qayyim"
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya"
       ],
       "madhabs": [
         "hanbali"
@@ -34,7 +35,8 @@
           "text_ar": "إن الرقى والتمائم والتولة شرك",
           "text_de": "Wahrlich, Zaubersprüche, Amulette und Liebeszauber sind Schirk.",
           "hadith_grade": "sahih",
-          "graded_by": "Al-Albani"
+          "graded_by": "Al-Albani",
+          "explanation_de": ""
         }
       ],
       "historical_context_de": ""
@@ -45,8 +47,11 @@
       "label_ar": "جواز التمائم من القرآن",
       "description_de": "Wenn das Amulett ausschließlich Koranverse oder Gottesnamen enthält, betrachten es einige Gelehrte als erlaubt, analog zum Lesen des Korans über einen Kranken.",
       "scholars": [
-        "malik-ibn-anas",
-        "einige Schafiiten"
+        "al-ghazali",
+        "an-nawawi",
+        "einige Schafiiten",
+        "ibn-rushd",
+        "malik-ibn-anas"
       ],
       "madhabs": [
         "maliki",

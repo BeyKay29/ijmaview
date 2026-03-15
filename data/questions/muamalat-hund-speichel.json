@@ -1,0 +1,77 @@
+{
+  "id": "muamalat-hund-speichel",
+  "slug": "hundespeichel-najasa-unrein-reinigung",
+  "category": "tahara",
+  "subcategory": "Reinheit",
+  "question_de": "Ist der Speichel eines Hundes unrein (Najis)?",
+  "question_ar": "حكم لعاب الكلب وكيفية تطهيره",
+  "search_aliases": [
+    "Hund unrein",
+    "Najis Hund",
+    "Hundespeichel Kleidung"
+  ],
+  "context_de": "Die Reinheit des Hundes ist ein klassisches Fiqh-Thema mit unterschiedlichen Reinigungsregeln.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Schwer unrein (Sieben Mal waschen)",
+      "label_ar": "نجاسة مغلظة",
+      "description_de": "Der Speichel und der Hund selbst sind unrein. Ein Gefäß, aus dem ein Hund getrunken hat, muss sieben Mal gewaschen werden, einmal davon mit Erde.",
+      "scholars": [
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-taymiyya",
+        "shafii"
+      ],
+      "madhabs": [
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
+        {
+          "type": "hadith",
+          "reference": "Sahih Muslim",
+          "text_de": "Wenn ein Hund aus dem Gefäß eines von euch trinkt, dann wascht es sieben Mal...",
+          "hadith_grade": "sahih",
+          "text_ar": "",
+          "explanation_de": ""
+        }
+      ],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Rein (außer der Speichel beim Trinken)",
+      "label_ar": "طهارة عين الكلب",
+      "description_de": "Der Hund selbst ist rein, nur der Speichel im Gefäß erfordert die spezielle Reinigung als Akt der Anbetung (Ta'abbudi).",
+      "scholars": [
+        "ibn-rushd",
+        "malik-ibn-anas"
+      ],
+      "madhabs": [
+        "maliki"
+      ],
+      "evidence_chain": [
+        {
+          "type": "quran",
+          "reference": "Sure 5:4",
+          "text_de": "...und was die Jagdtiere für euch fangen...",
+          "explanation_de": "Gelehrte wie Malik argumentieren, dass Gejagtes rein ist, obwohl der Hund es mit dem Maul berührt.",
+          "text_ar": ""
+        }
+      ],
+      "historical_context_de": ""
+    }
+  ],
+  "sources": [
+    {
+      "title": "Al-Majmu",
+      "author": "Imam an-Nawawi",
+      "url": "#"
+    }
+  ],
+  "related_questions": []
+}

@@ -1,0 +1,78 @@
+{
+  "id": "muamalat-haare-extensions",
+  "slug": "haarverlaengerung-extensions-islam-erlaubt-verboten",
+  "category": "muamalat",
+  "subcategory": "Schönheit",
+  "question_de": "Sind Haarverlängerungen (Extensions) erlaubt?",
+  "question_ar": "حكم وصل الشعر في الإسلام",
+  "search_aliases": [
+    "Extensions haram",
+    "Haare verknüpfen",
+    "Haarverlängerung Verbot"
+  ],
+  "context_de": "Extensions sind eine Methode der Verschönerung, die schon zur Zeit des Propheten ﷺ existierte.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Verboten (Täuschung)",
+      "label_ar": "حرام للوصل",
+      "description_de": "Das Verknüpfen von fremdem menschlichem Haar mit dem eigenen ist streng verboten und wird verflucht.",
+      "scholars": [
+        "abu-hanifa",
+        "abu-yusuf",
+        "ahmad-ibn-hanbal",
+        "al-ghazali",
+        "an-nawawi",
+        "ibn-qayyim",
+        "ibn-qudama",
+        "ibn-rushd",
+        "ibn-taymiyya",
+        "malik-ibn-anas",
+        "muhammad-shaybani",
+        "shafii"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki",
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
+        {
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari, Sahih Muslim",
+          "text_de": "Allah verflucht die Al-Wasilah (diejenige, die Haar verknüpft) und die Al-Mustawsilah (die es verknüpfen lässt).",
+          "hadith_grade": "sahih",
+          "text_ar": "",
+          "explanation_de": ""
+        }
+      ],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Erlaubt bei synthetischem Haar (nicht menschlich)",
+      "label_ar": "جائز إذا كان من غير الآدمي",
+      "description_de": "Einige hanafitische Gelehrte erlauben Extensions aus Wolle, Seide oder Kunsthaar, solange es kein echtes Menschenhaar ist.",
+      "scholars": [
+        "Einige hanafitische Gelehrte",
+        "abu-yusuf",
+        "ibn-rushd",
+        "muhammad-shaybani"
+      ],
+      "madhabs": [
+        "hanafi"
+      ],
+      "historical_context_de": "Das Verbot bezieht sich primär auf menschliches Haar wegen dessen Heiligkeit (Karamah) und der damit verbundenen Täuschung.",
+      "evidence_chain": []
+    }
+  ],
+  "sources": [
+    {
+      "title": "Fath al-Bari",
+      "author": "Ibn Hajar",
+      "url": "#"
+    }
+  ],
+  "related_questions": []
+}
