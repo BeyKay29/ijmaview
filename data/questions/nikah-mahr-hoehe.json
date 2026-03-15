@@ -1,0 +1,92 @@
+{
+    "id": "nikah-mahr-hoehe",
+    "slug": "mahr-hoehe-mindestbetrag",
+    "category": "nikah",
+    "subcategory": "",
+    "question_de": "Gibt es einen Mindestbetrag für die Brautgabe (Mahr)?",
+    "question_ar": "هل هناك حد أدنى للمهر؟",
+    "search_aliases": [
+        "Mahr Mindestbetrag",
+        "Brautgabe Höhe",
+        "Mahr Islam",
+        "Brautgeschenk Betrag",
+        "Mahr minimum",
+        "Mahar Hochzeit"
+    ],
+    "context_de": "Die Brautgabe (Mahr) ist ein Recht der Frau im Islam. Ob es einen Mindestbetrag gibt, beeinflusst die Eheschließungspraxis direkter als viele andere Fiqh-Fragen.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Es gibt einen Mindestbetrag (10 Dirham)",
+            "label_ar": "هناك حد أدنى للمهر (عشرة دراهم)",
+            "description_de": "Die Brautgabe darf nicht weniger als 10 Dirham (Silber) betragen.",
+            "scholars": [
+                "abu-hanifa"
+            ],
+            "madhabs": [
+                "hanafi"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sunan ad-Daraqutni; Al-Baihaqi",
+                    "text_ar": "لا مهر أقل من عشرة دراهم",
+                    "text_de": "Es gibt keine Brautgabe, die weniger als zehn Dirham beträgt.",
+                    "hadith_grade": "daif",
+                    "graded_by": "Ad-Daraqutni / Al-Baihaqi",
+                    "explanation_de": "Die Hanafiten verwenden diesen Hadith als Beweis. Obwohl er in der Überlieferungskette als schwach eingestuft wird, stützen sie ihre Position zusätzlich durch Analogie (Qiyas) zur Mindestgrenze beim Diebstahl (Nisab as-Sariqa), die ebenfalls bei 10 Dirham liegt."
+                }
+            ],
+            "historical_context_de": "Abu Hanifas schüler Muhammad ibn al-Hasan erklärte die Analogie: So wie es einen Mindestbetrag gibt, ab dem die Diebstahlsstrafe gilt, gibt es auch einen Mindestbetrag für die Brautgabe. Dies soll die Würde der Ehe schützen."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Kein Mindestbetrag – jeder Wertgegenstand reicht",
+            "label_ar": "لا حد أدنى – يصح بأي شيء له قيمة",
+            "description_de": "Es gibt keinen festgelegten Mindestbetrag. Jeder Gegenstand oder Betrag mit einem erkennbaren Wert kann als Mahr dienen.",
+            "scholars": [
+                "malik-ibn-anas",
+                "al-shafii",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "maliki",
+                "shafii",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari, Nr. 5135; Sahih Muslim, Nr. 1425",
+                    "text_ar": "التمس ولو خاتماً من حديد",
+                    "text_de": "Der Prophet ﷺ sagte zu einem Mann: 'Suche (als Mahr), selbst wenn es nur ein Ring aus Eisen ist.'",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Bukhari / Muslim",
+                    "explanation_de": "Dieser authentische Hadith zeigt, dass der Prophet ﷺ auch einen geringwertigen Gegenstand als Mahr akzeptierte. Die Mehrheit der Gelehrten schließt daraus, dass es keinen festen Mindestbetrag gibt."
+                }
+            ],
+            "historical_context_de": "Die Position der Mehrheit basiert auf dem Prinzip der Erleichterung bei der Eheschließung. Der Prophet ﷺ forderte wiederholt zu niedrigen Brautgaben auf und warnte vor übertriebenen Forderungen, die die Ehe erschweren."
+        }
+    ],
+    "related_questions": [
+        "nikah-wali-pflicht",
+        "muamalat-riba-bankzins"
+    ],
+    "sources": [
+        {
+            "title": "Bidayat al-Mujtahid",
+            "author": "Ibn Rushd",
+            "url": "https://shamela.ws/book/22375"
+        },
+        {
+            "title": "Al-Hidaya",
+            "author": "Al-Marghinani",
+            "url": "https://shamela.ws/book/913"
+        },
+        {
+            "title": "Al-Mughni",
+            "author": "Ibn Qudama",
+            "url": "https://shamela.ws/book/6946"
+        }
+    ]
+}

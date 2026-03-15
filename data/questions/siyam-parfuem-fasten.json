@@ -1,0 +1,70 @@
+{
+    "id": "siyam-parfuem-fasten",
+    "slug": "parfuem-nutzen-riechen-fasten-brechen-urteil",
+    "category": "siyam",
+    "subcategory": "",
+    "question_de": "Darf man während des Fastens Parfüm benutzen oder Weihrauch (Bukhoor) riechen?",
+    "question_ar": "حكم العطر والبخور للصائم",
+    "search_aliases": [
+        "Parfüm Fasten",
+        "Riechen Fasten",
+        "Weihrauch Ramadan",
+        "Bukhoor Fasten",
+        "Duft Fasten"
+    ],
+    "context_de": "Düfte spielen im islamischen Alltag eine große Rolle. Beim Fasten stellt sich die Frage, ob das Einatmen von Duftstoffen das Fasten beeinträchtigt.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Parfüm (flüssig) ist erlaubt",
+            "label_ar": "العطر السائل جائز",
+            "description_de": "Das bloße Auftragen von flüssigem Parfüm auf die Haut oder Kleidung bricht das Fasten nicht.",
+            "scholars": [
+                "abu-hanifa",
+                "al-shafii",
+                "malik-ibn-anas",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "hanafi",
+                "shafii",
+                "maliki",
+                "hanbali"
+            ],
+            "explanation_de": "Düfte sind keine Nahrung und gelangen nicht als Partikel in den Magen."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Weihrauch (Rauch) absichtlich einatmen verboten/verpönt",
+            "label_ar": "البخور يفطر إذا استنشق",
+            "description_de": "Da Weihrauch (Bukhoor) aus physischen Rauchpartikeln besteht, bricht das absichtliche, tiefe Inhalieren des Rauchs das Fasten.",
+            "scholars": [
+                "abu-hanifa",
+                "malik-ibn-anas",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "hanafi",
+                "maliki",
+                "hanbali"
+            ],
+            "explanation_de": "Rauchpartikel haben eine Substanz (Jirm). Wenn diese absichtlich durch die Nase in den Magen/Rachen gezogen werden, gilt dies als Zufuhr von Materie."
+        }
+    ],
+    "related_questions": [
+        "tahara-alkohol-parfuem",
+        "siyam-zahnpasta-fasten"
+    ],
+    "sources": [
+        {
+            "title": "Bidayat al-Mujtahid",
+            "author": "Ibn Rushd",
+            "url": "https://shamela.ws/book/22375"
+        },
+        {
+            "title": "Al-Hidaya",
+            "author": "Al-Marghinani",
+            "url": "https://shamela.ws/book/913"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "nikah-verhuetung",
+    "slug": "verhuetungsmittel-pille-spirale-islam-urteil",
+    "category": "nikah",
+    "subcategory": "",
+    "question_de": "Dürfen Muslime Verhütungsmittel verwenden?",
+    "question_ar": "حكم تنظيم النسل ووسائل منع الحمل",
+    "search_aliases": [
+        "Verhütung Islam",
+        "Pille Halal",
+        "Kondom Islam",
+        "Spiralen Verhütung",
+        "Familienplanung Islam"
+    ],
+    "context_de": "Familienplanung ist ein wichtiges Thema für Ehepaare. Der Islam sieht Kinder als Segen, erlaubt aber unter bestimmten Bedingungen die Geburtenkontrolle.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Erlaubt bei gegenseitigem Einverständnis (Sunna/Mustahabb)",
+            "label_ar": "جائز بالتراضي بين الزوجين",
+            "description_de": "Verhütung ist erlaubt, um die Gesundheit der Mutter zu schützen, die Erziehung der vorhandenen Kinder zu sichern oder aus wirtschaftlichen Erwägungen.",
+            "scholars": [
+                "abu-hanifa",
+                "al-shafii",
+                "malik-ibn-anas",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "hanafi",
+                "shafii",
+                "maliki",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari; Sahih Muslim",
+                    "text_de": "Die Gefährten praktizierten ‚Azl' (Coitus interruptus) zur Zeit des Propheten ﷺ, während der Koran herabgesandt wurde (und es wurde nicht verboten).",
+                    "explanation_de": "Da der Prophet ﷺ von der Praxis wusste und der Koran sie nicht verbot, gilt sie als grundsätzlich erlaubt. Moderne Mittel (Pille, Kondom) werden analog zum Azl behandelt."
+                }
+            ]
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Sterilisation ist verboten (Haram)",
+            "label_ar": "تحريم التعقيم النهائي",
+            "description_de": "Permanente Eingriffe, die die Fortpflanzungsfähigkeit dauerhaft vernichten (Vasektomie, Tubenligation), sind verboten, außer bei lebensbedrohlichen medizinischen Gründen.",
+            "scholars": [
+                "Mehrheitsmeinung"
+            ],
+            "historical_context_de": "Dies gilt als Verändern der Schöpfung und als unnötiger Eingriff in die göttliche Gabe der Fruchtbarkeit."
+        }
+    ],
+    "related_questions": [
+        "muamalat-abtreibung-urteil",
+        "nikah-kuenstliche-befruchtung"
+    ],
+    "sources": [
+        {
+            "title": "Bidayat al-Mujtahid",
+            "author": "Ibn Rushd",
+            "url": "https://shamela.ws/book/22375"
+        },
+        {
+            "title": "Resolutionen der Fiqh-Akademie",
+            "author": "MWL",
+            "url": "https://themwl.org"
+        }
+    ]
+}

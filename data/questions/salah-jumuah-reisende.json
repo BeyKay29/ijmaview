@@ -1,0 +1,65 @@
+{
+    "id": "salah-jumuah-reisende",
+    "slug": "freitagsgebet-jumuah-reisende-pflicht",
+    "category": "salah",
+    "subcategory": "arten",
+    "question_de": "Müssen Reisende das Freitagsgebet (Jumu'ah) verrichten?",
+    "question_ar": "هل تجب الجمعة على المسافر؟",
+    "search_aliases": [
+        "Freitagsgebet Reisende",
+        "Jumuah Reise",
+        "Freitagsgebet im Urlaub",
+        "Muss man Freitag in Moschee Reise",
+        "Freitagsgebet Pflicht Reise"
+    ],
+    "context_de": "Auf Reisen (Safar) gewährt der Islam viele Erleichterungen. Ob dazu auch die Entbindung von der Pflicht des Freitagsgebets gehört, wird hier geklärt.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Jumu'ah ist für Reisende keine Pflicht (Ijma)",
+            "label_ar": "لا تجب الجمعة على المسافر بالإجماع",
+            "description_de": "Reisende sind nicht verpflichtet, das Freitagsgebet in der Moschee zu verrichten. Sie beten stattdessen das Dhuhr-Gebet (verkürzt auf 2 Raka'at).",
+            "scholars": [
+                "abu-hanifa",
+                "malik-ibn-anas",
+                "al-shafii",
+                "ahmad-ibn-hanbal",
+                "an-nawawi"
+            ],
+            "madhabs": [
+                "hanafi",
+                "maliki",
+                "shafii",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sunan ad-Daraqutni; Al-Baihaqi",
+                    "text_ar": "من كان يؤمن بالله واليوم الآخر فعليه الجمعة، إلا مريض أو مسافر أو امرأة أو صبي أو مملوك",
+                    "text_de": "Wer an Allah und den Jüngsten Tag glaubt, dem ist das Freitagsgebet Pflicht, außer dem Kranken, dem Reisenden, der Frau, dem Kind oder dem Sklaven.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Albani / Ad-Daraqutni",
+                    "explanation_de": "Dieser Hadith ist der Basisbeleg für die Ausnahmen von der Jumu'ah-Pflicht. Der Reisende hat oft Schwierigkeiten, eine Moschee oder die Zeit einzuhalten."
+                }
+            ],
+            "historical_context_de": "Obwohl es keine Pflicht ist, darf ein Reisender am Jumu'ah-Gebet teilnehmen, wenn er möchte. In diesem Fall zählt es als sein Dhuhr-Gebet und er muss kein Dhuhr mehr beten."
+        }
+    ],
+    "related_questions": [
+        "salah-zusammenlegen-gebete",
+        "hajj-umra-pflicht"
+    ],
+    "sources": [
+        {
+            "title": "Al-Majmu'",
+            "author": "Imam an-Nawawi",
+            "url": "https://shamela.ws/book/384"
+        },
+        {
+            "title": "Bidayat al-Mujtahid",
+            "author": "Ibn Rushd",
+            "url": "https://shamela.ws/book/22375"
+        }
+    ]
+}

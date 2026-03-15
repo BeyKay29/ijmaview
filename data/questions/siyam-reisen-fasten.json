@@ -1,0 +1,83 @@
+{
+    "id": "siyam-reisen-fasten",
+    "slug": "fasten-auf-reisen-pflicht-oder-erlaubnis",
+    "category": "siyam",
+    "subcategory": "",
+    "question_de": "Muss man auf Reisen fasten oder darf man das Fasten brechen?",
+    "question_ar": "حكم الصيام في السفر",
+    "search_aliases": [
+        "Fasten Reise",
+        "Ramadan Reise",
+        "Fasten brechen Reise",
+        "Reisender Fasten",
+        "Siyam Safar"
+    ],
+    "context_de": "Reisende haben im Ramadan das Recht, ihr Fasten zu unterbrechen. Die Frage ist, was vorzuziehen ist: Fasten oder Brechen?",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Fasten ist besser, wenn es keine Härte darstellt",
+            "label_ar": "الصوم أفضل لمن قوي عليه",
+            "description_de": "Wenn die Reise nicht beschwerlich ist (wie in modernen Verkehrsmitteln), ist es besser zu fasten, um die Zeit des Ramadan zu ehren.",
+            "scholars": [
+                "abu-hanifa",
+                "al-shafii",
+                "malik-ibn-anas"
+            ],
+            "madhabs": [
+                "hanafi",
+                "shafii",
+                "maliki"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "quran",
+                    "reference": "Sure 2:184 (Al-Baqara)",
+                    "text_ar": "وَأَن تَصُومُوا خَيْرٌ لَّكُمْ ۖ إِن كُنتُمْ تَعْلَمُونَ",
+                    "text_de": "Und dass ihr fastet, ist besser für euch, wenn ihr es nur wüsstet.",
+                    "explanation_de": "Die Mehrheit sieht darin einen Hinweis, dass das Fasten trotz Erlaubnis zum Brechen den Vorzug hat."
+                }
+            ]
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Das Brechen des Fastens ist besser (Rukhsa nutzen)",
+            "label_ar": "الفطر أفضل - الأخذ بالرخصة",
+            "description_de": "Man sollte die Erleichterung (Rukhsa) Allahs annehmen. Das Brechen des Fastens auf Reisen ist vorzuziehen.",
+            "scholars": [
+                "ahmad-ibn-hanbal",
+                "ibn-taymiyya"
+            ],
+            "madhabs": [
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih Muslim, Nr. 1115",
+                    "text_ar": "ليس من البر الصيام في السفر",
+                    "text_de": "Es gehört nicht zur Rechtschaffenheit (Birr), auf Reisen zu fasten.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Muslim ibn al-Hajjaj",
+                    "explanation_de": "Die Hanbaliten betonen, dass Allah es liebt, wenn Seine Erleichterungen in Anspruch genommen werden."
+                }
+            ]
+        }
+    ],
+    "related_questions": [
+        "salah-zusammenlegen-gebete",
+        "siyam-niyyah-fasten"
+    ],
+    "sources": [
+        {
+            "title": "Bidayat al-Mujtahid",
+            "author": "Ibn Rushd",
+            "url": "https://shamela.ws/book/22375"
+        },
+        {
+            "title": "Al-Mughni",
+            "author": "Ibn Qudama",
+            "url": "https://shamela.ws/book/6946"
+        }
+    ]
+}

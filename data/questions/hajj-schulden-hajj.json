@@ -1,0 +1,63 @@
+{
+    "id": "hajj-schulden-hajj",
+    "slug": "hajj-verrichten-trotz-schulden-urteil",
+    "category": "hajj",
+    "subcategory": "",
+    "question_de": "Darf man die Hajj verrichten, wenn man noch Schulden hat?",
+    "question_ar": "حكم الحج مع وجود دين",
+    "search_aliases": [
+        "Hajj Schulden",
+        "Schulden vor Hajj abbezahlen",
+        "Pilgerfahrt Kredit",
+        "Hajj mit Schulden erlaubt",
+        "Schuldner Hajj"
+    ],
+    "context_de": "Die Hajj ist eine finanzielle und körperliche Anstrengung. Da die Begleichung von Schulden gegenüber Menschen eine hohe Priorität hat, stellt sich die Frage nach der Rangfolge.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Erlaubt, wenn der Gläubiger zustimmt oder Raten gesichert sind",
+            "label_ar": "جائز بإذن الدائن أو ضمان السداد",
+            "description_de": "Man darf zur Hajj gehen, wenn die Schulden nicht sofort fällig sind, die Ratenzahlung gesichert ist oder der Gläubiger die Reise ausdrücklich erlaubt.",
+            "scholars": [
+                "abu-hanifa",
+                "malik-ibn-anas",
+                "al-shafii",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "hanafi",
+                "maliki",
+                "shafii",
+                "hanbali"
+            ],
+            "explanation_de": "Die Hajj ist nur für denjenigen Pflicht, der es sich leisten kann (Istita'a). Wer Schulden hat, die er nicht begleichen kann, für den ist die Hajj (noch) keine Pflicht. Geht er dennoch, ist die Hajj gültig, solange die Rechte der Gläubiger gewahrt bleiben."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Zuerst Schulden begleichen (Priorität)",
+            "label_ar": "تقديم قضاء الدين على الحج",
+            "description_de": "Bei fälligen Schulden ist deren Rückzahlung dringender als die Hajj, da Menschenrechte (Haqq al-Abad) Vorrang vor dem Recht Gottes haben, wenn Gott dem Schuldner die Hajj in dieser Zeit erlässt.",
+            "scholars": [
+                "Mehrheitsmeinung"
+            ],
+            "historical_context_de": "Gelehrte betonen, dass es sündhaft sein kann, zur Hajj zu reisen, während man fällige Schulden ignoriert."
+        }
+    ],
+    "related_questions": [
+        "hajj-umra-pflicht",
+        "zakah-schulden-abziehen"
+    ],
+    "sources": [
+        {
+            "title": "Al-Mughni",
+            "author": "Ibn Qudama",
+            "url": "https://shamela.ws/book/6946"
+        },
+        {
+            "title": "Al-Majmu'",
+            "author": "Imam an-Nawawi",
+            "url": "https://shamela.ws/book/384"
+        }
+    ]
+}

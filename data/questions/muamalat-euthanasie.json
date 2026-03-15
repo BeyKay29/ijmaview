@@ -1,0 +1,58 @@
+{
+    "id": "muamalat-euthanasie-sterbehilfe",
+    "slug": "sterbehilfe-euthanasie-islam-urteil",
+    "category": "muamalat",
+    "subcategory": "",
+    "question_de": "Ist Sterbehilfe (Euthanasie) im Islam erlaubt?",
+    "question_ar": "حكم القتل الرحيم في الإسلام",
+    "search_aliases": [
+        "Sterbehilfe Islam",
+        "Euthanasie Haram",
+        "Passive Sterbehilfe",
+        "Aktive Sterbehilfe",
+        "Lebenserhaltende Maßnahmen abschalten"
+    ],
+    "context_de": "Am Ende des Lebens stellen sich schwere ethische Fragen. Der Islam sieht das Leben als unantastbares Gut an, das Gott gehört.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Aktive Sterbehilfe ist Mord (Haram)",
+            "label_ar": "تحريم القتل الرحيم النشط",
+            "description_de": "Das aktive Beenden eines Lebens (z.B. durch eine Giftspritze), auch auf Wunsch des Patienten, gilt als Mord und ist eine der größten Sünden.",
+            "scholars": [
+                "Alle Gelehrten (Ijma)"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "quran",
+                    "reference": "Sure 4:29 (An-Nisa)",
+                    "text_ar": "وَلَا تَقْتُلُوا أَنفُسَكُمْ ۚ إِنَّ اللَّهَ كَان-بِكُمْ رَحِيمًا",
+                    "text_de": "Und tötet euch nicht selbst (oder gegenseitig). Gewiss, Allah ist euch gegenüber Barmherzig.",
+                    "explanation_de": "Selbsttötung oder Beihilfe dazu ist absolut untersagt."
+                }
+            ]
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Passive Sterbehilfe / Behandlungsabbruch erlaubt",
+            "label_ar": "جواز وقف الأجهزة في حالات معينة",
+            "description_de": "Wenn medizinisch festgestellt wird, dass keine Hoffnung auf Heilung besteht und nur noch Maschinen das Leben künstlich verlängern (z.B. Hirntod), ist das Abschalten der Geräte erlaubt.",
+            "scholars": [
+                "Internationale Fiqh-Akademie",
+                "Islamische Medizinische Organisation"
+            ],
+            "explanation_de": "Dies wird nicht als Töten betrachtet, sondern als das Zulassen des natürlichen Todesvorgangs. Man ist nicht verpflichtet, eine zwecklose Behandlung fortzusetzen."
+        }
+    ],
+    "related_questions": [
+        "muamalat-organspende",
+        "muamalat-abtreibung"
+    ],
+    "sources": [
+        {
+            "title": "Resolutionen der Internationalen Fiqh-Akademie",
+            "author": "OIC",
+            "url": "https://iifa-aifi.org"
+        }
+    ]
+}

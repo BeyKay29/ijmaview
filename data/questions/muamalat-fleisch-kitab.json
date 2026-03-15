@@ -1,0 +1,59 @@
+{
+    "id": "muamalat-fleisch-christen-juden",
+    "slug": "fleisch-von-leuten-der-schrift-halal-haram",
+    "category": "muamalat",
+    "subcategory": "",
+    "question_de": "Darf man Fleisch essen, das von Christen oder Juden (Leuten der Schrift) geschlachtet wurde?",
+    "question_ar": "حكم أكل ذبائح أهل الكتاب",
+    "search_aliases": [
+        "Fleisch Christen",
+        "Fleisch Juden",
+        "Koscher Islam",
+        "Supermarkt Fleisch Halal",
+        "Ahl al-Kitab Fleisch"
+    ],
+    "context_de": "Das Wohnen in nicht-muslimischen Ländern wirft die Frage auf, ob das im normalen Supermarkt erhältliche Fleisch der christlichen Mehrheitsgesellschaft erlaubt ist.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Grundsätzlich erlaubt (Koranischer Beleg)",
+            "label_ar": "جائز بنص القرآن",
+            "description_de": "Das Fleisch der Leute der Schrift ist laut Koran erlaubt, sofern es sich nicht um Schweinefleisch handelt und das Tier nicht einem Götzen gewidmet wurde.",
+            "scholars": [
+                "Mehrheitsmeinung",
+                "Ibn Taymiyya"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "quran",
+                    "reference": "Sure 5:5 (Al-Ma'ida)",
+                    "text_ar": "وَطَعَامُ الَّذِينَ أُوتُوا الْكِتَابَ حِلٌّ لَّكُمْ",
+                    "text_de": "Und die Speise derjenigen, denen die Schrift gegeben wurde, ist euch erlaubt.",
+                    "explanation_de": "Gelehrte wie Ibn Taymiyya betonen, dass Gott wusste, wie sie schlachten, und es dennoch erlaubte. Koscheres Fleisch ist nach fast allen Gelehrten Halal."
+                }
+            ]
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Bedingung der rituellen Schlachtung",
+            "label_ar": "يشترط فيها ما يشترط في ذبيحة المسلم",
+            "description_de": "Heute ist das Fleisch im Supermarkt oft durch Betäubung oder Methoden gewonnen, die den Kriterien der 'Schlächtung' (Dhabh) nicht entsprechen. Daher ist es in der modernen Zeit oft nicht erlaubt.",
+            "scholars": [
+                "Moderne Gelehrte",
+                "Einige Hanafiten"
+            ],
+            "explanation_de": "Die Kritiker argumentieren, dass moderne Christen oft gar nicht mehr rituell schlachten oder gar nicht gläubig sind (Atheisten). Zudem muss der Name Gottes (oder zumindest kein anderer Name) angerufen werden."
+        }
+    ],
+    "related_questions": [
+        "muamalat-gelatine-schwein",
+        "muamalat-alkohol-kochen"
+    ],
+    "sources": [
+        {
+            "title": "Majmu' al-Fatawa",
+            "author": "Ibn Taymiyya",
+            "url": "https://shamela.ws/book/505"
+        }
+    ]
+}

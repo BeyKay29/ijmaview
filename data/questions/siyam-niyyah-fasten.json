@@ -1,0 +1,92 @@
+{
+    "id": "siyam-niyyah-fasten",
+    "slug": "niyyah-absicht-fasten",
+    "category": "siyam",
+    "subcategory": "",
+    "question_de": "Muss die Absicht (Niyyah) zum Fasten vor dem Fajr gefasst werden?",
+    "question_ar": "هل يُشترط تبييت النية قبل الفجر في صيام رمضان؟",
+    "search_aliases": [
+        "Niyyah Fasten",
+        "Absicht Fasten Ramadan",
+        "Niyyah vor Fajr",
+        "Fastenabsicht vergessen",
+        "Niyyah Pflichtfasten"
+    ],
+    "context_de": "Die Frage nach dem Zeitpunkt der Fastenabsicht betrifft Situationen, in denen man vergessen hat, vor dem Fajr die Absicht zu fassen, oder spontan fasten möchte.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Niyyah muss vor dem Fajr gefasst werden",
+            "label_ar": "يجب تبييت النية قبل الفجر",
+            "description_de": "Die Absicht zum Pflichtfasten (Ramadan) muss in der Nacht vor dem Fajr-Gebet gefasst werden. Ohne diese nächtliche Absicht ist das Fasten ungültig.",
+            "scholars": [
+                "malik-ibn-anas",
+                "al-shafii",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "maliki",
+                "shafii",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sunan an-Nasa'i, Nr. 2331; Sunan Abu Dawud, Nr. 2454",
+                    "text_ar": "من لم يبيت الصيام قبل الفجر فلا صيام له",
+                    "text_de": "Wer nicht vor dem Fajr die Absicht zum Fasten fasst, dessen Fasten zählt nicht.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "An-Nasa'i / Ibn Khuzayma",
+                    "explanation_de": "Die Mehrheit der Gelehrten versteht diesen Hadith so, dass die Absicht für das Pflichtfasten zwingend vor dem Fajr gefasst werden muss. Für freiwilliges Fasten gelten hingegen leichtere Regeln."
+                }
+            ],
+            "historical_context_de": "Die Pflicht zur nächtlichen Absichtsfassung wird von der Mehrheit der Gelehrten als Bedingung für die Gültigkeit des Pflichtfastens angesehen. Dies basiert auf dem klaren prophetischen Text."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Niyyah kann bis zum Mittag nachgeholt werden",
+            "label_ar": "تجوز النية حتى الضحى",
+            "description_de": "Die Absicht zum Fasten im Ramadan kann auch nach dem Fajr noch gefasst werden, solange man bis dahin nichts gegessen oder getrunken hat.",
+            "scholars": [
+                "abu-hanifa"
+            ],
+            "madhabs": [
+                "hanafi"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari, Nr. 1924",
+                    "text_ar": "أن النبي ﷺ أرسل إلى أهل قباء: إن اليوم يوم عاشوراء فصوموا",
+                    "text_de": "Der Prophet ﷺ sandte am Tag von Aschura zu den Leuten von Quba: Heute ist der Tag von Aschura, so fastet!",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Bukhari",
+                    "explanation_de": "Abu Hanifa argumentiert, dass der Prophet ﷺ die Leute am Tag selbst zum Fasten aufforderte, was bedeutet, dass die Absicht auch tagsüber gefasst werden kann. Er erweitert dies per Analogie auch auf das Ramadan-Fasten."
+                }
+            ],
+            "historical_context_de": "Abu Hanifas pragmatischer Ansatz berücksichtigt Situationen, in denen ein Muslim möglicherweise vergessen hat, die Absicht in der Nacht zu fassen. Seine Position bietet eine Erleichterung, solange vor der Absichtsfassung nichts Fastenbrechers eingenommen wurde."
+        }
+    ],
+    "related_questions": [
+        "siyam-zahnpasta-fasten",
+        "siyam-erbrechen-fasten",
+        "siyam-augentropfen-fasten"
+    ],
+    "sources": [
+        {
+            "title": "Bidayat al-Mujtahid",
+            "author": "Ibn Rushd",
+            "url": "https://shamela.ws/book/22375"
+        },
+        {
+            "title": "Al-Hidaya",
+            "author": "Al-Marghinani",
+            "url": "https://shamela.ws/book/913"
+        },
+        {
+            "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
+            "author": "Kuwaiti Ministry of Awqaf",
+            "url": "https://islamweb.net"
+        }
+    ]
+}

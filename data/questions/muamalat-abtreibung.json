@@ -1,0 +1,76 @@
+{
+    "id": "muamalat-abtreibung-urteil",
+    "slug": "abtreibung-schwangerschaftsabbruch-islam-urteil",
+    "category": "muamalat",
+    "subcategory": "",
+    "question_de": "Wann ist eine Abtreibung (Schwangerschaftsabbruch) im Islam erlaubt?",
+    "question_ar": "حكم الإجهاض في الإسلام",
+    "search_aliases": [
+        "Abtreibung Islam",
+        "Schwangerschaftsabbruch Halal",
+        "Pille danach Islam",
+        "Abtreibung 120 Tage",
+        "Behinderung Abtreibung"
+    ],
+    "context_de": "Die Frage nach dem Beginn des Lebens und dem Recht auf Selbstbestimmung wird im Islam im Kontext der ‚Beseelung' (Nafkh ar-Ruh) diskutiert.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Bis 120 Tage unter Bedingungen erlaubt",
+            "label_ar": "جائز قبل نفخ الروح لعذر",
+            "description_de": "In den ersten 120 Tagen (vor der Beseelung) ist ein Abbruch bei triftigen Gründen (Gefahr für die Mutter, Vergewaltigung, schwere Gendefekte) erlaubt.",
+            "scholars": [
+                "abu-hanifa"
+            ],
+            "madhabs": [
+                "hanafi"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari; Sahih Muslim",
+                    "text_de": "In einem Hadith über die Entwicklung des Embryos wird erwähnt, dass nach 120 Tagen der Engel kommt und die Seele einhaucht.",
+                    "explanation_de": "Die Hanafiten sind hier am liberalsten und erlauben den Abbruch vor diesem Zeitpunkt, sofern ein gültiger Entschuldigungsgrund vorliegt."
+                }
+            ]
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Nur bis 40 Tage oder gar nicht",
+            "label_ar": "التحريم بعد الأربعين يوم",
+            "description_de": "Nach der Einnistung (Phase des Nutfa) ist der Abbruch verboten, außer bei Lebensgefahr für die Mutter.",
+            "scholars": [
+                "malik-ibn-anas",
+                "al-shafii",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "maliki",
+                "shafii",
+                "hanbali"
+            ],
+            "explanation_de": "Malikiten verbieten es fast kategorisch ab dem Moment der Zeugung, da es bereits der Beginn des Lebens ist."
+        },
+        {
+            "id": "pos-3",
+            "label_de": "Absolute Lebensgefahr für die Mutter (Ijma)",
+            "label_ar": "خطر على حياة الأم",
+            "description_de": "Wenn das Leben der Mutter unmittelbar bedroht ist, ist der Abbruch zu jedem Zeitpunkt erlaubt, da das Leben der Mutter (als bereits existierendes Leben) Vorrang hat.",
+            "scholars": [
+                "Alle Gelehrten"
+            ],
+            "historical_context_de": "Es gilt die Rechtsregel: ‚Schaden wird mit dem geringeren von zwei Übeln abgewendet'."
+        }
+    ],
+    "related_questions": [
+        "siyam-schwangerschaft-fasten",
+        "nikah-verhuetung"
+    ],
+    "sources": [
+        {
+            "title": "Resolutionen der Internationalen Fiqh-Akademie",
+            "author": "OIC",
+            "url": "https://iifa-aifi.org"
+        }
+    ]
+}

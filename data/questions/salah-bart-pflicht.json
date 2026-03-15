@@ -1,0 +1,119 @@
+{
+    "id": "salah-bart-pflicht",
+    "slug": "bart-pflicht-islam",
+    "category": "salah",
+    "subcategory": "voraussetzungen",
+    "question_de": "Ist das Tragen eines Bartes im Islam Pflicht?",
+    "question_ar": "هل إعفاء اللحية واجب في الإسلام؟",
+    "search_aliases": [
+        "Bart Pflicht Islam",
+        "Bart wachsen lassen",
+        "Bart rasieren haram",
+        "Bart Sunna",
+        "Bart Gebot",
+        "Bart Islam Urteil"
+    ],
+    "context_de": "Die Frage nach dem Bart ist ein häufig diskutiertes Thema unter Muslimen. Die Gelehrten unterscheiden sich in der Frage, ob das Wachsenlassen des Bartes eine Pflicht oder eine empfohlene Sunna ist.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Das Wachsenlassen des Bartes ist Pflicht (Wajib)",
+            "label_ar": "إعفاء اللحية واجب",
+            "description_de": "Das Wachsenlassen des Bartes ist eine Pflicht. Das vollständige Rasieren ist verboten (haram).",
+            "scholars": [
+                "ahmad-ibn-hanbal",
+                "malik-ibn-anas",
+                "ibn-taymiyya"
+            ],
+            "madhabs": [
+                "hanbali",
+                "maliki"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari, Nr. 5892; Sahih Muslim, Nr. 259",
+                    "text_ar": "خالفوا المشركين وفروا اللحى وأحفوا الشوارب",
+                    "text_de": "Unterscheidet euch von den Götzendienern: Lasst die Bärte wachsen und stutzt die Schnurrbärte.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Bukhari / Muslim",
+                    "explanation_de": "Die Mehrheit der Gelehrten versteht den Imperativ 'lasst wachsen' (awfu) als Pflichtgebot (Wujub). Ibn Taymiyya betont, dass das Rasieren des Bartes das Verändern der Schöpfung Allahs (Taghyir Khalq Allah) darstellt."
+                }
+            ],
+            "historical_context_de": "Ibn Taymiyya und die hanbalitische Schule vertreten die strenge Position, dass das Barttragen eine Pflicht ist. Diese Ansicht wird von der Mehrheit der klassischen Gelehrten geteilt."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Der Bart ist stark empfohlene Sunna",
+            "label_ar": "اللحية سنة مؤكدة",
+            "description_de": "Das Wachsenlassen des Bartes ist eine stark empfohlene Sunna (Sunna mu'akkada), aber keine Pflicht. Das Rasieren ist verpönt (makruh), aber keine Sünde.",
+            "scholars": [
+                "al-shafii",
+                "al-ghazali",
+                "an-nawawi"
+            ],
+            "madhabs": [
+                "shafii"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari, Nr. 5892",
+                    "text_ar": "وفروا اللحى وأحفوا الشوارب",
+                    "text_de": "Lasst die Bärte wachsen und stutzt die Schnurrbärte.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Bukhari",
+                    "explanation_de": "Einige schafiitische Gelehrte, darunter Al-Ghazali und einige Kommentatoren, stufen den Bart als Sunna mu'akkada ein. Sie argumentieren, dass der Imperativ hier eine starke Empfehlung ausdrückt, ähnlich wie bei anderen Sunna-Handlungen."
+                }
+            ],
+            "historical_context_de": "Die schafiitische Rechtsschule hat innerhalb ihrer Gelehrten verschiedene Positionen. An-Nawawi nennt in seinem Al-Majmu' das Rasieren als makruh (verpönt). Einige spätere schafiitische Gelehrte stufen es als haram ein."
+        },
+        {
+            "id": "pos-3",
+            "label_de": "Bart ist Sunna, Kürzen über eine Faust erlaubt",
+            "label_ar": "اللحية سنة ويجوز قصها فوق القبضة",
+            "description_de": "Das Wachsenlassen ist Sunna, aber das Kürzen des Bartes auf eine Faustlänge ist erlaubt.",
+            "scholars": [
+                "abu-hanifa",
+                "abu-yusuf",
+                "muhammad-shaybani"
+            ],
+            "madhabs": [
+                "hanafi"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari, Nr. 5892; Überlieferung Ibn Umars",
+                    "text_ar": "كان ابن عمر إذا حج أو اعتمر قبض على لحيته فما فضل أخذه",
+                    "text_de": "Abdullah ibn Umar pflegte während der Hajj oder Umra seinen Bart mit der Faust zu greifen und was darüber hinausging, abzuschneiden.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Bukhari",
+                    "explanation_de": "Die Hanafiten erlauben das Kürzen des Bartes auf eine Faustlänge, gestützt auf die Praxis des Gefährten Abdullah ibn Umar. Abu Hanifa sah das vollständige Rasieren als verboten an, erlaubte aber das Stutzen."
+                }
+            ],
+            "historical_context_de": "Die hanafitische Position zeigt einen pragmatischen Mittelweg: Der Bart soll getragen werden, aber das Kürzen auf eine angemessene Länge ist erlaubt. Diese Position ist in vielen hanafitisch geprägten Regionen (Türkei, Südasien) verbreitet."
+        }
+    ],
+    "related_questions": [
+        "nikah-kopftuch-pflicht",
+        "salah-haende-binden"
+    ],
+    "sources": [
+        {
+            "title": "Majmu' al-Fatawa",
+            "author": "Ibn Taymiyya",
+            "url": "https://shamela.ws/book/505"
+        },
+        {
+            "title": "Ihya Ulum ad-Din",
+            "author": "Abu Hamid al-Ghazali",
+            "url": "https://shamela.ws/book/1500"
+        },
+        {
+            "title": "Radd al-Muhtar",
+            "author": "Ibn Abidin",
+            "url": "https://shamela.ws/book/1701"
+        }
+    ]
+}

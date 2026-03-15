@@ -1,0 +1,99 @@
+{
+    "id": "hajj-umra-pflicht",
+    "slug": "umra-pflicht-sunna",
+    "category": "hajj",
+    "subcategory": "",
+    "question_de": "Ist die Umra (kleine Pilgerfahrt) eine Pflicht oder nur eine Sunna?",
+    "question_ar": "هل العمرة واجبة أم سنة؟",
+    "search_aliases": [
+        "Umra Pflicht",
+        "Umra Sunna",
+        "Kleine Pilgerfahrt Pflicht",
+        "Umra fard",
+        "Umra wajib",
+        "Umra freiwillig"
+    ],
+    "context_de": "Während die Hajj (große Pilgerfahrt) unstrittig eine Pflicht ist, gehen die Meinungen über den Status der Umra (kleine Pilgerfahrt) auseinander.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Umra ist Pflicht (Wajib)",
+            "label_ar": "العمرة واجبة",
+            "description_de": "Die Umra ist wie die Hajj eine Pflicht für jeden Muslim, der dazu in der Lage ist.",
+            "scholars": [
+                "al-shafii",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "shafii",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "quran",
+                    "reference": "Sure 2:196 (Al-Baqara)",
+                    "text_ar": "وَأَتِمُّوا الْحَجَّ وَالْعُمْرَةَ لِلَّهِ",
+                    "text_de": "Und vollendet die Hajj und die Umra für Allah.",
+                    "explanation_de": "Die Schafiiten und Hanbaliten verstehen den Befehl 'vollendet' (atimmu) als Pflichtgebot. Da Hajj und Umra in einem Atemzug genannt werden und die Hajj zweifellos Pflicht ist, schließen sie, dass auch die Umra Pflicht ist."
+                },
+                {
+                    "type": "hadith",
+                    "reference": "Sunan an-Nasa'i; Sunan Ibn Maja",
+                    "text_ar": "الحج والعمرة فريضتان",
+                    "text_de": "Die Hajj und die Umra sind zwei Pflichten.",
+                    "hadith_grade": "hasan",
+                    "graded_by": "Ibn al-Mundhir",
+                    "explanation_de": "Dieser Hadith wird als direkter Beleg für die Pflicht der Umra herangezogen."
+                }
+            ],
+            "historical_context_de": "Die schafiitische und hanbalitische Position basiert auf der wörtlichen Auslegung des Koranverses und wird durch mehrere Hadithe gestützt. Diese Position war besonders in Regionen verbreitet, in denen die Nähe zu Mekka die Umra leichter zugänglich machte."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Umra ist Sunna (empfohlen, nicht Pflicht)",
+            "label_ar": "العمرة سنة مؤكدة",
+            "description_de": "Die Umra ist eine stark empfohlene Sunna, aber keine Pflicht.",
+            "scholars": [
+                "abu-hanifa",
+                "malik-ibn-anas"
+            ],
+            "madhabs": [
+                "hanafi",
+                "maliki"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sunan at-Tirmidhi, Nr. 931; Sunan Abu Dawud",
+                    "text_ar": "سئل النبي ﷺ عن العمرة أواجبة هي قال لا وأن تعتمروا هو أفضل",
+                    "text_de": "Der Prophet ﷺ wurde über die Umra gefragt, ob sie Pflicht sei. Er sagte: 'Nein, aber wenn ihr sie verrichtet, ist es besser.'",
+                    "hadith_grade": "hasan",
+                    "graded_by": "At-Tirmidhi",
+                    "explanation_de": "Die Hanafiten und Malikiten stützen sich auf diese direkte Aussage des Propheten ﷺ, dass die Umra keine Pflicht ist. Der Koranvers wird als Aufforderung zur Vervollständigung verstanden, nicht als Pflichtgebot."
+                }
+            ],
+            "historical_context_de": "Die hanafitische und malikitische Position berücksichtigt die praktische Realität vieler Muslime, die weit von Mekka entfernt leben. Malik, der sein Leben in Medina verbrachte, unterschied dennoch klar zwischen der Pflicht der Hajj und dem empfohlenen Status der Umra."
+        }
+    ],
+    "related_questions": [
+        "zakah-goldschmuck-frauen",
+        "siyam-zahnpasta-fasten"
+    ],
+    "sources": [
+        {
+            "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
+            "author": "Kuwaiti Ministry of Awqaf",
+            "url": "https://islamweb.net"
+        },
+        {
+            "title": "Bidayat al-Mujtahid",
+            "author": "Ibn Rushd",
+            "url": "https://shamela.ws/book/22375"
+        },
+        {
+            "title": "Al-Mughni",
+            "author": "Ibn Qudama",
+            "url": "https://shamela.ws/book/6946"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "id": "zakah-schulden-abzug",
+    "slug": "schulden-abziehen-zakah-berechnung",
+    "category": "zakah",
+    "subcategory": "",
+    "question_de": "Darf man Schulden vom berechenbaren Vermögen für die Zakah abziehen?",
+    "question_ar": "هل تُطرح الديون من أموال الزكاة؟",
+    "search_aliases": [
+        "Schulden Zakah",
+        "Kredit Zakah",
+        "Zakah berechnen Schulden",
+        "Hauskredit Zakah",
+        "Schulden abziehen"
+    ],
+    "context_de": "Viele Muslime besitzen Vermögen (Ersparnisse), haben aber gleichzeitig Schulden (z.B. Autokredit, Bafög, Privatdarlehen). Ob diese Schulden die Zakah-Pflicht mindern, ist eine Kernfrage der Zakah-Berechnung.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Schulden mindern das Zakah-Vermögen",
+            "label_ar": "الدين يمنع الزكاة",
+            "description_de": "Schulden, die sofort oder bald fällig sind, werden vom Gesamtvermögen abgezogen. Nur auf den verbleibenden Betrag wird Zakah gezahlt, sofern dieser den Nisab (Mindestbetrag) erreicht.",
+            "scholars": [
+                "abu-hanifa",
+                "malik-ibn-anas",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "hanafi",
+                "maliki",
+                "hanbali"
+            ],
+            "explanation_de": "Da der Schuldner das Geld eigentlich nicht besitzt (er schuldet es jemandem), ist er nicht 'reich' im Sinne der Zakah. Erst nach Begleichung der Schulden zeigt sich der wahre Reichtum."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Schulden mindern die Zakah NICHT (bei geheimen Gütern)",
+            "label_ar": "الدين لا يمنع الزكاة في الأموال الباطنة",
+            "description_de": "Schulden haben keinen Einfluss auf die Zakah-Pflicht auf Geld, Gold und Handelsware (‚geheime Güter').",
+            "scholars": [
+                "al-shafii"
+            ],
+            "madhabs": [
+                "shafii"
+            ],
+            "explanation_de": "Die Schafiiten argumentieren, dass die Zakah-Pflicht an den Besitz des Gutes gebunden ist. Die Verpflichtung gegenüber einem Gläubiger ist eine separate Sache und löscht nicht die göttliche Pflicht der Zakah aus."
+        }
+    ],
+    "related_questions": [
+        "zakah-goldschmuck-frauen",
+        "muamalat-riba-bankzins"
+    ],
+    "sources": [
+        {
+            "title": "Bidayat al-Mujtahid",
+            "author": "Ibn Rushd",
+            "url": "https://shamela.ws/book/22375"
+        },
+        {
+            "title": "Al-Mughni",
+            "author": "Ibn Qudama",
+            "url": "https://shamela.ws/book/6946"
+        },
+        {
+            "title": "Al-Hidaya",
+            "author": "Al-Marghinani",
+            "url": "https://shamela.ws/book/913"
+        }
+    ]
+}

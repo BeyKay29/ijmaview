@@ -1,0 +1,75 @@
+{
+    "id": "salah-imam-suender",
+    "slug": "gebet-hinter-einem-suendigen-imam-urteil",
+    "category": "salah",
+    "subcategory": "",
+    "question_de": "Darf man hinter einem Imam beten, der öffentlich Sünden begeht (Fasiq)?",
+    "question_ar": "حكم الصلاة خلف الإمام الفاسق",
+    "search_aliases": [
+        "Imam Sünder",
+        "Beten hinter Fasiq",
+        "Gültigkeit Gebet Imam",
+        "Schlechter Imam",
+        "Imam raucht"
+    ],
+    "context_de": "Oft gibt es Zweifel an der Rechtschaffenheit eines Imams. Die Frage ist, ob dessen persönliches Verhalten die Gültigkeit des Gemeinschaftsgebets beeinflusst.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Das Gebet ist gültig (Ijma der Sahaba)",
+            "label_ar": "الصلاة صحيحة خلف كل بر وفاجر",
+            "description_de": "Das Gebet hinter einem sündigen Imam ist gültig, solange er die Säulen des Gebets korrekt ausführt und nicht in den Unglauben (Kufr) abgefallen ist.",
+            "scholars": [
+                "abu-hanifa",
+                "al-shafii",
+                "ahmad-ibn-hanbal",
+                "ibn-taymiyya"
+            ],
+            "madhabs": [
+                "hanafi",
+                "shafii",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari, Nr. 694",
+                    "text_ar": "يصلون لكم، فإن أصابوا فلكم، وإن أخطأوا فلكم وعليهم",
+                    "text_de": "Sie (die Imame) beten für euch; wenn sie es richtig machen, ist es für euch (der Lohn), und wenn sie Fehler machen, ist es dennoch für euch (der Lohn), aber gegen sie (die Last der Sünde).",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Bukhari"
+                }
+            ],
+            "historical_context_de": "Die Gefährten des Propheten ﷺ beteten hinter Hajjaj ibn Yusuf, obwohl dieser für seine Härte und Ungerechtigkeit bekannt war, um die Einheit der Gemeinschaft (Jama'a) zu wahren."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Verliebt in das Einzelgebet (bei Alternativen)",
+            "label_ar": "كراهة الصلاة خلف الفاسق",
+            "description_de": "Es ist verpönt (Makruh), einen Fasiq als Imam einzusetzen. Wenn man die Wahl hat, sollte man hinter einem rechtschaffenen Imam beten. Das Gebet ist jedoch technisch gültig.",
+            "scholars": [
+                "malik-ibn-anas"
+            ],
+            "madhabs": [
+                "maliki"
+            ],
+            "explanation_de": "Die Malikiten betonen die Vorbildfunktion des Imams stärker."
+        }
+    ],
+    "related_questions": [
+        "salah-haende-binden",
+        "salah-amin-laut-leise"
+    ],
+    "sources": [
+        {
+            "title": "Majmu' al-Fatawa",
+            "author": "Ibn Taymiyya",
+            "url": "https://shamela.ws/book/505"
+        },
+        {
+            "title": "Al-Mughni",
+            "author": "Ibn Qudama",
+            "url": "https://shamela.ws/book/6946"
+        }
+    ]
+}

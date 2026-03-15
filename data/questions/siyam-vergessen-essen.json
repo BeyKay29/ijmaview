@@ -1,0 +1,58 @@
+{
+    "id": "siyam-vergessen-essen",
+    "slug": "vergessen-zu-essen-trinken-fasten-brechen-urteil",
+    "category": "siyam",
+    "subcategory": "",
+    "question_de": "Bricht unabsichtliches Essen oder Trinken aus Vergesslichkeit das Fasten?",
+    "question_ar": "حكم من أكل أو شرب ناسياً في رمضان",
+    "search_aliases": [
+        "Vergessen zu essen Fasten",
+        "Aus Versehen trinken Ramadan",
+        "Fasten bricht Vergessen",
+        "Siyam Nasiyan",
+        "Wasser getrunken vergessen"
+    ],
+    "context_de": "Jedem kann es passieren, dass er aus Gewohnheit zum Wasserglas greift oder etwas isst, ohne an den Ramadan zu denken.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Fasten bleibt gültig (Ijma)",
+            "label_ar": "الصوم صحيح - أطعمه الله وسقاه",
+            "description_de": "Wenn man aus reiner Vergesslichkeit isst oder trinkt, bleibt das Fasten gültig. Man muss sofort aufhören, sobald man sich erinnert, und den Tag zu Ende fasten.",
+            "scholars": [
+                "abu-hanifa",
+                "al-shafii",
+                "ahmad-ibn-hanbal",
+                "malik-ibn-anas"
+            ],
+            "madhabs": [
+                "hanafi",
+                "shafii",
+                "hanbali",
+                "maliki"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari, Nr. 1933; Sahih Muslim",
+                    "text_ar": "من نسي وهو صائم، فأكل أو شرب، فليتم صومه، فإنما أطعمه الله وسقاه",
+                    "text_de": "Wer vergisst, dass er fastet, und isst oder trinkt, der soll sein Fasten fortsetzen, denn es war Allah, der ihn speiste und tränkte.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Bukhari / Muslim"
+                }
+            ],
+            "historical_context_de": "Dies ist einer der klarsten Beweise für die Barmherzigkeit im Islam. Es ist kein Nachholen und keine Sühne erforderlich."
+        }
+    ],
+    "related_questions": [
+        "siyam-niyyah-fasten",
+        "siyam-zahnpasta-fasten"
+    ],
+    "sources": [
+        {
+            "title": "Sharh Sahih Muslim",
+            "author": "Imam an-Nawawi",
+            "url": "https://shamela.ws/book/1711"
+        }
+    ]
+}

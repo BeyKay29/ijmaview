@@ -1,0 +1,81 @@
+{
+    "id": "muamalat-niqab-pflicht",
+    "slug": "niqab-gesichtsschleier-pflicht-oder-sunna-urteil",
+    "category": "muamalat",
+    "subcategory": "",
+    "question_de": "Ist der Niqab (Gesichtsschleier) für die muslimische Frau Pflicht oder Sunna?",
+    "question_ar": "حكم النقاب في الإسلام",
+    "search_aliases": [
+        "Niqab Pflicht",
+        "Gesichtsschleier Islam",
+        "Niqab Hanbali",
+        "Burka Islam",
+        "Awrah Frau Gesicht"
+    ],
+    "context_de": "Die Frage, ob das Gesicht der Frau zur Awrah (zu verdeckender Bereich) gehört, wird seit den frühen Generationen der Gelehrten debattiert.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Keine Pflicht – Gesicht und Hände dürfen gezeigt werden",
+            "label_ar": "ليس بفرض - وجه المرأة وكفاها ليسا بعورة",
+            "description_de": "Das Gesicht und die Hände sind keine Awrah. Der Niqab ist eine lobenswerte Tat (Sunna/Fadila), aber keine Pflicht.",
+            "scholars": [
+                "abu-hanifa",
+                "malik-ibn-anas",
+                "al-shafii"
+            ],
+            "madhabs": [
+                "hanafi",
+                "maliki",
+                "shafii"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "quran",
+                    "reference": "Sure 24:31 (An-Nur)",
+                    "text_de": "...außer dem, was davon sichtbar sein muss.",
+                    "explanation_de": "Die Mehrheit der Sahaba (wie Ibn Abbas) interpretierte dies als Gesicht und Hände."
+                }
+            ],
+            "historical_context_de": "Dies ist die Meinung der großen Mehrheit der Gelehrten über die Jahrhunderte hinweg."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Pflicht (Wajib) – Das ganze Gesicht muss bedeckt sein",
+            "label_ar": "واجب - وجه المرأة عورة",
+            "description_de": "In Zeiten der Fitna (Versuchung) oder grundsätzlich ist es Pflicht für die Frau, ihr Gesicht vor fremden Männern zu verhüllen.",
+            "scholars": [
+                "ahmad-ibn-hanbal",
+                "ibn-taymiyya"
+            ],
+            "madhabs": [
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sunan Abu Dawud",
+                    "text_de": "Asma bint Abi Bakr trug dünne Kleidung. Der Prophet ﷺ wandte sich ab und sagte: ‚O Asma, wenn eine Frau das Alter der Menstruation erreicht, darf nichts von ihr gesehen werden außer diesem und diesem' - und er deutete auf sein Gesicht und seine Hände.",
+                    "explanation_de": "Hanbaliten kritisieren oft die Authentizität dieses Hadiths oder sagen, er wurde durch spätere Verse (Hidschab-Verse) aufgehoben."
+                }
+            ],
+            "historical_context_de": "In Saudi-Arabien und Teilen der Golfstaaten ist dies die dominierende Rechtsmeinung."
+        }
+    ],
+    "related_questions": [
+        "nikah-kopftuch-pflicht",
+        "muamalat-schminke-oeffentlichkeit"
+    ],
+    "sources": [
+        {
+            "title": "Bidayat al-Mujtahid",
+            "author": "Ibn Rushd",
+            "url": "https://shamela.ws/book/22375"
+        },
+        {
+            "title": "Adwa' al-Bayan",
+            "author": "Ash-Shanqiti",
+            "url": "https://shamela.ws/book/12044"
+        }
+    ]
+}

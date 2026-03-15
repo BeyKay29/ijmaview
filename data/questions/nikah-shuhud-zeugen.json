@@ -1,0 +1,74 @@
+{
+    "id": "nikah-shuhud-zeugen",
+    "slug": "zeugen-bei-der-eheschliessung-pflicht-urteil",
+    "category": "nikah",
+    "subcategory": "",
+    "question_de": "Sind Zeugen bei der Eheschließung (Nikah) zwingend erforderlich?",
+    "question_ar": "حكم الشهادة في عقد النكاح",
+    "search_aliases": [
+        "Zeugen Nikah",
+        "Ehe ohne Zeugen",
+        "Nikah Gültigkeit",
+        "Heiraten ohne Zeugen Islam",
+        "Shuhud Nikah"
+    ],
+    "context_de": "Die Nikah ist ein öffentlicher Vertrag. Damit sie sich von einer geheimen Beziehung unterscheidet, gibt es Anforderungen an die Bekanntgabe.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Pflicht (Säule des Vertrags)",
+            "label_ar": "الشهادة شرط في صحة النكاح",
+            "description_de": "Ein Nikah-Vertrag ohne mindestens zwei männliche, muslimische Zeugen ist ungültig (Batil).",
+            "scholars": [
+                "abu-hanifa",
+                "al-shafii",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "hanafi",
+                "shafii",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sunan at-Tirmidhi; Sahih Ibn Hibban",
+                    "text_ar": "لا نكاح إلا بولي وشاهدي عدل",
+                    "text_de": "Es gibt keine Nikah außer mit einem Wali (Vormund) und zwei gerechten Zeugen.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Albani"
+                }
+            ],
+            "historical_context_de": "Die Anwesenheit von Zeugen schützt die Rechte beider Parteien, insbesondere der Frau, im Falle eines Streits."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Bekanntgabe ist ausreichend (Minderheit)",
+            "label_ar": "إعلان النكاح يغني عن الشهادة",
+            "description_de": "Bei den Malikiten ist die Bekanntgabe (I'lan) der Ehe gegenüber der Öffentlichkeit wichtiger als die Anwesenheit von zwei speziellen Zeugen beim Vertragsschluss (auch wenn Zeugen dennoch empfohlen sind).",
+            "scholars": [
+                "malik-ibn-anas"
+            ],
+            "madhabs": [
+                "maliki"
+            ],
+            "explanation_de": "Die Ehe darf keinesfalls geheim gehalten werden (Nikah as-Sirr)."
+        }
+    ],
+    "related_questions": [
+        "nikah-wali-pflicht",
+        "nikah-mahr-hoehe"
+    ],
+    "sources": [
+        {
+            "title": "Bidayat al-Mujtahid",
+            "author": "Ibn Rushd",
+            "url": "https://shamela.ws/book/22375"
+        },
+        {
+            "title": "Al-Majmu'",
+            "author": "Imam an-Nawawi",
+            "url": "https://shamela.ws/book/384"
+        }
+    ]
+}

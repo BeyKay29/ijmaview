@@ -1,0 +1,69 @@
+{
+    "id": "siyam-erbrechen-fasten",
+    "slug": "erbrechen-fasten-brechen",
+    "category": "siyam",
+    "subcategory": "",
+    "question_de": "Bricht absichtliches Erbrechen das Fasten?",
+    "question_ar": "هل التقيؤ عمداً يُفسد الصوم؟",
+    "search_aliases": [
+        "Erbrechen Fasten",
+        "Übergeben Ramadan",
+        "Erbrechen absichtlich Fasten",
+        "Erbrechen unabsichtlich Fasten",
+        "Übelkeit Fasten"
+    ],
+    "context_de": "Die Frage nach dem Erbrechen während des Fastens betrifft Situationen wie Krankheit, Schwangerschaftsübelkeit oder die absichtliche Herbeiführung von Erbrechen.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Absichtliches Erbrechen bricht das Fasten, unfreiwilliges nicht",
+            "label_ar": "من تقيأ عمداً أفطر ومن ذرعه القيء فلا شيء عليه",
+            "description_de": "Wer absichtlich erbricht, dessen Fasten ist gebrochen und muss nachgeholt werden. Wer unfreiwillig erbricht, dessen Fasten bleibt gültig.",
+            "scholars": [
+                "abu-hanifa",
+                "malik-ibn-anas",
+                "al-shafii",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "hanafi",
+                "maliki",
+                "shafii",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sunan Abu Dawud, Nr. 2380; Sunan at-Tirmidhi, Nr. 720",
+                    "text_ar": "من ذرعه القيء فليس عليه قضاء ومن استقاء عمداً فليقض",
+                    "text_de": "Wem das Erbrechen widerfährt (unfreiwillig), dem obliegt kein Nachholen. Und wer absichtlich erbricht, der muss nachholen.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "At-Tirmidhi / Al-Albani",
+                    "explanation_de": "Dieser Hadith ist der zentrale Beweis und wird von allen vier Rechtsschulen als Grundlage herangezogen. Er unterscheidet klar zwischen absichtlichem und unfreiwilligem Erbrechen."
+                }
+            ],
+            "historical_context_de": "Diese Frage gehört zu den seltenen Fällen eines vollständigen Ijma (Konsens) unter den vier Rechtsschulen. Die Unterscheidung zwischen absichtlichem und unfreiwilligem Erbrechen basiert auf dem Hadith und wurde von allen Gelehrten einheitlich übernommen."
+        }
+    ],
+    "related_questions": [
+        "siyam-zahnpasta-fasten",
+        "siyam-augentropfen-fasten"
+    ],
+    "sources": [
+        {
+            "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
+            "author": "Kuwaiti Ministry of Awqaf",
+            "url": "https://islamweb.net"
+        },
+        {
+            "title": "Sunan at-Tirmidhi",
+            "author": "Imam at-Tirmidhi",
+            "url": "https://sunnah.com/tirmidhi"
+        },
+        {
+            "title": "Bidayat al-Mujtahid",
+            "author": "Ibn Rushd",
+            "url": "https://shamela.ws/book/22375"
+        }
+    ]
+}

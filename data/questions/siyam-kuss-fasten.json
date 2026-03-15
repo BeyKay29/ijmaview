@@ -1,0 +1,74 @@
+{
+    "id": "siyam-kuss-fasten",
+    "slug": "kuessen-zaertlichkeit-fasten-brechen-urteil",
+    "category": "siyam",
+    "subcategory": "",
+    "question_de": "Darf man seinen Ehepartner während des Fastens küssen oder Zärtlichkeiten austauschen?",
+    "question_ar": "حكم القبلة والمباشرة للصائم",
+    "search_aliases": [
+        "Küssen Fasten",
+        "Zärtlichkeit Ramadan",
+        "Ehepartner küssen Fasten",
+        "Lust Fasten",
+        "Madhi beim Küssen Fasten"
+    ],
+    "context_de": "Ehepaare fragen oft nach den Grenzen der Zärtlichkeit während der Fastenstunden im Ramadan. Während Geschlechtsverkehr absolut verboten ist, ist Zärtlichkeit nuanciert zu betrachten.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Erlaubt für denjenigen, der sich beherrschen kann",
+            "label_ar": "جائز لمن يملك نفسه",
+            "description_de": "Küssen und Zärtlichkeiten sind erlaubt, solange sie nicht zum Samenerguss oder zum Geschlechtsverkehr führen.",
+            "scholars": [
+                "al-shafii",
+                "ahmad-ibn-hanbal",
+                "an-nawawi"
+            ],
+            "madhabs": [
+                "shafii",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari, Nr. 1927; Sahih Muslim",
+                    "text_ar": "كان النبي ﷺ يقبل وهو صائم... وكان أملككم لإربه",
+                    "text_de": "Der Prophet ﷺ pflegte (seine Frauen) zu küssen, während er fastete... und er war derjenige von euch, der seine Triebe am besten beherrschte.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Bukhari / Muslim"
+                }
+            ]
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Verpönt (Makruh) für junge Leute",
+            "label_ar": "يكره للشباب ويباح للشيوخ",
+            "description_de": "Es ist verpönt für junge Menschen, bei denen die Gefahr des Kontrollverlusts hoch ist. Für ältere Menschen ist es eher erlaubt.",
+            "scholars": [
+                "abu-hanifa",
+                "malik-ibn-anas"
+            ],
+            "madhabs": [
+                "hanafi",
+                "maliki"
+            ],
+            "explanation_de": "Malikiten sind hier besonders streng, da sie befürchten, dass Lusttropfen (Madhi) austreten könnten, was nach ihrer Meinung das Fasten gefährdet oder Sühne (Kaffara) erfordern könnte."
+        }
+    ],
+    "related_questions": [
+        "siyam-niyyah-fasten",
+        "tahara-fluessigkeiten-unterscheidung"
+    ],
+    "sources": [
+        {
+            "title": "Sharh Sahih Muslim",
+            "author": "Imam an-Nawawi",
+            "url": "https://shamela.ws/book/1711"
+        },
+        {
+            "title": "Bidayat al-Mujtahid",
+            "author": "Ibn Rushd",
+            "url": "https://shamela.ws/book/22375"
+        }
+    ]
+}

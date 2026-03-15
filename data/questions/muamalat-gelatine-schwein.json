@@ -1,0 +1,52 @@
+{
+    "id": "muamalat-gelatine-schwein",
+    "slug": "gelatine-schwein-gummibaerchen-islam-halal-haram",
+    "category": "muamalat",
+    "subcategory": "",
+    "question_de": "Darf man Produkte mit Gelatine (aus Schwein oder nicht-halalem Rind) essen?",
+    "question_ar": "حكم الجيلاتين المستخرج من الخنزير",
+    "search_aliases": [
+        "Gelatine Schwein",
+        "Gummibärchen Halal",
+        "Gelatine Islam",
+        "Istihala Gelatine",
+        "Gelatine Süßigkeiten"
+    ],
+    "context_de": "Gelatine ist in unzähligen Lebensmitteln (Süßwaren, Joghurts, Kapseln) enthalten. Die Frage ist, ob der chemische Prozess der Herstellung die ursprüngliche Unreinheit aufhebt.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Verboten – Unreinheit bleibt bestehen",
+            "label_ar": "محرم لبقاء أصل النجاسة",
+            "description_de": "Gelatine aus Schwein oder ungeschächtetem Rind ist Haram. Die chemische Umwandlung ist nicht tiefgreifend genug, um als Istihala (vollständige Wesensänderung) zu gelten.",
+            "scholars": [
+                "Mehrheitsmeinung der zeitgenössischen Gelehrten",
+                "Al-Azhar",
+                "Saudi Permanent Committee"
+            ],
+            "explanation_de": "Die Verpflichtung, Schweinefleisch und verendete Tiere zu meiden, ist absolut. Da Gelatine aus Knochen und Haut dieser Tiere gewonnen wird, bleibt sie Bestandteil des Verbotenen."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Erlaubt – Vollständige Umwandlung (Istihala)",
+            "label_ar": "جائز بالاستحالة",
+            "description_de": "Gelatine ist erlaubt, da der Extraktionsprozess die Substanz so stark verändert, dass sie nicht mehr die Eigenschaften von Fleisch oder Knochen besitzt.",
+            "scholars": [
+                "Einige Gelehrte in Europa",
+                "Einige hanafitische Gremien"
+            ],
+            "explanation_de": "Sie vergleichen Gelatine mit der Umwandlung von Wein in Essig oder Haut in Leder. Die neue Substanz hat keine Ähnlichkeit mit dem unreinen Ursprung."
+        }
+    ],
+    "related_questions": [
+        "muamalat-alkohol-kochen",
+        "tahara-alkohol-parfuem"
+    ],
+    "sources": [
+        {
+            "title": "Fatawa-Gremien der Moderne",
+            "author": "Diverse",
+            "url": "https://islamweb.net"
+        }
+    ]
+}

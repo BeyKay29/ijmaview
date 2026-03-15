@@ -1,0 +1,54 @@
+{
+    "id": "tahara-waschmaschine-najasa",
+    "slug": "waschmaschine-unreinheit-najasa-waschen-islam",
+    "category": "tahara",
+    "subcategory": "",
+    "question_de": "Werden unreine Kleidungsstücke (mit Urin/Blut) in der Waschmaschine rein, oder wird alles andere auch unrein?",
+    "question_ar": "حكم تطهير الثياب في الغسالة",
+    "search_aliases": [
+        "Waschmaschine Najasa",
+        "Urin Kleidung waschen",
+        "Waschmaschine rein oder unrein",
+        "Tahara Waschmaschine",
+        "Najasa Übertragung Waschmaschine"
+    ],
+    "context_de": "Moderne Waschmaschinen waschen Kleidung in einer geschlossenen Trommel. Es stellt sich die Frage, ob die Vermischung von unreiner und reiner Kleidung im Wasser ein Problem darstellt.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Alles wird rein (Modell des fließenden Wassers)",
+            "label_ar": "تطهر الثياب بجريان الماء",
+            "description_de": "Durch das mehrfache Spülen und Schleudern wird die Unreinheit (Najasa) vollständig entfernt. Die Kleidung gilt nach dem Waschvorgang als rituell rein.",
+            "scholars": [
+                "Moderne Gelehrte des 20./21. Jahrhunderts"
+            ],
+            "explanation_de": "Das Wasser in der Maschine wird ständig erneuert (Zulauf/Ablauf). Dies entspricht dem Prinzip von fließendem Wasser, das Unreinheiten wegspült. Solange nach dem Waschen keine Spuren von Farbe, Geruch oder Geschmack der Unreinheit mehr vorhanden sind, ist alles rein."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Vorsicht bei geringen Wassermengen (Qullatayn)",
+            "label_ar": "الاحتياط في الماء القليل",
+            "description_de": "Einige klassische Sichtweisen besagen, dass stehendes Wasser unrein wird, sobald Unreinheit hineingelangt, außer die Wassermenge ist sehr groß (mehr als ca. 200 Liter, Qullatayn).",
+            "scholars": [
+                "al-shafii",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "shafii",
+                "hanbali"
+            ],
+            "historical_context_de": "Auf die Waschmaschine übertragen bedeutet dies, dass der Spülvorgang (fließendes Wasser) entscheidend ist. Man sollte grobe Unreinheiten vorher kurz per Hand auswaschen, um auf der sicheren Seite zu sein."
+        }
+    ],
+    "related_questions": [
+        "tahara-hund-unrein",
+        "tahara-blut-wudu"
+    ],
+    "sources": [
+        {
+            "title": "Fatawa Zeitgenössischer Gelehrter",
+            "author": "Diverse",
+            "url": "https://islamqa.info"
+        }
+    ]
+}

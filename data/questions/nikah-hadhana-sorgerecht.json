@@ -1,0 +1,77 @@
+{
+    "id": "nikah-hadhana-sorgerecht",
+    "slug": "sorgerecht-nach-scheidung-islam-hadhana-urteil",
+    "category": "nikah",
+    "subcategory": "",
+    "question_de": "Wer erhält nach einer Scheidung im Islam das Sorgerecht für die Kinder?",
+    "question_ar": "حكم الحضانة بعد الطلاق في الإسلام",
+    "search_aliases": [
+        "Sorgerecht Islam",
+        "Kinder nach Scheidung",
+        "Hadhana Islam",
+        "Mutter Sorgerecht",
+        "Vater Sorgerecht Islam"
+    ],
+    "context_de": "Bei einer Trennung steht das Wohl des Kindes (Maslaha) im Vordergrund des islamischen Rechts, wobei das Alter des Kindes eine zentrale Rolle spielt.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Die Mutter hat Vorrang (Hadhana)",
+            "label_ar": "الأم أحق بالحضانة",
+            "description_de": "Solange das Kind klein ist (Stillzeit und frühe Kindheit), hat die Mutter das vorrangige Recht auf das Sorgerecht, es sei denn, sie heiratet erneut.",
+            "scholars": [
+                "abu-hanifa",
+                "malik-ibn-anas",
+                "al-shafii",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "hanafi",
+                "maliki",
+                "shafii",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sunan Abu Dawud, Nr. 2276",
+                    "text_de": "Eine Frau sagte: ‚O Gesandter Allahs, mein Schoß war ein Gefäß für meinen Sohn... nun will sein Vater ihn mir wegnehmen.' Er ﷺ sagte: ‚Du hast mehr Recht auf ihn, solange du nicht (erneut) heiratest.'",
+                    "hadith_grade": "hasan",
+                    "graded_by": "Al-Albani"
+                }
+            ],
+            "historical_context_de": "Die Hadhana (Pflege/Sorgerecht) dient dem Schutz und der Zuwendung, die in jungen Jahren meist von der Mutter besser geleistet werden kann."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Wahlrecht des Kindes (ab einem bestimmten Alter)",
+            "label_ar": "تخيير الولد بين أبويه",
+            "description_de": "Wenn das Kind das Alter der Vernunft (Tamyiz, ca. 7 Jahre) erreicht, darf es in einigen Rechtsschulen wählen, bei welchem Elternteil es leben möchte.",
+            "scholars": [
+                "al-shafii",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "shafii",
+                "hanbali"
+            ],
+            "explanation_de": "Die Entscheidung basiert darauf, bei wem das Kind eine bessere religiöse und moralische Erziehung erhält."
+        }
+    ],
+    "related_questions": [
+        "nikah-scheidung-dreifach",
+        "muamalat-adoption-kafala"
+    ],
+    "sources": [
+        {
+            "title": "Bidayat al-Mujtahid",
+            "author": "Ibn Rushd",
+            "url": "https://shamela.ws/book/22375"
+        },
+        {
+            "title": "Al-Mughni",
+            "author": "Ibn Qudama",
+            "url": "https://shamela.ws/book/6946"
+        }
+    ]
+}

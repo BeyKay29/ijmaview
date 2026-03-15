@@ -1,0 +1,98 @@
+{
+    "id": "zakah-goldschmuck-frauen",
+    "slug": "zakah-goldschmuck-frauen",
+    "category": "zakah",
+    "subcategory": "",
+    "question_de": "Muss Zakah auf Goldschmuck entrichtet werden, den Frauen tragen?",
+    "question_ar": "هل تجب الزكاة في حلي المرأة المستعمل؟",
+    "search_aliases": [
+        "Zakah Gold",
+        "Zakat Schmuck",
+        "Gold Frauen Zakat",
+        "Schmuck Pflichtabgabe",
+        "Goldschmuck Zakat pflichtig"
+    ],
+    "context_de": "Diese Frage betrifft viele muslimische Frauen, die Goldschmuck besitzen und tragen. Muss auf getragenen Schmuck, der nicht als Wertanlage dient, Zakah gezahlt werden?",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Zakah ist pflichtig auf getragenen Goldschmuck",
+            "label_ar": "تجب الزكاة في الحلي المستعمل",
+            "description_de": "Auf Goldschmuck, der den Nisab erreicht, muss Zakah entrichtet werden, unabhängig davon, ob er getragen wird oder nicht.",
+            "scholars": [
+                "abu-hanifa"
+            ],
+            "madhabs": [
+                "hanafi"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "quran",
+                    "reference": "Sure 9:34 (At-Tawba)",
+                    "text_ar": "وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ وَالْفِضَّةَ وَلَا يُنفِقُونَهَا فِي سَبِيلِ اللَّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+                    "text_de": "Und diejenigen, die Gold und Silber horten und es nicht auf dem Wege Allahs ausgeben – ihnen verkünde eine schmerzhafte Strafe.",
+                    "explanation_de": "Abu Hanifa versteht diesen Vers allgemein: Jedes Gold, das den Nisab erreicht und ein Jahr lang im Besitz ist, unterliegt der Zakah-Pflicht. Eine Ausnahme für Schmuck sieht er im Vers nicht."
+                },
+                {
+                    "type": "hadith",
+                    "reference": "Sunan Abu Dawud, Nr. 1563",
+                    "text_ar": "أن امرأة أتت النبي ﷺ ومعها ابنة لها وفي يد ابنتها مسكتان من ذهب فقال أتؤدين زكاة هذا قالت لا قال أيسرك أن يسورك الله بهما سوارين من نار",
+                    "text_de": "Eine Frau kam zum Propheten ﷺ mit ihrer Tochter, die zwei goldene Armreifen trug. Er fragte: 'Zahlst du die Zakah dafür?' Sie sagte: 'Nein.' Er sagte: 'Würde es dir gefallen, wenn Allah dir dafür am Tag der Auferstehung zwei Armreifen aus Feuer anlegen würde?'",
+                    "hadith_grade": "hasan",
+                    "graded_by": "Abu Dawud / Al-Albani",
+                    "explanation_de": "Dieser Hadith ist ein direkter Beleg dafür, dass der Prophet ﷺ Zakah auf getragenen Schmuck verlangte. Die Hanafiten sehen dies als klaren Beweis für die Zakah-Pflicht auf jegliches Gold."
+                }
+            ],
+            "historical_context_de": "Abu Hanifa folgt hier der wörtlichen Auslegung sowohl des Koranverses als auch des Hadith. Im Irak seiner Zeit war Goldbesitz ein bedeutender Wirtschaftsfaktor, und seine Position spiegelt das Bestreben wider, die Zakah-Pflicht umfassend anzuwenden."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Keine Zakah auf getragenen Schmuck",
+            "label_ar": "لا تجب الزكاة في الحلي المستعمل",
+            "description_de": "Auf Goldschmuck, der regelmäßig getragen wird und dem persönlichen Gebrauch dient, muss keine Zakah entrichtet werden.",
+            "scholars": [
+                "malik-ibn-anas",
+                "al-shafii",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "maliki",
+                "shafii",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Al-Muwatta, Kitab az-Zakah; Musannaf Ibn Abi Schayba",
+                    "text_ar": "أن عائشة رضي الله عنها كانت تحلي بنات أخيها يتامى في حجرها فلا تخرج منه الزكاة",
+                    "text_de": "Aischa (r.a.) legte den Waisenmädchen ihres Bruders Schmuck an und zahlte darauf keine Zakah.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Malik ibn Anas",
+                    "explanation_de": "Die Praxis der Ehefrau des Propheten ﷺ wird als starker Beleg dafür angesehen, dass getragener Schmuck nicht der Zakah-Pflicht unterliegt. Die drei Rechtsschulen argumentieren, dass Schmuck zum persönlichen Gebrauch kein 'gehortetes' Gold ist."
+                }
+            ],
+            "historical_context_de": "Die Mehrheit der Gelehrten unterscheidet zwischen Gold als Wertanlage und Gold als Schmuck zum Tragen. Diese Unterscheidung basiert auf der Praxis mehrerer Gefährten des Propheten ﷺ, darunter Aischa, Abdullah ibn Umar und Jabir ibn Abdullah."
+        }
+    ],
+    "related_questions": [
+        "tahara-nagellack-gebet",
+        "siyam-zahnpasta-fasten"
+    ],
+    "sources": [
+        {
+            "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
+            "author": "Kuwaiti Ministry of Awqaf",
+            "url": "https://islamweb.net"
+        },
+        {
+            "title": "Bidayat al-Mujtahid",
+            "author": "Ibn Rushd",
+            "url": "https://shamela.ws/book/22375"
+        },
+        {
+            "title": "Al-Mughni",
+            "author": "Ibn Qudama",
+            "url": "https://shamela.ws/book/6946"
+        }
+    ]
+}

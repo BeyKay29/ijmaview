@@ -1,0 +1,115 @@
+{
+    "id": "salah-tarawih-rakat",
+    "slug": "tarawih-gebet-anzahl-rakat",
+    "category": "salah",
+    "subcategory": "arten",
+    "question_de": "Wie viele Raka'at werden im Tarawih-Gebet gebetet? 8 oder 20?",
+    "question_ar": "عدد ركعات صلاة التراويح؟",
+    "search_aliases": [
+        "Tarawih Rakat",
+        "Tarawih 8 oder 20",
+        "Anzahl Tarawih",
+        "Ramadan Gebet Rakat",
+        "Tarawih Sunna"
+    ],
+    "context_de": "Während des Ramadan versammeln sich Muslime zum Tarawih-Gebet. Die Frage nach der richtigen Anzahl der Raka'at führt oft zu Diskussionen in den Moscheen.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "20 Raka'at (Die etablierte Praxis der Rechtsschulen)",
+            "label_ar": "عشرون ركعة – مذهب الجمهور",
+            "description_de": "Die vier Rechtsschulen betrachten 20 Raka'at (plus 3 Witr) als die etablierte Sunna, basierend auf der Praxis seit der Zeit von Umar ibn al-Khattab (r.a.).",
+            "scholars": [
+                "abu-hanifa",
+                "al-shafii",
+                "ahmad-ibn-hanbal",
+                "an-nawawi",
+                "al-ghazali"
+            ],
+            "madhabs": [
+                "hanafi",
+                "shafii",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Al-Muwatta; Sunan al-Kubra (Al-Baihaqi)",
+                    "text_ar": "أن الناس كانوا يقومون في زمان عمر بن الخطاب في رمضان بعشرين ركعة",
+                    "text_de": "Die Menschen pflegten zur Zeit von Umar ibn al-Khattab im Ramadan zwanzig Raka'at zu beten.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "An-Nawawi / Az-Zarkaschi",
+                    "explanation_de": "Umar (r.a.) versammelte die Menschen hinter einem Imam (Ubayy ibn Ka'b), und sie beteten 20 Einheiten. Da kein Gefährte widersprach, gilt dies als stillschweigender Konsens (Ijma Sukuti)."
+                }
+            ],
+            "historical_context_de": "Diese Praxis wurde über ein Jahrtausend in den heiligen Moscheen von Mekka und Medina sowie in der gesamten muslimischen Welt als Standard beibehalten."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "36 Raka'at (Die Praxis von Medina)",
+            "label_ar": "ست وثلاثون ركعة – مذهب مالك",
+            "description_de": "Imam Malik bevorzugte 36 Raka'at, da dies die Praxis der Bewohner Medinas zu seiner Zeit war.",
+            "scholars": [
+                "malik-ibn-anas"
+            ],
+            "madhabs": [
+                "maliki"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Al-Muwatta",
+                    "text_ar": "كان الناس يقومون في زمان أبان بن عثمان وعمر بن عبد العزيز بست وثلاثين ركعة",
+                    "text_de": "Die Menschen beteten zur Zeit von Umar ibn Abd al-Aziz sechsunddreißig Raka'at.",
+                    "explanation_de": "Die Bewohner Medinas wollten mit den Bewohnern Mekkas gleichziehen. Da die Mekkaner nach jeweils vier Raka'at den Tawaf (Umkreisung der Kaaba) machten, fügten die Medinenser zusätzliche Gebetseinheiten anstelle des Tawaf hinzu."
+                }
+            ],
+            "historical_context_de": "Imam Malik sah in der Praxis der Medinenser ('Amal Ahl al-Madina) eine starke Rechtsquelle, die er hier über die Praxis in anderen Städten stellte."
+        },
+        {
+            "id": "pos-3",
+            "label_de": "8 Raka'at (Basierend auf dem Gebet des Propheten)",
+            "label_ar": "ثماني ركعات",
+            "description_de": "Es gibt keine feste Begrenzung, aber 8 Raka'at entsprechen der Zahl, die der Prophet ﷺ gewöhnlich im Nachtgebet verrichtete.",
+            "scholars": [
+                "ibn-taymiyya"
+            ],
+            "madhabs": [
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari, Nr. 1147",
+                    "text_ar": "ما كان رسول الله ﷺ يزيد في رمضان ولا في غيره على إحدى عشرة ركعة",
+                    "text_de": "Aischa (r.a.) berichtete: Der Gesandte Allahs ﷺ betete weder im Ramadan noch außerhalb davon mehr als elf Raka'at (8 Tarawih + 3 Witr).",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Bukhari / Muslim",
+                    "explanation_de": "Ibn Taymiyya und modernere Gelehrte betonen, dass Qualität vor Quantität geht. Er hielt 8, 20 oder mehr für erlaubt, wobei er 8 als näher am persönlichen Gebet des Propheten sah."
+                }
+            ],
+            "historical_context_de": "Die Beschränkung auf 8 Raka'at wurde besonders im 20. Jahrhundert durch Reformbewegungen populär, die sich direkt auf diesen Hadith von Aischa beriefen."
+        }
+    ],
+    "related_questions": [
+        "salah-witr-gebet",
+        "salah-haende-binden"
+    ],
+    "sources": [
+        {
+            "title": "Al-Majmu'",
+            "author": "Imam an-Nawawi",
+            "url": "https://shamela.ws/book/384"
+        },
+        {
+            "title": "Al-Mughni",
+            "author": "Ibn Qudama",
+            "url": "https://shamela.ws/book/6946"
+        },
+        {
+            "title": "Majmu' al-Fatawa",
+            "author": "Ibn Taymiyya",
+            "url": "https://shamela.ws/book/505"
+        }
+    ]
+}

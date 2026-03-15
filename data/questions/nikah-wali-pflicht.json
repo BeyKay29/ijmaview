@@ -1,0 +1,107 @@
+{
+    "id": "nikah-wali-pflicht",
+    "slug": "wali-pflicht-eheschliessung",
+    "category": "nikah",
+    "subcategory": "",
+    "question_de": "Ist ein Wali (Eheschließungsvormund) für die Gültigkeit der Ehe erforderlich?",
+    "question_ar": "هل يُشترط الولي لصحة النكاح؟",
+    "search_aliases": [
+        "Wali Ehe",
+        "Vormund Heirat Islam",
+        "Heirat ohne Wali",
+        "Wali Nikah Pflicht",
+        "Eheschließung Vormund"
+    ],
+    "context_de": "Die Frage, ob eine Frau einen Ehevormund (Wali) benötigt, um eine gültige Ehe zu schließen, ist eine der wichtigsten Streitfragen im islamischen Familienrecht und hat direkte praktische Auswirkungen.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Wali ist Bedingung – Ehe ohne Wali ungültig",
+            "label_ar": "الولي شرط – لا نكاح بغير ولي",
+            "description_de": "Die Ehe einer Frau ist ohne die Zustimmung und Beteiligung ihres Wali (männlicher Eheschließungsvormund) ungültig.",
+            "scholars": [
+                "malik-ibn-anas",
+                "al-shafii",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "maliki",
+                "shafii",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sunan Abu Dawud, Nr. 2085; Sunan at-Tirmidhi, Nr. 1101",
+                    "text_ar": "لا نكاح إلا بولي",
+                    "text_de": "Es gibt keine Ehe ohne Wali (Vormund).",
+                    "hadith_grade": "sahih",
+                    "graded_by": "At-Tirmidhi / Ibn Hibban",
+                    "explanation_de": "Dieser Hadith wird von der Mehrheit als klarer Beleg dafür angesehen, dass der Wali eine zwingend notwendige Bedingung für die Gültigkeit der Ehe ist."
+                },
+                {
+                    "type": "hadith",
+                    "reference": "Sunan Ibn Maja, Nr. 1879",
+                    "text_ar": "أيما امرأة نكحت بغير إذن وليها فنكاحها باطل",
+                    "text_de": "Welche Frau auch immer ohne die Erlaubnis ihres Wali heiratet, deren Ehe ist ungültig.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Ahmad / Abu Dawud",
+                    "explanation_de": "Dieser Hadith verwendet das starke Wort 'batil' (ungültig), was die drei Rechtsschulen als eindeutigen Beweis für die Notwendigkeit des Wali werten."
+                }
+            ],
+            "historical_context_de": "Die Mehrheitsposition stützt sich auf zahlreiche Überlieferungen und die Praxis der Gefährten. Die Gelehrten dieser Schulen betonen den Schutzcharakter des Wali-Erfordernisses für die Frau."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Erwachsene Frau kann ohne Wali heiraten",
+            "label_ar": "المرأة البالغة العاقلة تزوج نفسها",
+            "description_de": "Eine erwachsene, zurechnungsfähige Frau kann ihre Ehe selbst schließen, ohne dass die Zustimmung eines Wali erforderlich ist.",
+            "scholars": [
+                "abu-hanifa"
+            ],
+            "madhabs": [
+                "hanafi"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "quran",
+                    "reference": "Sure 2:232 (Al-Baqara)",
+                    "text_ar": "فَلَا تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَاجَهُنَّ",
+                    "text_de": "…so hindert sie nicht daran, ihre Gatten zu heiraten…",
+                    "explanation_de": "Abu Hanifa argumentiert, dass der Vers die Eheschließung der Frau selbst zuschreibt ('dass sie ihre Gatten heiraten'). Dies zeige, dass die Frau das Recht hat, ihre Ehe eigenständig zu schließen."
+                },
+                {
+                    "type": "hadith",
+                    "reference": "Sahih Muslim, Nr. 1421",
+                    "text_ar": "الأيم أحق بنفسها من وليها",
+                    "text_de": "Die zuvor verheiratete Frau hat mehr Recht über sich selbst als ihr Wali.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Muslim ibn al-Hajjaj",
+                    "explanation_de": "Die Hanafiten verstehen diesen Hadith so, dass die Frau – insbesondere die zuvor verheiratete – volle Verfügungsgewalt über ihre Eheschließung hat, da sie 'mehr Recht über sich selbst' hat als der Wali."
+                }
+            ],
+            "historical_context_de": "Abu Hanifas Position war in seiner Zeit und Region (Kufa/Irak) verbreitet. Sie spiegelt seine generelle Methodik wider, der Frau im Vertragsrecht volle Geschäftsfähigkeit zuzuerkennen – analog zu anderen Rechtsgeschäften."
+        }
+    ],
+    "related_questions": [
+        "tahara-beruehrung-wudu",
+        "salah-haende-binden"
+    ],
+    "sources": [
+        {
+            "title": "Bidayat al-Mujtahid",
+            "author": "Ibn Rushd",
+            "url": "https://shamela.ws/book/22375"
+        },
+        {
+            "title": "Al-Hidaya",
+            "author": "Al-Marghinani",
+            "url": "https://shamela.ws/book/913"
+        },
+        {
+            "title": "Al-Mughni",
+            "author": "Ibn Qudama",
+            "url": "https://shamela.ws/book/6946"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "id": "siyam-schwangerschaft",
+    "slug": "fasten-schwangerschaft-stillen-urteil",
+    "category": "siyam",
+    "subcategory": "",
+    "question_de": "Dürfen/Müssen schwangere oder stillende Frauen fasten?",
+    "question_ar": "حكم صيام الحامل والمرضع",
+    "search_aliases": [
+        "Schwangerschaft Fasten",
+        "Stillen Fasten",
+        "Ramadan Stillen",
+        "Fasten brechen Schwanger",
+        "Fidya Schwangerschaft"
+    ],
+    "context_de": "Schwangere und stillende Frauen haben oft Sorge um ihre Gesundheit oder die des Kindes. Der Islam gewährt hier spezifische Erleichterungen.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Nachholen ist Pflicht (wie Kranke/Reisende)",
+            "label_ar": "يجب القضاء فقط",
+            "description_de": "Schwangere und Stillende dürfen das Fasten brechen, wenn sie Schaden fürchten. Sie müssen die verpassten Tage später nachholen.",
+            "scholars": [
+                "abu-hanifa"
+            ],
+            "madhabs": [
+                "hanafi"
+            ],
+            "explanation_de": "Abu Hanifa stuft sie wie Kranke ein: Sie nutzen die Erlaubnis und leisten später Ersatz durch Nachholen (Qada)."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Nachholen UND Fidya (Armenspeisung)",
+            "label_ar": "القضاء مع الفدية",
+            "description_de": "Wenn sie um das Kind fürchten, müssen sie nachholen und zusätzlich für jeden Tag eine Speisung (Fidya) leisten.",
+            "scholars": [
+                "al-shafii",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "shafii",
+                "hanbali"
+            ],
+            "historical_context_de": "Diese Schulen unterscheiden oft, ob die Sorge der eigenen Gesundheit oder der des Kindes gilt."
+        },
+        {
+            "id": "pos-3",
+            "label_de": "NUR Fidya (Ersatzleistung) reicht aus",
+            "label_ar": "الفدية فقط ولا قضاء",
+            "description_de": "Sie müssen nicht nachholen, sondern lediglich für jeden verpassten Tag einen Armen speisen.",
+            "scholars": [
+                "ibn-abbas",
+                "ibn-umar"
+            ],
+            "explanation_de": "Dies war die Meinung einiger prominenter Gefährten (Sahaba), um die Härte für Frauen zu mildern, die oft über Jahre hinweg entweder schwanger sind oder stillen."
+        }
+    ],
+    "related_questions": [
+        "siyam-niyyah-fasten",
+        "tahara-haid-gebet-nachholen"
+    ],
+    "sources": [
+        {
+            "title": "Bidayat al-Mujtahid",
+            "author": "Ibn Rushd",
+            "url": "https://shamela.ws/book/22375"
+        },
+        {
+            "title": "Al-Mughni",
+            "author": "Ibn Qudama",
+            "url": "https://shamela.ws/book/6946"
+        }
+    ]
+}

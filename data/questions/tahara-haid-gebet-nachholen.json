@@ -1,0 +1,67 @@
+{
+    "id": "tahara-haid-gebet-nachholen",
+    "slug": "gebet-nachholen-nach-menstruation",
+    "category": "tahara",
+    "subcategory": "menstruation",
+    "question_de": "Muss eine Frau die Gebete, die sie während der Menstruation verpasst hat, nachholen?",
+    "question_ar": "هل يجب على الحائض قضاء الصلاة؟",
+    "search_aliases": [
+        "Menstruation Gebet nachholen",
+        "Haid Gebet",
+        "Gebet verpasst Periode",
+        "Periode Gebet nachholen",
+        "Frau Gebet Menstruation"
+    ],
+    "context_de": "Dies ist eine der grundlegenden Fragen zur rituellen Reinheit der Frau. Es herrscht in dieser Frage ein seltener Konsens (Ijma) unter allen Gelehrten.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Gebete müssen NICHT nachgeholt werden (Ijma)",
+            "label_ar": "لا يجب قضاء الصلاة بالإجماع",
+            "description_de": "Eine Frau muss die Gebete, die sie aufgrund ihrer Menstruation oder des Wochenbetts (Nifas) ausgelassen hat, nicht nachholen. Das Fasten hingegen muss nachgeholt werden.",
+            "scholars": [
+                "abu-hanifa",
+                "malik-ibn-anas",
+                "al-shafii",
+                "ahmad-ibn-hanbal",
+                "an-nawawi",
+                "al-ghazali",
+                "ibn-taymiyya"
+            ],
+            "madhabs": [
+                "hanafi",
+                "maliki",
+                "shafii",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari, Nr. 321; Sahih Muslim",
+                    "text_ar": "كان يصيبنا ذلك، فنؤمر بقضاء الصوم، ولا نؤمر بقضاء الصلاة",
+                    "text_de": "Aischa (r.a.) sagte: ‚Dies (die Menstruation) geschah uns, und uns wurde befohlen, das Fasten nachzuholen, aber uns wurde nicht befohlen, das Gebet nachzuholen.'",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Bukhari / Muslim",
+                    "explanation_de": "Dieser Hadith ist der eindeutige Beleg für den Unterschied zwischen Gebet und Fasten. Da Gebete fünfmal täglich stattfinden, wäre das Nachholen eine übermäßige Härte (Maschaqqa), während das Fasten nur einmal im Jahr stattfindet."
+                }
+            ],
+            "historical_context_de": "Alle muslimischen Gelehrten seit der Zeit der Gefährten sind sich in dieser Frage einig. Es gibt keine nennenswerte abweichende Meinung in der Geschichte des sunnitischen Fiqh."
+        }
+    ],
+    "related_questions": [
+        "siyam-niyyah-fasten",
+        "tahara-beruehrung-wudu"
+    ],
+    "sources": [
+        {
+            "title": "Sharh Sahih Muslim",
+            "author": "Imam an-Nawawi",
+            "url": "https://shamela.ws/book/1711"
+        },
+        {
+            "title": "Al-Mughni",
+            "author": "Ibn Qudama",
+            "url": "https://shamela.ws/book/6946"
+        }
+    ]
+}

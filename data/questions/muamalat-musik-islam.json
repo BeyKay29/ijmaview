@@ -1,0 +1,90 @@
+{
+    "id": "salah-musik-haram",
+    "slug": "musik-erlaubt-verboten-islam",
+    "category": "muamalat",
+    "subcategory": "",
+    "question_de": "Ist Musik im Islam erlaubt oder verboten?",
+    "question_ar": "هل الموسيقى حرام في الإسلام؟",
+    "search_aliases": [
+        "Musik Islam",
+        "Musik haram",
+        "Instrumente Islam",
+        "Singen Islam",
+        "Musik erlaubt",
+        "Musikinstrumente verboten"
+    ],
+    "context_de": "Die Frage nach dem islamischen Urteil über Musik gehört zu den meistdiskutierten und kontroversesten Themen in der islamischen Rechtswissenschaft. Sie betrifft das tägliche Leben nahezu aller Muslime.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Musikinstrumente sind verboten (haram)",
+            "label_ar": "المعازف حرام",
+            "description_de": "Das Hören und Spielen von Musikinstrumenten ist verboten. Erlaubt ist lediglich die Duff (Rahmentrommel) bei bestimmten Anlässen wie Hochzeiten.",
+            "scholars": [
+                "ahmad-ibn-hanbal",
+                "malik-ibn-anas"
+            ],
+            "madhabs": [
+                "hanbali",
+                "maliki"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari, Nr. 5590",
+                    "text_ar": "ليكونن من أمتي أقوام يستحلون الحر والحرير والخمر والمعازف",
+                    "text_de": "Es werden Leute aus meiner Umma kommen, die Unzucht, Seide, Alkohol und Musikinstrumente für erlaubt erklären.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Bukhari",
+                    "explanation_de": "Die Hanbaliten und Malikiten sehen diesen Hadith als klaren Beweis für das Verbot von Musikinstrumenten. Die Tatsache, dass Ma'azif (Musikinstrumente) neben eindeutig verbotenen Dingen wie Alkohol und Unzucht erwähnt werden, verstärkt das Verbot."
+                }
+            ],
+            "historical_context_de": "Ahmad ibn Hanbal war bekannt für seine strenge Haltung in Fragen der Unterhaltung. Die hanbalitische Schule vertritt traditionell die restriktivste Position zum Thema Musik. Die malikitische Schule folgt einem ähnlichen Ansatz."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Musik ist grundsätzlich erlaubt (mit Einschränkungen)",
+            "label_ar": "الأصل في الغناء الإباحة",
+            "description_de": "Musik und Gesang sind grundsätzlich erlaubt, solange der Inhalt nicht zu Verbotenem aufruft und kein übermäßiger Zeitaufwand betrieben wird.",
+            "scholars": [
+                "abu-hanifa"
+            ],
+            "madhabs": [
+                "hanafi"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari, Nr. 952; Sahih Muslim, Nr. 892",
+                    "text_ar": "أن أبا بكر دخل على عائشة وعندها جاريتان تغنيان وتدففان فقال النبي ﷺ دعهما يا أبا بكر فإنها أيام عيد",
+                    "text_de": "Abu Bakr betrat das Haus von Aischa, wo zwei Mädchen sangen und auf der Duff spielten. Der Prophet ﷺ sagte: 'Lass sie, o Abu Bakr, denn es sind Festtage.'",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Bukhari / Muslim",
+                    "explanation_de": "Einige hanafitische Gelehrte und Ibadhi-Gelehrte wie Abu Hamid al-Ghazali argumentieren, dass Gesang und Musik grundsätzlich erlaubt (mubah) sind. Der Hadith in Bukhari zeigt, dass der Prophet ﷺ Gesang und Duff zuließ."
+                }
+            ],
+            "historical_context_de": "Die permissivere Position findet sich bei einigen hanafitischen Gelehrten und wurde historisch von Gelehrten wie Abu Hamid al-Ghazali in seinem Ihya Ulum ad-Din ausführlich verteidigt. Die Verteidiger dieser Position argumentieren, dass die Verbots-Hadithe sich auf Kontexte beziehen, in denen Musik mit anderen verbotenen Aktivitäten verbunden war."
+        }
+    ],
+    "related_questions": [
+        "muamalat-riba-bankzins",
+        "muamalat-versicherung-islam"
+    ],
+    "sources": [
+        {
+            "title": "Sahih al-Bukhari",
+            "author": "Imam al-Bukhari",
+            "url": "https://sunnah.com/bukhari"
+        },
+        {
+            "title": "Ihya Ulum ad-Din",
+            "author": "Abu Hamid al-Ghazali",
+            "url": "https://shamela.ws/book/1500"
+        },
+        {
+            "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
+            "author": "Kuwaiti Ministry of Awqaf",
+            "url": "https://islamweb.net"
+        }
+    ]
+}

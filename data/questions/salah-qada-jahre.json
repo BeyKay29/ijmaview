@@ -1,0 +1,90 @@
+{
+    "id": "salah-qada-jahre",
+    "slug": "verpasste-gebete-nachholen-jahre",
+    "category": "salah",
+    "subcategory": "voraussetzungen",
+    "question_de": "Muss man Gebete, die man über Jahre hinweg absichtlich verpasst hat, nachholen?",
+    "question_ar": "هل يجب قضاء الصلوات الفائتة لسنوات؟",
+    "search_aliases": [
+        "Qada Gebet",
+        "Gebet nachholen Jahre",
+        "Absichtlich verpasste Gebete",
+        "Gebetsschulden",
+        "Nachholen Pflichtgebet"
+    ],
+    "context_de": "Viele Muslime, die zum Glauben zurückfinden, fragen sich, wie sie mit den Gebeten umgehen sollen, die sie in ihrer Jugend oder über lange Zeiträume versäumt haben.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Nachholen ist Pflicht (Mehrheit)",
+            "label_ar": "يجب القضاء - مذهب الجمهور",
+            "description_de": "Alle vier Rechtsschulen sind sich einig, dass verpasste Gebete so schnell wie möglich nachgeholt werden müssen, unabhängig davon, ob sie vergessen oder absichtlich ausgelassen wurden.",
+            "scholars": [
+                "abu-hanifa",
+                "malik-ibn-anas",
+                "al-shafii",
+                "ahmad-ibn-hanbal",
+                "an-nawawi"
+            ],
+            "madhabs": [
+                "hanafi",
+                "maliki",
+                "shafii",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari; Sahih Muslim",
+                    "text_ar": "من نسي صلاة فليصلها إذا ذكرها",
+                    "text_de": "Wer ein Gebet vergisst, soll es beten, sobald er sich daran erinnert.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Bukhari / Muslim",
+                    "explanation_de": "Die Gelehrten argumentieren per Analogie (Qiyas): Wenn das Gebet schon beim Vergessen nachgeholt werden muss, dann erst recht bei absichtlichem Verpassen, da dies eine größere Schuld bei Allah darstellt."
+                }
+            ],
+            "historical_context_de": "Diese Meinung ist der historische Konsens der Rechtsschulen. Es werden oft 'Qada-Pläne' erstellt, bei denen man zu jedem aktuellen Gebet ein verpasstes Gebet nacholt."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Bereue und vermehre freiwillige Gebete",
+            "label_ar": "التوبة وكثرة النوافل",
+            "description_de": "Absichtlich verpasste Gebete können nicht nachgeholt werden. Man muss aufrichtig bereuen und vermehrt freiwillige Gebete (Sunna/Nawafil) verrichten.",
+            "scholars": [
+                "ibn-taymiyya",
+                "ibn-qayyim"
+            ],
+            "madhabs": [
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sunan at-Tirmidhi, Nr. 413",
+                    "text_ar": "أول ما يحاسب به العبد يوم القيامة من عمله صلاته... فإن انتقص من فريضته شيء قال الرب: انظروا هل لعبدي من تطوع؟",
+                    "text_de": "Das Erste, worüber der Diener am Tag der Auferstehung zur Rechenschaft gezogen wird, ist sein Gebet... Wenn etwas an seinen Pflichtgebeten fehlt, sagt der Herr: ‚Schaut, ob Mein Diener freiwillige Gebete hat?'",
+                    "hadith_grade": "sahih",
+                    "graded_by": "At-Tirmidhi",
+                    "explanation_de": "Ibn Taymiyya argumentiert, dass das Gebet an eine feste Zeit gebunden ist. Verpasst man diese absichtlich, verfällt die Zeit. Daher hilft nur Reue und die Deckung der Lücken durch Nawafil am Tag des Gerichts."
+                }
+            ],
+            "historical_context_de": "Dies ist eine Minderheitenmeinung, die heute oft als Erleichterung für Menschen herangezogen wird, die Jahrzehnte nicht gebetet haben und vom Nachholen Tausender Gebete entmutigt wären."
+        }
+    ],
+    "related_questions": [
+        "salah-witr-gebet",
+        "salah-zusammenlegen-gebete"
+    ],
+    "sources": [
+        {
+            "title": "Majmu' al-Fatawa",
+            "author": "Ibn Taymiyya",
+            "url": "https://shamela.ws/book/505"
+        },
+        {
+            "title": "Al-Majmu'",
+            "author": "Imam an-Nawawi",
+            "url": "https://shamela.ws/book/384"
+        }
+    ]
+}

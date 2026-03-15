@@ -1,0 +1,111 @@
+{
+    "id": "tahara-flüssigkeiten-unterscheidung",
+    "slug": "unterschied-mani-madhi-wadi-reinheit",
+    "category": "tahara",
+    "subcategory": "ghusl",
+    "question_de": "Was ist der Unterschied zwischen Mani, Madhi und Wadi? Welche Reinigung ist nötig?",
+    "question_ar": "الفرق بين المني والمذي والودي؟ وما يجب لكل منها؟",
+    "search_aliases": [
+        "Mani Madhi Wadi",
+        "Sperma Unreinheit",
+        "Lusttropfen Wudu",
+        "Harnröhrenausfluss",
+        "Ghusl oder Wudu"
+    ],
+    "context_de": "Für die richtige Ausführung von Wudu und Ghusl ist es wichtig, die verschiedenen Körperflüssigkeiten zu unterscheiden, da sie unterschiedliche Auswirkungen auf den Reinheitsstatus haben.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Mani (Sperma) erfordert Ghusl",
+            "label_ar": "المني يوجب الغسل",
+            "description_de": "Mani ist die weißliche, dicke Flüssigkeit, die bei Lustempfinden austritt. Ihr Austritt (ob im Schlaf oder wach) macht Ghusl (Vollwaschung) zur Pflicht.",
+            "scholars": [
+                "abu-hanifa",
+                "malik-ibn-anas",
+                "al-shafii",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "hanafi",
+                "maliki",
+                "shafii",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih Muslim, Nr. 312",
+                    "text_ar": "إنما الماء من الماء",
+                    "text_de": "Das Wasser (Ghusl) ist nur wegen des Wassers (Mani) nötig.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Muslim ibn al-Hajjaj"
+                }
+            ],
+            "historical_context_de": "Über die Reinheit des Mani als Substanz gibt es Streit: Schafiiten/Hanbaliten sagen rein (tahir), Hanafiten/Malikiten sagen unrein (najis)."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Madhi (Lusttropfen) erfordert nur Wudu",
+            "label_ar": "المذي يوجب الوضوء",
+            "description_de": "Madhi ist eine dünne, klare Flüssigkeit, die bei ersten Lustgedanken oder Vorspiel austritt. Er ist Najis (unrein), erfordert aber nur das Waschen des Organs und Wudu.",
+            "scholars": [
+                "abu-hanifa",
+                "malik-ibn-anas",
+                "al-shafii",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "hanafi",
+                "maliki",
+                "shafii",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari, Nr. 269",
+                    "text_ar": "توضأ واغسل ذكرك",
+                    "text_de": "Mache Wudu und wasche dein Glied.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Bukhari"
+                }
+            ],
+            "historical_context_de": "Ali ibn Abi Talib (r.a.) fragte den Propheten ﷺ über Madhi, da er sich schämte, selbst zu fragen."
+        },
+        {
+            "id": "pos-3",
+            "label_de": "Wadi (nach dem Urinieren) erfordert nur Wudu",
+            "label_ar": "الودي يوجب الوضوء",
+            "description_de": "Wadi ist eine dicke, weiße Flüssigkeit, die manchmal nach dem Urinieren austritt. Er wird wie Urin behandelt (waschen + Wudu).",
+            "scholars": [
+                "abu-hanifa",
+                "malik-ibn-anas",
+                "al-shafii",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "hanafi",
+                "maliki",
+                "shafii",
+                "hanbali"
+            ],
+            "historical_context_de": "Es herrscht Übereinkunft (Ijma), dass Wadi den Wudu bricht, aber keinen Ghusl erfordert."
+        }
+    ],
+    "related_questions": [
+        "tahara-ghusl-pflicht",
+        "tahara-schlaf-wudu"
+    ],
+    "sources": [
+        {
+            "title": "Al-Majmu'",
+            "author": "Imam an-Nawawi",
+            "url": "https://shamela.ws/book/384"
+        },
+        {
+            "title": "Al-Mughni",
+            "author": "Ibn Qudama",
+            "url": "https://shamela.ws/book/6946"
+        }
+    ]
+}

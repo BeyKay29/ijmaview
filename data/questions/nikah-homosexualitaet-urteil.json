@@ -1,0 +1,84 @@
+{
+    "id": "nikah-homosexualitaet-urteil",
+    "slug": "homosexualitaet-urteil-islam",
+    "category": "nikah",
+    "subcategory": "",
+    "question_de": "Wie ist das islamische Urteil über Homosexualität?",
+    "question_ar": "ما حكم اللواط والمثلية الجنسية في الإسلام؟",
+    "search_aliases": [
+        "Homosexualität Islam",
+        "Schwul Islam",
+        "Liwat Islam",
+        "Gleichgeschlechtlich Islam",
+        "LGBT Islam",
+        "Homosexualität Urteil"
+    ],
+    "context_de": "Die Frage nach dem islamischen Urteil über homosexuelle Handlungen wird in den klassischen Fiqh-Werken unter dem Kapitel der Strafen (Hudud) und der verbotenen Handlungen behandelt. Alle vier Rechtsschulen betrachten homosexuelle Handlungen als schwere Sünde (Kabira), basierend auf Quran und Sunna.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Homosexuelle Handlungen sind verboten (Ijma)",
+            "label_ar": "اللواط حرام بالإجماع",
+            "description_de": "Alle vier Rechtsschulen sind sich einig, dass homosexuelle Handlungen (Liwat) im Islam verboten sind. Dies basiert auf klaren Quran-Texten und der prophetischen Sunna. Die Gelehrten unterscheiden zwischen der Neigung (die als Prüfung verstanden wird) und der Handlung (die als Sünde gilt).",
+            "scholars": [
+                "abu-hanifa",
+                "malik-ibn-anas",
+                "al-shafii",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "hanafi",
+                "maliki",
+                "shafii",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "quran",
+                    "reference": "Sure 7:80-81 (Al-A'raf)",
+                    "text_ar": "وَلُوطًا إِذْ قَالَ لِقَوْمِهِ أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ الْعَالَمِينَ ﴿٨٠﴾ إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِّن دُونِ النِّسَاءِ ۚ بَلْ أَنتُمْ قَوْمٌ مُّسْرِفُونَ",
+                    "text_de": "Und (gedenke) Lots, als er zu seinem Volk sagte: ‚Begeht ihr eine Abscheulichkeit, die keiner der Weltenbewohner vor euch begangen hat? Ihr geht wahrhaftig mit Begierde zu den Männern statt zu den Frauen. Nein, ihr seid ein Volk, das Übermaß begeht.'",
+                    "explanation_de": "Die Geschichte des Propheten Lut (a.s.) wird in mehreren Suren wiederholt und bildet den primären koranischen Beleg. Das Wort 'Fahisha' (Abscheulichkeit) zeigt die Schwere der Handlung an."
+                },
+                {
+                    "type": "quran",
+                    "reference": "Sure 26:165-166 (Asch-Schu'ara')",
+                    "text_ar": "أَتَأْتُونَ الذُّكْرَانَ مِنَ الْعَالَمِينَ ﴿١٦٥﴾ وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُم مِّنْ أَزْوَاجِكُم ۚ بَلْ أَنتُمْ قَوْمٌ عَادُونَ",
+                    "text_de": "Kommt ihr zu den Männern der Weltenbewohner und lasst, was euer Herr euch an euren Gattinnen erschaffen hat? Nein, ihr seid ein Volk, das Übertretungen begeht.",
+                    "explanation_de": "Dieser Vers bestätigt das Verbot und stellt homosexuelle Handlungen in den Kontext einer Übertretung der natürlichen Ordnung (Fitra)."
+                },
+                {
+                    "type": "hadith",
+                    "reference": "Sunan at-Tirmidhi, Nr. 1456; Sunan Abu Dawud, Nr. 4462",
+                    "text_ar": "من وجدتموه يعمل عمل قوم لوط فاقتلوا الفاعل والمفعول به",
+                    "text_de": "Wen ihr bei der Handlung des Volkes Lots findet, den bestraft – den Handelnden und den, an dem gehandelt wird.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Ahmad / At-Tirmidhi / Ibn Hibban",
+                    "explanation_de": "Dieser Hadith bildet die Grundlage der Hadith-Überlieferungen zu diesem Thema. Die Gelehrten unterscheiden sich in der Frage der konkreten Bestrafung, sind sich aber im Verbot der Handlung einig."
+                }
+            ],
+            "historical_context_de": "Das Verbot homosexueller Handlungen ist ein Ijma (Konsens) aller vier Rechtsschulen und wird in allen klassischen Fiqh-Werken dokumentiert. Die Gelehrten unterscheiden dabei zwischen der Neigung, die als göttliche Prüfung verstanden wird, und der aktiven Handlung. Die konkreten Strafmaße werden unterschiedlich diskutiert: Abu Hanifa sah eine Ermessenstrafe (Ta'zir) vor, während die anderen Rechtsschulen die Hadd-Strafe anwenden."
+        }
+    ],
+    "related_questions": [
+        "nikah-wali-pflicht",
+        "nikah-kopftuch-pflicht"
+    ],
+    "sources": [
+        {
+            "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
+            "author": "Kuwaiti Ministry of Awqaf",
+            "url": "https://islamweb.net"
+        },
+        {
+            "title": "Al-Mughni",
+            "author": "Ibn Qudama",
+            "url": "https://shamela.ws/book/6946"
+        },
+        {
+            "title": "Bidayat al-Mujtahid",
+            "author": "Ibn Rushd",
+            "url": "https://shamela.ws/book/22375"
+        }
+    ]
+}

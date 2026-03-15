@@ -1,0 +1,77 @@
+{
+    "id": "tahara-tayammum-bedingen",
+    "slug": "tayammum-wann-erlaubt-urteil",
+    "category": "tahara",
+    "subcategory": "wudu",
+    "question_de": "Wann ist Tayammum (Ersatzwaschung mit Erde) erlaubt?",
+    "question_ar": "متى يجوز التيمم؟",
+    "search_aliases": [
+        "Tayammum erlaubt",
+        "Wudu ohne Wasser",
+        "Beten ohne Wasser",
+        "Tayammum Grund",
+        "Reinigung Erde"
+    ],
+    "context_de": "Tayammum ist eine Erleichterung Gottes für Situationen, in denen Wasser fehlt oder gesundheitsschädlich wäre. Die genauen Bedingungen sind im Fiqh definiert.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Tayammum ist bei Wassermangel oder Krankheit erlaubt (Ijma)",
+            "label_ar": "يجوز التيمم عند فقد الماء أو المرض",
+            "description_de": "Wenn kein Wasser im Umkreis von ca. 1,7 km vorhanden ist oder die Verwendung von Wasser die Heilung einer Krankheit verzögern würde, ist Tayammum Pflicht.",
+            "scholars": [
+                "abu-hanifa",
+                "malik-ibn-anas",
+                "al-shafii",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "hanafi",
+                "maliki",
+                "shafii",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "quran",
+                    "reference": "Sure 5:6 (Al-Ma'ida)",
+                    "text_ar": "فَلَمْ تَجِدُوا مَاءً فَتَيَمَّمُوا صَعِيدًا طَيِّبًا",
+                    "text_de": "und wenn ihr kein Wasser findet, so sucht einen sauberen hochgelegenen Ort (Erde) auf und streicht euch damit über das Gesicht und die Hände.",
+                    "explanation_de": "Der Koranvers legt die beiden Hauptgründe fest: Reise (verbunden mit Wassermangel) und Krankheit. Alle Rechtsschulen stimmen hierin überein."
+                }
+            ],
+            "historical_context_de": "Es gibt Diskussionen darüber, ob 'kein Wasser finden' bedeutet, dass man danach suchen muss. Die Mehrheit fordert eine angemessene Suche."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Tayammum bei Zeitnot",
+            "label_ar": "التيمم لخوف فوات الوقت",
+            "description_de": "Es ist erlaubt, Tayammum zu machen, wenn das Holen von Wasser dazu führen würde, dass die Gebetszeit (z.B. für das Totengebet oder Eid) abläuft.",
+            "scholars": [
+                "abu-hanifa",
+                "malik-ibn-anas"
+            ],
+            "madhabs": [
+                "hanafi",
+                "maliki"
+            ],
+            "explanation_de": "Hanafiten und Malikiten erlauben Tayammum in Ausnahmefällen, wenn ein Gebet, das nicht nachgeholt werden kann (wie Janaza oder Eid), verpasst würde. Bei den fünf Pflichtgebeten hingegen muss nach Wasser gesucht werden, auch wenn die Zeit abläuft."
+        }
+    ],
+    "related_questions": [
+        "tahara-beruehrung-wudu",
+        "salah-zusammenlegen-gebete"
+    ],
+    "sources": [
+        {
+            "title": "Bidayat al-Mujtahid",
+            "author": "Ibn Rushd",
+            "url": "https://shamela.ws/book/22375"
+        },
+        {
+            "title": "Al-Mughni",
+            "author": "Ibn Qudama",
+            "url": "https://shamela.ws/book/6946"
+        }
+    ]
+}

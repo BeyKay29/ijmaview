@@ -1,0 +1,102 @@
+{
+    "id": "muamalat-hund-verkauf",
+    "slug": "hund-verkaufen-kaufen-islam",
+    "category": "muamalat",
+    "subcategory": "",
+    "question_de": "Darf man Hunde kaufen oder verkaufen? Ist der Handel mit ihnen erlaubt?",
+    "question_ar": "حكم بيع وشراء الكلاب",
+    "search_aliases": [
+        "Hund verkaufen",
+        "Hund kaufen",
+        "Handel mit Hunden",
+        "Hundepreis Islam",
+        "Kauf Hund erlaubt",
+        "Züchter Hunde Islam"
+    ],
+    "context_de": "Da Hunde im Islam eine Sonderstellung einnehmen und ihre Haltung oft auf Nutzzwecke (Wachdienst, Jagd) beschränkt ist, stellt sich die Frage nach der Erlaubtheit des kommerziellen Handels.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Der Handel mit Hunden ist absolut verboten",
+            "label_ar": "لا يجوز بيع الكلب مطلقاً",
+            "description_de": "Es ist verboten, Hunde zu verkaufen oder zu kaufen, unabhängig vom Verwendungszweck.",
+            "scholars": [
+                "al-shafii",
+                "ahmad-ibn-hanbal",
+                "an-nawawi"
+            ],
+            "madhabs": [
+                "shafii",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari, Nr. 2237; Sahih Muslim",
+                    "text_ar": "نهى رسول الله ﷺ عن ثمن الكلب",
+                    "text_de": "Der Gesandte Allahs ﷺ verbot den Preis (Erlös) für einen Hund.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Bukhari / Muslim",
+                    "explanation_de": "Das Verbot ist allgemein und kennt laut Schafiiten und Hanbaliten keine Ausnahmen. Ein Vertrag über den Kauf eines Hundes ist nichtig."
+                }
+            ],
+            "historical_context_de": "Die schafiitische und hanbalitische Schule folgen dem wörtlichen Verbot im Hadith. Wenn man einen Hund für die Jagd benötigt, wird oft empfohlen, ihn geschenkt zu bekommen oder nur für die Ausbildung/Unkosten zu zahlen."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Der Handel mit Nutzhunden ist erlaubt",
+            "label_ar": "يجوز بيع كلب الصيد والحراسة",
+            "description_de": "Hunde, die einen Nutzen haben (Jagd-, Wach- oder Hirtenhunde), dürfen gehandelt werden. Nur der Handel mit gewöhnlichen Haustieren ist untersagt.",
+            "scholars": [
+                "malik-ibn-anas",
+                "abu-yusuf"
+            ],
+            "madhabs": [
+                "maliki",
+                "hanafi"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sunan an-Nasa'i, Nr. 4668",
+                    "text_ar": "نهى عن ثمن الكلب إلا كلب صيد",
+                    "text_de": "Er verbot den Preis für einen Hund, außer für einen Jagdhund.",
+                    "hadith_grade": "hasan",
+                    "graded_by": "An-Nasa'i",
+                    "explanation_de": "Einige Überlieferungen enthalten die Ausnahme für Jagdhunde. Malikiten argumentieren zudem, dass alles, was einen erlaubten Nutzen hat, auch gehandelt werden darf."
+                }
+            ],
+            "historical_context_de": "Diese Position ist praxisorientierter für Menschen, die für ihre Sicherheit oder Arbeit auf ausgebildete Hunde angewiesen sind."
+        },
+        {
+            "id": "pos-3",
+            "label_de": "Der Handel mit allen Hunden ist erlaubt",
+            "label_ar": "يجوز بيع جميع أنواع الكلاب",
+            "description_de": "Der Handel mit Hunden ist grundsätzlich erlaubt, da sie einen Wert besitzen.",
+            "scholars": [
+                "abu-hanifa"
+            ],
+            "madhabs": [
+                "hanafi"
+            ],
+            "explanation_de": "Abu Hanifa argumentiert, dass Hunde Eigentum (Mal) sind, da sie einen Nutzen haben können. Daher ist der Handel mit ihnen wie mit jedem anderen Gut erlaubt. Das Verbot im Hadith bezieht sich für ihn auf die Frühzeit oder auf Hunde ohne jeglichen Nutzen.",
+            "historical_context_de": "Abu Hanifa wendet hier seine allgemeine Logik des Handelsrechts an: Alles, was nützlich ist, kann Gegenstand eines Kaufvertrags sein."
+        }
+    ],
+    "related_questions": [
+        "tahara-hund-unrein",
+        "muamalat-riba-bankzins"
+    ],
+    "sources": [
+        {
+            "title": "Bidayat al-Mujtahid",
+            "author": "Ibn Rushd",
+            "url": "https://shamela.ws/book/22375"
+        },
+        {
+            "title": "Al-Mabsut",
+            "author": "Asch-Schaybani",
+            "url": "https://shamela.ws/book/1701"
+        }
+    ]
+}

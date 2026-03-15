@@ -1,0 +1,58 @@
+{
+    "id": "zakah-immobilien-miete",
+    "slug": "zakah-auf-mieteinnahmen-immobilien",
+    "category": "zakah",
+    "subcategory": "",
+    "question_de": "Muss man Zakah auf den Wert einer vermieteten Immobilie oder nur auf die Mieteinnahmen zahlen?",
+    "question_ar": "زكاة العقارات المؤجرة",
+    "search_aliases": [
+        "Zakah Immobilien",
+        "Mieteinnahmen Zakah",
+        "Haus vermieten Zakah",
+        "Zakah Wohnung",
+        "Immobilienwert Zakah"
+    ],
+    "context_de": "Bei Immobilienbesitz muss zwischen Eigennutzung, Vermietung und Handel unterschieden werden. Dies hat grundlegende Auswirkungen auf die Zakah.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Nur auf die verbleibenden Mieteinnahmen (Ijma)",
+            "label_ar": "الزكاة في الغلة لا في الأصل",
+            "description_de": "Auf den Wert des Hauses selbst (als Anlageobjekt/Vermietungsobjekt) fällt keine Zakah an. Zakah wird nur auf das Geld gezahlt, das von der Miete nach Abzug aller Kosten am Ende des Zakah-Jahres noch übrig ist.",
+            "scholars": [
+                "abu-hanifa",
+                "malik-ibn-anas",
+                "al-shafii",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "hanafi",
+                "maliki",
+                "shafii",
+                "hanbali"
+            ],
+            "explanation_de": "Häuser gelten als ‚festes Kapital' (Uruud al-Qunya) und nicht als Handelsware, solange sie nicht zum baldigen Wiederverkauf bestimmt sind. Daher wird nur der Ertrag (Geld) wie normales Bargeld gewertet."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Immobilien als Handelsware (Zakah auf Gesamtwert)",
+            "label_ar": "عروض التجارة",
+            "description_de": "Wenn die Immobilie mit der Absicht gekauft wurde, sie gewinnbringend weiterzuverkaufen (Handel), muss jedes Jahr 2,5% auf den aktuellen Marktwert gezahlt werden.",
+            "scholars": [
+                "Mehrheitsmeinung der Rechtsschulen"
+            ],
+            "historical_context_de": "Dies betrifft Immobilienmakler oder Investoren, die aktiv mit Häusern handeln."
+        }
+    ],
+    "related_questions": [
+        "zakah-schulden-abziehen",
+        "zakah-goldschmuck-frauen"
+    ],
+    "sources": [
+        {
+            "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
+            "author": "Kuwaiti Ministry of Awqaf",
+            "url": "https://islamweb.net"
+        }
+    ]
+}

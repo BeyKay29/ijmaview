@@ -1,0 +1,49 @@
+{
+    "id": "muamalat-bitcoin-mining",
+    "slug": "bitcoin-mining-islam-halal-haram-urteil",
+    "category": "muamalat",
+    "subcategory": "",
+    "question_de": "Ist Bitcoin-Mining aus islamischer Sicht erlaubt?",
+    "question_ar": "حكم تعدين البيتكوين في الإسلام",
+    "search_aliases": [
+        "Bitcoin Mining Halal",
+        "Krypto Mining Islam",
+        "Geld verdienen Mining",
+        "Proof of Work Islam",
+        "Mining Haram"
+    ],
+    "context_de": "Beim Mining werden durch Rechenleistung neue Einheiten einer Kryptowährung geschaffen. Es stellt sich die Frage, ob diese 'Arbeit' als legitime Quelle für Einkommen gilt.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Erlaubt – Als Dienstleistung/Produktion",
+            "label_ar": "جائز باعتباره جهداً وعملاً",
+            "description_de": "Mining ist erlaubt, da es einen realen Aufwand (Rechenleistung, Strom, Hardware) erfordert und zur Sicherheit des Netzwerks beiträgt.",
+            "scholars": [
+                "Moderne Gelehrte"
+            ],
+            "explanation_de": "Es wird als ‚Kira' (Vermietung von Rechenkraft) oder ‚Ja'ala' (Belohnung für eine Leistung) eingestuft. Solange die Währung an sich als Mal (Gut) akzeptiert wird, ist der Prozess ihrer Erzeugung legal."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Problematisch – Wegen Ressourcenverschwendung",
+            "label_ar": "كراهة بسبب تبذير الطاقة",
+            "description_de": "Einige Gelehrte sehen im hohen Energieverbrauch eine Form der Verschwendung (Israf), was die Handlung verpönt machen könnte.",
+            "scholars": [
+                "Umweltschutz-orientierte Fiqh-Ansätze"
+            ],
+            "historical_context_de": "Dies betrifft vor allem Proof-of-Work-Mechanismen. Modernere, energiesparende Verfahren (Proof-of-Stake) werden meist positiver bewertet."
+        }
+    ],
+    "related_questions": [
+        "muamalat-krypto-urteil",
+        "zakah-aktien-krypto"
+    ],
+    "sources": [
+        {
+            "title": "Fatawa Zeitgenössischer Gelehrter",
+            "author": "Diverse",
+            "url": "https://islamqa.info"
+        }
+    ]
+}

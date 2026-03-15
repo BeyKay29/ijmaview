@@ -1,0 +1,68 @@
+{
+    "id": "muamalat-zaehne-richten",
+    "slug": "zaehne-richten-spange-beauty-islam-urteil",
+    "category": "muamalat",
+    "subcategory": "",
+    "question_de": "Darf man sich die Zähne richten lassen (Zahnspange, Veneers, Bleaching)?",
+    "question_ar": "حكم تقويم الأسنان وتجميلها",
+    "search_aliases": [
+        "Zahnspange Islam",
+        "Veneers Halal",
+        "Zähne bleichen Islam",
+        "Lücke schließen Zähne Haram",
+        "Zahnkorrektur"
+    ],
+    "context_de": "Zahnkorrekturen sind oft eine Mischung aus medizinischer Notwendigkeit und ästhetischem Wunsch.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Erlaubt bei Fehlstellungen oder Schmerzen",
+            "label_ar": "جائز للعلاج أو لإزالة العيب",
+            "description_de": "Zahnspangen zur Korrektur von Fehlstellungen (Überbiss, schiefe Zähne), die das Kauen erschweren oder Entzündungen verursachen, sind absolut erlaubt.",
+            "scholars": [
+                "Mehrheitsmeinung"
+            ],
+            "explanation_de": "Dies gilt als Heilung (Ilaj) und Wiederherstellung der normalen Funktion, was im Islam geboten ist."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Verboten bei reiner Eitelkeit (Lücken feilen)",
+            "label_ar": "تحريم برد الأسنان للحسن",
+            "description_de": "Das Feilen von gesunden Zähnen, um künstliche Lücken zu schaffen (ein Schönheitsideal in alten Zeiten), ist verboten.",
+            "scholars": [
+                "al-shafii",
+                "an-nawawi"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari; Sahih Muslim",
+                    "text_ar": "لعن الله... والمتفلجات للحسن المغيرات خلق الله",
+                    "text_de": "Allah verflucht... diejenigen, die sich Lücken zwischen den Zähnen machen lassen, um schöner zu wirken, und so die Schöpfung Allahs verändern.",
+                    "hadith_grade": "sahih"
+                }
+            ]
+        },
+        {
+            "id": "pos-3",
+            "label_de": "Bleaching und Veneers",
+            "label_ar": "تبييض الأسنان والقشرة التجميلية",
+            "description_de": "Das Bleichen von Zähnen wird meist als erlaubt angesehen, da es nur eine Reinigung/Aufhellung ist (analog zum Zähneputzen). Veneers sind erlaubt, wenn sie zur Korrektur von abgebrochenen oder stark verfärbten Zähnen dienen.",
+            "scholars": [
+                "Moderne Gelehrte"
+            ],
+            "historical_context_de": "Es gibt einen Unterschied zwischen dem Hinzufügen von etwas (Veneers) und dem irreversiblen Wegfeilen von gesunder Zahnsubstanz."
+        }
+    ],
+    "related_questions": [
+        "muamalat-plastische-chirurgie",
+        "muamalat-tattoos"
+    ],
+    "sources": [
+        {
+            "title": "Fatawa al-Lajnah ad-Da'imah",
+            "author": "Saudi Scholar Committee",
+            "url": "https://alifta.gov.sa"
+        }
+    ]
+}

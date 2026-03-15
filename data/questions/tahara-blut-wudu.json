@@ -1,0 +1,90 @@
+{
+    "id": "tahara-blut-wudu",
+    "slug": "blut-wudu-brechen",
+    "category": "tahara",
+    "subcategory": "wudu",
+    "question_de": "Bricht austretendes Blut den Wudu?",
+    "question_ar": "هل خروج الدم ينقض الوضوء؟",
+    "search_aliases": [
+        "Blut Wudu",
+        "Blut Gebet Islam",
+        "Nasenbluten Wudu",
+        "Wunde Wudu brechen",
+        "Blut austreten Gebetswaschung"
+    ],
+    "context_de": "Diese Frage ist besonders relevant bei Verletzungen, Nasenbluten oder medizinischen Eingriffen. Ob austretendes Blut den Wudu bricht, ist eine klassische Streitfrage.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Fließendes Blut bricht den Wudu",
+            "label_ar": "الدم السائل ينقض الوضوء",
+            "description_de": "Wenn Blut aus einer Wunde fließt und über die Austrittsstelle hinausgeht, ist der Wudu gebrochen.",
+            "scholars": [
+                "abu-hanifa"
+            ],
+            "madhabs": [
+                "hanafi"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sunan ad-Daraqutni; Musannaf Ibn Abi Schayba",
+                    "text_ar": "أن النبي ﷺ قال في الرعاف يمسكه فإذا غلبه توضأ",
+                    "text_de": "Der Prophet ﷺ sagte über Nasenbluten: Er soll es stoppen, und wenn es ihn überwältigt, soll er Wudu machen.",
+                    "hadith_grade": "hasan",
+                    "graded_by": "Ad-Daraqutni",
+                    "explanation_de": "Die Hanafiten verwenden Überlieferungen über Nasenbluten und andere Blutungen als Beleg. Abu Hanifa setzt als Bedingung, dass das Blut über die Austrittsstelle hinausfließen muss."
+                }
+            ],
+            "historical_context_de": "Die hanafitische Position basiert auf Überlieferungen mehrerer Gefährten, darunter Ibn Umar und Anas ibn Malik, die bei Blutungen den Wudu erneuerten. Abu Hanifa systematisierte dies zu einer klaren Regel."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Blut bricht den Wudu NICHT",
+            "label_ar": "خروج الدم لا ينقض الوضوء",
+            "description_de": "Austretendes Blut – unabhängig von der Menge – bricht den Wudu nicht, da es keinen authentischen Beweis dafür gibt.",
+            "scholars": [
+                "malik-ibn-anas",
+                "al-shafii"
+            ],
+            "madhabs": [
+                "maliki",
+                "shafii"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari – Kapitel über Verletzungen im Gebet",
+                    "text_ar": "أن عمر رضي الله عنه صلى وجرحه يثعب دماً",
+                    "text_de": "Umar (r.a.) betete weiter, während seine Wunde Blut strömte.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Bukhari (als Mu'allaq)",
+                    "explanation_de": "Die Malikiten und Schafiiten argumentieren, dass der Quran und die authentische Sunna nur bestimmte Dinge als Wudu-Brecher nennen (Urin, Stuhl, Wind, Schlaf, Bewusstlosigkeit). Blut gehört nicht dazu."
+                }
+            ],
+            "historical_context_de": "Die schafiitische und malikitische Position basiert auf dem Grundprinzip (Asl), dass der Wudu gültig bleibt, bis ein eindeutiger Beweis für seinen Bruch vorliegt. Da kein authentischer Hadith Blut als Wudu-Brecher nennt, verbleibt es bei der Grundregel."
+        }
+    ],
+    "related_questions": [
+        "tahara-beruehrung-wudu",
+        "tahara-katze-rein",
+        "tahara-socken-ueberstreichen"
+    ],
+    "sources": [
+        {
+            "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
+            "author": "Kuwaiti Ministry of Awqaf",
+            "url": "https://islamweb.net"
+        },
+        {
+            "title": "Bidayat al-Mujtahid",
+            "author": "Ibn Rushd",
+            "url": "https://shamela.ws/book/22375"
+        },
+        {
+            "title": "Al-Majmu'",
+            "author": "Imam an-Nawawi",
+            "url": "https://shamela.ws/book/384"
+        }
+    ]
+}

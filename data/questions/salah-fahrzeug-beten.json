@@ -1,0 +1,91 @@
+{
+    "id": "salah-fahrzeug-beten",
+    "slug": "beten-im-auto-flugzeug-zug",
+    "category": "salah",
+    "subcategory": "voraussetzungen",
+    "question_de": "Darf man in einem fahrenden Fahrzeug (Flugzeug, Zug, Auto) beten?",
+    "question_ar": "حكم الصلاة في الطائرة والقطار والسيارة",
+    "search_aliases": [
+        "Beten im Flugzeug",
+        "Beten im Auto",
+        "Beten im Zug",
+        "Gebet unterwegs",
+        "Qibla im Flugzeug",
+        "Beten im Sitzen Reise"
+    ],
+    "context_de": "Auf längeren Reisen stellt sich oft die Frage, wie die Gebetspflicht erfüllt werden kann, wenn man das Fahrzeug nicht verlassen kann oder die Zeit abzulaufen droht.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Pflichtgebet erfordert Stehen und Qibla-Ausrichtung",
+            "label_ar": "يجب القيام واستقبال القبلة في الفريضة",
+            "description_de": "Bei Pflichtgebeten (Fard) muss man stehen, sich verbeugen (Ruku) und niederwerfen (Sajda) sowie die Qibla einhalten. Ist das im Fahrzeug möglich (z.B. im Flugzeuggang), muss es so verrichtet werden.",
+            "scholars": [
+                "al-shafii",
+                "ahmad-ibn-hanbal",
+                "malik-ibn-anas",
+                "abu-hanifa"
+            ],
+            "madhabs": [
+                "shafii",
+                "hanbali",
+                "maliki",
+                "hanafi"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "quran",
+                    "reference": "Sure 2:238 (Al-Baqara)",
+                    "text_ar": "وَقُومُوا لِلَّهِ قَانِتِينَ",
+                    "text_de": "und steht vor Allah in demütiger Hingabe.",
+                    "explanation_de": "Das Stehen (Qiyam) ist eine Säule des Fard-Gebets. Nur bei Unfähigkeit (Krankheit/Gefahr) darf davon abgewichen werden."
+                }
+            ],
+            "historical_context_de": "Gelehrte empfehlen heute, im Flugzeug oder Zug einen Platz zu suchen, an dem man stehen kann. Ist dies absolut unmöglich und die Zeit würde ablaufen, darf im Sitzen gebetet werden (mit Nachhol-Option bei einigen Schulen)."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Sunna-Gebete dürfen im Sitzen verrichtet werden",
+            "label_ar": "يجوز صلاة النافلة جالساً على الراحلة",
+            "description_de": "Freiwillige Gebete (Sunna/Nawafil) dürfen problemlos im Sitzen verrichtet werden, auch wenn man gesund ist und das Fahrzeug die Richtung ändert.",
+            "scholars": [
+                "abu-hanifa",
+                "malik-ibn-anas",
+                "al-shafii",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "hanafi",
+                "maliki",
+                "shafii",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari, Nr. 1093",
+                    "text_ar": "كان رسول الله ﷺ يصلي على راحلته حيث توجهت به",
+                    "text_de": "Der Gesandte Allahs ﷺ pflegte (freiwillige Gebete) auf seinem Reittier zu verrichten, egal in welche Richtung es ihn trug.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Bukhari / Muslim"
+                }
+            ]
+        }
+    ],
+    "related_questions": [
+        "salah-zusammenlegen-gebete",
+        "salah-witr-gebet"
+    ],
+    "sources": [
+        {
+            "title": "Al-Majmu'",
+            "author": "Imam an-Nawawi",
+            "url": "https://shamela.ws/book/384"
+        },
+        {
+            "title": "Fatawa Zeitgenössischer Gelehrter",
+            "author": "Diverse",
+            "url": "https://islamqa.info"
+        }
+    ]
+}

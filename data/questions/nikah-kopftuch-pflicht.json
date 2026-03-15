@@ -1,0 +1,84 @@
+{
+    "id": "nikah-kopftuch-pflicht",
+    "slug": "kopftuch-hijab-pflicht-alter",
+    "category": "nikah",
+    "subcategory": "",
+    "question_de": "Ab wann ist das Kopftuch (Hijab) für die Frau Pflicht?",
+    "question_ar": "متى يجب الحجاب على المرأة؟",
+    "search_aliases": [
+        "Kopftuch Pflicht",
+        "Hijab ab wann",
+        "Kopftuch Islam Alter",
+        "Hijab Pflicht Mädchen",
+        "Kopfbedeckung Frau Islam",
+        "Verschleierung Pflicht"
+    ],
+    "context_de": "Die Frage nach dem Kopftuch gehört zu den meistdiskutierten Themen im Islam. Alle vier Rechtsschulen sind sich über die grundsätzliche Pflicht einig, unterscheiden sich aber in Details der Umsetzung.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Kopftuch ist Pflicht ab der Pubertät (Konsens)",
+            "label_ar": "الحجاب واجب من البلوغ بإجماع",
+            "description_de": "Alle vier Rechtsschulen sind sich einig, dass die Bedeckung des Haares und des Körpers (außer Gesicht und Hände) für die muslimische Frau ab Erreichen der Pubertät eine religiöse Pflicht (Fard) ist.",
+            "scholars": [
+                "abu-hanifa",
+                "malik-ibn-anas",
+                "al-shafii",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "hanafi",
+                "maliki",
+                "shafii",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "quran",
+                    "reference": "Sure 24:31 (An-Nur)",
+                    "text_ar": "وَقُل لِّلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ أَبْصَارِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا ۖ وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ",
+                    "text_de": "Und sag den gläubigen Frauen, sie sollen ihre Blicke senken und ihre Scham bewahren und ihren Schmuck nicht zeigen, außer dem, was davon sichtbar ist. Und sie sollen ihre Kopftücher (Khumur) über ihren Ausschnitt schlagen.",
+                    "explanation_de": "Dieser Koranvers ist der zentrale Beleg für die Kopftuchpflicht. Der Begriff 'Khimar' (Plural: Khumur) bedeutet Kopfbedeckung. Die Anweisung, den Khimar über den Ausschnitt (Juyub) zu schlagen, setzt voraus, dass das Kopftuch bereits getragen wird, und ordnet zusätzlich die Bedeckung des Brustbereichs an."
+                },
+                {
+                    "type": "quran",
+                    "reference": "Sure 33:59 (Al-Ahzab)",
+                    "text_ar": "يَا أَيُّهَا النَّبِيُّ قُل لِّأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاءِ الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَابِيبِهِنَّ",
+                    "text_de": "O Prophet, sag deinen Gattinnen und deinen Töchtern und den Frauen der Gläubigen, sie sollen etwas von ihrem Übergewand über sich herunterziehen.",
+                    "explanation_de": "Dieser Vers verstärkt die Anweisung zur Bedeckung und wird von allen Rechtsschulen als zusätzlicher Beleg für die Pflicht zur Körperbedeckung angeführt."
+                },
+                {
+                    "type": "hadith",
+                    "reference": "Sunan Abu Dawud, Nr. 4104",
+                    "text_ar": "يا أسماء إن المرأة إذا بلغت المحيض لم يصلح أن يرى منها إلا هذا وهذا وأشار إلى وجهه وكفيه",
+                    "text_de": "O Asma, wenn die Frau die Pubertät erreicht hat, ist es nicht angemessen, dass von ihr etwas gesehen wird außer diesem und diesem – und er zeigte auf sein Gesicht und seine Hände.",
+                    "hadith_grade": "hasan",
+                    "graded_by": "Abu Dawud / Al-Albani (als mursal)",
+                    "explanation_de": "Dieser Hadith wird von der Mehrheit der Gelehrten als Beleg dafür angeführt, dass die Pflicht zur Bedeckung mit der Pubertät beginnt und nur Gesicht und Hände ausgenommen sind."
+                }
+            ],
+            "historical_context_de": "Die Pflicht zur Bedeckung (Hijab) ist ein Konsens (Ijma) aller vier Rechtsschulen. Die Meinungsverschiedenheit betrifft lediglich die Frage, ob auch Gesicht und Hände bedeckt werden müssen (Niqab-Frage), nicht die grundsätzliche Kopftuchpflicht. Historisch wurde der Hijab von den muslimischen Frauen seit der Offenbarung der betreffenden Verse praktiziert."
+        }
+    ],
+    "related_questions": [
+        "nikah-wali-pflicht",
+        "nikah-mahr-hoehe"
+    ],
+    "sources": [
+        {
+            "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
+            "author": "Kuwaiti Ministry of Awqaf",
+            "url": "https://islamweb.net"
+        },
+        {
+            "title": "Tafsir Ibn Kathir",
+            "author": "Ibn Kathir",
+            "url": "https://shamela.ws/book/3"
+        },
+        {
+            "title": "Al-Mughni",
+            "author": "Ibn Qudama",
+            "url": "https://shamela.ws/book/6946"
+        }
+    ]
+}

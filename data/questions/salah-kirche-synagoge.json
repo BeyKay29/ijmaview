@@ -1,0 +1,75 @@
+{
+    "id": "salah-kirche-synagoge",
+    "slug": "beten-in-kirche-oder-synagoge-islam-urteil",
+    "category": "salah",
+    "subcategory": "",
+    "question_de": "Darf man als Muslim in einer Kirche oder Synagoge beten?",
+    "question_ar": "حكم الصلاة في الكنيسة والبيعة",
+    "search_aliases": [
+        "Beten in Kirche",
+        "Kirche Salah",
+        "Synagoge Beten Islam",
+        "Bilder in Kirche Beten",
+        "Dschuma in Kirche"
+    ],
+    "context_de": "Manchmal gibt es keine Moschee in der Nähe, besonders bei Reisen oder interreligiösen Begegnungen. Darf ein Muslim die Gotteshäuser anderer abrahamitischer Religionen zum Gebet nutzen?",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Erlaubt (Die Erde ist eine Moschee)",
+            "label_ar": "جواز الصلاة في الكنائس",
+            "description_de": "Es ist grundsätzlich erlaubt, in einer Kirche oder Synagoge zu beten, da der Prophet ﷺ sagte, dass die gesamte Erde für ihn als Gebetsstätte rein gemacht wurde.",
+            "scholars": [
+                "al-shafii",
+                "ahmad-ibn-hanbal",
+                "muhammad-shaybani"
+            ],
+            "madhabs": [
+                "shafii",
+                "hanbali",
+                "hanafi"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari; Sahih Muslim",
+                    "text_de": "Die gesamte Erde wurde mir als Gebetsstätte (Masjid) und als reinigend gegeben.",
+                    "hadith_grade": "sahih"
+                }
+            ],
+            "historical_context_de": "Der Kalif Umar ibn al-Khattab weigerte sich jedoch, in der Grabeskirche in Jerusalem zu beten, damit Muslime sie später nicht in eine Moschee umwandeln (Schutz der christlichen Rechte)."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Verpönt (Makruh) wegen Bildern/Statuen",
+            "label_ar": "كراهة الصلاة لوجود التماثيل",
+            "description_de": "Wenn in der Kirche Bilder oder Statuen (von Jesus, Maria oder Heiligen) sind, ist das Gebet dort verpönt, da diese als Ablenkung oder als Ähnlichkeit zum Götzenkult gesehen werden können.",
+            "scholars": [
+                "abu-hanifa",
+                "malik-ibn-anas",
+                "ibn-abbas"
+            ],
+            "madhabs": [
+                "hanafi",
+                "maliki"
+            ],
+            "explanation_de": "Man sollte versuchen, die Gebetsrichtung (Qibla) so zu wählen, dass man nicht direkt vor einer Statue betet."
+        }
+    ],
+    "related_questions": [
+        "salah-haende-binden",
+        "muamalat-bilder-fotos"
+    ],
+    "sources": [
+        {
+            "title": "Al-Majmu'",
+            "author": "Imam an-Nawawi",
+            "url": "https://shamela.ws/book/384"
+        },
+        {
+            "title": "Bidayat al-Mujtahid",
+            "author": "Ibn Rushd",
+            "url": "https://shamela.ws/book/22375"
+        }
+    ]
+}

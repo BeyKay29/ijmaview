@@ -1,0 +1,50 @@
+{
+    "id": "nikah-frau-arbeit",
+    "slug": "darf-die-frau-im-islam-arbeiten-urteil",
+    "category": "nikah",
+    "subcategory": "",
+    "question_de": "Darf eine verheiratete Frau im Islam außerhalb des Hauses arbeiten?",
+    "question_ar": "حكم عمل المرأة خارج البيت",
+    "search_aliases": [
+        "Frau arbeiten Islam",
+        "Berufstätigkeit Frau",
+        "Geld verdienen Frau",
+        "Erlaubnis Ehemann Arbeit",
+        "Halal Jobs Frau"
+    ],
+    "context_de": "In der modernen Gesellschaft ist die Erwerbstätigkeit beider Partner oft die Regel. Welche Rechte und Pflichten hat die Frau bezüglich ihrer Arbeit?",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Erlaubt mit Bedingungen (Zustimmung & Umfeld)",
+            "label_ar": "جائز بضوابط شرعية",
+            "description_de": "Eine Frau darf arbeiten, wenn die Arbeit an sich Halal ist, sie die Erlaubnis ihres Ehemannes hat (oder dies im Ehevertrag geregelt ist) und ihre familiären Pflichten nicht vernachlässigt werden.",
+            "scholars": [
+                "Mehrheitsmeinung"
+            ],
+            "explanation_de": "Das Geld, das die Frau verdient, gehört allein ihr. Der Ehemann hat kein Recht darauf, auch wenn er für den gesamten Unterhalt der Familie aufkommen muss."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Arbeit in bestimmten Berufen ist gemeinschaftliche Pflicht (Fard Kifaya)",
+            "label_ar": "فرض كفاية في بعض المهن",
+            "description_de": "In Bereichen wie Medizin (Frauenärztinnen), Pädagogik oder bei der Polizei für Frauen ist die Arbeit von Frauen eine religiöse Notwendigkeit für die Gesellschaft.",
+            "scholars": [
+                "an-nawawi",
+                "al-ghazali"
+            ],
+            "historical_context_de": "Schon zur Zeit des Propheten ﷺ gab es Frauen, die im Handel tätig waren (wie Khadija r.a.) oder Verwundete in Kriegen pflegten."
+        }
+    ],
+    "related_questions": [
+        "nikah-wali-pflicht",
+        "nikah-mahr-hoehe"
+    ],
+    "sources": [
+        {
+            "title": "Fatawa al-Mar'a al-Muslima",
+            "author": "Diverse",
+            "url": "https://islamway.net"
+        }
+    ]
+}

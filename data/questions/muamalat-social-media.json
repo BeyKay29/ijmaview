@@ -1,0 +1,49 @@
+{
+    "id": "muamalat-social-media",
+    "slug": "social-media-instagram-tiktok-islam-halal-haram",
+    "category": "muamalat",
+    "subcategory": "",
+    "question_de": "Ist die Nutzung und Arbeit mit Social Media (Influencer, Content Creator) Halal?",
+    "question_ar": "حكم التعامل مع وسائل التواصل الاجتماعي والشهرة",
+    "search_aliases": [
+        "Social Media Islam",
+        "TikTok Haram",
+        "Instagram Halal",
+        "Influencer Geld verdienen",
+        "Bilder zeigen Social Media"
+    ],
+    "context_de": "Social Media ist Teil des täglichen Lebens. Für Muslime stellen sich Fragen zu Bescheidenheit (Haya), Zeitverschwendung und der Erlaubtheit der Einnahmen.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Erlaubt, wenn der Inhalt nützlich und Halal ist",
+            "label_ar": "جائز إذا كان المحتوى مفيداً",
+            "description_de": "Die Nutzung ist ein Werkzeug. Wenn Wissen vermittelt wird, man sich bescheiden verhält und keine Sünden (Musik, Tabarruj) zeigt, ist es erlaubt.",
+            "scholars": [
+                "Moderne Gelehrte"
+            ],
+            "explanation_de": "Die Einnahmen aus Werbung oder Spenden sind Halal, solange das beworbene Produkt Halal ist und der Content keinen islamischen Werten widerspricht."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Problematisch (Makruh/Haram) wegen Haya-Verlust",
+            "label_ar": "محاذير شرعية في الشهرة",
+            "description_de": "Die ständige Zurschaustellung des Privatlebens, das Streben nach Aufmerksamkeit (Riya) und der Verlust der Schamhaftigkeit machen eine professionelle Nutzung oft problematisch.",
+            "scholars": [
+                "Vorsichtige Gelehrte"
+            ],
+            "historical_context_de": "Gelehrte warnen besonders vor dem ‚Auge' (Ayn) und dem Neid, den man durch das Zeigen von Luxus oder glücklichen Momenten heraufbeschwören kann."
+        }
+    ],
+    "related_questions": [
+        "muamalat-bilder-fotos",
+        "muamalat-musik-islam"
+    ],
+    "sources": [
+        {
+            "title": "Fatawa Zeitgenössischer Gelehrter",
+            "author": "Diverse",
+            "url": "https://islamqa.info"
+        }
+    ]
+}

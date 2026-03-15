@@ -1,0 +1,74 @@
+{
+    "id": "siyam-schwimmen-fasten",
+    "slug": "schwimmen-tauchen-fasten-brechen-urteil",
+    "category": "siyam",
+    "subcategory": "",
+    "question_de": "Darf man während des Fastens schwimmen oder tauchen?",
+    "question_ar": "حكم السباحة والغوص للصائم",
+    "search_aliases": [
+        "Schwimmen Fasten",
+        "Tauchen Ramadan",
+        "Wasser verschlucken Fasten",
+        "Pool Fasten",
+        "Baden Ramadan"
+    ],
+    "context_de": "Besonders an heißen Sommertagen suchen Fastende Erfrischung im Wasser. Die Sorge ist, dass Wasser durch den Mund oder die Nase in den Magen gelangen könnte.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Schwimmen ist erlaubt (mit Vorsicht)",
+            "label_ar": "السباحة جائزة مع الحذر",
+            "description_de": "Schwimmen und Baden sind grundsätzlich erlaubt. Solange kein Wasser absichtlich oder fahrlässig verschluckt wird, bleibt das Fasten gültig.",
+            "scholars": [
+                "abu-hanifa",
+                "al-shafii",
+                "malik-ibn-anas",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "hanafi",
+                "shafii",
+                "maliki",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari (Mu'allaq)",
+                    "text_de": "Ibn Abbas sagte: Es ist kein Problem, wenn der Fastende das Wasser schmeckt oder ein Bad nimmt.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Bukhari"
+                }
+            ]
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Verpönt (Makruh) aus Angst vor dem Brechen",
+            "label_ar": "مكروه خشية دخول الماء",
+            "description_de": "Einige Gelehrte betrachten Schwimmen als verpönt (Makruh), wenn die Gefahr besteht, dass Wasser in den Magen gelangt, insbesondere beim Tauchen.",
+            "scholars": [
+                "malik-ibn-anas"
+            ],
+            "madhabs": [
+                "maliki"
+            ],
+            "explanation_de": "Die Malikiten sind oft vorsichtiger (Sadd ad-Dhara'i) und raten von Aktivitäten ab, die leicht zum unabsichtlichen Fastenbruch führen könnten."
+        }
+    ],
+    "related_questions": [
+        "siyam-zahnpasta-fasten",
+        "siyam-erbrechen-fasten"
+    ],
+    "sources": [
+        {
+            "title": "Bidayat al-Mujtahid",
+            "author": "Ibn Rushd",
+            "url": "https://shamela.ws/book/22375"
+        },
+        {
+            "title": "Al-Majmu'",
+            "author": "Imam an-Nawawi",
+            "url": "https://shamela.ws/book/384"
+        }
+    ]
+}

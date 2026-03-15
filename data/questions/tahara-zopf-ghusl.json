@@ -1,0 +1,83 @@
+{
+    "id": "tahara-zopf-ghusl",
+    "slug": "ghusl-haare-waschen-zoepfe",
+    "category": "tahara",
+    "subcategory": "ghusl",
+    "question_de": "Muss eine Frau beim Ghusl ihre Zöpfe öffnen?",
+    "question_ar": "هل يجب على المرأة نقض ضفائرها في غسل الجنابة؟",
+    "search_aliases": [
+        "Zöpfe Ghusl",
+        "Haare waschen Ghusl",
+        "Ghusl Frau Haare",
+        "Zöpfe öffnen Ghusl",
+        "Haare nass machen Ghusl"
+    ],
+    "context_de": "Für Frauen mit langen Haaren oder komplizierten Frisuren ist die Frage nach dem Ghusl oft mit Sorge um die Haarpflege verbunden. Muss das Wasser jedes einzelne Haar erreichen?",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Öffnen ist NICHT Pflicht (nur Kopfhaut)",
+            "label_ar": "لا يجب نقض الضفائر",
+            "description_de": "Es reicht aus, Wasser über den Kopf zu gießen, bis es die Kopfhaut (Wurzeln) erreicht. Die Zöpfe selbst müssen nicht geöffnet werden.",
+            "scholars": [
+                "abu-hanifa",
+                "malik-ibn-anas",
+                "al-shafii",
+                "an-nawawi"
+            ],
+            "madhabs": [
+                "hanafi",
+                "maliki",
+                "shafii"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih Muslim, Nr. 330",
+                    "text_ar": "يا رسول الله، إني امرأة أشد ضفر رأسي، أفأنقضه لغسل الجنابة؟ قال: لا، إنما يكفيك أن تحثي على رأسك ثلاث حثيات",
+                    "text_de": "Umm Salama fragte: ‚O Gesandter Allahs, ich flechte meine Haare fest. Soll ich sie für den Ghusl nach Janaba öffnen?' Er sagte: ‚Nein, es reicht aus, wenn du drei Handvoll Wasser über deinen Kopf gießt.'",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Muslim ibn al-Hajjaj",
+                    "explanation_de": "Dieser klare Hadith ist die Basis für die Erleichterung. Wichtig ist jedoch, dass das Wasser die Kopfhaut erreicht. Bei der Ghusl nach der Menstruation (Haid) empfehlen einige Gelehrte dennoch das Öffnen, um gründlicher zu sein."
+                }
+            ],
+            "historical_context_de": "Dies gilt für den Ghusl nach dem Geschlechtsverkehr (Janaba). Beim Ghusl nach der Periode gibt es eine leichte Tendenz zur Gründlichkeit."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Öffnen ist Pflicht (alle Haare)",
+            "label_ar": "يجب نقضها في غسل الحيض",
+            "description_de": "Das Öffnen der Zöpfe ist Pflicht, damit das Wasser jedes Haar und die gesamte Struktur erreichen kann, insbesondere nach der Menstruation.",
+            "scholars": [
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Berichte von Aischa (r.a.)",
+                    "explanation_de": "Die Hanbaliten unterscheiden oft strikt zwischen Janaba (kein Öffnen nötig) und Haid-Ende (Öffnen nötig), basierend auf anderen Überlieferungen, die zur Gründlichkeit nach der Menstruation aufrufen."
+                }
+            ],
+            "historical_context_de": "Ahmad ibn Hanbal war in Fragen der rituellen Gründlichkeit oft vorsichtiger."
+        }
+    ],
+    "related_questions": [
+        "tahara-beruehrung-wudu",
+        "tahara-haid-gebet-nachholen"
+    ],
+    "sources": [
+        {
+            "title": "Sharh Sahih Muslim",
+            "author": "Imam an-Nawawi",
+            "url": "https://shamela.ws/book/1711"
+        },
+        {
+            "title": "Al-Mughni",
+            "author": "Ibn Qudama",
+            "url": "https://shamela.ws/book/6946"
+        }
+    ]
+}

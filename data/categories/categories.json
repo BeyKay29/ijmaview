@@ -1,0 +1,65 @@
+[
+  {
+    "id": "tahara",
+    "name_de": "Tahara (Reinheit)",
+    "name_ar": "الطهارة",
+    "icon": "droplets",
+    "description": "Fragen zur rituellen Reinheit, Wudu, Ghusl, Tayammum",
+    "subcategories": [
+      { "id": "wudu", "name_de": "Wudu (Gebetswaschung)", "name_ar": "الوضوء" },
+      { "id": "ghusl", "name_de": "Ghusl (Ganzkörperwaschung)", "name_ar": "الغسل" },
+      { "id": "tayammum", "name_de": "Tayammum (Sandwaschung)", "name_ar": "التيمم" }
+    ]
+  },
+  {
+    "id": "salah",
+    "name_de": "Salah (Gebet)",
+    "name_ar": "الصلاة",
+    "icon": "moon",
+    "description": "Fragen zum rituellen Gebet, Gebetszeiten, Gebetshaltungen",
+    "subcategories": [
+      { "id": "voraussetzungen", "name_de": "Voraussetzungen", "name_ar": "شروط الصلاة" },
+      { "id": "ablauf", "name_de": "Ablauf & Haltungen", "name_ar": "أركان الصلاة" }
+    ]
+  },
+  {
+    "id": "siyam",
+    "name_de": "Siyam (Fasten)",
+    "name_ar": "الصيام",
+    "icon": "sunset",
+    "description": "Fragen zum Fasten im Ramadan und freiwilligem Fasten",
+    "subcategories": []
+  },
+  {
+    "id": "zakah",
+    "name_de": "Zakah (Pflichtabgabe)",
+    "name_ar": "الزكاة",
+    "icon": "coins",
+    "description": "Fragen zur Pflichtabgabe, Berechnung und Empfänger",
+    "subcategories": []
+  },
+  {
+    "id": "hajj",
+    "name_de": "Hajj (Pilgerfahrt)",
+    "name_ar": "الحج",
+    "icon": "compass",
+    "description": "Fragen zur großen und kleinen Pilgerfahrt",
+    "subcategories": []
+  },
+  {
+    "id": "muamalat",
+    "name_de": "Muamalat (Geschäftsverkehr)",
+    "name_ar": "المعاملات",
+    "icon": "handshake",
+    "description": "Fragen zu Handel, Finanzen, Verträgen",
+    "subcategories": []
+  },
+  {
+    "id": "nikah",
+    "name_de": "Nikah (Ehe & Familie)",
+    "name_ar": "النكاح",
+    "icon": "heart",
+    "description": "Fragen zu Ehe, Scheidung und Familienrecht",
+    "subcategories": []
+  }
+]

@@ -1,0 +1,72 @@
+{
+    "id": "muamalat-schminke-oeffentlichkeit",
+    "slug": "schminke-makeup-oeffentlichkeit-islam-urteil",
+    "category": "muamalat",
+    "subcategory": "",
+    "question_de": "Darf eine Muslimin in der Öffentlichkeit Schminke oder Make-up tragen?",
+    "question_ar": "حكم المكياج للمرأة خارج البيت",
+    "search_aliases": [
+        "Schminke Islam",
+        "Make-up Öffentlichkeit",
+        "Zina Schminke",
+        "Kajal Öffentlichkeit",
+        "Lippenstift Halal"
+    ],
+    "context_de": "Das Tragen von Schminke außerhalb des Hauses ist ein Thema, das die Konzepte von Hidschab, Bescheidenheit und Tabarruj (Zurschaustellung) berührt.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Dezente Schminke (Kajal/Ringe) ist erlaubt",
+            "label_ar": "جواز الزينة الظاهرة (الكحل والخاتم)",
+            "description_de": "Dezente Verschönerungen, die traditionell zum Gesicht und den Händen gehören (wie Kajal oder dezente Farben), sind erlaubt.",
+            "scholars": [
+                "abu-hanifa",
+                "ibn-abbas"
+            ],
+            "madhabs": [
+                "hanafi"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "quran",
+                    "reference": "Sure 24:31 (An-Nur)",
+                    "text_ar": "وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا",
+                    "text_de": "und ihren Schmuck nicht offen zeigen, außer dem, was (anstandshalber) davon sichtbar sein muss.",
+                    "explanation_de": "Ibn Abbas und die Hanafiten interpretieren ‚was sichtbar ist' als Gesicht, Hände und den darauf befindlichen Schmuck wie Kajal oder Ringe."
+                }
+            ]
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Jegliche auffällige Schminke ist verboten (Tabarruj)",
+            "label_ar": "تحريم التبرج بالزينة",
+            "description_de": "Das Tragen von auffälliger Schminke vor fremden Männern (Non-Mahrams) gilt als unzulässige Zurschaustellung (Tabarruj).",
+            "scholars": [
+                "al-shafii",
+                "ahmad-ibn-hanbal",
+                "an-nawawi"
+            ],
+            "madhabs": [
+                "shafii",
+                "hanbali"
+            ],
+            "explanation_de": "Der Zweck des Hidschabs ist es, die Schönheit zu verbergen. Das Auftragen von Make-up konterkariert diesen Zweck, indem es die Aufmerksamkeit auf das Gesicht lenkt."
+        }
+    ],
+    "related_questions": [
+        "nikah-kopftuch-pflicht",
+        "muamalat-tattoos"
+    ],
+    "sources": [
+        {
+            "title": "Adwa' al-Bayan",
+            "author": "Ash-Shanqiti",
+            "url": "https://shamela.ws/book/12044"
+        },
+        {
+            "title": "Fatawa al-Mar'a al-Muslima",
+            "author": "Diverse",
+            "url": "https://islamway.net"
+        }
+    ]
+}

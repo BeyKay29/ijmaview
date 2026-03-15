@@ -1,0 +1,76 @@
+{
+    "id": "salah-baby-tragen",
+    "slug": "beten-mit-baby-auf-dem-arm-erlaubt",
+    "category": "salah",
+    "subcategory": "voraussetzungen",
+    "question_de": "Darf man mit einem Baby auf dem Arm beten?",
+    "question_ar": "حكم حمل الصبي في الصلاة",
+    "search_aliases": [
+        "Baby im Gebet tragen",
+        "Kind im Gebet",
+        "Beten mit Kleinkind",
+        "Baby halten Gebet",
+        "Bewegung im Gebet Kind"
+    ],
+    "context_de": "Eltern kennen die Situation: Das Baby weint und man muss beten. Darf man das Kind hochnehmen und während des Gebets halten?",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Das Tragen eines Kindes ist erlaubt (Sunna)",
+            "label_ar": "يجوز حمل الصبي في الصلاة",
+            "description_de": "Es ist erlaubt, ein Kind während des Gebets zu tragen, es beim Stehen hochzunehmen und beim Niederwerfen abzusetzen.",
+            "scholars": [
+                "al-shafii",
+                "ahmad-ibn-hanbal",
+                "malik-ibn-anas",
+                "an-nawawi"
+            ],
+            "madhabs": [
+                "shafii",
+                "hanbali",
+                "maliki"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari, Nr. 516; Sahih Muslim",
+                    "text_ar": "أن رسول الله ﷺ كان يصلي وهو حامل أمامة بنت زينب",
+                    "text_de": "Der Gesandte Allahs ﷺ pflegte zu beten, während er Umama, die Tochter von Zainab, trug. Wenn er sich niederwarf, setzte er sie ab, und wenn er aufstand, nahm er sie hoch.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Bukhari / Muslim",
+                    "explanation_de": "Dieser authentische Hadith beweist die grundsätzliche Erlaubtheit. Wichtig ist, dass die Windel des Kindes keine Unreinheiten (Najasa) aufweist, die nach außen treten."
+                }
+            ],
+            "historical_context_de": "Dies zeigt die Barmherzigkeit des Islam gegenüber Eltern und Kindern."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Nur im Notfall erlaubt / Verpönt",
+            "label_ar": "مكروه إلا لضرورة",
+            "description_de": "Ohne dringenden Grund sollte man Bewegungen im Gebet vermeiden. Das Tragen eines Kindes ohne Notwendigkeit wird als verpönt (Makruh) angesehen.",
+            "scholars": [
+                "abu-hanifa"
+            ],
+            "madhabs": [
+                "hanafi"
+            ],
+            "explanation_de": "Die Hanafiten sind strenger bezüglich Bewegungen im Gebet (Amal Kathir). Sie erlauben es nur, wenn das Kind das Gebet massiv stören würde oder Gefahr besteht."
+        }
+    ],
+    "related_questions": [
+        "salah-haende-binden",
+        "tahara-katze-rein"
+    ],
+    "sources": [
+        {
+            "title": "Sharh Sahih Muslim",
+            "author": "Imam an-Nawawi",
+            "url": "https://shamela.ws/book/1711"
+        },
+        {
+            "title": "Al-Hidaya",
+            "author": "Al-Marghinani",
+            "url": "https://shamela.ws/book/913"
+        }
+    ]
+}

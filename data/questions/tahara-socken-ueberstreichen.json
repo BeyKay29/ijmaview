@@ -1,0 +1,92 @@
+{
+    "id": "tahara-socken-ueberstreichen",
+    "slug": "socken-ueberstreichen-wudu",
+    "category": "tahara",
+    "subcategory": "wudu",
+    "question_de": "Darf man bei der Gebetswaschung über Socken streichen statt die Füße zu waschen?",
+    "question_ar": "هل يجوز المسح على الجوارب في الوضوء؟",
+    "search_aliases": [
+        "Socken Wudu",
+        "Über Socken streichen",
+        "Masah Socken",
+        "Socken Gebet Wudu",
+        "Khuffain Socken",
+        "Ledersocken Wudu"
+    ],
+    "context_de": "Das Überstreichen (Masah) über Fußbekleidung statt des Waschens der Füße ist eine häufige Erleichterung im Alltag, besonders bei kaltem Wetter oder auf Reisen.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Erlaubt über Ledersocken (Khuffain), nicht über dünne Socken",
+            "label_ar": "يجوز المسح على الخفين دون الجوارب الرقيقة",
+            "description_de": "Das Masah ist nur über dicke, wasserundurchlässige Ledersocken (Khuffain) erlaubt, nicht über gewöhnliche dünne Socken.",
+            "scholars": [
+                "malik-ibn-anas",
+                "al-shafii"
+            ],
+            "madhabs": [
+                "maliki",
+                "shafii"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari, Nr. 202; Sahih Muslim, Nr. 274",
+                    "text_ar": "أن النبي ﷺ مسح على خفيه",
+                    "text_de": "Der Prophet ﷺ strich über seine Khuffain (Ledersocken) bei der Gebetswaschung.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Bukhari / Muslim",
+                    "explanation_de": "Die Schafiiten und Malikiten erlauben das Masah über Khuffain (Ledersocken), da dies durch mutawatir-Überlieferungen belegt ist. Sie fordern jedoch, dass die Socken dick genug sind, um eigenständig am Fuß zu halten und wasserundurchlässig zu sein."
+                }
+            ],
+            "historical_context_de": "Die Unterscheidung zwischen Khuffain und dünnen Socken reflektiert die Bedingungen der klassischen Zeit, in der Ledersocken die übliche Fußbekleidung waren. Die Schafiiten und Malikiten setzten strenge Bedingungen für die Beschaffenheit der Socken."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Erlaubt auch über gewöhnliche dicke Socken",
+            "label_ar": "يجوز المسح على الجوارب الثخينة",
+            "description_de": "Das Masah ist auch über gewöhnliche Socken erlaubt, sofern sie dick genug sind, dass man darin laufen kann.",
+            "scholars": [
+                "abu-hanifa",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "hanafi",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sunan Abu Dawud, Nr. 159; Sunan at-Tirmidhi, Nr. 99",
+                    "text_ar": "أن النبي ﷺ مسح على الجوربين والنعلين",
+                    "text_de": "Der Prophet ﷺ strich über seine Socken und Sandalen.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "At-Tirmidhi",
+                    "explanation_de": "Die Hanafiten und Hanbaliten berufen sich auf diese Überlieferung, die allgemein von Socken (Jawrabayn) spricht. Sie erweitern die Erlaubnis auf gewöhnliche dicke Socken, die nicht aus Leder sein müssen."
+                }
+            ],
+            "historical_context_de": "Ahmad ibn Hanbal war dafür bekannt, bei Erleichterungen (Rukhas) der prophetischen Praxis zu folgen. Abu Hanifas Schüler Abu Yusuf und Muhammad ibn al-Hasan übernahmen diese weiter gefasste Position, die sich in der hanafitischen Schule durchsetzte."
+        }
+    ],
+    "related_questions": [
+        "tahara-beruehrung-wudu",
+        "tahara-nagellack-gebet"
+    ],
+    "sources": [
+        {
+            "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
+            "author": "Kuwaiti Ministry of Awqaf",
+            "url": "https://islamweb.net"
+        },
+        {
+            "title": "Al-Mughni",
+            "author": "Ibn Qudama",
+            "url": "https://shamela.ws/book/6946"
+        },
+        {
+            "title": "Al-Majmu'",
+            "author": "Imam an-Nawawi",
+            "url": "https://shamela.ws/book/384"
+        }
+    ]
+}

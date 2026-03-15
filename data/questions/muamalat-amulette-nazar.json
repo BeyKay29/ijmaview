@@ -1,0 +1,73 @@
+{
+    "id": "muamalat-amulette-nazar",
+    "slug": "amulette-nazar-talisman-islam-urteil",
+    "category": "muamalat",
+    "subcategory": "",
+    "question_de": "Darf man Amulette, das 'Blaue Auge' (Nazar) oder Talismane zum Schutz tragen?",
+    "question_ar": "حكم تعليق التمائم والخرزة الزرقاء",
+    "search_aliases": [
+        "Nazar Auge Halal",
+        "Amulett Islam",
+        "Muska tragen",
+        "Schutz vor dem Bösen Blick",
+        "Talisman Shirk"
+    ],
+    "context_de": "In vielen Kulturen ist der Glaube an den 'Bösen Blick' stark. Das Tragen von Gegenständen zum Schutz davor ist jedoch theologisch sensibel (Schirk).",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Absolut verboten (Schirk - Beigesellung)",
+            "label_ar": "محرم وهو من الشرك",
+            "description_de": "Das Tragen von Gegenständen (wie dem blauen Auge), in der Überzeugung, dass der Gegenstand selbst schützt, ist kleiner Schirk (Shirk Asghar).",
+            "scholars": [
+                "ahmad-ibn-hanbal",
+                "ibn-taymiyya",
+                "ibn-qayyim"
+            ],
+            "madhabs": [
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sunan Abu Dawud, Nr. 3883",
+                    "text_ar": "إن الرقى والتمائم والتولة شرك",
+                    "text_de": "Wahrlich, Zaubersprüche, Amulette und Liebeszauber sind Schirk.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Albani"
+                }
+            ]
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Amulette mit Koranversen (Muska) sind erlaubt",
+            "label_ar": "جواز التمائم من القرآن",
+            "description_de": "Wenn das Amulett ausschließlich Koranverse oder Gottesnamen enthält, betrachten es einige Gelehrte als erlaubt, analog zum Lesen des Korans über einen Kranken.",
+            "scholars": [
+                "malik-ibn-anas",
+                "einige Schafiiten"
+            ],
+            "madhabs": [
+                "maliki",
+                "shafii"
+            ],
+            "explanation_de": "Man glaubt hierbei an die Baraka (Segen) der Worte Allahs, nicht an die Kraft des Objekts selbst."
+        }
+    ],
+    "related_questions": [
+        "muamalat-tattoos",
+        "muamalat-social-media"
+    ],
+    "sources": [
+        {
+            "title": "Majmu' al-Fatawa",
+            "author": "Ibn Taymiyya",
+            "url": "https://shamela.ws/book/505"
+        },
+        {
+            "title": "Zad al-Ma'ad",
+            "author": "Ibn Qayyim al-Jauziyya",
+            "url": "https://shamela.ws/book/12836"
+        }
+    ]
+}

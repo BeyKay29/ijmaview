@@ -1,0 +1,90 @@
+{
+    "id": "siyam-augentropfen-fasten",
+    "slug": "augentropfen-fasten-ramadan",
+    "category": "siyam",
+    "subcategory": "",
+    "question_de": "Brechen Augentropfen das Fasten?",
+    "question_ar": "هل قطرة العين تفطر الصائم؟",
+    "search_aliases": [
+        "Augentropfen Fasten",
+        "Augentropfen Ramadan",
+        "Augenmedizin Fasten",
+        "Tropfen Auge Fasten brechen"
+    ],
+    "context_de": "Viele Muslime, die auf Augentropfen angewiesen sind, stellen sich während des Ramadan die Frage, ob deren Verwendung das Fasten bricht. Die Gelehrten diskutieren, ob eine Verbindung zwischen Auge und Rachen besteht.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Augentropfen brechen das Fasten NICHT",
+            "label_ar": "قطرة العين لا تفطر",
+            "description_de": "Augentropfen brechen das Fasten nicht, da das Auge kein natürlicher Zugang zum Magen ist und die aufgenommene Menge verschwindend gering ist.",
+            "scholars": [
+                "abu-hanifa",
+                "al-shafii"
+            ],
+            "madhabs": [
+                "hanafi",
+                "shafii"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Grundprinzip aus den Usul al-Fiqh",
+                    "text_ar": "الأصل بقاء ما كان على ما كان",
+                    "text_de": "Der Grundsatz lautet: Der ursprüngliche Zustand (hier: gültiges Fasten) bleibt bestehen, bis ein klarer Beweis das Gegenteil belegt.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Grundprinzip",
+                    "explanation_de": "Die Hanafiten und Schafiiten argumentieren, dass das Fasten nur durch das Einführen von Substanzen über natürliche Körperöffnungen (Mund, Nase) in den Magen gebrochen wird. Das Auge gehört nicht dazu."
+                }
+            ],
+            "historical_context_de": "Diese Position basiert auf dem Prinzip, dass nur Substanzen, die den Magen über einen natürlichen Zugang erreichen, das Fasten brechen. Die moderne Medizin bestätigt, dass Augentropfen in minimalen Mengen über den Tränenkanal in den Rachenraum gelangen können, aber die Menge ist so gering, dass sie als unvermeidbar gilt."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Augentropfen brechen das Fasten",
+            "label_ar": "قطرة العين تفطر",
+            "description_de": "Augentropfen können über den Tränenkanal in den Rachenraum gelangen und brechen daher das Fasten.",
+            "scholars": [
+                "malik-ibn-anas",
+                "ahmad-ibn-hanbal"
+            ],
+            "madhabs": [
+                "maliki",
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Überlieferung in Al-Mughni, Ibn Qudama",
+                    "text_ar": "أن الكحل يصل إلى الحلق",
+                    "text_de": "Es wird berichtet, dass Kajal (Kohl) den Rachenraum erreichen kann.",
+                    "hadith_grade": "hasan",
+                    "graded_by": "Ibn Qudama",
+                    "explanation_de": "Die Malikiten und Hanbaliten argumentieren, dass alles, was über irgendeinen Weg den Magen oder Rachenraum erreicht, das Fasten bricht. Da Augentropfen über den Tränenkanal in den Rachen gelangen können, ist das Fasten gebrochen."
+                }
+            ],
+            "historical_context_de": "Die strengere Position basiert auf dem Vorsichtsprinzip. In der klassischen Literatur wurde bereits über Kajal (Kohl) für die Augen diskutiert, wobei einige Gelehrte einen geschmacklichen Effekt im Rachen beobachteten."
+        }
+    ],
+    "related_questions": [
+        "siyam-zahnpasta-fasten",
+        "tahara-nagellack-gebet"
+    ],
+    "sources": [
+        {
+            "title": "Al-Mughni",
+            "author": "Ibn Qudama",
+            "url": "https://shamela.ws/book/6946"
+        },
+        {
+            "title": "Al-Mawsu'a al-Fiqhiyya al-Kuwaitiyya",
+            "author": "Kuwaiti Ministry of Awqaf",
+            "url": "https://islamweb.net"
+        },
+        {
+            "title": "Fatawa Ibn Taymiyya",
+            "author": "Ibn Taymiyya",
+            "url": "https://shamela.ws/book/505"
+        }
+    ]
+}

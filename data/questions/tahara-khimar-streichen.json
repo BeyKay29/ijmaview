@@ -1,0 +1,83 @@
+{
+    "id": "tahara-khimar-streichen",
+    "slug": "wudu-ueber-kopftuch-streichen",
+    "category": "tahara",
+    "subcategory": "wudu",
+    "question_de": "Darf eine Frau beim Wudu über ihr Kopftuch (Khimar) streichen?",
+    "question_ar": "هل يجوز المسح على الخمار في الوضوء؟",
+    "search_aliases": [
+        "Wudu Kopftuch",
+        "Masah Khimar",
+        "Kopftuch streichen Wudu",
+        "Wudu unterwegs Frau",
+        "Kopftuch nicht abnehmen Wudu"
+    ],
+    "context_de": "Frauen stehen oft vor der Herausforderung, Wudu in öffentlichen Waschräumen zu machen. Die Frage ist, ob sie das Kopftuch abnehmen müssen, um direkt über das Haar zu streichen.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Nicht erlaubt (Kopfhaar muss berührt werden)",
+            "label_ar": "لا يجوز المسح على الخمار إلا لضرورة",
+            "description_de": "Das Kopftuch muss zumindest teilweise angehoben werden, um direkt über das Haar oder den vorderen Teil des Kopfes zu streichen.",
+            "scholars": [
+                "abu-hanifa",
+                "malik-ibn-anas",
+                "al-shafii"
+            ],
+            "madhabs": [
+                "hanafi",
+                "maliki",
+                "shafii"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "quran",
+                    "reference": "Sure 5:6 (Al-Ma'ida)",
+                    "text_ar": "وَامْسَحُوا بِرُءُوسِكُمْ",
+                    "text_de": "und streicht über eure Köpfe",
+                    "explanation_de": "Die Mehrheit versteht den Befehl so, dass die Haut oder das Haar des Kopfes direkt berührt werden muss. Nur beim Turban des Mannes gab es Ausnahmeregelungen in den Hadithen, die die Mehrheit nicht auf das Kopftuch der Frau überträgt."
+                }
+            ],
+            "historical_context_de": "In der schafiitischen Schule reicht es, über drei Haare zu streichen; man kann also leicht unter das Tuch fassen."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Erlaubt (Analog zum Turban)",
+            "label_ar": "يجوز المسح على الخمار",
+            "description_de": "Es ist erlaubt, über das Kopftuch zu streichen, wenn es fest gewickelt ist und das Abnehmen mühsam wäre, analog zum Turban des Mannes.",
+            "scholars": [
+                "ahmad-ibn-hanbal",
+                "ibn-taymiyya"
+            ],
+            "madhabs": [
+                "hanbali"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sunan Abu Dawud; Muslim",
+                    "text_ar": "أن النبي ﷺ مسح على الخفين والخميرة",
+                    "text_de": "Der Prophet ﷺ strich über die Khuffs und den Turban (Khimara).",
+                    "explanation_de": "Die Hanbaliten erlauben es Frauen, über den Khimar (wenn er unter dem Kinn festgesteckt ist) zu streichen, basierend auf Berichten von Umm Salama (r.a.) und der Analogie zum Turban des Mannes, da beide den Kopf bedecken und schwer abzunehmen sind."
+                }
+            ],
+            "historical_context_de": "Ibn Taymiyya unterstützte diese Meinung stark als Erleichterung für Frauen."
+        }
+    ],
+    "related_questions": [
+        "tahara-socken-ueberstreichen",
+        "nikah-kopftuch-pflicht"
+    ],
+    "sources": [
+        {
+            "title": "Al-Mughni",
+            "author": "Ibn Qudama",
+            "url": "https://shamela.ws/book/6946"
+        },
+        {
+            "title": "Majmu' al-Fatawa",
+            "author": "Ibn Taymiyya",
+            "url": "https://shamela.ws/book/505"
+        }
+    ]
+}

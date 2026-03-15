@@ -1,0 +1,87 @@
+{
+    "id": "tahara-schlaf-wudu",
+    "slug": "schlaf-wudu-brechen-urteil",
+    "category": "tahara",
+    "subcategory": "wudu",
+    "question_de": "Bricht Schlaf den Wudu?",
+    "question_ar": "هل النوم ينقض الوضوء؟",
+    "search_aliases": [
+        "Schlaf Wudu",
+        "Wudu brechen Schlaf",
+        "Einschlafen Gebet",
+        "Schlafen Wudu",
+        "Tiefschlaf Wudu"
+    ],
+    "context_de": "Fast jeder Muslime erlebt Situationen, in denen er während des Wartens auf das Gebet oder im Sitzen einnickt. Wann genau gilt der Wudu als gebrochen?",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Tiefer Schlaf bricht den Wudu (Mehrheit)",
+            "label_ar": "النوم المستغرق ينقض الوضوء",
+            "description_de": "Tiefer Schlaf, bei dem man die Kontrolle über seine Sinne verliert, bricht den Wudu. Leichtes Einnippeln im Sitzen nicht.",
+            "scholars": [
+                "al-shafii",
+                "ahmad-ibn-hanbal",
+                "malik-ibn-anas",
+                "an-nawawi"
+            ],
+            "madhabs": [
+                "shafii",
+                "hanbali",
+                "maliki"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sunan Abu Dawud, Nr. 203; Sunan an-Nasa'i",
+                    "text_ar": "العين وكاء السه، فمن نام فليتوضأ",
+                    "text_de": "Die Augen sind das Verschlussband des Afters. Wer also schläft, soll Wudu machen.",
+                    "hadith_grade": "hasan",
+                    "graded_by": "Ibn Hajar / Al-Albani",
+                    "explanation_de": "Die Gelehrten erklären: Schlaf selbst bricht den Wudu nicht, aber im tiefen Schlaf merkt man nicht, ob Gase entweichen. Die Augen (Wachsein) kontrollieren den Körper; fällt die Kontrolle weg, erlischt der Wudu-Status."
+                }
+            ],
+            "historical_context_de": "Dies ist die ausgewogene Meinung, die zwischen verschiedenen Hadithen vermittelt. Die Schafiiten präzisieren: Wer fest sitzend (mit dem Gesäß fest auf dem Boden/Stuhl) schläft, dessen Wudu bleibt gültig, da keine Gase entweichen können."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Schlaf im Sitzen/Stehen bricht den Wudu nicht",
+            "label_ar": "النوم في الصلاة لا ينقض",
+            "description_de": "Solange man in einer Gebetshaltung (stehend, sitzend, knieend) schläft, bricht der Wudu nicht. Nur Schlaf im Liegen bricht den Wudu.",
+            "scholars": [
+                "abu-hanifa"
+            ],
+            "madhabs": [
+                "hanafi"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sunan at-Tirmidhi, Nr. 77",
+                    "text_ar": "ليس على من نام ساجداً وضوء حتى يضطجع",
+                    "text_de": "Wer im Prostrationszustand (Sajda) schläft, muss keinen Wudu machen, bis er sich hinlegt.",
+                    "hadith_grade": "daif",
+                    "graded_by": "At-Tirmidhi",
+                    "explanation_de": "Obwohl der Hadith schwach ist, nutzen die Hanafiten ihn als Basis für ihre Regel: Nur das Liegen führt zur vollständigen Entspannung der Muskeln, die einen Wudu-Bruch wahrscheinlich macht."
+                }
+            ],
+            "historical_context_de": "Die hanafitische Position ist hier sehr spezifisch bezüglich der Körperhaltung."
+        }
+    ],
+    "related_questions": [
+        "tahara-beruehrung-wudu",
+        "tahara-blut-wudu"
+    ],
+    "sources": [
+        {
+            "title": "Al-Majmu'",
+            "author": "Imam an-Nawawi",
+            "url": "https://shamela.ws/book/384"
+        },
+        {
+            "title": "Al-Hidaya",
+            "author": "Al-Marghinani",
+            "url": "https://shamela.ws/book/913"
+        }
+    ]
+}

@@ -1,0 +1,236 @@
+[
+    {
+        "id": "abu-hanifa",
+        "name_de": "Abu Hanifa",
+        "name_ar": "أبو حنيفة",
+        "full_name_ar": "النعمان بن ثابت بن زوطا",
+        "madhab": "hanafi",
+        "birth_year_hijri": 80,
+        "death_year_hijri": 150,
+        "birth_year_ce": 699,
+        "death_year_ce": 767,
+        "era": "Tabi'un",
+        "region": "Kufa, Irak",
+        "bio_de": "Begründer der hanafitischen Rechtsschule. Bekannt für die Betonung von Ra'y (eigenständiger Urteilsfindung) und Qiyas (Analogieschluss). Seine Rechtsschule ist heute die am weitesten verbreitete im sunnitischen Islam.",
+        "key_works": [
+            "Al-Fiqh al-Akbar"
+        ],
+        "image_placeholder": "AH"
+    },
+    {
+        "id": "malik-ibn-anas",
+        "name_de": "Malik ibn Anas",
+        "name_ar": "مالك بن أنس",
+        "full_name_ar": "مالك بن أنس بن مالك بن أبي عامر",
+        "madhab": "maliki",
+        "birth_year_hijri": 93,
+        "death_year_hijri": 179,
+        "birth_year_ce": 711,
+        "death_year_ce": 795,
+        "era": "Tabi'un",
+        "region": "Medina",
+        "bio_de": "Begründer der malikitischen Rechtsschule. Verfasser des Muwatta, einer der ältesten Hadith-Sammlungen. Er betrachtete die gelebte Praxis der Bewohner Medinas (Amal Ahl al-Madina) als eigenständige Rechtsquelle.",
+        "key_works": [
+            "Al-Muwatta"
+        ],
+        "image_placeholder": "MA"
+    },
+    {
+        "id": "al-shafii",
+        "name_de": "Imam asch-Schafi'i",
+        "name_ar": "الإمام الشافعي",
+        "full_name_ar": "محمد بن إدريس الشافعي",
+        "madhab": "shafii",
+        "birth_year_hijri": 150,
+        "death_year_hijri": 204,
+        "birth_year_ce": 767,
+        "death_year_ce": 820,
+        "era": "Frühe Abbasiden",
+        "region": "Gaza / Ägypten",
+        "bio_de": "Begründer der schafiitischen Rechtsschule und Pionier der Usul al-Fiqh (Methodenlehre der islamischen Rechtswissenschaft). Er systematisierte als Erster die Quellen des islamischen Rechts in seinem Werk Ar-Risala.",
+        "key_works": [
+            "Ar-Risala",
+            "Kitab al-Umm"
+        ],
+        "image_placeholder": "SH"
+    },
+    {
+        "id": "ahmad-ibn-hanbal",
+        "name_de": "Ahmad ibn Hanbal",
+        "name_ar": "أحمد بن حنبل",
+        "full_name_ar": "أحمد بن محمد بن حنبل الشيباني",
+        "madhab": "hanbali",
+        "birth_year_hijri": 164,
+        "death_year_hijri": 241,
+        "birth_year_ce": 780,
+        "death_year_ce": 855,
+        "era": "Abbasiden",
+        "region": "Bagdad, Irak",
+        "bio_de": "Begründer der hanbalitischen Rechtsschule und Verfasser des Musnad, einer der umfangreichsten Hadith-Sammlungen. Bekannt für seine Standhaftigkeit während der Mihna (Inquisition).",
+        "key_works": [
+            "Musnad Ahmad"
+        ],
+        "image_placeholder": "AiH"
+    },
+    {
+        "id": "muhammad-shaybani",
+        "name_de": "Muhammad ibn al-Hasan asch-Schaybani",
+        "name_ar": "محمد بن الحسن الشيباني",
+        "full_name_ar": "محمد بن الحسن بن فرقد الشيباني",
+        "madhab": "hanafi",
+        "birth_year_hijri": 132,
+        "death_year_hijri": 189,
+        "birth_year_ce": 749,
+        "death_year_ce": 805,
+        "era": "Frühe Abbasiden",
+        "region": "Kufa / Bagdad, Irak",
+        "bio_de": "Einer der wichtigsten Schüler Abu Hanifas und Hauptkodifizierer der hanafitischen Rechtsschule. Sein umfangreiches Werk bildet die Grundlage der hanafitischen Rechtsliteratur. Er studierte auch bei Malik ibn Anas.",
+        "key_works": [
+            "Al-Mabsut",
+            "Al-Jami' as-Saghir",
+            "Al-Jami' al-Kabir",
+            "As-Siyar al-Kabir"
+        ],
+        "image_placeholder": "MS"
+    },
+    {
+        "id": "abu-yusuf",
+        "name_de": "Abu Yusuf",
+        "name_ar": "أبو يوسف",
+        "full_name_ar": "يعقوب بن إبراهيم بن حبيب الأنصاري",
+        "madhab": "hanafi",
+        "birth_year_hijri": 113,
+        "death_year_hijri": 182,
+        "birth_year_ce": 731,
+        "death_year_ce": 798,
+        "era": "Frühe Abbasiden",
+        "region": "Kufa / Bagdad, Irak",
+        "bio_de": "Erster Oberrichter (Qadi al-Qudat) des Abbasidenreiches und wichtigster Schüler Abu Hanifas. Er trug maßgeblich zur Verbreitung der hanafitischen Rechtsschule durch seine Position als Oberrichter bei.",
+        "key_works": [
+            "Kitab al-Kharaj",
+            "Kitab al-Athar"
+        ],
+        "image_placeholder": "AY"
+    },
+    {
+        "id": "ibn-taymiyya",
+        "name_de": "Ibn Taymiyya",
+        "name_ar": "ابن تيمية",
+        "full_name_ar": "تقي الدين أحمد بن عبد الحليم بن تيمية",
+        "madhab": "hanbali",
+        "birth_year_hijri": 661,
+        "death_year_hijri": 728,
+        "birth_year_ce": 1263,
+        "death_year_ce": 1328,
+        "era": "Mamluken",
+        "region": "Harran / Damaskus, Syrien",
+        "bio_de": "Einer der einflussreichsten hanbalitischen Gelehrten. Bekannt für seinen eigenständigen Ijtihad und seine Texttreue. Er übte bedeutenden Einfluss auf die spätere islamische Reformbewegung aus. Er wurde mehrfach inhaftiert wegen seiner kontroversen Rechtsmeinungen.",
+        "key_works": [
+            "Majmu' al-Fatawa",
+            "Minhaj as-Sunna",
+            "Iqtida as-Sirat al-Mustaqim"
+        ],
+        "image_placeholder": "IT"
+    },
+    {
+        "id": "ibn-qayyim",
+        "name_de": "Ibn Qayyim al-Dschauziyya",
+        "name_ar": "ابن قيم الجوزية",
+        "full_name_ar": "محمد بن أبي بكر بن أيوب الزرعي",
+        "madhab": "hanbali",
+        "birth_year_hijri": 691,
+        "death_year_hijri": 751,
+        "birth_year_ce": 1292,
+        "death_year_ce": 1350,
+        "era": "Mamluken",
+        "region": "Damaskus, Syrien",
+        "bio_de": "Schüler und engster Begleiter Ibn Taymiyyas. Bedeutender Gelehrter in Fiqh, Tafsir und Tasawwuf. Seine Werke zeichnen sich durch ihre Tiefe und ihren ganzheitlichen Ansatz aus.",
+        "key_works": [
+            "Zad al-Ma'ad",
+            "I'lam al-Muwaqqi'in",
+            "Madarij as-Salikin"
+        ],
+        "image_placeholder": "IQ"
+    },
+    {
+        "id": "al-ghazali",
+        "name_de": "Abu Hamid al-Ghazali",
+        "name_ar": "أبو حامد الغزالي",
+        "full_name_ar": "أبو حامد محمد بن محمد الغزالي الطوسي",
+        "madhab": "shafii",
+        "birth_year_hijri": 450,
+        "death_year_hijri": 505,
+        "birth_year_ce": 1058,
+        "death_year_ce": 1111,
+        "era": "Seldschuken",
+        "region": "Tus / Bagdad, Persien",
+        "bio_de": "Einer der bedeutendsten islamischen Gelehrten überhaupt, genannt 'Hujjat al-Islam' (Beweis des Islam). Sein Hauptwerk Ihya Ulum ad-Din vereint Fiqh, Theologie und Tasawwuf. Er lehrte an der berühmten Nizamiyya-Hochschule in Bagdad.",
+        "key_works": [
+            "Ihya Ulum ad-Din",
+            "Al-Mustasfa",
+            "Tahafut al-Falasifa"
+        ],
+        "image_placeholder": "GH"
+    },
+    {
+        "id": "an-nawawi",
+        "name_de": "Imam an-Nawawi",
+        "name_ar": "الإمام النووي",
+        "full_name_ar": "يحيى بن شرف بن مري النووي",
+        "madhab": "shafii",
+        "birth_year_hijri": 631,
+        "death_year_hijri": 676,
+        "birth_year_ce": 1233,
+        "death_year_ce": 1277,
+        "era": "Ayyubiden/Mamluken",
+        "region": "Nawa / Damaskus, Syrien",
+        "bio_de": "Einer der größten schafiitischen Gelehrten. Sein Riyad as-Salihin und seine 40 Hadithe gehören zu den meistgelesenen islamischen Werken weltweit. Sein Kommentar zu Sahih Muslim ist das Standardnachschlagewerk.",
+        "key_works": [
+            "Riyad as-Salihin",
+            "Al-Arba'in an-Nawawiyya",
+            "Al-Majmu' Sharh al-Muhadhdhab",
+            "Sharh Sahih Muslim"
+        ],
+        "image_placeholder": "NW"
+    },
+    {
+        "id": "ibn-qudama",
+        "name_de": "Ibn Qudama al-Maqdisi",
+        "name_ar": "ابن قدامة المقدسي",
+        "full_name_ar": "موفق الدين عبد الله بن أحمد بن قدامة",
+        "madhab": "hanbali",
+        "birth_year_hijri": 541,
+        "death_year_hijri": 620,
+        "birth_year_ce": 1147,
+        "death_year_ce": 1223,
+        "era": "Ayyubiden",
+        "region": "Nablus / Damaskus",
+        "bio_de": "Verfasser des Al-Mughni, des wichtigsten und umfangreichsten Werks der hanbalitischen Rechtsschule. Sein Werk ist eine rechtsvergleichende Enzyklopädie, die die Meinungen aller Rechtsschulen darstellt.",
+        "key_works": [
+            "Al-Mughni",
+            "Al-Kafi",
+            "Al-Umda"
+        ],
+        "image_placeholder": "IQd"
+    },
+    {
+        "id": "ibn-rushd",
+        "name_de": "Ibn Rushd (Averroes)",
+        "name_ar": "ابن رشد",
+        "full_name_ar": "أبو الوليد محمد بن أحمد بن رشد القرطبي",
+        "madhab": "maliki",
+        "birth_year_hijri": 520,
+        "death_year_hijri": 595,
+        "birth_year_ce": 1126,
+        "death_year_ce": 1198,
+        "era": "Almohaden",
+        "region": "Córdoba / Marrakesch, Andalusien",
+        "bio_de": "Bedeutender malikitischer Gelehrter, Philosoph und Richter. Sein Bidayat al-Mujtahid ist eines der wichtigsten rechtsvergleichenden Fiqh-Werke, das zu jeder Frage die Ursachen der Meinungsverschiedenheiten analysiert.",
+        "key_works": [
+            "Bidayat al-Mujtahid",
+            "Tahafut at-Tahafut",
+            "Fasl al-Maqal"
+        ],
+        "image_placeholder": "IR"
+    }
+]

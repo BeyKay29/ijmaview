@@ -1,0 +1,67 @@
+{
+    "id": "muamalat-adoption-kafala",
+    "slug": "adoption-kafala-pflegekinder-islam-urteil",
+    "category": "muamalat",
+    "subcategory": "",
+    "question_de": "Darf man im Islam Kinder adoptieren?",
+    "question_ar": "حكم التبني والكفالة في الإسلام",
+    "search_aliases": [
+        "Adoption Islam",
+        "Kafala Islam",
+        "Pflegekinder Islam",
+        "Name des Vaters Adoption",
+        "Waisenhaus Islam"
+    ],
+    "context_de": "Der Islam legt großen Wert auf die Sorge um Waisenkinder, verbietet aber die klassische westliche Adoption, bei der die Identität des Kindes rechtlich verändert wird.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Gesetzliche Adoption (Namensänderung) verboten",
+            "label_ar": "تحريم التبني بمعناه القانوني",
+            "description_de": "Es ist verboten, einem Kind einen falschen Stammbaum zu geben oder den Namen des leiblichen Vaters durch den des Adoptivvaters zu ersetzen.",
+            "scholars": [
+                "Alle Gelehrten (Ijma)"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "quran",
+                    "reference": "Sure 33:5 (Al-Ahzab)",
+                    "text_ar": "ادْعُوهُمْ لِآبَائِهِمْ هُوَ أَقْسَطُ عِندَ اللَّهِ",
+                    "text_de": "Nennt sie nach ihren Vätern; das ist gerechter vor Allah.",
+                    "explanation_de": "Die Abstammung (Nasab) ist im Islam ein heiliges Gut und darf nicht durch Verträge geändert werden."
+                }
+            ],
+            "historical_context_de": "Der Prophet ﷺ hatte selbst einen Adoptivsohn (Zaid ibn Haritha), dem er seinen Namen gab, bis dieser Vers herabgesandt wurde."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Kafala (Pflegschaft) ist höchst empfohlen",
+            "label_ar": "كفالة اليتيم من القربات",
+            "description_de": "Die Sorge um ein Kind (finanziell, emotional, erzieherisch), ohne die Abstammung zu verschleiern, ist ein großes Verdienst.",
+            "scholars": [
+                "Mehrheitsmeinung"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari",
+                    "text_de": "Ich und derjenige, der für eine Waise sorgt, werden im Paradies so sein – und er hielt Zeige- und Mittelfinger nah zusammen.",
+                    "hadith_grade": "sahih",
+                    "graded_by": "Al-Bukhari"
+                }
+            ],
+            "historical_context_de": "Das Pflegekind bleibt jedoch ein ‚Fremder' (Non-Mahram) bezüglich der Regeln des Hidschabs und der Erbschaft, außer es wurde im Säuglingsalter gestillt (Milchverwandtschaft)."
+        }
+    ],
+    "related_questions": [
+        "nikah-wali-pflicht",
+        "muamalat-erbe-nichtmuslime"
+    ],
+    "sources": [
+        {
+            "title": "Bidayat al-Mujtahid",
+            "author": "Ibn Rushd",
+            "url": "https://shamela.ws/book/22375"
+        }
+    ]
+}

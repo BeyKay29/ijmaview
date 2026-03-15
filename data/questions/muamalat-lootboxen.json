@@ -1,0 +1,50 @@
+{
+    "id": "muamalat-lutboxen-gaming",
+    "slug": "lootboxen-gaming-gluecksspiel-islam-urteil",
+    "category": "muamalat",
+    "subcategory": "",
+    "question_de": "Sind Lootboxen in Videospielen aus islamischer Sicht Glücksspiel (Maisir)?",
+    "question_ar": "حكم صناديق الغنائم في الألعاب الإلكترونية",
+    "search_aliases": [
+        "Lootboxen Islam",
+        "Gaming Glücksspiel",
+        "FIFA Packs Halal",
+        "Skins kaufen Islam",
+        "Maisir Videospiele"
+    ],
+    "context_de": "In Videospielen können Spieler Kisten (Lootboxen) mit echtem Geld kaufen, deren Inhalt zufällig ist. Da man den Wert des Inhalts vorher nicht kennt, entstehen Parallelen zum Glücksspiel.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Glücksspiel (Haram) – Ungewissheit (Gharar)",
+            "label_ar": "محرمة لوجود الغرر والقمار",
+            "description_de": "Lootboxen, die mit echtem Geld gekauft werden und Zufallsgewinne enthalten, fallen unter das Verbot von Maisir (Glücksspiel) und Gharar (Risikogeschäft).",
+            "scholars": [
+                "Moderne Gelehrte",
+                "Fatwa-Gremien"
+            ],
+            "explanation_de": "Man zahlt Geld für etwas Ungewisses. Da der Inhalt meist einen (virtuellen) Marktwert hat, gewinnt der Spieler entweder mehr als er gezahlt hat oder er verliert fast alles. Dies entspricht der Definition von Glücksspiel."
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Erlaubt, wenn nur mit erspielter In-Game-Währung",
+            "label_ar": "جائزة إذا كانت بعملة افتراضية فقط",
+            "description_de": "Wenn die Boxen ausschließlich mit Zeitaufwand (Spielen) und nicht mit echtem Geld erworben werden können, ist es kein Glücksspiel im finanziellen Sinne.",
+            "scholars": [
+                "Mehrheitsmeinung"
+            ],
+            "historical_context_de": "Gelehrte warnen dennoch vor der Zeitverschwendung (Israf al-Waqt) und Suchtgefahr."
+        }
+    ],
+    "related_questions": [
+        "muamalat-krypto-urteil",
+        "muamalat-musik-islam"
+    ],
+    "sources": [
+        {
+            "title": "Zeitgenössische Fatawa zu digitalen Medien",
+            "author": "Diverse",
+            "url": "https://islamqa.info"
+        }
+    ]
+}

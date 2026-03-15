@@ -1,0 +1,66 @@
+{
+    "id": "muamalat-rauchen-shisha",
+    "slug": "rauchen-shisha-zigaretten-islam-halal-haram",
+    "category": "muamalat",
+    "subcategory": "",
+    "question_de": "Ist Rauchen (Zigaretten, Shisha, E-Zigaretten) im Islam verboten?",
+    "question_ar": "حكم التدخين والشيشة في الإسلام",
+    "search_aliases": [
+        "Rauchen Islam",
+        "Shisha Haram",
+        "Zigaretten Halal",
+        "Vape Islam",
+        "E-Zigarette Haram"
+    ],
+    "context_de": "Rauchen war zur Zeit der klassischen Rechtsschulen unbekannt. Die heutige Einordnung basiert auf den bekannten Gesundheitsschäden und der Verschwendung von Geld.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Streng verboten (Haram)",
+            "label_ar": "محرم قطعاً",
+            "description_de": "Rauchen ist Haram, da es den Körper nachweislich schädigt, tödliche Krankheiten verursacht und das Vermögen verschwendet.",
+            "scholars": [
+                "Großmufti von Ägypten",
+                "Saudi Scholar Committee",
+                "Diyanet"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "quran",
+                    "reference": "Sure 2:195 (Al-Baqara)",
+                    "text_de": "und stürzt euch nicht mit eurer eigenen Hand ins Verderben.",
+                    "explanation_de": "Da Rauchen gesundheitsschädlich ist, fällt es unter das Verbot der Selbstschädigung."
+                },
+                {
+                    "type": "hadith",
+                    "reference": "Al-Arba'in an-Nawawiyya, Nr. 32",
+                    "text_ar": "لا ضرر ولا ضرار",
+                    "text_de": "Es soll kein Schaden zugefügt und kein Schaden erwidert werden (Schadenszufügungsverbot).",
+                    "hadith_grade": "hasan",
+                    "graded_by": "An-Nawawi"
+                }
+            ]
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Verpönt (Makruh)",
+            "label_ar": "مكروه",
+            "description_de": "Es wird als verpönt angesehen, da der schlechte Geruch andere Menschen (und die Engel) stört, ähnlich wie der Geruch von rohem Knoblauch oder Zwiebeln.",
+            "scholars": [
+                "Historische Meinung einiger Hanafiten/Malikiten"
+            ],
+            "historical_context_de": "Als Tabak neu aufkam, wussten die Gelehrten noch nichts über die toxische Wirkung. Heute tendieren fast alle zur Meinung 'Haram'."
+        }
+    ],
+    "related_questions": [
+        "muamalat-alkohol-kochen",
+        "siyam-zahnpasta-fasten"
+    ],
+    "sources": [
+        {
+            "title": "Fatawa al-Lajnah ad-Da'imah",
+            "author": "Saudi Scholar Committee",
+            "url": "https://alifta.gov.sa"
+        }
+    ]
+}
