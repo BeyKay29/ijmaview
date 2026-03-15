@@ -26,7 +26,6 @@ export default function QuestionCard({ question, index = 0 }: QuestionCardProps)
             <Link
                 href={`/frage/${question.slug}`}
                 className="question-card group"
-                id={`question-${question.id}`}
             >
                 <div className="question-card-top">
                     {category && (
