@@ -45,7 +45,7 @@ import salahRafAlYadayn from '@/data/questions/salah-raf-al-yadayn.json';
 import salahImamSuender from '@/data/questions/salah-imam-suender.json';
 import salahKirche from '@/data/questions/salah-kirche-synagoge.json';
 
-// Siyam (12)
+// Siyam (13)
 import siyamZahnpasta from '@/data/questions/siyam-zahnpasta-fasten.json';
 import siyamAugentropfen from '@/data/questions/siyam-augentropfen-fasten.json';
 import siyamErbrechen from '@/data/questions/siyam-erbrechen-fasten.json';
@@ -58,6 +58,7 @@ import siyamSpritze from '@/data/questions/siyam-spritze-fasten.json';
 import siyamSchwimmen from '@/data/questions/siyam-schwimmen-fasten.json';
 import siyamParfuem from '@/data/questions/siyam-parfuem-fasten.json';
 import siyamVergessenEssen from '@/data/questions/siyam-vergessen-essen.json';
+import siyamAshura from '@/data/questions/siyam-ashura-arafa.json';
 
 // Zakah (5)
 import zakahGoldschmuck from '@/data/questions/zakah-goldschmuck-frauen.json';
@@ -71,7 +72,7 @@ import hajjUmra from '@/data/questions/hajj-umra-pflicht.json';
 import hajjFrauen from '@/data/questions/hajj-frauen-mahram.json';
 import hajjSchulden from '@/data/questions/hajj-schulden-hajj.json';
 
-// Muamalat (29)
+// Muamalat (32)
 import muamalatRiba from '@/data/questions/muamalat-riba-bankzins.json';
 import muamalatVersicherung from '@/data/questions/muamalat-versicherung-islam.json';
 import muamalatMusik from '@/data/questions/muamalat-musik-islam.json';
@@ -106,6 +107,9 @@ import muamalatNiqab from '@/data/questions/muamalat-niqab-pflicht.json';
 import muamalatAdoption from '@/data/questions/muamalat-adoption-kafala.json';
 import muamalatMurabaha from '@/data/questions/muamalat-murabaha-bank.json';
 import muamalatWaqf from '@/data/questions/muamalat-waqf-stiftung.json';
+import muamalatIsbal from '@/data/questions/muamalat-isbal-knoechel.json';
+import muamalatGoldSeide from '@/data/questions/muamalat-gold-seide-mann.json';
+import muamalatFrauenFriedhof from '@/data/questions/muamalat-frauen-friedhof.json';
 
 // Nikah (13)
 import nikahWali from '@/data/questions/nikah-wali-pflicht.json';
@@ -165,7 +169,7 @@ const allQuestions: Question[] = [
     salahImamSuender as Question,
     salahKirche as Question,
 
-    // Siyam (12)
+    // Siyam (13)
     siyamZahnpasta as Question,
     siyamAugentropfen as Question,
     siyamErbrechen as Question,
@@ -178,6 +182,7 @@ const allQuestions: Question[] = [
     siyamSchwimmen as Question,
     siyamParfuem as Question,
     siyamVergessenEssen as Question,
+    siyamAshura as Question,
 
     // Zakah (5)
     zakahGoldschmuck as Question,
@@ -191,7 +196,7 @@ const allQuestions: Question[] = [
     hajjFrauen as Question,
     hajjSchulden as Question,
 
-    // Muamalat (34)
+    // Muamalat (37)
     muamalatRiba as Question,
     muamalatVersicherung as Question,
     muamalatMusik as Question,
@@ -226,6 +231,9 @@ const allQuestions: Question[] = [
     muamalatAdoption as Question,
     muamalatMurabaha as Question,
     muamalatWaqf as Question,
+    muamalatIsbal as Question,
+    muamalatGoldSeide as Question,
+    muamalatFrauenFriedhof as Question,
 
     // Nikah (13)
     nikahWali as Question,

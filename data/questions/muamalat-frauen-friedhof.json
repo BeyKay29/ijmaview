@@ -1,0 +1,89 @@
+{
+    "id": "muamalat-frauen-friedhof",
+    "slug": "frauen-friedhof-besuch-islam-urteil",
+    "category": "muamalat",
+    "subcategory": "",
+    "question_de": "Dürfen muslimische Frauen den Friedhof besuchen?",
+    "question_ar": "حكم زيارة النساء للقبور",
+    "search_aliases": [
+        "Frauen Friedhof Islam",
+        "Grab besuchen Frau",
+        "Friedhofsbesuch Haram oder Makruh",
+        "Ziyarat al-Qubur Nisa"
+    ],
+    "context_de": "Der Besuch von Gräbern dient der Erinnerung an das Jenseits. Ob dies auch für Frauen gilt, ist Gegenstand unterschiedlicher Auslegungen.",
+    "positions": [
+        {
+            "id": "pos-1",
+            "label_de": "Erlaubt (Allgemeine Sunna)",
+            "label_ar": "الجواز وهو مذهب الجمهور",
+            "description_de": "Frauen dürfen den Friedhof besuchen, solange sie sich angemessen verhalten (kein lautes Klagen, korrekter Hidschab).",
+            "scholars": [
+                "al-shafii",
+                "abu-hanifa",
+                "an-nawawi"
+            ],
+            "madhabs": [
+                "shafii",
+                "hanafi"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sahih Muslim, Nr. 977",
+                    "text_de": "Ich hatte euch den Besuch der Gräber verboten; nun besucht sie (denn sie erinnern an das Jenseits).",
+                    "explanation_de": "Die Gelehrten sagen, dass die Erlaubnis sowohl Männer als auch Frauen umfasst, da der Grund (Erinnerung an den Tod) für beide gilt."
+                },
+                {
+                    "type": "hadith",
+                    "reference": "Sahih al-Bukhari, Nr. 1283",
+                    "text_de": "Der Prophet ﷺ ging an einer Frau vorbei, die an einem Grab weinte, und sagte: ‚Fürchte Allah und sei geduldig.' Er verbot ihr den Besuch des Grabes jedoch nicht.",
+                    "hadith_grade": "sahih"
+                }
+            ]
+        },
+        {
+            "id": "pos-2",
+            "label_de": "Verboten oder verpönt (Makruh)",
+            "label_ar": "تحريم زيارة النساء للقبور",
+            "description_de": "Einige Gelehrte verbieten den regelmäßigen Besuch von Gräbern für Frauen, um exzessive Trauer oder unangemessenes Verhalten zu verhindern.",
+            "scholars": [
+                "ahmad-ibn-hanbal",
+                "einige Malikiten"
+            ],
+            "madhabs": [
+                "hanbali",
+                "maliki"
+            ],
+            "evidence_chain": [
+                {
+                    "type": "hadith",
+                    "reference": "Sunan at-Tirmidhi; Ibn Majah",
+                    "text_ar": "لعن رسول الله صلى الله عليه وسلم زوارات القبور",
+                    "text_de": "Der Gesandte Allahs ﷺ verfluchte die Frauen, die häufig die Gräber besuchen.",
+                    "hadith_grade": "hasan",
+                    "graded_by": "At-Tirmidhi"
+                }
+            ],
+            "historical_context_de": "Andere Gelehrte erklären, dass dieser Fluch nur für Frauen gilt, die laut klagen oder den Friedhof als Ort der Sündhaftigkeit nutzen."
+        }
+    ],
+    "related_questions": [
+        "muamalat-niqab-pflicht",
+        "salah-haende-binden"
+    ],
+    "sources": [
+        {
+            "title": "Sharh Sahih Muslim",
+            "author": "Imam an-Nawawi",
+            "url": "https://shamela.ws/book/1711"
+        },
+        {
+            "title": "Al-Mughni",
+            "author": "Ibn Qudama",
+            "url": "https://shamela.ws/book/6946"
+        }
+    ],
+    "evidence_chain": [],
+    "historical_context_de": ""
+}
