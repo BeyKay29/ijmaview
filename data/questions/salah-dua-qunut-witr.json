@@ -1,0 +1,71 @@
+{
+  "id": "salah-dua-qunut-witr",
+  "slug": "qunut-witr-gebet",
+  "category": "salah",
+  "subcategory": "",
+  "question_de": "Gibt es ein Qunut-Dua im Witr-Gebet?",
+  "question_ar": "",
+  "search_aliases": [
+    "Gibt es ein Qunut-Dua im Witr-Gebet?",
+    "qunut witr gebet"
+  ],
+  "context_de": "Dies ist ein wichtiger Aspekt des täglichen Lebens und wird von den Gelehrten ausführlich diskutiert.",
+  "positions": [
+    {
+      "id": "pos-1",
+      "label_de": "Ja, das ganze Jahr (Hanafi)",
+      "label_ar": "موقف 1",
+      "description_de": "Diese Position wird von Gelehrten wie Abu Hanifa, Malik ibn Anas vertreten.",
+      "scholars": [
+        "abu-hanifa",
+        "malik-ibn-anas"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki"
+      ],
+      "evidence_chain": [
+        {
+          "type": "hadith",
+          "reference": "Al-Bukhari",
+          "text_ar": "",
+          "text_de": "Taten werden nach Absichten beurteilt.",
+          "explanation_de": "Die Absicht ist im Islam zentral für alle rituellen Handlungen."
+        }
+      ],
+      "historical_context_de": ""
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Nur in der zweiten Ramadan-Hälfte (Shafi'i)",
+      "label_ar": "موقف 2",
+      "description_de": "Alternative Ansicht von Imam al-Shafi'i und Ahmad ibn Hanbal.",
+      "scholars": [
+        "al-shafii",
+        "ahmad-ibn-hanbal"
+      ],
+      "madhabs": [
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
+        {
+          "type": "quran",
+          "reference": "Sure 2:286",
+          "text_ar": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
+          "text_de": "Gott erlegt keiner Seele mehr auf, als sie zu leisten vermag.",
+          "explanation_de": "Dieser Vers unterstreicht die Barmherzigkeit im islamischen Recht."
+        }
+      ],
+      "historical_context_de": ""
+    }
+  ],
+  "related_questions": [],
+  "sources": [
+    {
+      "title": "Al-Mawsu'a al-Fiqhiyya",
+      "author": "Kuwait Ministry of Awqaf",
+      "url": "https://islamweb.net"
+    }
+  ]
+}
