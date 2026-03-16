@@ -9,55 +9,53 @@
     "Ist Dropshipping erlaubt?",
     "dropshipping islam halal"
   ],
-  "context_de": "Dies ist ein wichtiger Aspekt des täglichen Lebens und wird von den Gelehrten ausführlich diskutiert.",
+  "context_de": "Dropshipping ist ein modernes E-Commerce-Modell, bei dem der Verkäufer keine Lagerbestände hält, sondern die Ware erst nach dem Verkauf beim Großhändler bestellt. Im islamischen Recht wird dies kritisch geprüft, da der Verkauf von Gütern, die man nicht besitzt, grundsätzlich problematisch ist.",
   "positions": [
     {
       "id": "pos-1",
-      "label_de": "Ja, als Handelsvertreter (Wakalah)",
-      "label_ar": "موقف 1",
-      "description_de": "Diese Position wird von Gelehrten wie Abu Hanifa, Malik ibn Anas vertreten.",
+      "label_de": "Erlaubt als Vermittlungsmodell (Wakalah)",
+      "label_ar": "جوازه بنظام الوكالة",
+      "description_de": "Dropshipping ist erlaubt, wenn der Online-Händler rechtlich als Vermittler (Wakil) des Herstellers auftritt oder das Modell des Salam-Handels (Vorauskasse) korrekt anwendet. Dabei muss die Ware genau spezifiziert sein.",
       "scholars": [
-        "abu-hanifa",
-        "malik-ibn-anas"
+        "Zeitgenössische Gelehrte",
+        "Al-Azhar Fatwa Committee"
       ],
       "madhabs": [
         "hanafi",
+        "shafii"
+      ],
+      "evidence_chain": [
+        {
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari",
+          "text_ar": "المسلمون على شروطهم",
+          "text_de": "Die Muslime sind an ihre Bedingungen gebunden.",
+          "explanation_de": "Dies erlaubt moderne Vertragsformen, solange kein eindeutiges Verbot vorliegt."
+        }
+      ]
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Verboten bei direktem Verkauf ohne Besitz",
+      "label_ar": "عدم الجواز لعدم الملك",
+      "description_de": "Es ist verboten, eine spezifische Ware zu verkaufen, die man zum Zeitpunkt des Vertragsschlusses weder physisch noch rechtlich besitzt. Dies wird als risikoreich (Gharar) eingestuft.",
+      "scholars": [
+        "Ibn Hazm",
+        "Ahmad ibn Hanbal (klassisch)"
+      ],
+      "madhabs": [
+        "hanbali",
         "maliki"
       ],
       "evidence_chain": [
         {
           "type": "hadith",
-          "reference": "Al-Bukhari",
-          "text_ar": "",
-          "text_de": "Taten werden nach Absichten beurteilt.",
-          "explanation_de": "Die Absicht ist im Islam zentral für alle rituellen Handlungen."
+          "reference": "Sunan Abu Dawud, Nr. 3503",
+          "text_ar": "لا تبع ما ليس عندك",
+          "text_de": "Verkaufe nicht, was nicht bei dir (in deinem Besitz) ist.",
+          "explanation_de": "Dieser Hadith ist der zentrale Beleg gegen Handelsformen, bei denen der Verkäufer kein Eigentum an der Ware hat."
         }
-      ],
-      "historical_context_de": ""
-    },
-    {
-      "id": "pos-2",
-      "label_de": "Problematisch, wenn man verkauft, was man nicht besitzt",
-      "label_ar": "موقف 2",
-      "description_de": "Alternative Ansicht von Imam al-Shafi'i und Ahmad ibn Hanbal.",
-      "scholars": [
-        "al-shafii",
-        "ahmad-ibn-hanbal"
-      ],
-      "madhabs": [
-        "shafii",
-        "hanbali"
-      ],
-      "evidence_chain": [
-        {
-          "type": "quran",
-          "reference": "Sure 2:286",
-          "text_ar": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
-          "text_de": "Gott erlegt keiner Seele mehr auf, als sie zu leisten vermag.",
-          "explanation_de": "Dieser Vers unterstreicht die Barmherzigkeit im islamischen Recht."
-        }
-      ],
-      "historical_context_de": ""
+      ]
     }
   ],
   "related_questions": [],

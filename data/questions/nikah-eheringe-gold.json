@@ -9,55 +9,65 @@
     "Goldene Eheringe für Männer?",
     "goldringe maenner islam"
   ],
-  "context_de": "Dies ist ein wichtiger Aspekt des täglichen Lebens und wird von den Gelehrten ausführlich diskutiert.",
+  "context_de": "Das Tragen von Goldschmuck durch Männer ist ein klassisches Thema des islamischen Rechts, das unter dem Aspekt der Bescheidenheit und der Unterscheidung der Geschlechter behandelt wird. Während Gold für Frauen erlaubt ist, gibt es für Männer spezifische Einschränkungen.",
   "positions": [
     {
       "id": "pos-1",
       "label_de": "Absolut verboten für Männer (Haram)",
-      "label_ar": "موقف 1",
-      "description_de": "Diese Position wird von Gelehrten wie Abu Hanifa, Malik ibn Anas vertreten.",
+      "label_ar": "تحريم الذهب على الرجال",
+      "description_de": "Es herrscht Konsens (Ijma) unter den Gelehrten aller vier Rechtsschulen, dass das Tragen von reinem Gold für Männer verboten ist. Dies gilt für Ringe, Ketten und anderen Schmuck. Der Grund liegt in der Bewahrung der männlichen Identität und der Vermeidung von Hochmut.",
       "scholars": [
         "abu-hanifa",
-        "malik-ibn-anas"
-      ],
-      "madhabs": [
-        "hanafi",
-        "maliki"
-      ],
-      "evidence_chain": [
-        {
-          "type": "hadith",
-          "reference": "Al-Bukhari",
-          "text_ar": "",
-          "text_de": "Taten werden nach Absichten beurteilt.",
-          "explanation_de": "Die Absicht ist im Islam zentral für alle rituellen Handlungen."
-        }
-      ],
-      "historical_context_de": ""
-    },
-    {
-      "id": "pos-2",
-      "label_de": "Silber oder Platin sind erlaubt",
-      "label_ar": "موقف 2",
-      "description_de": "Alternative Ansicht von Imam al-Shafi'i und Ahmad ibn Hanbal.",
-      "scholars": [
+        "malik-ibn-anas",
         "al-shafii",
         "ahmad-ibn-hanbal"
       ],
       "madhabs": [
+        "hanafi",
+        "maliki",
         "shafii",
         "hanbali"
       ],
       "evidence_chain": [
         {
-          "type": "quran",
-          "reference": "Sure 2:286",
-          "text_ar": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
-          "text_de": "Gott erlegt keiner Seele mehr auf, als sie zu leisten vermag.",
-          "explanation_de": "Dieser Vers unterstreicht die Barmherzigkeit im islamischen Recht."
+          "type": "hadith",
+          "reference": "Sunan an-Nasa'i, Nr. 5148; Musnad Ahmad",
+          "text_ar": "أحل الذهب والحرير لإناث أمتي وحرم auf ذكورها",
+          "text_de": "Gold und Seide wurden für die Frauen meiner Umma erlaubt und für ihre Männer verboten.",
+          "hadith_grade": "sahih",
+          "graded_by": "Al-Albani / Al-Arna'ut",
+          "explanation_de": "Dieser klare prophetische Beleg bildet die Grundlage für das Verbot von Gold bei Männern."
         }
       ],
-      "historical_context_de": ""
+      "historical_context_de": "In der Frühzeit des Islams trugen manche Männer Gold, bis die entsprechenden Verbote offenbart wurden. Der Prophet ﷺ sah einmal einen Mann mit einem Goldring, nahm ihn ihm ab und warf ihn weg, um die Ernsthaftigkeit des Verbots zu unterstreichen."
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Silber und Platin sind erlaubt",
+      "label_ar": "جواز الفضة والبلاتين",
+      "description_de": "Während Gold verboten ist, ist das Tragen von Silberringen für Männer ausdrücklich erlaubt (Sunna). Platin wird von den meisten modernen Gelehrten ebenfalls als erlaubt angesehen, da es chemisch kein Gold ist und das Verbot textlich auf Gold beschränkt ist.",
+      "scholars": [
+        "Mehrheitsmeinung",
+        "ibn-taymiyya",
+        "an-nawawi"
+      ],
+      "madhabs": [
+        "hanafi",
+        "maliki",
+        "shafii",
+        "hanbali"
+      ],
+      "evidence_chain": [
+        {
+          "type": "hadith",
+          "reference": "Sahih al-Bukhari, Nr. 5869",
+          "text_ar": "أن رسول الله ﷺ اتخذ خاتماً من ورِق (فضة)",
+          "text_de": "Der Gesandte Allahs ﷺ ließ sich einen Ring aus Silber (Wariq) anfertigen.",
+          "hadith_grade": "sahih",
+          "explanation_de": "Dies belegt die Erlaubtheit von Silberringen für Männer als Sunna."
+        }
+      ],
+      "historical_context_de": "Der Prophet ﷺ nutzte seinen Silberring auch als Siegel für Briefe an Herrscher anderer Länder."
     }
   ],
   "related_questions": [],

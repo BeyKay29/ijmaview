@@ -9,55 +9,51 @@
     "Darf man hinter einem Imam beten, dessen Knie frei sind?",
     "gebet hinter imam aurah"
   ],
-  "context_de": "Dies ist ein wichtiger Aspekt des täglichen Lebens und wird von den Gelehrten ausführlich diskutiert.",
+  "context_de": "Die korrekte Bedeckung der Scham (Awrah) ist eine Voraussetzung für die Gültigkeit des Gebets. Wenn der Imam Kleidung trägt, die das Knie oder Teile des Oberschenkels entblößt, stellt sich die Frage nach der Gültigkeit des Gebets der Dahinterstehenden.",
   "positions": [
     {
       "id": "pos-1",
-      "label_de": "Ungültig, wenn die Awrah entblößt ist",
-      "label_ar": "موقف 1",
-      "description_de": "Diese Position wird von Gelehrten wie Abu Hanifa, Malik ibn Anas vertreten.",
+      "label_de": "Gebet ist ungültig",
+      "label_ar": "بطلان الصلاة",
+      "description_de": "Nach der Mehrheit der Gelehrten (Maliki, Shafi'i, Hanbali) ist das Knie Teil der Awrah oder muss bedeckt sein, um die Awrah sicher zu schützen. Ein entblößtes Knie macht das Gebet ungültig.",
       "scholars": [
-        "abu-hanifa",
-        "malik-ibn-anas"
+        "Malik ibn Anas",
+        "Al-Shafi'i",
+        "Ahmad ibn Hanbal"
       ],
       "madhabs": [
-        "hanafi",
-        "maliki"
-      ],
-      "evidence_chain": [
-        {
-          "type": "hadith",
-          "reference": "Al-Bukhari",
-          "text_ar": "",
-          "text_de": "Taten werden nach Absichten beurteilt.",
-          "explanation_de": "Die Absicht ist im Islam zentral für alle rituellen Handlungen."
-        }
-      ],
-      "historical_context_de": ""
-    },
-    {
-      "id": "pos-2",
-      "label_de": "Gültig, wenn das Knie selbst nicht zur Awrah zählt (Hanafi)",
-      "label_ar": "موقف 2",
-      "description_de": "Alternative Ansicht von Imam al-Shafi'i und Ahmad ibn Hanbal.",
-      "scholars": [
-        "al-shafii",
-        "ahmad-ibn-hanbal"
-      ],
-      "madhabs": [
+        "maliki",
         "shafii",
         "hanbali"
       ],
       "evidence_chain": [
         {
-          "type": "quran",
-          "reference": "Sure 2:286",
-          "text_ar": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
-          "text_de": "Gott erlegt keiner Seele mehr auf, als sie zu leisten vermag.",
-          "explanation_de": "Dieser Vers unterstreicht die Barmherzigkeit im islamischen Recht."
+          "type": "hadith",
+          "reference": "Sunan at-Tirmidhi",
+          "text_de": "Der Oberschenkel ist Awrah.",
+          "explanation_de": "Dies schließt das Knie als Abschlussgrenze mit ein."
         }
+      ]
+    },
+    {
+      "id": "pos-2",
+      "label_de": "Gültig, da das Knie selbst keine Awrah ist",
+      "label_ar": "جوازه لأن الركبة ليست عورة",
+      "description_de": "In der hanafitischen Schule gilt der Oberschenkel als Awrah, das Knie selbst jedoch nicht zwingend. Solange der Oberschenkel bedeckt bleibt, ist das Gebet gültig.",
+      "scholars": [
+        "Abu Hanifa"
       ],
-      "historical_context_de": ""
+      "madhabs": [
+        "hanafi"
+      ],
+      "evidence_chain": [
+        {
+          "type": "athar",
+          "reference": "Kutub al-Fiqh al-Hanafi",
+          "text_de": "Die Grenze der Awrah beim Mann ist unterhalb des Knies.",
+          "explanation_de": "Hanafitische Definition der männlichen Schambereiche."
+        }
+      ]
     }
   ],
   "related_questions": [],

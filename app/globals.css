@@ -66,7 +66,7 @@ body {
 
 @media (max-width: 640px) {
   .page-container {
-    padding: 1.25rem 1rem;
+    padding: 1rem 0.75rem;
   }
 }
 
@@ -191,8 +191,25 @@ body {
 }
 
 @media (max-width: 640px) {
-  .breadcrumb-current {
+  .breadcrumb-nav {
+    overflow-x: auto;
+    padding-bottom: 0.5rem;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+
+  .breadcrumb-nav::-webkit-scrollbar {
     display: none;
+  }
+
+  .breadcrumb-list {
+    white-space: nowrap;
+    flex-wrap: nowrap;
+  }
+
+  .breadcrumb-current {
+    display: inline-block;
+    max-width: 150px;
   }
 }
 
@@ -705,8 +722,11 @@ body {
   }
 
   .madhab-filter-btn {
-    padding: 0.5rem 0.875rem;
-    font-size: 0.8125rem;
+    padding: 0.75rem 1rem;
+    /* Better touch target */
+    font-size: 0.875rem;
+    flex: 1 1 auto;
+    justify-content: center;
   }
 }
 
@@ -809,9 +829,16 @@ body {
   font-size: 1.125rem;
   font-weight: 700;
   color: var(--text-primary);
-  line-height: 1.5;
-  margin: 1rem 0;
+  line-height: 1.4;
+  margin: 0.75rem 0;
   letter-spacing: -0.01em;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  min-height: 2.8em;
+  /* Consistent grid baseline */
 }
 
 .question-card-arrow {
@@ -928,15 +955,17 @@ body {
 /* ===== Responsive Utilities ===== */
 @media (max-width: 640px) {
   .position-card {
-    padding: 1.5rem;
+    padding: 1.25rem;
+    margin-bottom: 1.5rem;
   }
 
   .position-label {
-    font-size: 1.25rem;
+    font-size: 1.375rem;
   }
 
   .arabic-quote {
-    font-size: 1.125rem;
+    font-size: 1.25rem;
+    padding: 0.75rem;
   }
 }
 
@@ -1378,6 +1407,8 @@ body {
   .consensus-chart-wrapper {
     flex-direction: column;
     text-align: center;
+    padding: 1.25rem;
+    gap: 1.5rem;
   }
 }
 
@@ -1568,9 +1599,21 @@ body {
 
 .question-detail-actions {
   display: flex;
+  flex-wrap: wrap;
+  /* Prevent overlap on small screens */
   align-items: center;
-  gap: 1rem;
-  margin: 1rem 0;
+  gap: 0.75rem;
+  margin: 1.5rem 0;
+}
+
+@media (max-width: 640px) {
+
+  .bookmark-btn,
+  .share-btn {
+    flex: 1;
+    justify-content: center;
+    padding: 0.75rem;
+  }
 }
 
 @media (max-width: 640px) {
@@ -1648,8 +1691,14 @@ body {
 
 .related-questions-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.25rem;
+}
+
+@media (max-width: 640px) {
+  .related-questions-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* ===== Search Results Page ===== */
